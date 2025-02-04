@@ -7,7 +7,7 @@ const FindJob = () => {
 			{/* Form container */}
 			<form
 				action=""
-				className="flex flex-col md:flex-row md:space-x-3 space-y-3 md:space-y-0 items-center bg-transparent"
+				className="flex flex-col lg:flex-row md:space-x-3 space-y-3 md:space-y-0 items-center bg-transparent"
 				style={{ zIndex: 1000 }}>
 				{/* Work Type select */}
 				<div className="relative w-full lg:w-80">

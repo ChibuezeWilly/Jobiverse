@@ -7,7 +7,7 @@ const FeaturedJobs = ({job}) => {
 	const [jobs, setJobs] = useState([]);
 	const [loading, setLoading] = useState(true);
 	const [showdescription, setShowDescription] = useState(false)
-	const url = "http://localhost:4000/joblistings?_limit=1";
+	const url = "http://localhost:4000/joblistings?_limit=6";
 	// const description = job.description
 
 	// if (!setShowDescription) {
@@ -64,7 +64,7 @@ const FeaturedJobs = ({job}) => {
 									style={{ fontFamily: "Poppins" }}>
 									{job.title}
 								</h1>
-								<h1 className="mt-4 text-lg">{job.description}</h1>
+								<h1 className="mt-4 text-sm">{job.description}</h1>
 								<p>More</p>
 								<p className=" mt-5 font-semibold text-blue-600">
 									${job.salary} / Year
