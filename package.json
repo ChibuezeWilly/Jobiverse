@@ -7,11 +7,13 @@
 		"dev": "vite",
 		"build": "vite build",
 		"lint": "eslint .",
-		"preview": "vite preview"
+		"preview": "vite preview",
+		"server": "json-server --watch src/jobs.json --port 4000"
 	},
 	"dependencies": {
 		"@tailwindcss/forms": "^0.5.10",
 		"aos": "^3.0.0-beta.6",
+		"firebaseui": "^6.1.0",
 		"json-server": "^1.0.0-beta.3",
 		"react": "^18.3.1",
 		"react-countup": "^6.5.3",

@@ -1,14 +1,19 @@
 import React from 'react'
 import BackgroundImage from '../component/BackgroundImage'
 import Cards from '../component/HomePage/Cards'
-import LogoSlider from '../component/HomePage/LogoSlider'
+import TopCompanies from '../component/HomePage/TopCompanies'
+import Steps from '../component/HomePage/Steps'
+import JobsCategory from '../component/HomePage/JobsCategory'
+import FeaturedJobs from '../component/FeaturedJobs'
 
 const HomePage = () => {
   return (
 		<div>
 			<BackgroundImage />
-			<LogoSlider />
-			<Cards />
+			<TopCompanies />
+			<Steps />
+			<JobsCategory />
+			<FeaturedJobs />
 		</div>
 	);
 }

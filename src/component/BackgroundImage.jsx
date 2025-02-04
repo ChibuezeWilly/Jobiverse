@@ -4,7 +4,7 @@ import FindJob from "./HomePage/FindJob";
 import AllCounters from "./HomePage/AllCounters";
 const BackgroundImage = () => {
 	return (
-		<div className="bg-gray-200 pb-7 h-auto md:h-screen">
+		<div className="bg-gray-200 pb-7 h-auto lg:h-screen">
 			<div className="pt-32 flex flex-col md:flex-row justify-content-between align-items-center mx-5 md:mx-20">
 				<div className="bgText flex-1">
 					<BackgroundText />

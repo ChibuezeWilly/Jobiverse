@@ -37,7 +37,7 @@ const LogoSlider = () => {
 	};
 
 	return (
-		<div className="overflow-x-hidden mt-3  h-20 ">
+		<div className="overflow-x-hidden mt-5  h-28">
 			<Slider {...settings}>
 				<div>
 					<img
@@ -71,14 +71,16 @@ const LogoSlider = () => {
 					<img
 						src={logo5}
 						alt="Meta Logo"
-						className="h-16 mx-auto rounded-md mt-2"
+						className=" mx-auto rounded-md"
+						style={{ height: "95px" }}
 					/>
 				</div>
 				<div>
 					<img
 						src={logo6}
 						alt="Huawei Logo"
-						className="h-16 mx-auto rounded-md mt-2"
+						className="mx-auto rounded-md"
+						style={{ height: "95px" }}
 					/>
 				</div>
 				<div>

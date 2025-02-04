@@ -4,7 +4,7 @@ import { FaBell, FaCog, FaGreaterThan } from "react-icons/fa";
 const ShowMoreNav = ({ closeMore }) => {
 	return (
 		<div
-			className="ml-auto mr-5 rounded-md px-4 hidden lg:flex flex-col bsolute"
+			className="ml-auto mr-5 rounded-md px-4 hidden lg:flex flex-col"
 			style={{
 				width: "300px",
 				height: "48vh",
@@ -14,6 +14,7 @@ const ShowMoreNav = ({ closeMore }) => {
 				marginTop: "60px",
 				float: "right",
 				cursor: "pointer",
+				zIndex: 1000
 			}}>
 			<p className="text-4xl text-black font-bold mt-5">Setting</p>
 			<div className="px-2 mt-5">
