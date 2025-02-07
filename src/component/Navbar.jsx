@@ -22,7 +22,7 @@ const Navbar = () => {
 	return (
 		<>
 			<div
-				className="fixed flex md:flex-row justify-evenly items-center bg-white w-full px-1 rounded-b-xl md:rounded-none lg:px-10 gap-5 shadow-2xl"
+				className="fixed flex lg:flex-row justify-evenly items-center bg-white w-full px-1 rounded-b-xl md:rounded-none lg:px-10 gap-5 shadow-2xl"
 				style={{ height: "11vh", zIndex: 1000 }}>
 				<img src={Logo} alt="" className="h-10 rounded-md lg:ml-7 mr-auto" />
 				<nav className="flex-row items-center justify-center md:gap-12 hidden md:flex mt-1">

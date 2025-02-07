@@ -3,11 +3,11 @@ import { FaMapMarker, FaSearch, FaBriefcase } from "react-icons/fa";
 
 const FindJob = () => {
 	return (
-		<div className="relative mt-5 md:-mt-32 mx-10 md:mx-20 h-auto px-1 py-3 space-y-3 bg-white z-20">
+		<div className="relative mt-5 md:-mt-28 lg:-mt-32 mx-10 md:mx-20 h-auto px-2 py-3 bg-white z-20">
 			{/* Form container */}
 			<form
 				action=""
-				className="flex flex-col lg:flex-row md:space-x-3 space-y-3 md:space-y-0 items-center bg-transparent"
+				className="flex flex-col lg:flex-row md:space-x-1 gap-3 items-center bg-transparent"
 				style={{ zIndex: 1000 }}>
 				{/* Work Type select */}
 				<div className="relative w-full lg:w-80">
@@ -15,7 +15,7 @@ const FindJob = () => {
 					<select
 						name="work-type"
 						id="work-type"
-						className="w-full lg:w-80 py-2 px-10 border rounded-md"
+						className="w-full lg:w-80 py-2 px-10 border rounded-md ml-1"
 						style={{ border: "1px solid gray" }}>
 						<option value="">Select Work Type</option>
 						<option value="full-time">Full Time</option>

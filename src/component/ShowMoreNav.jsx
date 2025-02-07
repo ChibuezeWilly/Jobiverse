@@ -8,7 +8,6 @@ const ShowMoreNav = ({ closeMore }) => {
 			style={{
 				width: "300px",
 				height: "48vh",
-				zIndex: "1000",
 				backgroundColor: "white",
 				boxShadow: "0 0 20px rgba(0, 0, 0, 0.2)",
 				marginTop: "60px",

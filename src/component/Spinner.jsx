@@ -12,7 +12,7 @@ const Spinner = () => {
 	};
 	return (
 		<FadeLoader
-			color={"color"}
+			color={"black"}
 			loading={loading}
 			cssOverride={override}
 			size={150}

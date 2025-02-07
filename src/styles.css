@@ -7,6 +7,7 @@
     background-color: rgb(235, 235, 235);
     height: 100vh;
 }
+
 .image {
     background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url("/src/assets/images/mainBackground.jpg");
     width: 100%;
@@ -15,12 +16,15 @@
     background-size: cover;
     background-repeat: no-repeat;
 }
+
 .nav {
     color: black;
 }
+
 .activeNav {
     position: relative;
 }
+
 .activeNav::after {
     content: '';
     position: absolute;
@@ -32,7 +36,8 @@
 }
 
 .activeLink {
-    background-color: rgba(141, 187, 234, 0.5);;
+    background-color: rgba(141, 187, 234, 0.5);
+    ;
     border-bottom: 3px solid rgb(4, 115, 234);
     padding: 0 10px;
 }
@@ -49,19 +54,24 @@
     background-color: blue;
     color: white;
 }
+
 .active {
     color: rgb(61, 61, 61);
 }
+
 .backgroundText {
     padding-top: 20%;
 }
+
 @media screen and (min-width: 850px) {
     .backgroundText {
         padding-top: 15%;
     }
+
     .bgText {
         width: 50%
     }
+
     .laptop {
         height: "400px";
         width: "400px";
@@ -69,31 +79,45 @@
         overflow: "hidden",
     }
 }
+
 @media screen and (min-width: 965px) {
     .input1 {
         width: 38%;
         outline: none;
-    } 
+    }
+
     .firstSearch {
         margin-top: -90px;
     }
 }
+
 .firstCard {
     background-color: rgb(124, 181, 234);
 }
+
 .secondCard {
     background-color: rgb(234, 200, 124);
 }
+
 .thirdCard {
     background-color: rgb(206, 167, 217);
-}                       
+}
+
 .fourthCard {
     background-color: rgb(139, 227, 198);
 }
+
 .jobsCategory {
     background-color: rgb(243, 248, 249);
 }
+
 .jobsCategory:hover {
     background-color: rgb(33, 96, 231);
     transition: 0.5s ease-in-out;
+}
+
+.testimonialCard {
+    background-color: rgb(243, 247, 253);
+    border-bottom: '10px';
+    border-bottom-color: blue;
 }
