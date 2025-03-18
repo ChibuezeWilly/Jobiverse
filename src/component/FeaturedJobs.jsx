@@ -4,7 +4,7 @@ import Spinner from "./Spinner";
 import { useNavigate } from "react-router-dom";
 import FeaturedJobList from "./FeaturedJobList";
 
-const url = "http://localhost:4000/joblistings?_limit=6";
+const url = "http://localhost:4000/joblistings?_limit=9";
 const fetchJobs = async () => {
 	const res = await fetch(url);
 	if (!res.ok) throw new Error("Error fetching data");
@@ -16,19 +16,19 @@ const FeaturedJobs = () => {
 		queryKey: ["jobs"],
 		queryFn: fetchJobs,
 		staleTime: 120000,
-		cacheTime: 300000,
+		cacheTime: 300000, 
 	});
 
 	// button to jobs
-	const navigate = () => useNavigate()
-	const toJobs = () => navigate('/jobs')
+	const navigate = useNavigate()
+	const toJobs = () => navigate("/jobs");
 
 	return (
 		<div className="pt-5 pb-5 px-5 lg:px-10 mt-20 bg-slate-200">
 			<h1
 				className="text-xl text-blue-600 text-center md:text-start"
 				style={{ fontFamily: "Rubik" }}>
-				All Jobs
+				Featured Jobs
 			</h1>
 			<h1
 				className="text-2xl sm:text-3xl  lg:text-5xl mt-5 font-bold text-center md:text-start"
@@ -50,9 +50,9 @@ const FeaturedJobs = () => {
 				)}
 			</div>
 
-			<div className="flex justify-center items-center">
-				<button className="bg-blue-600 text-white h-10 md:h-16 w-48 rounded-md text-center font-semibold text-lg" onClick={toJobs}>
-					Browse All Jobs
+			<div className="flex justify-center items-center" onClick={toJobs}>
+				<button className="bg-blue-600 text-white h-10 md:h-16 w-48 rounded-md text-center font-semibold text-lg">
+					Browse Featured Jobs
 				</button>
 			</div>
 		</div>

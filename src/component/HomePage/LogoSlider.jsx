@@ -2,14 +2,14 @@ import React from "react";
 import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
-import logo1 from "../../assets/images/logo1.jpeg";
-import logo2 from "../../assets/images/logo2.jpeg";
-import logo3 from "../../assets/images/logo3.jpeg";
-import logo4 from "../../assets/images/logo4.jpeg";
-import logo5 from "../../assets/images/logo5.jpeg";
-import logo6 from "../../assets/images/logo6.jpeg";
-import logo7 from "../../assets/images/logo7.jpeg";
-import logo8 from "../../assets/images/logo8.jpeg";
+import logo1 from "/assets/images/logo1.jpeg";
+import logo2 from "/assets/images/logo2.jpeg";
+import logo3 from "/assets/images/logo3.jpeg";
+import logo4 from "/assets/images/logo4.jpeg";
+import logo5 from "/assets/images/logo5.jpeg";
+import logo6 from "/assets/images/logo6.jpeg";
+import logo7 from "/assets/images/logo7.jpeg";
+import logo8 from "/assets/images/logo8.jpeg";
 
 const LogoSlider = () => {
 	const settings = {

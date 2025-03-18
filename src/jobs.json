@@ -6,12 +6,14 @@
 			"company": {
 				"name": "Tech Solutions Inc.",
 				"phone": "(415) 555-0199",
-				"email": "careers@techsolutions.com"
+				"email": "careers@techsolutions.com",
+				"rating": 3.8
 			},
+			"applicants": 0,
 			"location": "San Francisco, CA",
 			"description": "We are looking for a skilled Software Engineer to join our team. You will be responsible for developing high-quality software solutions, collaborating with cross-functional teams, and ensuring the best user experience.",
 			"employment_type": "Full-time",
-			"salary": 120000,
+			"salary": "120k - 142k",
 			"bonus": "Up to 10% annual performance bonus",
 			"benefits_package": [
 				"Health, dental, and vision insurance",
@@ -19,12 +21,13 @@
 				"Paid time off and holidays",
 				"Professional development opportunities"
 			],
-			"date_posted": "2025-01-15",
+			"date_posted": "4d",
 			"requirements": [
 				"Bachelor's degree in Computer Science or related field",
 				"3+ years of experience in software development",
 				"Proficiency in JavaScript and Python"
-			]
+			],
+			"responsibilities": ""
 		},
 		{
 			"id": 2,
@@ -32,11 +35,12 @@
 			"company": {
 				"name": "Creative Agency",
 				"phone": "(212) 555-0145",
-				"email": "jobs@creativeagency.com"
+				"email": "jobs@creativeagency.com",
+				"rating": 4.3
 			},
 			"location": "New York, NY",
 			"description": "Seeking a dynamic Marketing Manager to drive our marketing strategies. You will lead marketing campaigns, analyze market trends, and work closely with the sales team to enhance brand awareness.",
-			"employment_type": "Full-time",
+			"employment_type": "Remote",
 			"salary": 90000,
 			"bonus": "Up to 15% annual performance bonus",
 			"benefits_package": [
@@ -45,7 +49,7 @@
 				"Generous PTO policy",
 				"Professional development budget"
 			],
-			"date_posted": "2025-01-20",
+			"date_posted": "8d",
 			"requirements": [
 				"Bachelor's degree in Marketing or Business",
 				"5+ years of experience in marketing management",
@@ -58,7 +62,8 @@
 			"company": {
 				"name": "Data Insights LLC",
 				"phone": "(800) 555-0123",
-				"email": "hr@datainsights.com"
+				"email": "hr@datainsights.com",
+				"rating": 4.6
 			},
 			"location": "Remote",
 			"description": "Join our team as a Data Scientist to analyze complex data sets. You will develop predictive models, perform statistical analysis, and provide actionable insights to drive business decisions.",
@@ -70,7 +75,7 @@
 				"Remote work options",
 				"Professional development opportunities"
 			],
-			"date_posted": "2025-01-25",
+			"date_posted": "24h",
 			"requirements": [
 				"Master's degree in Data Science or Statistics",
 				"Experience with machine learning algorithms",

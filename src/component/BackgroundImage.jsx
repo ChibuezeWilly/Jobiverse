@@ -1,5 +1,5 @@
 import BackgroundText from "./HomePage/BackgroundText";
-import Background from '../assets/images/mainBackground.jpg'
+import Background from "/assets/images/mainBackground.jpg";
 import FindJob from "./HomePage/FindJob";
 import AllCounters from "./HomePage/AllCounters";
 const BackgroundImage = () => {

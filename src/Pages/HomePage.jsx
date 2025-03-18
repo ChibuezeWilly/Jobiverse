@@ -6,7 +6,7 @@ import JobsCategory from '../component/HomePage/JobsCategory'
 import FeaturedJobs from '../component/FeaturedJobs'
 import Ourblogs from '../component/HomePage/Ourblogs'
 import Testimonial from '../component/Testimonial'
-
+import Email from '../component/Email'
 const HomePage = () => {
   return (
 		<div>
@@ -17,6 +17,7 @@ const HomePage = () => {
 			<FeaturedJobs />
 			<Testimonial />
 			<Ourblogs />
+			<Email />
 		</div>
 	);
 }

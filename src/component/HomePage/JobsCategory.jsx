@@ -1,13 +1,13 @@
 import React from "react";
 import JobsCard from "./JobsCard";
-import Category1 from "../../assets/images/category1.png";
-import Category2 from "../../assets/images/category2.png";
-import Category3 from "../../assets/images/category3.png";
-import Category4 from "../../assets/images/category4.png";
-import Category5 from "../../assets/images/category5.png";
-import Category6 from "../../assets/images/category6.png";
-import Category7 from "../../assets/images/category7.png";
-import Category8 from "../../assets/images/category8.png";
+import Category1 from "/assets/images/category1.png";
+import Category2 from "/assets/images/category2.png";
+import Category3 from "/assets/images/category3.png";
+import Category4 from "/assets/images/category4.png";
+import Category5 from "/assets/images/category5.png";
+import Category6 from "/assets/images/category6.png";
+import Category7 from "/assets/images/category7.png";
+import Category8 from "/assets/images/category8.png";
 
 import { MdArrowOutward } from "react-icons/md";
 import { NavLink } from "react-router-dom";
@@ -15,7 +15,7 @@ import { useNavigate } from "react-router-dom";
 
 const JobsCategory = () => {
 	const navigate = useNavigate()
-	const toCategories = () => navigate('/categories')
+	const toCategories = () => navigate("/jobs/featured");
 	return (
 		<>
 			<div className="mt-20 mx-auto">
@@ -50,7 +50,7 @@ const JobsCategory = () => {
 							Posted new Jobs
 						</p>
 						{/* Arrow Icon */}
-						<NavLink to={"/tech"}>
+						<NavLink to={"/business"}>
 							<div className="h-10 rounded-full border-2 w-10 mt-5 border-blue-600 group-hover:text-white group-hover:bg-white">
 								<MdArrowOutward className="text-center text-lg mx-auto mt-2 text-blue-600" />
 							</div>

@@ -1,13 +1,17 @@
 import React from "react";
 import { FaBell, FaCog, FaGreaterThan } from "react-icons/fa";
+import { logOutButton } from "../GoogleSignIn";
 
 const ShowMoreNav = ({ closeMore }) => {
+		const logOut = async () => {
+			await logOutButton()
+		}
 	return (
 		<div
-			className="ml-auto mr-5 rounded-md px-4 hidden lg:flex flex-col"
+			className="ml-auto mr-5 rounded-md px-4 hidden lg:flex flex-col z-50"
 			style={{
 				width: "300px",
-				height: "48vh",
+				height: "45vh",
 				backgroundColor: "white",
 				boxShadow: "0 0 20px rgba(0, 0, 0, 0.2)",
 				marginTop: "60px",
@@ -38,7 +42,9 @@ const ShowMoreNav = ({ closeMore }) => {
 			</div>
 			<button
 				className="mt-7 relative w-full text-black px-16 rounded-md py-2"
-				style={{ border: "1px solid black" }}>
+				style={{ border: "1px solid black" }}
+				onClick={logOut}
+				>
 				LOG OUT
 			</button>
 			<p
