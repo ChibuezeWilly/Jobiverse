@@ -7,7 +7,7 @@ const JobsNavbar = () => {
 	return (
 		<>
 			<nav
-				className="ml-5 md:ml-0 border-gray-400 flex flex-row justify-start md:justify-center items-center mt-10 pb-3 space-x-3 md:space-x-10"
+				className="ml-5 md:ml-0 border-gray-400 flex flex-row justify-start md:justify-center items-center mt-20 md:mt-10 pb-3 space-x-3 md:space-x-10"
 				style={{ borderBottomWidth: "1px" }}>
 				{/* Centering the NavLinks */}
 				<NavLink
@@ -30,7 +30,7 @@ const JobsNavbar = () => {
 			</nav>
 			{/* Pushing button to the right */}
 			<button
-				className="float-end -mt-16 md:-mt-10 h-8 w-36 relative hover:bg-gray-600 hover:text-white hover:h-10 hover:rounded-md"
+				className="float-end mr-3 -mt-24 md:-mt-10 h-8 w-36 relative hover:bg-gray-600 hover:text-white hover:h-10 hover:rounded-md"
 				style={{ fontFamily: "Rubik", fontSize: "15px" }}>
 				<FaBell className="absolute mt-1 text-lg" />
 				<span className="ml-5">Create Job Alert</span>

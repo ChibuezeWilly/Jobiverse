@@ -71,6 +71,7 @@ body {
     display: grid;
     grid-template-columns: 1fr;
 }
+
 .jobsList {
     grid-column: 1;
     height: auto;
@@ -78,6 +79,7 @@ body {
     scrollbar-width: none;
     scroll-behavior: smooth;
 }
+
 .jobsDescription {
     top: 0%;
     position: fixed;
@@ -89,6 +91,7 @@ body {
     background-color: white;
     z-index: 1;
 }
+
 @media screen and (min-width: 765px) and (max-width: 964px) {
     .jobs {
         display: grid;
@@ -301,16 +304,98 @@ body {
     background-color: #1D4ED8;
 
 }
+
 .profileHeader {
     position: relative;
 
 }
+
 .profileHeader::before {
     content: '';
     position: absolute;
-    height: 20px;
+    height: 25px;
     width: 10px;
     background-color: #1D4ED8;
-    margin-top: 4px; margin-right: 5px;
+    margin-top: 4px;
+    margin-right: 5px;
     border-radius: 10px;
+}
+
+.formModals {
+    width: 350px;
+    height: 50vh;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.profilePhoto {
+    height: auto;
+}
+
+@media screen and (min-width: 576px) {
+    .formModals {
+        width: 580px;
+        height: 70vh;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+
+    .profilePhoto {
+        height: 90vh;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+}
+@media screen and (min-width: 765px) {
+    .formModals {
+        width: 750px;
+        height: 80vh;
+    }
+}
+
+.headerImage {
+    object-fit: cover;
+    object-position: center;
+    width: 100%;
+    height: 100vh;
+}
+
+.lists-item {
+    border-bottom: 1px solid #d1d5db;
+    position: relative;
+    padding: 12px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.item-left {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 20px;
+}
+
+@media (min-width: 768px) {
+    .item-left {
+        gap: 32px;
+    }
+}
+
+.icon-close {
+    font-size: 20px;
+    color: #1f2937;
+}
+
+.item-text {
+    font-size: 18px;
+    font-weight: 600;
+    color: #111827;
+    line-height: 1.2;
+}
+
+.icon-menu {
+    font-size: 20px;
+    color: #1f2937;
 }

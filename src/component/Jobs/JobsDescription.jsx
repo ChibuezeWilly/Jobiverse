@@ -15,7 +15,7 @@ import { useNavigate } from "react-router-dom";
 
 const JobsDescription = ({ data }) => {
 	const { selectedJob } = useJobStore();
-	const { count, setCount } = useCountStore();
+	const { count, increaseCount, reduceCount } = useCountStore();
 	const { setClicked } = useClicked();
 	const { save, setSaved } = useSavedStore();
 
@@ -81,7 +81,7 @@ const JobsDescription = ({ data }) => {
 								<button
 									className="bg-blue-600 text-white h-9 w-20 md:h-10 md:w-28 rounded-md hover:bg-blue-800 transition-all text-base md:text-lg relative text-start pl-2 md:pl-6"
 									onClick={() => {
-										setCount();
+										increaseCount();
 										toApply();
 									}}>
 									Apply
