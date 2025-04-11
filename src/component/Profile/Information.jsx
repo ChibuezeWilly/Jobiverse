@@ -314,7 +314,7 @@ const Information = ({
 							</p>
 
 							<label htmlFor="link" className="text-base font-semibold w-full">
-								Link
+								Link text
 								<input
 									type="text"
 									name="link"
@@ -327,7 +327,7 @@ const Information = ({
 							<label
 								htmlFor="linktext"
 								className="text-base font-semibold w-full">
-								Link text
+								Link 
 								<input
 									type="text"
 									name="linktext"

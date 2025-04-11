@@ -1,5 +1,4 @@
 import { create } from "zustand";
-import Experience from "./component/Profile/Experience";
 
 export const useJobStore = create((set) => ({
 	selectedJob: null,
@@ -8,7 +7,7 @@ export const useJobStore = create((set) => ({
 
 export const useCountStore = create((set) => ({
 	count: 0,
-	increaseCount: () => set((state) => ({ count: state.count + 1 }))
+	increaseCount: () => set((state) => ({ count: state.count + 1 })),
 }));
 
 export const useClicked = create((set) => ({
@@ -87,7 +86,7 @@ export const useExperienceStore = create((set) => ({
 	setWorkLocationType: (workLocationType) => set({ workLocationType }),
 	setCurrentWork: (value) => set({ currentWork: value }),
 	setDescription: (description) => set({ description }),
-	setSkill: (value) => set({skill: value}),
+	setSkill: (value) => set({ skill: value }),
 	setSkillArray: (skill) =>
 		set((state) => ({ ...state, skillArray: [...state.skillArray, skill] })),
 	setExperience: (newExperience) =>
@@ -99,10 +98,10 @@ export const useExperienceStore = create((set) => ({
 	setSkills: (skill) =>
 		set((state) => ({ ...state, skills: [...state.skills, skill] })),
 	deleteSkill: (skill) =>
-	set((state) => ({
-	...state,
-	skillArray: state.skillArray.filter((oldskills) => oldskills !== skill),
-	})),
+		set((state) => ({
+			...state,
+			skillArray: state.skillArray.filter((oldskills) => oldskills !== skill),
+		})),
 	resetAllFields: () =>
 		set({
 			workTitle: "",
@@ -128,29 +127,101 @@ export const useEducationStore = create((set) => ({
 	startYear: "",
 	endMonth: "",
 	endYear: "",
-	grade: "",
 	activities: "",
 	description: "",
 	skill: "",
 	skills: [],
 	education: [],
-	media: null,
-	setSchool: (school) => set({school}),
-	setSkill: (skill) => set({skill}),
-	setDegree: (degree) => set({degree}),
-	setField: (fieldOfStudy) => set({fieldOfStudy}),
-	setStartMonth: (startMonth) => set({startMonth}),
-	setStartYear: (startYear) => set({startYear}),
-	setEndMonth: (endMonth) => set({endMonth}),
-	setEndYear: (endYear) => set({endYear}),
-	setGrade: (grade) => set({grade}),
-	setActivities: (activities) => set({activities}),
-	setDescription: (description) => set({description}),
-	setSkills: (skill) => set((state) => ({
-		...state, skills: [...state.skills, skill]
-	})),
-	deleteSkill: (skill) => set((state) => ({
-		...state, skills: state.skills.filter((oldSkills) => oldSkills !== skill)
-	})),
-	setEducation: (edu) => set((state) => ({...state, education: [...state.education, edu]}))
+	setSchool: (school) => set({ school }),
+	setSkill: (skill) => set({ skill }),
+	setField: (fieldOfStudy) => set({ fieldOfStudy }),
+	setStartMonth: (startMonth) => set({ startMonth }),
+	setStartYear: (startYear) => set({ startYear }),
+	setEndMonth: (endMonth) => set({ endMonth }),
+	setEndYear: (endYear) => set({ endYear }),
+	setDegree: (degree) => set({ degree }),
+	setActivities: (activities) => set({ activities }),
+	setDescription: (description) => set({ description }),
+	setSkills: (skill) =>
+		set((state) => ({
+			...state,
+			skills: [...state.skills, skill],
+		})),
+	deleteSkill: (skill) =>
+		set((state) => ({
+			...state,
+			skills: state.skills.filter((oldSkills) => oldSkills !== skill),
+		})),
+	setEducation: (edu) =>
+		set((state) => ({ ...state, education: [...state.education, edu] })),
+	resetAllField: () =>
+		set({
+			school: "",
+			degree: "",
+			fieldOfStudy: "",
+			startMonth: "",
+			startYear: "",
+			endMonth: "",
+			endYear: "",
+			activities: "",
+			description: "",
+			skill: "",
+			skills: [],
+		}),
+}));
+
+export const useAllSkills = create((set) => ({
+	skill: "",
+	setSkill: (skill) => set({ skill }),
+	allSkills: [],
+	setAllSkills: (skill) =>
+		set((state) => ({ ...state, allSkills: [...state.allSkills, skill] })),
+	deleteSkill: (skill) =>
+		set((state) => ({
+			...state,
+			skills: state.skills.filter((oldSkills) => oldSkills !== skill),
+		})),
+	resetAllField: () =>
+		set({
+			skill: "",
+			allSkills: [],
+		}),
+}));
+
+export const useAuthenticatedStore = create((set) => ({
+	authenticated: localStorage.getItem("sent") === "true",
+	setAuthenticated: () => {
+		localStorage.setItem("sent", "true");
+		set({ authenticated: true });
+	},
+}));
+
+export const useSetUser = create((set) => ({
+	user: null,
+	setUser: (value) => set({ user: value }),
+}));
+
+export const signedUser = create((set) => ({
+	email: null,
+	password: null,
+	setEmail: (value) => set({ email: value }),
+	setPassword: (value) => set({ password: value }),
+}));
+
+export const jobSeeker = create((set) => ({
+	name: null,
+	setName: (value) => set({ name: value }),
+	email: null,
+	password: null,
+	setEmail: (value) => set({ email: value }),
+	setPassword: (value) => set({ password: value }),
+}));
+
+export const employer = create((set) => ({
+	name: null,
+	setName: (value) => set({ name: value }),
+	email: null,
+	password: null,
+	setEmail: (value) => set({ email: value }),
+	setPassword: (value) => set({ password: value }),
 }));

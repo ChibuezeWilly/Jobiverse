@@ -3,6 +3,7 @@ import ProfilePhoto from './ProfilePhoto'
 import About from './About'
 import Experience from './Experience'
 import Education from './Education'
+import Skills from './Skills'
 
 const ProfileForm = () => {
   return (
@@ -11,6 +12,7 @@ const ProfileForm = () => {
 			<About />
 			<Experience />
 			<Education />
+			<Skills />
 		</div>
 	);
 }

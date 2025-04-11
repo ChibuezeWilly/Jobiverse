@@ -161,7 +161,7 @@ const TestimonialCard = () => {
 						</div>
 					</div>
 					<p className="ml-6 lg:ml-20 font-bold text-base mt-3">Michael T</p>
-					<p className="text-gray-800 ml-6 lg:ml-20">Project Management</p>
+					<p className="text-gray-800 ml-6 lg:ml-20">Software engineer</p>
 				</div>
 			</Slider>
 		</div>

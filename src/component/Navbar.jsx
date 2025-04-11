@@ -9,21 +9,28 @@ import {
 	FaBars,
 } from "react-icons/fa";
 import { FaPlus, FaRightToBracket } from "react-icons/fa6";
-import { BsBuildings } from "react-icons/bs";
+import { PiBuildingApartmentDuotone } from "react-icons/pi";
 import { FaUserTie } from "react-icons/fa";
 import { useState } from "react";
 import ShowMoreNav from "./ShowMoreNav";
-import {signInButton} from '../GoogleSignIn'
+import SignIn from "./Login/SignIn";
+import { useNavigate } from "react-router-dom";
 
 const Navbar = () => {
-	const [user, setUser] = useState(null)
+
+	const navigate = useNavigate()
+	const toSignIn = () => navigate('/signIn')
+
 	const [openShowMore, setOpenShowMore] = useState(false);
 	const openMore = () => setOpenShowMore(true);
 	const closeMore = () => setOpenShowMore(false);
-	const signIn = async () => {
-		const signedUser = await signInButton();
-		setUser(signedUser)
-	}
+
+	// const [login, setLogin] = useState(false)
+	// const openLogin = () => {
+	// 	toSignIn()
+	// }
+	// const closeLogin = () => setLogin(false)
+
 	const activeLink = ({ isActive }) =>
 		isActive
 			? "activeNav px-4 py-1 text- text-decoration-none text-base"
@@ -52,7 +59,7 @@ const Navbar = () => {
 						<span className="relative text-base">Profile</span>
 					</NavLink>
 					<NavLink className={activeLink} to={"/employers"}>
-						<BsBuildings className="text-base block mb-1 mx-auto" />
+						<PiBuildingApartmentDuotone className="text-base block mb-1 mx-auto" />
 						<span className="relative text-base">Employers</span>
 					</NavLink>
 					<NavLink className={activeLink} to={"/candidates"}>
@@ -69,7 +76,7 @@ const Navbar = () => {
 						<button
 							type="button"
 							className="button1 w-36 md:w-40 lg:w-44 h-12 bg-white shadow-[0_0_20px_rgba(0,0,0,0.2)] hover:bg-blue-700 	hover:text-white transition-colors duration-300 relative text-end pr-2 md:pr-2 text-sm md:text-base lg:text-lg"
-							onClick={signInButton}>
+							onClick={toSignIn}>
 							Login / Sign Up
 						</button>
 					</div>
@@ -89,6 +96,7 @@ const Navbar = () => {
 			</div>
 
 			{openShowMore && <ShowMoreNav closeMore={closeMore} />}
+
 		</>
 	);
 };

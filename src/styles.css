@@ -399,3 +399,34 @@ body {
     font-size: 20px;
     color: #1f2937;
 }
+
+/* login page */
+.login {
+    background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url("/assets/images/loginBackground.jpg");
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+}
+.or {
+    position: relative;
+}
+.or::before {
+    content: '';
+    position: absolute;
+    overflow: hidden;
+    width: 40%;
+    height: 1px;
+    background-color: rgb(155, 155, 155);
+    margin-top: 18px;
+    margin-left: -130px;
+}.or::after {
+    content: '';
+    position: absolute;
+    overflow: hidden;
+    width: 40%;
+    height: 1px;
+    background-color: rgb(155, 155, 155);
+    margin-top: 18px;
+    margin-left: 15px;
+}

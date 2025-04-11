@@ -15,7 +15,6 @@ const EducationInput = ({
 		startYear,
 		endMonth,
 		endYear,
-		grade,
 		activities,
 		description,
 		skills,
@@ -28,7 +27,6 @@ const EducationInput = ({
 		setStartYear,
 		setEndMonth,
 		setEndYear,
-		setGrade,
 		setActivities,
 		setDescription,
 		setSkills,
@@ -189,22 +187,6 @@ const EducationInput = ({
 								className="h-10 w-full mt-1 block bg-gray-200 outline-blue-700 text-black pl-3 font-normal"
 							/>
 						</div>
-
-						{/* Grade */}
-						<label
-							htmlFor="grade"
-							className="text-base font-semibold w-full text-gray-700 mt-3 block">
-							Grade
-						</label>
-						<input
-							type="text"
-							name="grade"
-							id="grade"
-							placeholder="Grade"
-							value={grade}
-							onChange={(e) => setGrade(e.target.value)}
-							className="h-10 w-full mt-1 block bg-gray-200 outline-blue-700 text-black pl-3 font-normal"
-						/>
 
 						{/* Activities and Societies */}
 						<label

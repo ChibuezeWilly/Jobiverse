@@ -58,7 +58,11 @@ const Experience = () => {
 		<>
 			<div className=" bg-white mt-2 py-7 px-3 md:px-7 h-auto pb-20">
 				<div className="flex flex-row justify-between items-center">
-					<h1 className="text-xl md:text-3xl font-bold">Experience</h1>
+					<h1
+						className="font-bold text-lg md:text-xl mb-3"
+						style={{ fontFamily: "Rubik" }}>
+						Experience
+					</h1>
 					<div className="flex flex-row items-center space-x-3">
 						<div
 							className="hover:bg-gray-200 h-8 w-8 flex items-center justify-center rounded-full cursor-pointer"
@@ -86,11 +90,11 @@ const Experience = () => {
 									{`${exp.workLocation} - `} {exp.workLocationType}
 								</p>
 								<p className="mt-5">{exp.description}</p>
-								<div className="skills flex flex-row mt-5 gap-3">
+								<div className="skills flex flex-row mt-5 gap-3"> <h1 className="font-bold text-base">Skills</h1>
 									<ul className=" space-x-2 list-none">
-										<span className="font-bold" key={index}>
-											{skill}
-										</span>
+										{skillArray.map((skill) => (
+											<span className="font-bold">{skill}</span>
+										))}
 									</ul>
 								</div>
 							</div>
