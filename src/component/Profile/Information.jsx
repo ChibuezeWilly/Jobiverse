@@ -1,5 +1,4 @@
 import React from "react";
-import Select from "react-select";
 import countryList from "react-select-country-list";
 import { useMemo } from "react";
 import { FaTimes } from "react-icons/fa";
