@@ -3,24 +3,19 @@ import { useQuery } from "@tanstack/react-query";
 import Spinner from "./Spinner";
 import { useNavigate } from "react-router-dom";
 import FeaturedJobList from "./FeaturedJobList";
-
-const url = "http://localhost:4000/joblistings?_limit=9";
-const fetchJobs = async () => {
-	const res = await fetch(url);
-	if (!res.ok) throw new Error("Error fetching data");
-	return res.json();
-};
-
+import jobs from "../jobs.json";
 const FeaturedJobs = () => {
-	const { data, isLoading, error } = useQuery({
-		queryKey: ["jobs"],
-		queryFn: fetchJobs,
-		staleTime: 120000,
-		cacheTime: 300000, 
-	});
+	const data = JobData.joblistings;
+	console.log(data);
 
+	useEffect(() => {
+		if (data?.length > 0) {
+			setSelectedJob(data[0]);
+			console.log(data);
+		}
+	}, []);
 	// button to jobs
-	const navigate = useNavigate()
+	const navigate = useNavigate();
 	const toJobs = () => navigate("/jobs");
 
 	return (

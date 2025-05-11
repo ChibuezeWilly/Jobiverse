@@ -1,0 +1,2617 @@
+{
+	"content": [
+		{
+			"id": 1,
+			"title": "Content Writer",
+			"company": {
+				"name": "WordCrafters Inc.",
+				"phone": "(212) 555-0101",
+				"email": "careers@wordcrafters.com"
+			},
+			"location": "Remote",
+			"description": "Produce high-quality articles, blog posts, and web content for diverse industries. Collaborate with editors to refine content and meet deadlines.",
+			"employment_type": "Full-time",
+			"salary": 60000,
+			"bonus": "Up to 5% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Remote work flexibility"
+			],
+			"date_posted": "2025-03-01",
+			"requirements": [
+				"Bachelor's degree in English, Journalism, or a related field",
+				"3+ years of professional content writing experience",
+				"Strong writing, editing, and research skills"
+			]
+		},
+		{
+			"id": 2,
+			"title": "Technical Content Writer",
+			"company": {
+				"name": "TechDoc Solutions",
+				"phone": "(415) 555-0202",
+				"email": "jobs@techdocsolutions.com"
+			},
+			"location": "San Francisco, CA",
+			"description": "Write clear and concise technical documentation, user guides, and product manuals for software and hardware products.",
+			"employment_type": "Full-time",
+			"salary": 70000,
+			"bonus": "Up to 7% annual bonus",
+			"benefits_package": [
+				"Comprehensive health benefits",
+				"401(k) with match",
+				"Professional development support"
+			],
+			"date_posted": "2025-03-01",
+			"requirements": [
+				"Bachelor's degree in Technical Communication or related field",
+				"3+ years of technical writing experience",
+				"Ability to simplify complex technical information"
+			]
+		},
+		{
+			"id": 3,
+			"title": "SEO Content Writer",
+			"company": {
+				"name": "SEO Content Hub",
+				"phone": "(646) 555-0303",
+				"email": "apply@seocontenthub.com"
+			},
+			"location": "Remote",
+			"description": "Create SEO-optimized content including blog posts, articles, and website copy to improve organic search rankings.",
+			"employment_type": "Full-time",
+			"salary": 65000,
+			"bonus": "Performance bonus available",
+			"benefits_package": [
+				"Medical, dental, and vision insurance",
+				"401(k) plan",
+				"Flexible schedule"
+			],
+			"date_posted": "2025-03-01",
+			"requirements": [
+				"Experience in SEO content creation",
+				"Excellent writing and keyword research skills",
+				"Familiarity with content management systems"
+			]
+		},
+		{
+			"id": 4,
+			"title": "Blog Writer",
+			"company": {
+				"name": "Blogify",
+				"phone": "(212) 555-0404",
+				"email": "editorial@blogify.com"
+			},
+			"location": "New York, NY",
+			"description": "Develop engaging and informative blog posts on trending topics. Collaborate with the editorial team to maintain a consistent tone and style.",
+			"employment_type": "Full-time",
+			"salary": 60000,
+			"bonus": "Up to 5% annual bonus",
+			"benefits_package": [
+				"Health benefits",
+				"Paid time off",
+				"Remote work options"
+			],
+			"date_posted": "2025-03-01",
+			"requirements": [
+				"2+ years of blogging experience",
+				"Excellent storytelling skills",
+				"Ability to research and write on diverse topics"
+			]
+		},
+		{
+			"id": 5,
+			"title": "Copywriter",
+			"company": {
+				"name": "AdCopy Agency",
+				"phone": "(310) 555-0505",
+				"email": "jobs@adcopyagency.com"
+			},
+			"location": "Los Angeles, CA",
+			"description": "Craft compelling advertising copy for digital campaigns, websites, and print media. Work closely with the creative team to develop innovative ideas.",
+			"employment_type": "Full-time",
+			"salary": 68000,
+			"bonus": "Up to 6% performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with match",
+				"Creative team environment"
+			],
+			"date_posted": "2025-03-01",
+			"requirements": [
+				"Bachelor's degree in Marketing, Communications, or related field",
+				"3+ years of copywriting experience",
+				"Strong portfolio of advertising copy"
+			]
+		},
+		{
+			"id": 6,
+			"title": "Creative Content Strategist",
+			"company": {
+				"name": "StoryCraft Media",
+				"phone": "(312) 555-0606",
+				"email": "careers@storycraftmedia.com"
+			},
+			"location": "Chicago, IL",
+			"description": "Develop innovative content strategies and oversee content creation to enhance brand storytelling and customer engagement.",
+			"employment_type": "Full-time",
+			"salary": 75000,
+			"bonus": "Performance bonus available",
+			"benefits_package": [
+				"Health and dental insurance",
+				"401(k) with company match",
+				"Flexible working hours"
+			],
+			"date_posted": "2025-03-01",
+			"requirements": [
+				"5+ years of experience in content strategy",
+				"Excellent creative and editorial skills",
+				"Proficiency in digital content platforms"
+			]
+		},
+		{
+			"id": 7,
+			"title": "Script Writer",
+			"company": {
+				"name": "VideoScript Studios",
+				"phone": "(818) 555-0707",
+				"email": "scripts@videoscriptstudios.com"
+			},
+			"location": "Burbank, CA",
+			"description": "Write engaging scripts for educational, promotional, and entertainment video content. Collaborate with directors and producers.",
+			"employment_type": "Freelance",
+			"salary": 70000,
+			"bonus": "Project-based bonuses",
+			"benefits_package": ["Flexible work schedule", "Remote work available"],
+			"date_posted": "2025-03-01",
+			"requirements": [
+				"3+ years of scriptwriting experience",
+				"Strong storytelling and dialogue skills",
+				"Experience with video production processes"
+			]
+		},
+		{
+			"id": 8,
+			"title": "Social Media Content Writer",
+			"company": {
+				"name": "SocialVibes",
+				"phone": "(212) 555-0808",
+				"email": "content@socialvibes.com"
+			},
+			"location": "Remote",
+			"description": "Craft engaging social media posts, captions, and content to drive online engagement and community growth.",
+			"employment_type": "Full-time",
+			"salary": 63000,
+			"bonus": "Performance-based bonus",
+			"benefits_package": [
+				"Health benefits",
+				"401(k) plan",
+				"Remote work flexibility"
+			],
+			"date_posted": "2025-03-01",
+			"requirements": [
+				"2+ years of experience in social media content writing",
+				"Excellent writing and creative skills",
+				"Familiarity with social media trends and analytics"
+			]
+		},
+		{
+			"id": 9,
+			"title": "Academic Content Writer",
+			"company": {
+				"name": "ScholarWorks",
+				"phone": "(617) 555-0909",
+				"email": "info@scholarworks.com"
+			},
+			"location": "Remote",
+			"description": "Write high-quality academic articles, research papers, and educational content for various disciplines.",
+			"employment_type": "Part-time",
+			"salary": 65000,
+			"bonus": "Performance bonus available",
+			"benefits_package": ["Flexible schedule", "Remote work options"],
+			"date_posted": "2025-03-01",
+			"requirements": [
+				"Master's degree or higher in a relevant field",
+				"Experience in academic writing",
+				"Strong research and citation skills"
+			]
+		},
+		{
+			"id": 10,
+			"title": "Freelance Content Writer",
+			"company": {
+				"name": "Freelance Hub",
+				"phone": "(212) 555-1010",
+				"email": "apply@freelancehub.com"
+			},
+			"location": "Remote",
+			"description": "Work on a variety of content writing projects on a freelance basis. Topics vary from technology to lifestyle.",
+			"employment_type": "Contract",
+			"salary": 60000,
+			"bonus": "Project-based incentives",
+			"benefits_package": ["Flexible work hours", "Remote work opportunity"],
+			"date_posted": "2025-03-01",
+			"requirements": [
+				"Strong portfolio of diverse content",
+				"Excellent writing and editing skills",
+				"Ability to work independently and meet deadlines"
+			]
+		},
+		{
+			"id": 11,
+			"title": "Senior Content Strategist",
+			"company": {
+				"name": "TechWord Innovations",
+				"phone": "(212) 555-0100",
+				"email": "careers@techwordinnovations.com"
+			},
+			"location": "New York, NY",
+			"description": "Lead content strategy for tech-focused publications and marketing materials. Collaborate with cross-functional teams to create engaging content that drives traffic and conversions.",
+			"employment_type": "Full-time",
+			"salary": 95000,
+			"bonus": "Up to 10% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Paid time off and holidays",
+				"Professional development opportunities"
+			],
+			"date_posted": "2025-02-15",
+			"requirements": [
+				"7+ years in technical content creation",
+				"Expertise in SEO optimization",
+				"Portfolio of published tech articles"
+			]
+		},
+		{
+			"id": 12,
+			"title": "Social Media Manager",
+			"company": {
+				"name": "SocialSphere Inc.",
+				"phone": "(212) 555-0200",
+				"email": "jobs@socialsphere.com"
+			},
+			"location": "Los Angeles, CA",
+			"description": "Manage and grow the social media presence across all major platforms, creating compelling content and engaging with our audience to boost brand awareness.",
+			"employment_type": "Full-time",
+			"salary": 68000,
+			"bonus": "5% performance bonus",
+			"benefits_package": [
+				"Health and dental insurance",
+				"401(k) with company match",
+				"Flexible work hours"
+			],
+			"date_posted": "2025-02-14",
+			"requirements": [
+				"3+ years of experience in social media management",
+				"Strong communication and creative skills",
+				"Proficiency in social media analytics tools"
+			]
+		},
+		{
+			"id": 13,
+			"title": "Content Marketing Manager",
+			"company": {
+				"name": "Content Creators Co.",
+				"phone": "(646) 555-0300",
+				"email": "hr@contentcreatorsco.com"
+			},
+			"location": "Remote",
+			"description": "Develop and implement comprehensive content strategies that drive engagement, lead generation, and SEO performance across digital platforms.",
+			"employment_type": "Full-time",
+			"salary": 78000,
+			"bonus": "Up to 8% annual bonus",
+			"benefits_package": [
+				"Medical, dental, and vision coverage",
+				"401(k) with company match",
+				"Remote work flexibility"
+			],
+			"date_posted": "2025-02-13",
+			"requirements": [
+				"5+ years in content marketing",
+				"Strong writing and editing skills",
+				"Experience with CMS and SEO best practices"
+			]
+		},
+		{
+			"id": 14,
+			"title": "SEO Specialist",
+			"company": {
+				"name": "RankRight Solutions",
+				"phone": "(310) 555-0400",
+				"email": "apply@rankright.com"
+			},
+			"location": "San Francisco, CA",
+			"description": "Optimize website content and structure to improve organic search rankings and drive sustainable traffic. Develop and implement effective SEO strategies.",
+			"employment_type": "Full-time",
+			"salary": 72000,
+			"bonus": "Performance bonus available",
+			"benefits_package": [
+				"Comprehensive health benefits",
+				"401(k) plan",
+				"Paid vacation and sick leave"
+			],
+			"date_posted": "2025-02-12",
+			"requirements": [
+				"3+ years of SEO experience",
+				"Proficiency in Google Analytics, SEMrush, and other SEO tools",
+				"Strong analytical and technical skills"
+			]
+		},
+		{
+			"id": 15,
+			"title": "PPC Advertising Manager",
+			"company": {
+				"name": "AdVantage Media",
+				"phone": "(310) 555-0500",
+				"email": "careers@advantagemedia.com"
+			},
+			"location": "Remote",
+			"description": "Plan, execute, and optimize PPC campaigns on platforms like Google Ads and Facebook to drive high-quality traffic and conversion rates.",
+			"employment_type": "Full-time",
+			"salary": 75000,
+			"bonus": "Up to 7% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) plan",
+				"Flexible working hours"
+			],
+			"date_posted": "2025-02-11",
+			"requirements": [
+				"Experience in managing PPC campaigns",
+				"Strong analytical and budget management skills",
+				"Familiarity with A/B testing and ad optimization"
+			]
+		},
+		{
+			"id": 16,
+			"title": "Email Marketing Specialist",
+			"company": {
+				"name": "Inbox Innovators",
+				"phone": "(312) 555-0600",
+				"email": "email@inboxinnovators.com"
+			},
+			"location": "Chicago, IL",
+			"description": "Design and implement targeted email marketing campaigns to nurture leads and increase customer retention through personalized messaging.",
+			"employment_type": "Full-time",
+			"salary": 67000,
+			"bonus": "Incentive bonus based on campaign performance",
+			"benefits_package": [
+				"Medical, dental, and vision coverage",
+				"401(k) with match",
+				"Remote work options"
+			],
+			"date_posted": "2025-02-10",
+			"requirements": [
+				"Experience with email marketing platforms (e.g., Mailchimp, Klaviyo)",
+				"Strong copywriting skills",
+				"Ability to analyze and optimize email metrics"
+			]
+		},
+		{
+			"id": 17,
+			"title": "Marketing Automation Manager",
+			"company": {
+				"name": "AutoMarketer",
+				"phone": "(312) 555-0700",
+				"email": "jobs@automarketer.com"
+			},
+			"location": "Chicago, IL",
+			"description": "Implement and manage marketing automation systems to streamline campaign workflows and improve overall marketing efficiency.",
+			"employment_type": "Full-time",
+			"salary": 82000,
+			"bonus": "Performance bonus available",
+			"benefits_package": [
+				"Health and dental insurance",
+				"401(k) with company match",
+				"Professional development opportunities"
+			],
+			"date_posted": "2025-02-09",
+			"requirements": [
+				"Experience with marketing automation tools (Marketo, Pardot)",
+				"Strong technical and project management skills",
+				"Bachelor's degree in Marketing or IT"
+			]
+		},
+		{
+			"id": 18,
+			"title": "Brand Marketing Manager",
+			"company": {
+				"name": "BrandMakers Inc.",
+				"phone": "(415) 555-0800",
+				"email": "contact@brandmakersinc.com"
+			},
+			"location": "San Francisco, CA",
+			"description": "Oversee the development and execution of brand strategies to enhance market presence and drive engagement across all channels.",
+			"employment_type": "Full-time",
+			"salary": 95000,
+			"bonus": "Up to 10% performance bonus",
+			"benefits_package": [
+				"Comprehensive health benefits",
+				"401(k) with match",
+				"Paid time off and remote work options"
+			],
+			"date_posted": "2025-02-08",
+			"requirements": [
+				"7+ years of experience in brand management",
+				"Excellent communication and creative leadership skills",
+				"Bachelor's degree in Marketing, Business, or related field"
+			]
+		},
+		{
+			"id": 19,
+			"title": "Product Marketing Manager",
+			"company": {
+				"name": "Innovative Products Inc.",
+				"phone": "(415) 555-0900",
+				"email": "products@innovativeproducts.com"
+			},
+			"location": "Remote",
+			"description": "Develop and execute go-to-market strategies for new product launches, working closely with product and sales teams to drive customer adoption.",
+			"employment_type": "Full-time",
+			"salary": 92000,
+			"bonus": "Performance-based bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) plan",
+				"Flexible work environment"
+			],
+			"date_posted": "2025-02-08",
+			"requirements": [
+				"Experience in product marketing and competitive analysis",
+				"Strong communication and project management skills",
+				"Bachelor's degree in Marketing or Business"
+			]
+		},
+		{
+			"id": 20,
+			"title": "Growth Marketing Manager",
+			"company": {
+				"name": "ScaleUp Marketing",
+				"phone": "(512) 555-1000",
+				"email": "growth@scaleupmarketing.com"
+			},
+			"location": "Austin, TX",
+			"description": "Develop and implement innovative growth strategies to drive user acquisition and revenue. Analyze data and optimize conversion funnels to maximize ROI.",
+			"employment_type": "Full-time",
+			"salary": 105000,
+			"bonus": "Incentive bonus based on growth metrics",
+			"benefits_package": [
+				"Comprehensive health benefits",
+				"401(k) with company match",
+				"Performance and growth incentives"
+			],
+			"date_posted": "2025-02-08",
+			"requirements": [
+				"Experience in growth marketing and performance optimization",
+				"Strong data analysis and A/B testing skills",
+				"Bachelor's degree in Marketing or Business"
+			]
+		},
+		{
+			"id": 21,
+			"title": "Influencer Partnership Coordinator",
+			"company": {
+				"name": "InfluenceX",
+				"phone": "(212) 555-1111",
+				"email": "partnerships@influencex.com"
+			},
+			"location": "Remote",
+			"description": "Coordinate influencer marketing campaigns to boost brand engagement and reach. Manage influencer relationships and track campaign performance.",
+			"employment_type": "Full-time",
+			"salary": 68000,
+			"bonus": "Performance bonus available",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with match",
+				"Flexible working arrangements"
+			],
+			"date_posted": "2025-02-08",
+			"requirements": [
+				"Experience in influencer marketing",
+				"Strong organizational and communication skills",
+				"Familiarity with influencer platforms and metrics"
+			]
+		},
+		{
+			"id": 22,
+			"title": "Event Marketing Manager",
+			"company": {
+				"name": "Live Events Co.",
+				"phone": "(212) 555-1212",
+				"email": "events@liveeventsco.com"
+			},
+			"location": "New York, NY",
+			"description": "Plan and execute integrated marketing strategies for corporate events, trade shows, and conferences.",
+			"employment_type": "Full-time",
+			"salary": 85000,
+			"bonus": "Performance bonus available",
+			"benefits_package": [
+				"Health and dental insurance",
+				"401(k) plan",
+				"Generous paid time off"
+			],
+			"date_posted": "2025-02-08",
+			"requirements": [
+				"Experience in event marketing",
+				"Strong project management and organizational skills",
+				"Excellent communication and negotiation abilities"
+			]
+		},
+		{
+			"id": 23,
+			"title": "Affiliate Marketing Manager",
+			"company": {
+				"name": "PartnerBoost",
+				"phone": "(212) 555-1313",
+				"email": "affiliates@partnerboost.com"
+			},
+			"location": "Remote",
+			"description": "Manage affiliate programs and build strategic partnerships to drive revenue. Monitor performance and optimize commission structures for maximum impact.",
+			"employment_type": "Full-time",
+			"salary": 87000,
+			"bonus": "Commission-based bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) plan",
+				"Flexible remote work options"
+			],
+			"date_posted": "2025-02-08",
+			"requirements": [
+				"Experience in affiliate marketing",
+				"Strong negotiation and relationship-building skills",
+				"Bachelor's degree in Marketing, Business, or related field"
+			]
+		},
+		{
+			"id": 24,
+			"title": "Public Relations Manager",
+			"company": {
+				"name": "PRWave Inc.",
+				"phone": "(415) 555-1414",
+				"email": "pr@prwaveinc.com"
+			},
+			"location": "San Francisco, CA",
+			"description": "Develop and execute public relations strategies to enhance brand reputation and secure media coverage. Draft press releases and coordinate with media contacts.",
+			"employment_type": "Full-time",
+			"salary": 95000,
+			"bonus": "Up to 10% annual performance bonus",
+			"benefits_package": [
+				"Comprehensive health benefits",
+				"401(k) with match",
+				"Paid vacation and professional development"
+			],
+			"date_posted": "2025-02-08",
+			"requirements": [
+				"5+ years of experience in public relations",
+				"Strong writing, presentation, and interpersonal skills",
+				"Bachelor's degree in Communications or Public Relations"
+			]
+		},
+		{
+			"id": 25,
+			"title": "Marketing Project Manager",
+			"company": {
+				"name": "ProjectPulse",
+				"phone": "(312) 555-1515",
+				"email": "projects@projectpulse.com"
+			},
+			"location": "Chicago, IL",
+			"description": "Manage marketing projects from concept to execution, ensuring timely delivery within budget. Coordinate cross-functional teams and drive project performance.",
+			"employment_type": "Full-time",
+			"salary": 90000,
+			"bonus": "Performance-based bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) plan",
+				"Paid time off and professional development opportunities"
+			],
+			"date_posted": "2025-02-08",
+			"requirements": [
+				"Experience in marketing project management",
+				"Strong organizational and leadership skills",
+				"Bachelor's degree in Marketing, Business, or related field"
+			]
+		},
+		{
+			"id": 26,
+			"title": "Content Marketing Manager",
+			"company": {
+				"name": "Creative Solutions Inc.",
+				"phone": "(212) 555-0200",
+				"email": "jobs@creativesolutions.com"
+			},
+			"location": "San Francisco, CA",
+			"description": "Develop and execute content marketing strategies to enhance brand awareness and customer engagement.",
+			"employment_type": "Full-time",
+			"salary": 85000,
+			"bonus": "Up to 15% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"Flexible working hours",
+				"Remote work options",
+				"Paid time off and holidays"
+			],
+			"date_posted": "2025-02-10",
+			"requirements": [
+				"5+ years in content marketing",
+				"Strong analytical skills",
+				"Experience with social media campaigns"
+			]
+		},
+		{
+			"id": 27,
+			"title": "Digital Content Writer",
+			"company": {
+				"name": "Innovate Media Group",
+				"phone": "(212) 555-0300",
+				"email": "careers@innovatemediagroup.com"
+			},
+			"location": "Austin, TX",
+			"description": "Create compelling digital content for various platforms, focusing on audience engagement and SEO best practices.",
+			"employment_type": "Full-time",
+			"salary": 60000,
+			"bonus": "Up to 5% annual performance bonus",
+			"benefits_package": [
+				"Health insurance",
+				"Remote work flexibility",
+				"Paid time off",
+				"Professional development"
+			],
+			"date_posted": "2025-02-12",
+			"requirements": [
+				"3+ years of writing experience",
+				"Strong understanding of SEO",
+				"Portfolio of writing samples"
+			]
+		},
+		{
+			"id": 28,
+			"title": "Content Editor",
+			"company": {
+				"name": "Global Publishing Co.",
+				"phone": "(212) 555-0400",
+				"email": "hr@globalpublishing.com"
+			},
+			"location": "Chicago, IL",
+			"description": "Edit and refine content for clarity, accuracy, and engagement across multiple platforms.",
+			"employment_type": "Full-time",
+			"salary": 70000,
+			"bonus": "Up to 10% annual performance bonus",
+			"benefits_package": [
+				"Comprehensive health benefits",
+				"401(k) with company match",
+				"Paid time off",
+				"Work from home options"
+			],
+			"date_posted": "2025-02-08",
+			"requirements": [
+				"5+ years of editing experience",
+				"Excellent writing and grammar skills",
+				"Experience with content management systems"
+			]
+		},
+		{
+			"id": 29,
+			"title": "Social Media Content Specialist",
+			"company": {
+				"name": "Engage Digital",
+				"phone": "(212) 555-0500",
+				"email": "jobs@engagedigital.com"
+			},
+			"location": "Los Angeles, CA",
+			"description": "Manage and create engaging content for social media channels to increase brand presence and engagement.",
+			"employment_type": "Full-time",
+			"salary": 65000,
+			"bonus": "Up to 7% annual performance bonus",
+			"benefits_package": [
+				"Health and wellness programs",
+				"Flexible schedule",
+				"Paid time off",
+				"Training and development resources"
+			],
+			"date_posted": "2025-02-14",
+			"requirements": [
+				"2+ years in social media management",
+				"Strong copywriting skills",
+				"Familiarity with social media analytics tools"
+			]
+		},
+		{
+			"id": 30,
+			"title": "Content Strategist",
+			"company": {
+				"name": "NextGen Marketing",
+				"phone": "(212) 555-0600",
+				"email": "careers@nextgenmarketing.com"
+			},
+			"location": "Seattle, WA",
+			"description": "Develop and implement content strategies that align with business goals and customer needs.",
+			"employment_type": "Full-time",
+			"salary": 90000,
+			"bonus": "Up to 12% annual performance bonus",
+			"benefits_package": [
+				"Health insurance",
+				"401(k) with match",
+				"Paid vacation and holidays",
+				"Career growth opportunities"
+			],
+			"date_posted": "2025-02-11",
+			"requirements": [
+				"4+ years of experience in content strategy",
+				"Strong analytical and communication skills",
+				"Experience with content management systems"
+			]
+		},
+		{
+			"id": 31,
+			"title": "Technical Writer",
+			"company": {
+				"name": "TechDocs Inc.",
+				"phone": "(212) 555-0700",
+				"email": "hr@techdocs.com"
+			},
+			"location": "Boston, MA",
+			"description": "Create clear and concise technical documentation for software products and user manuals.",
+			"employment_type": "Full-time",
+			"salary": 75000,
+			"bonus": "Up to 10% annual performance bonus",
+			"benefits_package": [
+				"Comprehensive health coverage",
+				"401(k) plan",
+				"Flexible work hours",
+				"Paid time off"
+			],
+			"date_posted": "2025-02-09",
+			"requirements": [
+				"3+ years in technical writing",
+				"Strong attention to detail",
+				"Ability to work with cross-functional teams"
+			]
+		},
+		{
+			"id": 32,
+			"title": "SEO Content Specialist",
+			"company": {
+				"name": "Search Optimizers",
+				"phone": "(212) 555-0800",
+				"email": "jobs@searchoptimizers.com"
+			},
+			"location": "Denver, CO",
+			"description": "Develop SEO-focused content to improve organic search rankings and drive website traffic.",
+			"employment_type": "Full-time",
+			"salary": 68000,
+			"bonus": "Up to 8% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"Remote work options",
+				"Paid time off",
+				"Continuous learning opportunities"
+			],
+			"date_posted": "2025-02-13",
+			"requirements": [
+				"2+ years in SEO content creation",
+				"Strong writing and research skills",
+				"Familiarity with SEO tools"
+			]
+		},
+		{
+			"id": 33,
+			"title": "Copywriter",
+			"company": {
+				"name": "Brand Builders",
+				"phone": "(212) 555-0900",
+				"email": "careers@brandbuilders.com"
+			},
+			"location": "Miami, FL",
+			"description": "Write persuasive copy for advertising campaigns, websites, and promotional materials.",
+			"employment_type": "Full-time",
+			"salary": 62000,
+			"bonus": "Up to 5% annual performance bonus",
+			"benefits_package": [
+				"Health insurance",
+				"Flexible working hours",
+				"Paid time off",
+				"Creative work environment"
+			],
+			"date_posted": "2025-02-07",
+			"requirements": [
+				"3+ years of copywriting experience",
+				"Strong portfolio of work",
+				"Ability to work under tight deadlines"
+			]
+		},
+		{
+			"id": 34,
+			"title": "Content Analyst",
+			"company": {
+				"name": "Data Insights Co.",
+				"phone": "(212) 555-1000",
+				"email": "jobs@datainsights.com"
+			},
+			"location": "Philadelphia, PA",
+			"description": "Analyze content performance and provide insights to improve engagement and reach.",
+			"employment_type": "Full-time",
+			"salary": 70000,
+			"bonus": "Up to 10% annual performance bonus",
+			"benefits_package": [
+				"Health and wellness benefits",
+				"401(k) with company match",
+				"Paid time off",
+				"Training programs"
+			],
+			"date_posted": "2025-02-10",
+			"requirements": [
+				"2+ years in content analysis",
+				"Strong analytical skills",
+				"Experience with data visualization tools"
+			]
+		},
+		{
+			"id": 35,
+			"title": "Brand Content Manager",
+			"company": {
+				"name": "Visionary Brands",
+				"phone": "(212) 555-1100",
+				"email": "careers@visionarybrands.com"
+			},
+			"location": "New York, NY",
+			"description": "Oversee content creation and strategy for brand-related initiatives and campaigns.",
+			"employment_type": "Full-time",
+			"salary": 95000,
+			"bonus": "Up to 12% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with match",
+				"Paid time off",
+				"Professional development opportunities"
+			],
+			"date_posted": "2025-02-15",
+			"requirements": [
+				"5+ years in brand content management",
+				"Strong leadership skills",
+				"Experience with digital marketing"
+			]
+		},
+		{
+			"id": 36,
+			"title": "Content Development Specialist",
+			"company": {
+				"name": "EduTech Solutions",
+				"phone": "(212) 555-1200",
+				"email": "jobs@edutechsolutions.com"
+			},
+			"location": "Atlanta, GA",
+			"description": "Develop educational content and materials for online courses and training programs.",
+			"employment_type": "Full-time",
+			"salary": 80000,
+			"bonus": "Up to 10% annual performance bonus",
+			"benefits_package": [
+				"Comprehensive health benefits",
+				"401(k) with company match",
+				"Paid time off",
+				"Continuous learning opportunities"
+			],
+			"date_posted": "2025-02-11",
+			"requirements": [
+				"3+ years in content development",
+				"Strong writing and instructional design skills",
+				"Experience with e-learning platforms"
+			]
+		},
+		{
+			"id": 37,
+			"title": "Content Operations Manager",
+			"company": {
+				"name": "ContentWorks",
+				"phone": "(212) 555-1300",
+				"email": "careers@contentworks.com"
+			},
+			"location": "Dallas, TX",
+			"description": "Manage content production processes and ensure timely delivery of high-quality content.",
+			"employment_type": "Full-time",
+			"salary": 90000,
+			"bonus": "Up to 10% annual performance bonus",
+			"benefits_package": [
+				"Health insurance",
+				"401(k) with match",
+				"Paid time off",
+				"Team-building activities"
+			],
+			"date_posted": "2025-02-14",
+			"requirements": [
+				"4+ years in content operations",
+				"Strong project management skills",
+				"Experience with content management systems"
+			]
+		},
+		{
+			"id": 38,
+			"title": "Video Content Producer",
+			"company": {
+				"name": "Visual Media Inc.",
+				"phone": "(212) 555-1400",
+				"email": "jobs@visualmediainc.com"
+			},
+			"location": "San Diego, CA",
+			"description": "Produce and edit video content for marketing campaigns and online platforms.",
+			"employment_type": "Full-time",
+			"salary": 75000,
+			"bonus": "Up to 8% annual performance bonus",
+			"benefits_package": [
+				"Health and wellness benefits",
+				"Flexible working hours",
+				"Paid time off",
+				"Creative work environment"
+			],
+			"date_posted": "2025-02-13",
+			"requirements": [
+				"3+ years in video production",
+				"Strong editing skills",
+				"Experience with video marketing"
+			]
+		},
+		{
+			"id": 39,
+			"title": "Content Quality Assurance Specialist",
+			"company": {
+				"name": "Quality Content Co.",
+				"phone": "(212) 555-1500",
+				"email": "careers@qualitycontentco.com"
+			},
+			"location": "Portland, OR",
+			"description": "Ensure the quality and consistency of content across all platforms by implementing quality assurance processes.",
+			"employment_type": "Full-time",
+			"salary": 65000,
+			"bonus": "Up to 5% annual performance bonus",
+			"benefits_package": [
+				"Health and dental benefits",
+				"401(k) with company match",
+				"Paid time off",
+				"Work-life balance programs"
+			],
+			"date_posted": "2025-02-12",
+			"requirements": [
+				"2+ years in content quality assurance",
+				"Strong attention to detail",
+				"Knowledge of content production processes"
+			]
+		},
+		{
+			"id": 40,
+			"title": "Content Research Analyst",
+			"company": {
+				"name": "Insight Research Group",
+				"phone": "(212) 555-1600",
+				"email": "jobs@insightresearchgroup.com"
+			},
+			"location": "Seattle, WA",
+			"description": "Conduct research to support content development and provide insights on industry trends.",
+			"employment_type": "Full-time",
+			"salary": 70000,
+			"bonus": "Up to 8% annual performance bonus",
+			"benefits_package": [
+				"Health insurance",
+				"401(k) with match",
+				"Paid time off",
+				"Remote work options"
+			],
+			"date_posted": "2025-02-15",
+			"requirements": [
+				"3+ years in content research",
+				"Strong analytical skills",
+				"Experience with data analysis tools"
+			]
+		},
+		{
+			"id": 41,
+			"title": "Content Partnerships Manager",
+			"company": {
+				"name": "PartnerConnect",
+				"phone": "(212) 555-1700",
+				"email": "careers@partnerconnect.com"
+			},
+			"location": "Chicago, IL",
+			"description": "Manage and grow partnerships that enhance content strategies and reach target audiences effectively.",
+			"employment_type": "Full-time",
+			"salary": 88000,
+			"bonus": "Up to 10% annual performance bonus",
+			"benefits_package": [
+				"Comprehensive health benefits",
+				"401(k) with company match",
+				"Paid time off",
+				"Professional development opportunities"
+			],
+			"date_posted": "2025-02-11",
+			"requirements": [
+				"5+ years in content partnerships or business development",
+				"Strong networking skills",
+				"Proven track record of successful collaborations"
+			]
+		},
+		{
+			"id": 42,
+			"title": "Content Community Manager",
+			"company": {
+				"name": "Community Builders",
+				"phone": "(212) 555-1800",
+				"email": "jobs@communitybuilders.com"
+			},
+			"location": "Atlanta, GA",
+			"description": "Engage with online communities to build relationships and create valuable content that resonates with members.",
+			"employment_type": "Full-time",
+			"salary": 70000,
+			"bonus": "Up to 5% annual performance bonus",
+			"benefits_package": [
+				"Health and wellness benefits",
+				"Flexible schedule",
+				"Paid time off",
+				"Continuous learning opportunities"
+			],
+			"date_posted": "2025-02-10",
+			"requirements": [
+				"3+ years in community management or content creation",
+				"Excellent communication skills",
+				"Experience with online community platforms"
+			]
+		},
+		{
+			"id": 43,
+			"title": "Interactive Content Designer",
+			"company": {
+				"name": "Innovative Learning Co.",
+				"phone": "(212) 555-1900",
+				"email": "careers@innovativelearningco.com"
+			},
+			"location": "San Francisco, CA",
+			"description": "Design and develop interactive content for educational platforms and eLearning modules.",
+			"employment_type": "Full-time",
+			"salary": 80000,
+			"bonus": "Up to 10% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Paid time off",
+				"Creative work environment"
+			],
+			"date_posted": "2025-02-14",
+			"requirements": [
+				"3+ years in interactive content design",
+				"Strong portfolio of interactive projects",
+				"Familiarity with eLearning tools"
+			]
+		},
+		{
+			"id": 44,
+			"title": "Podcast Producer",
+			"company": {
+				"name": "Audio Innovations",
+				"phone": "(212) 555-2000",
+				"email": "jobs@audioinnovations.com"
+			},
+			"location": "New York, NY",
+			"description": "Oversee the production of podcast content, from idea generation to recording and editing.",
+			"employment_type": "Full-time",
+			"salary": 75000,
+			"bonus": "Up to 8% annual performance bonus",
+			"benefits_package": [
+				"Health insurance",
+				"Flexible working hours",
+				"Paid time off",
+				"Creative work environment"
+			],
+			"date_posted": "2025-02-13",
+			"requirements": [
+				"3+ years in audio production or podcasting",
+				"Strong communication and storytelling skills",
+				"Knowledge of audio editing software"
+			]
+		},
+		{
+			"id": 45,
+			"title": "SEO Content Writer",
+			"company": {
+				"name": "SearchContent Pro",
+				"phone": "(312) 555-4545",
+				"email": "jobs@searchcontentpro.com"
+			},
+			"location": "Remote",
+			"description": "Craft SEO-optimized articles and blog posts that improve organic search performance and engage readers.",
+			"employment_type": "Full-time",
+			"salary": 68000,
+			"bonus": "Up to 5% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Flexible work schedule"
+			],
+			"date_posted": "2025-03-05",
+			"requirements": [
+				"2+ years of SEO content writing experience",
+				"Excellent research and keyword integration skills",
+				"Proficiency in content management systems"
+			]
+		},
+		{
+			"id": 46,
+			"title": "Technical Blog Writer",
+			"company": {
+				"name": "DevContent Hub",
+				"phone": "(415) 555-4646",
+				"email": "apply@devcontenthub.com"
+			},
+			"location": "San Francisco, CA",
+			"description": "Write in-depth technical articles and tutorials about software development, programming languages, and emerging technologies.",
+			"employment_type": "Full-time",
+			"salary": 72000,
+			"bonus": "Performance bonus available",
+			"benefits_package": [
+				"Medical, dental, and vision insurance",
+				"401(k) with match",
+				"Remote work options"
+			],
+			"date_posted": "2025-03-04",
+			"requirements": [
+				"Bachelor's degree in Computer Science or related field",
+				"Experience with technical writing",
+				"Ability to explain complex technical concepts clearly"
+			]
+		},
+		{
+			"id": 47,
+			"title": "Creative Copywriter",
+			"company": {
+				"name": "AdCreative Agency",
+				"phone": "(310) 555-4747",
+				"email": "copy@adcreativeagency.com"
+			},
+			"location": "Los Angeles, CA",
+			"description": "Develop compelling advertising copy and creative content for digital and print campaigns, working closely with the creative team.",
+			"employment_type": "Full-time",
+			"salary": 70000,
+			"bonus": "Performance-based bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Paid time off"
+			],
+			"date_posted": "2025-03-04",
+			"requirements": [
+				"3+ years of copywriting experience",
+				"Strong creative and conceptual skills",
+				"Excellent written communication and editing abilities"
+			]
+		},
+		{
+			"id": 48,
+			"title": "Product Description Writer",
+			"company": {
+				"name": "Ecom Content Masters",
+				"phone": "(646) 555-4848",
+				"email": "hr@ecomcontentmasters.com"
+			},
+			"location": "Remote",
+			"description": "Write clear and persuasive product descriptions that boost sales and enhance the customer shopping experience on e-commerce platforms.",
+			"employment_type": "Full-time",
+			"salary": 65000,
+			"bonus": "Project-based incentives",
+			"benefits_package": [
+				"Flexible work hours",
+				"Remote work option",
+				"Performance bonus"
+			],
+			"date_posted": "2025-03-04",
+			"requirements": [
+				"Experience in e-commerce content writing",
+				"Strong SEO skills and keyword integration",
+				"Ability to work on high-volume projects"
+			]
+		},
+		{
+			"id": 49,
+			"title": "Social Media Content Writer",
+			"company": {
+				"name": "SocialBuzz Media",
+				"phone": "(212) 555-4949",
+				"email": "jobs@socialbuzzmedia.com"
+			},
+			"location": "Remote",
+			"description": "Create engaging social media posts, captions, and articles to increase brand engagement and online presence.",
+			"employment_type": "Full-time",
+			"salary": 64000,
+			"bonus": "Performance bonus available",
+			"benefits_package": [
+				"Health and dental insurance",
+				"401(k) with match",
+				"Flexible scheduling"
+			],
+			"date_posted": "2025-03-04",
+			"requirements": [
+				"Experience in social media content creation",
+				"Excellent writing and creative skills",
+				"Familiarity with social media analytics"
+			]
+		},
+		{
+			"id": 50,
+			"title": "Academic Content Writer",
+			"company": {
+				"name": "ScholarWorks Publishing",
+				"phone": "(617) 555-5050",
+				"email": "editorial@scholarworkspub.com"
+			},
+			"location": "Remote",
+			"description": "Produce scholarly articles, research papers, and educational content that meet academic standards and engage the target audience.",
+			"employment_type": "Part-time",
+			"salary": 68000,
+			"bonus": "Performance bonus available",
+			"benefits_package": ["Flexible schedule", "Remote work opportunities"],
+			"date_posted": "2025-03-04",
+			"requirements": [
+				"Master's degree or higher in a relevant field",
+				"Experience in academic writing",
+				"Strong research and citation skills"
+			]
+		},
+		{
+			"id": 51,
+			"title": "News Article Writer",
+			"company": {
+				"name": "Daily News Network",
+				"phone": "(212) 555-5151",
+				"email": "editorial@dailynewsnetwork.com"
+			},
+			"location": "Washington, D.C.",
+			"description": "Write timely and engaging news articles covering current events and industry updates, ensuring high editorial standards.",
+			"employment_type": "Full-time",
+			"salary": 71000,
+			"bonus": "Up to 5% annual bonus",
+			"benefits_package": [
+				"Comprehensive health benefits",
+				"401(k) plan",
+				"Paid time off"
+			],
+			"date_posted": "2025-03-03",
+			"requirements": [
+				"Experience in journalism or news writing",
+				"Strong research and fact-checking skills",
+				"Bachelor's degree in Journalism or Communications"
+			]
+		},
+		{
+			"id": 52,
+			"title": "Grant Proposal Writer",
+			"company": {
+				"name": "NonProfit Write",
+				"phone": "(212) 555-5252",
+				"email": "grants@nonprofitwrite.com"
+			},
+			"location": "Remote",
+			"description": "Write compelling grant proposals to secure funding for NGOs and non-profit organizations. Collaborate with subject matter experts to create persuasive proposals.",
+			"employment_type": "Contract",
+			"salary": 95000,
+			"bonus": "Project-based bonus",
+			"benefits_package": ["Flexible work hours", "Remote work"],
+			"date_posted": "2025-03-03",
+			"requirements": [
+				"7+ years of grant writing experience",
+				"Proven success in securing funding",
+				"Strong research and persuasive writing skills"
+			]
+		},
+		{
+			"id": 53,
+			"title": "Video Script Writer",
+			"company": {
+				"name": "ScreenCraft Studios",
+				"phone": "(818) 555-5353",
+				"email": "scripts@screencraftstudios.com"
+			},
+			"location": "Burbank, CA",
+			"description": "Develop scripts for educational, promotional, and entertainment video content, collaborating with directors and producers to craft engaging narratives.",
+			"employment_type": "Freelance",
+			"salary": 82000,
+			"bonus": "Project-based bonus",
+			"benefits_package": ["Flexible work schedule", "Remote work available"],
+			"date_posted": "2025-03-03",
+			"requirements": [
+				"5+ years of scriptwriting experience",
+				"Strong dialogue and storytelling skills",
+				"Portfolio of published scripts"
+			]
+		},
+		{
+			"id": 54,
+			"title": "Press Release Writer",
+			"company": {
+				"name": "MediaLink PR",
+				"phone": "(310) 555-5454",
+				"email": "press@medialinkpr.com"
+			},
+			"location": "Los Angeles, CA",
+			"description": "Write and distribute press releases for corporate announcements, product launches, and event promotions.",
+			"employment_type": "Full-time",
+			"salary": 66000,
+			"bonus": "Performance bonus available",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) plan",
+				"Paid time off"
+			],
+			"date_posted": "2025-03-03",
+			"requirements": [
+				"Experience in PR or media relations",
+				"Strong writing and editing skills",
+				"Ability to work under tight deadlines"
+			]
+		},
+		{
+			"id": 55,
+			"title": "Freelance Content Strategist",
+			"company": {
+				"name": "ContentEdge",
+				"phone": "(312) 555-5555",
+				"email": "strategy@contentedge.com"
+			},
+			"location": "Remote",
+			"description": "Work on a project basis to develop content strategies for various brands and digital platforms, ensuring maximum engagement.",
+			"employment_type": "Contract",
+			"salary": 75000,
+			"bonus": "Project incentives",
+			"benefits_package": ["Flexible hours", "Remote work"],
+			"date_posted": "2025-03-03",
+			"requirements": [
+				"Experience in content strategy and digital marketing",
+				"Strong analytical and creative skills",
+				"Portfolio showcasing successful campaigns"
+			]
+		},
+		{
+			"id": 56,
+			"title": "Press & Media Content Writer",
+			"company": {
+				"name": "NewsLink Media",
+				"phone": "(212) 555-5656",
+				"email": "careers@newslinkmedia.com"
+			},
+			"location": "Remote",
+			"description": "Create press content, media kits, and news updates that highlight corporate achievements and industry trends.",
+			"employment_type": "Full-time",
+			"salary": 70000,
+			"bonus": "Up to 5% annual bonus",
+			"benefits_package": [
+				"Health benefits",
+				"401(k) plan",
+				"Remote work flexibility"
+			],
+			"date_posted": "2025-03-03",
+			"requirements": [
+				"Experience in press release writing or journalism",
+				"Excellent research and writing skills",
+				"Ability to adapt tone for various audiences"
+			]
+		},
+		{
+			"id": 57,
+			"title": "Copy Editor",
+			"company": {
+				"name": "EditPro Solutions",
+				"phone": "(646) 555-5757",
+				"email": "editorial@editprosolutions.com"
+			},
+			"location": "Remote",
+			"description": "Review and edit content for clarity, grammar, and style across digital and print media. Collaborate with writers to enhance content quality.",
+			"employment_type": "Full-time",
+			"salary": 68000,
+			"bonus": "Performance bonus available",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) plan",
+				"Remote work opportunities"
+			],
+			"date_posted": "2025-03-03",
+			"requirements": [
+				"Experience as a copy editor or proofreader",
+				"Excellent attention to detail",
+				"Strong command of English grammar and style"
+			]
+		},
+		{
+			"id": 58,
+			"title": "B2B Content Writer",
+			"company": {
+				"name": "BizContent Solutions",
+				"phone": "(212) 555-5858",
+				"email": "apply@bizcontentsolutions.com"
+			},
+			"location": "Remote",
+			"description": "Develop targeted content for B2B audiences, including white papers, case studies, and thought leadership articles.",
+			"employment_type": "Full-time",
+			"salary": 73000,
+			"bonus": "Performance-based bonus",
+			"benefits_package": [
+				"Comprehensive health benefits",
+				"401(k) with match",
+				"Flexible schedule"
+			],
+			"date_posted": "2025-03-03",
+			"requirements": [
+				"Experience in B2B content creation",
+				"Strong research and technical writing skills",
+				"Bachelor's degree in Marketing, Business, or related field"
+			]
+		},
+		{
+			"id": 59,
+			"title": "Editorial Content Manager",
+			"company": {
+				"name": "Insightful Media",
+				"phone": "(212) 555-5959",
+				"email": "manager@insightfulmedia.com"
+			},
+			"location": "New York, NY",
+			"description": "Oversee the editorial content calendar, manage a team of writers, and ensure the quality of published content across multiple platforms.",
+			"employment_type": "Full-time",
+			"salary": 80000,
+			"bonus": "Up to 8% performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) plan",
+				"Paid time off"
+			],
+			"date_posted": "2025-03-03",
+			"requirements": [
+				"Experience in editorial management",
+				"Strong leadership and communication skills",
+				"Bachelor's degree in Journalism, Communications, or related field"
+			]
+		},
+		{
+			"id": 60,
+			"title": "Freelance SEO Copywriter",
+			"company": {
+				"name": "CopySEO Experts",
+				"phone": "(212) 555-6060",
+				"email": "freelance@copyseoexperts.com"
+			},
+			"location": "Remote",
+			"description": "Write high-quality, SEO-optimized copy for websites, blogs, and marketing collateral on a freelance basis.",
+			"employment_type": "Contract",
+			"salary": 65000,
+			"bonus": "Project-based incentives",
+			"benefits_package": ["Flexible working hours", "Remote work opportunity"],
+			"date_posted": "2025-03-03",
+			"requirements": [
+				"Proven experience in SEO copywriting",
+				"Excellent research and writing skills",
+				"Ability to meet deadlines consistently"
+			]
+		},
+		{
+			"id": 61,
+			"title": "Lifestyle Content Writer",
+			"company": {
+				"name": "UrbanLife Magazine",
+				"phone": "(415) 555-6161",
+				"email": "editor@urbanlifemag.com"
+			},
+			"location": "San Francisco, CA",
+			"description": "Oversee lifestyle content production for digital and print media with a focus on modern urban trends and culture.",
+			"employment_type": "Full-time",
+			"salary": 72000,
+			"bonus": "Annual performance bonus up to 5%",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Paid time off"
+			],
+			"date_posted": "2025-02-05",
+			"requirements": [
+				"5+ years editorial experience",
+				"Proficiency in CMS platforms",
+				"Strong fact-checking and editing skills"
+			]
+		},
+		{
+			"id": 62,
+			"title": "Content Marketing Manager",
+			"company": {
+				"name": "MarketMinds",
+				"phone": "(212) 555-2200",
+				"email": "jobs@marketminds.com"
+			},
+			"location": "Chicago, IL",
+			"description": "Lead content marketing strategy to enhance brand awareness and drive customer engagement.",
+			"employment_type": "Full-time",
+			"salary": 90000,
+			"bonus": "Up to 10% annual performance bonus",
+			"benefits_package": [
+				"Comprehensive health benefits",
+				"401(k) with company match",
+				"Paid time off",
+				"Training programs"
+			],
+			"date_posted": "2025-02-18",
+			"requirements": [
+				"5+ years in content marketing",
+				"Strong leadership and communication skills",
+				"Experience with analytics tools"
+			]
+		},
+		{
+			"id": 63,
+			"title": "Content UX Writer",
+			"company": {
+				"name": "User First Designs",
+				"phone": "(212) 555-2300",
+				"email": "careers@userfirstdesigns.com"
+			},
+			"location": "San Francisco, CA",
+			"description": "Write user-centered content for websites and applications to enhance the user experience.",
+			"employment_type": "Full-time",
+			"salary": 75000,
+			"bonus": "Up to 8% annual performance bonus",
+			"benefits_package": [
+				"Health insurance",
+				"401(k) with match",
+				"Flexible schedule",
+				"Paid time off"
+			],
+			"date_posted": "2025-02-25",
+			"requirements": [
+				"3+ years as a UX writer or content designer",
+				"Strong understanding of user-centered design principles",
+				"Portfolio showcasing relevant work"
+			]
+		},
+		{
+			"id": 64,
+			"title": "Content Architecture Specialist",
+			"company": {
+				"name": "Content Structuring Inc.",
+				"phone": "(212) 555-2400",
+				"email": "hr@contentstructuring.com"
+			},
+			"location": "Boston, MA",
+			"description": "Design and structure content frameworks and information architectures for digital platforms.",
+			"employment_type": "Full-time",
+			"salary": 80000,
+			"bonus": "Up to 10% annual performance bonus",
+			"benefits_package": [
+				"Health and wellness programs",
+				"Remote work options",
+				"Paid time off",
+				"Professional development opportunities"
+			],
+			"date_posted": "2025-02-22",
+			"requirements": [
+				"4+ years in content architecture or information design",
+				"Strong analytical and organizational skills",
+				"Experience with CMS and wireframing tools"
+			]
+		},
+		{
+			"id": 65,
+			"title": "Content Innovation Strategist",
+			"company": {
+				"name": "Innovate Content Solutions",
+				"phone": "(212) 555-2500",
+				"email": "careers@innovatecontentsolutions.com"
+			},
+			"location": "Dallas, TX",
+			"description": "Develop innovative content strategies that leverage new technologies and formats for audience engagement.",
+			"employment_type": "Full-time",
+			"salary": 95000,
+			"bonus": "Up to 12% annual performance bonus",
+			"benefits_package": [
+				"Health and dental coverage",
+				"401(k) with match",
+				"Paid time off",
+				"Creative work environment"
+			],
+			"date_posted": "2025-02-23",
+			"requirements": [
+				"5+ years in content strategy or innovation",
+				"Experience with emerging digital formats",
+				"Strong leadership and communication skills"
+			]
+		},
+		{
+			"id": 66,
+			"title": "Content Sales Enablement Specialist",
+			"company": {
+				"name": "Growth Strategies Group",
+				"phone": "(212) 555-2600",
+				"email": "jobs@growthstrategiesgroup.com"
+			},
+			"location": "New York, NY",
+			"description": "Create and manage content that supports the sales team in engaging prospects more effectively.",
+			"employment_type": "Full-time",
+			"salary": 75000,
+			"bonus": "Up to 10% annual performance bonus",
+			"benefits_package": [
+				"Comprehensive health insurance",
+				"401(k) with company match",
+				"Flexible working hours",
+				"Paid time off"
+			],
+			"date_posted": "2025-02-19",
+			"requirements": [
+				"3+ years in sales enablement or content marketing",
+				"Strong communication and collaboration skills",
+				"Experience creating sales collateral"
+			]
+		},
+		{
+			"id": 67,
+			"title": "Content Ethics Advisor",
+			"company": {
+				"name": "Ethical Content Co.",
+				"phone": "(212) 555-2700",
+				"email": "careers@ethicalcontent.com"
+			},
+			"location": "Seattle, WA",
+			"description": "Advise on ethical standards and practices in content creation and distribution.",
+			"employment_type": "Full-time",
+			"salary": 80000,
+			"bonus": "Up to 5% annual performance bonus",
+			"benefits_package": [
+				"Health insurance",
+				"401(k) with match",
+				"Paid time off",
+				"Professional growth opportunities"
+			],
+			"date_posted": "2025-02-21",
+			"requirements": [
+				"4+ years in content ethics or compliance roles",
+				"Strong knowledge of regulations and standards",
+				"Excellent analytical and communication skills"
+			]
+		},
+		{
+			"id": 68,
+			"title": "Cross-Channel Content Manager",
+			"company": {
+				"name": "OmniContent Solutions",
+				"phone": "(212) 555-2800",
+				"email": "jobs@omnicontentsolutions.com"
+			},
+			"location": "Atlanta, GA",
+			"description": "Manage content distribution across multiple channels to ensure consistency and brand alignment.",
+			"employment_type": "Full-time",
+			"salary": 85000,
+			"bonus": "Up to 9% annual performance bonus",
+			"benefits_package": [
+				"Comprehensive health benefits",
+				"401(k) with company match",
+				"Paid time off",
+				"Remote work flexibility"
+			],
+			"date_posted": "2025-02-24",
+			"requirements": [
+				"5+ years in content management or marketing",
+				"Strong project management skills",
+				"Experience with cross-channel strategies"
+			]
+		},
+		{
+			"id": 69,
+			"title": "Customer Content Advocate",
+			"company": {
+				"name": "Customer First Group",
+				"phone": "(212) 555-2900",
+				"email": "careers@customerfirstgroup.com"
+			},
+			"location": "Houston, TX",
+			"description": "Engage with customers to develop user-generated content that enhances the brand experience.",
+			"employment_type": "Full-time",
+			"salary": 70000,
+			"bonus": "Up to 6% annual performance bonus",
+			"benefits_package": [
+				"Health insurance",
+				"401(k) with match",
+				"Paid time off",
+				"User experience workshops"
+			],
+			"date_posted": "2025-02-26",
+			"requirements": [
+				"3+ years in customer engagement or marketing",
+				"Strong communication and storytelling skills",
+				"Experience with social media platforms"
+			]
+		},
+		{
+			"id": 70,
+			"title": "Content Compliance Specialist",
+			"company": {
+				"name": "Compliance Content Inc.",
+				"phone": "(212) 555-3000",
+				"email": "jobs@compliancecontent.com"
+			},
+			"location": "Boston, MA",
+			"description": "Ensure all content complies with regulatory standards and internal policies.",
+			"employment_type": "Full-time",
+			"salary": 75000,
+			"bonus": "Up to 5% annual performance bonus",
+			"benefits_package": [
+				"Comprehensive health benefits",
+				"401(k) with company match",
+				"Paid time off",
+				"Compliance training programs"
+			],
+			"date_posted": "2025-02-20",
+			"requirements": [
+				"3+ years in content compliance or legal roles",
+				"Knowledge of relevant regulations",
+				"Strong analytical skills"
+			]
+		},
+		{
+			"id": 71,
+			"title": "User Engagement Content Manager",
+			"company": {
+				"name": "Engagement Experts",
+				"phone": "(212) 555-3100",
+				"email": "careers@engagementexperts.com"
+			},
+			"location": "San Francisco, CA",
+			"description": "Develop and execute strategies to enhance user engagement through targeted content.",
+			"employment_type": "Full-time",
+			"salary": 85000,
+			"bonus": "Up to 10% annual performance bonus",
+			"benefits_package": [
+				"Health and wellness programs",
+				"401(k) with company match",
+				"Paid time off",
+				"Remote work opportunities"
+			],
+			"date_posted": "2025-02-22",
+			"requirements": [
+				"4+ years in content marketing or user engagement",
+				"Strong analytical and communication skills",
+				"Experience with user research"
+			]
+		},
+		{
+			"id": 72,
+			"title": "Content Localization Specialist",
+			"company": {
+				"name": "Global Reach Media",
+				"phone": "(212) 555-3200",
+				"email": "jobs@globalreachmedia.com"
+			},
+			"location": "New York, NY",
+			"description": "Adapt and localize content for different markets and cultural contexts.",
+			"employment_type": "Full-time",
+			"salary": 70000,
+			"bonus": "Up to 5% annual performance bonus",
+			"benefits_package": [
+				"Health and dental benefits",
+				"401(k) with match",
+				"Paid vacation and holidays",
+				"Cultural training programs"
+			],
+			"date_posted": "2025-02-18",
+			"requirements": [
+				"3+ years in content localization or translation",
+				"Fluency in multiple languages",
+				"Strong understanding of cultural differences"
+			]
+		},
+		{
+			"id": 73,
+			"title": "Sponsorship Content Manager",
+			"company": {
+				"name": "Sponsorship Solutions",
+				"phone": "(212) 555-3300",
+				"email": "careers@sponsorshipsolutions.com"
+			},
+			"location": "Atlanta, GA",
+			"description": "Manage content development for sponsorship opportunities and partnerships.",
+			"employment_type": "Full-time",
+			"salary": 78000,
+			"bonus": "Up to 9% annual performance bonus",
+			"benefits_package": [
+				"Comprehensive health benefits",
+				"401(k) with company match",
+				"Paid time off",
+				"Networking events"
+			],
+			"date_posted": "2025-02-21",
+			"requirements": [
+				"4+ years in content marketing or sponsorships",
+				"Strong negotiation skills",
+				"Experience in partnership development"
+			]
+		},
+		{
+			"id": 74,
+			"title": "Brand Storyteller",
+			"company": {
+				"name": "Narrative Brands",
+				"phone": "(212) 555-3400",
+				"email": "careers@narrativebrands.com"
+			},
+			"location": "Miami, FL",
+			"description": "Create compelling brand stories that connect with audiences through various content formats.",
+			"employment_type": "Full-time",
+			"salary": 85000,
+			"bonus": "Up to 10% annual performance bonus",
+			"benefits_package": [
+				"Health insurance",
+				"401(k) with company match",
+				"Paid time off",
+				"Creative work environment"
+			],
+			"date_posted": "2025-02-25",
+			"requirements": [
+				"4+ years in brand storytelling or content creation",
+				"Strong writing and editing skills",
+				"Experience with multimedia content"
+			]
+		},
+		{
+			"id": 75,
+			"title": "Content Social Responsibility Officer",
+			"company": {
+				"name": "Social Impact Media",
+				"phone": "(212) 555-3500",
+				"email": "jobs@socialimpactmedia.com"
+			},
+			"location": "San Diego, CA",
+			"description": "Develop content strategies that communicate the company’s social responsibility initiatives.",
+			"employment_type": "Full-time",
+			"salary": 90000,
+			"bonus": "Up to 10% annual performance bonus",
+			"benefits_package": [
+				"Health and dental benefits",
+				"401(k) with company match",
+				"Paid time off",
+				"Volunteering opportunities"
+			],
+			"date_posted": "2025-02-23",
+			"requirements": [
+				"5+ years in content creation focused on social issues",
+				"Strong communication and advocacy skills",
+				"Experience in corporate social responsibility"
+			]
+		},
+		{
+			"id": 76,
+			"title": "Content Relationship Manager",
+			"company": {
+				"name": "Connect Worldwide",
+				"phone": "(212) 555-3600",
+				"email": "careers@connectworldwide.com"
+			},
+			"location": "Los Angeles, CA",
+			"description": "Build and maintain relationships with stakeholders to ensure successful content delivery.",
+			"employment_type": "Full-time",
+			"salary": 85000,
+			"bonus": "Up to 8% annual performance bonus",
+			"benefits_package": [
+				"Health insurance",
+				"401(k) with match",
+				"Flexible schedule",
+				"Paid time off"
+			],
+			"date_posted": "2025-02-26",
+			"requirements": [
+				"4+ years in relationship management or content development",
+				"Excellent interpersonal skills",
+				"Strong organizational capabilities"
+			]
+		},
+		{
+			"id": 77,
+			"title": "SEO Content Specialist",
+			"company": {
+				"name": "SEO Strategies Inc.",
+				"phone": "(212) 555-3700",
+				"email": "jobs@seostrategiesinc.com"
+			},
+			"location": "Dallas, TX",
+			"description": "Optimize web content for search engines to increase visibility and drive traffic.",
+			"employment_type": "Full-time",
+			"salary": 70000,
+			"bonus": "Up to 7% annual performance bonus",
+			"benefits_package": [
+				"Health and dental coverage",
+				"401(k) with company match",
+				"Paid time off",
+				"Continuous education opportunities"
+			],
+			"date_posted": "2025-02-22",
+			"requirements": [
+				"3+ years in SEO or online content marketing",
+				"Strong understanding of SEO tools",
+				"Proven track record of increasing website traffic"
+			]
+		},
+		{
+			"id": 78,
+			"title": "Content Measurement Analyst",
+			"company": {
+				"name": "Data Driven Media",
+				"phone": "(212) 555-3800",
+				"email": "careers@datadrivenmedia.com"
+			},
+			"location": "Chicago, IL",
+			"description": "Analyze content performance metrics to provide insights for strategy improvement.",
+			"employment_type": "Full-time",
+			"salary": 80000,
+			"bonus": "Up to 10% annual performance bonus",
+			"benefits_package": [
+				"Health benefits",
+				"401(k) with match",
+				"Paid time off",
+				"Professional development workshops"
+			],
+			"date_posted": "2025-02-24",
+			"requirements": [
+				"4+ years in analytics or content measurement",
+				"Proficient with data analysis tools",
+				"Strong communication skills"
+			]
+		},
+		{
+			"id": 79,
+			"title": "Content Curriculum Developer",
+			"company": {
+				"name": "Educational Resources LLC",
+				"phone": "(212) 555-3900",
+				"email": "jobs@educationalresourcesllc.com"
+			},
+			"location": "Philadelphia, PA",
+			"description": "Create educational content and curriculum materials for various learning platforms.",
+			"employment_type": "Full-time",
+			"salary": 72000,
+			"bonus": "Up to 6% annual performance bonus",
+			"benefits_package": [
+				"Health and dental insurance",
+				"401(k) with match",
+				"Flexible work arrangements",
+				"Paid time off"
+			],
+			"date_posted": "2025-02-20",
+			"requirements": [
+				"3+ years in curriculum development or instructional design",
+				"Strong writing and editing skills",
+				"Experience with educational content"
+			]
+		},
+		{
+			"id": 80,
+			"title": "Content Digital Strategist",
+			"company": {
+				"name": "Strategic Content Group",
+				"phone": "(212) 555-4000",
+				"email": "careers@strategiccontentgroup.com"
+			},
+			"location": "Bar Harbor, ME",
+			"description": "Develop and implement digital content strategies to enhance online presence and engagement.",
+			"employment_type": "Full-time",
+			"salary": 95000,
+			"bonus": "Up to 12% annual performance bonus",
+			"benefits_package": [
+				"Health insurance",
+				"401(k) with company match",
+				"Paid vacation",
+				"Remote work options"
+			],
+			"date_posted": "2025-02-21",
+			"requirements": [
+				"5+ years in digital content strategy or related fields",
+				"Strong analytical and project management skills",
+				"Experience with content marketing tools"
+			]
+		},
+		{
+			"id": 81,
+			"title": "Integrated Content Director",
+			"company": {
+				"name": "Integrated Creative LLC",
+				"phone": "(212) 555-4100",
+				"email": "jobs@integratedcreative.com"
+			},
+			"location": "Seattle, WA",
+			"description": "Lead the integrated content strategies across multiple platforms to ensure a cohesive message.",
+			"employment_type": "Full-time",
+			"salary": 110000,
+			"bonus": "Up to 15% annual performance bonus",
+			"benefits_package": [
+				"Comprehensive health benefits",
+				"401(k) with company match",
+				"Generous PTO policy",
+				"Leadership training programs"
+			],
+			"date_posted": "2025-02-25",
+			"requirements": [
+				"7+ years in content strategy or management roles",
+				"Proven leadership and collaboration skills",
+				"Experience with cross-platform content strategies"
+			]
+		},
+		{
+			"id": 82,
+			"title": "Blog Content Writer",
+			"company": {
+				"name": "BlogSphere Media",
+				"phone": "(212) 555-8202",
+				"email": "editorial@blogspheremedia.com"
+			},
+			"location": "Remote",
+			"description": "Write engaging blog posts on a variety of topics, ensuring content is SEO-optimized and aligns with our brand voice.",
+			"employment_type": "Full-time",
+			"salary": 62000,
+			"bonus": "Performance bonus available",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Flexible remote work"
+			],
+			"date_posted": "2025-03-05",
+			"requirements": [
+				"2+ years of blogging experience",
+				"Strong writing and editing skills",
+				"Familiarity with SEO and CMS platforms"
+			]
+		},
+		{
+			"id": 83,
+			"title": "SEO Article Writer",
+			"company": {
+				"name": "RankWrite Solutions",
+				"phone": "(646) 555-8303",
+				"email": "apply@rankwritesolutions.com"
+			},
+			"location": "Remote",
+			"description": "Develop SEO-optimized articles and web content to improve organic search rankings and drive traffic.",
+			"employment_type": "Full-time",
+			"salary": 65000,
+			"bonus": "Performance bonus available",
+			"benefits_package": [
+				"Medical, dental, and vision insurance",
+				"401(k) plan",
+				"Flexible hours"
+			],
+			"date_posted": "2025-03-05",
+			"requirements": [
+				"Proven SEO content writing experience",
+				"Strong keyword research skills",
+				"Ability to write clear, engaging articles"
+			]
+		},
+		{
+			"id": 84,
+			"title": "Content Editor",
+			"company": {
+				"name": "EditPro Media",
+				"phone": "(310) 555-8404",
+				"email": "editor@editpromedia.com"
+			},
+			"location": "Remote",
+			"description": "Review and edit articles, blog posts, and digital content to ensure clarity, consistency, and quality across all publications.",
+			"employment_type": "Full-time",
+			"salary": 70000,
+			"bonus": "Annual performance bonus",
+			"benefits_package": [
+				"Comprehensive health benefits",
+				"401(k) with company match",
+				"Remote work flexibility"
+			],
+			"date_posted": "2025-03-05",
+			"requirements": [
+				"3+ years of experience in content editing",
+				"Excellent grammar and attention to detail",
+				"Experience working with a CMS preferred"
+			]
+		},
+		{
+			"id": 85,
+			"title": "Social Media Content Writer",
+			"company": {
+				"name": "SocialVibes",
+				"phone": "(212) 555-8505",
+				"email": "content@socialvibes.com"
+			},
+			"location": "Remote",
+			"description": "Develop creative social media posts, captions, and articles to drive engagement and increase brand visibility across multiple platforms.",
+			"employment_type": "Full-time",
+			"salary": 63000,
+			"bonus": "Performance bonus available",
+			"benefits_package": [
+				"Health benefits",
+				"401(k) with company match",
+				"Flexible scheduling"
+			],
+			"date_posted": "2025-03-05",
+			"requirements": [
+				"2+ years of experience in social media content writing",
+				"Excellent creative writing skills",
+				"Familiarity with social media trends and analytics"
+			]
+		},
+		{
+			"id": 86,
+			"title": "Creative Copywriter",
+			"company": {
+				"name": "AdCreative Agency",
+				"phone": "(310) 555-8606",
+				"email": "copy@adcreativeagency.com"
+			},
+			"location": "Los Angeles, CA",
+			"description": "Develop persuasive advertising copy for digital and print media campaigns. Work closely with the creative team to craft compelling narratives.",
+			"employment_type": "Full-time",
+			"salary": 72000,
+			"bonus": "Performance-based bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with match",
+				"Paid time off"
+			],
+			"date_posted": "2025-03-05",
+			"requirements": [
+				"3+ years of copywriting experience",
+				"Strong creative and conceptual skills",
+				"Excellent written communication and editing skills"
+			]
+		},
+		{
+			"id": 87,
+			"title": "Product Description Writer",
+			"company": {
+				"name": "Ecom Content Masters",
+				"phone": "(646) 555-8707",
+				"email": "hr@ecomcontentmasters.com"
+			},
+			"location": "Remote",
+			"description": "Craft persuasive and detailed product descriptions for online retailers to enhance customer experience and boost conversion rates.",
+			"employment_type": "Full-time",
+			"salary": 66000,
+			"bonus": "Project-based incentives",
+			"benefits_package": [
+				"Flexible hours",
+				"Remote work option",
+				"Performance bonus"
+			],
+			"date_posted": "2025-03-05",
+			"requirements": [
+				"Experience in e-commerce content writing",
+				"Strong SEO skills and keyword integration",
+				"Ability to produce high-volume, quality content"
+			]
+		},
+		{
+			"id": 88,
+			"title": "Academic Content Writer",
+			"company": {
+				"name": "ScholarWorks Publishing",
+				"phone": "(617) 555-8808",
+				"email": "editorial@scholarworkspub.com"
+			},
+			"location": "Remote",
+			"description": "Produce scholarly articles, research papers, and educational content that meet academic standards and engage readers.",
+			"employment_type": "Part-time",
+			"salary": 68000,
+			"bonus": "Performance bonus available",
+			"benefits_package": ["Flexible schedule", "Remote work opportunities"],
+			"date_posted": "2025-03-05",
+			"requirements": [
+				"Master's degree or higher in a relevant field",
+				"Experience in academic writing",
+				"Strong research and citation skills"
+			]
+		},
+		{
+			"id": 89,
+			"title": "Script Writer",
+			"company": {
+				"name": "VideoScript Studios",
+				"phone": "(818) 555-8909",
+				"email": "scripts@videoscriptstudios.com"
+			},
+			"location": "Burbank, CA",
+			"description": "Write engaging scripts for educational, promotional, and entertainment video content, collaborating with directors and producers to refine narrative style.",
+			"employment_type": "Freelance",
+			"salary": 75000,
+			"bonus": "Project-based bonus",
+			"benefits_package": ["Flexible work schedule", "Remote work available"],
+			"date_posted": "2025-03-05",
+			"requirements": [
+				"5+ years of scriptwriting experience",
+				"Strong dialogue and storytelling skills",
+				"Portfolio of published scripts"
+			]
+		},
+		{
+			"id": 90,
+			"title": "Content Strategist",
+			"company": {
+				"name": "ContentEdge",
+				"phone": "(312) 555-9000",
+				"email": "strategy@contentedge.com"
+			},
+			"location": "Remote",
+			"description": "Develop content strategies to drive traffic and engagement across digital channels. Collaborate with marketing teams to create a unified content vision.",
+			"employment_type": "Full-time",
+			"salary": 78000,
+			"bonus": "Performance-based bonus",
+			"benefits_package": [
+				"Health benefits",
+				"401(k) plan",
+				"Remote work flexibility"
+			],
+			"date_posted": "2025-03-05",
+			"requirements": [
+				"Experience in content strategy and digital marketing",
+				"Excellent analytical and creative skills",
+				"Bachelor's degree in Marketing, Communications, or related field"
+			]
+		},
+		{
+			"id": 91,
+			"title": "Digital Content Producer",
+			"company": {
+				"name": "MediaSpark",
+				"phone": "(212) 555-9111",
+				"email": "careers@mediaspark.com"
+			},
+			"location": "Remote",
+			"description": "Produce engaging digital content including articles, videos, and infographics to boost online engagement and brand visibility.",
+			"employment_type": "Full-time",
+			"salary": 74000,
+			"bonus": "Up to 5% annual bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) plan",
+				"Remote work option"
+			],
+			"date_posted": "2025-03-05",
+			"requirements": [
+				"3+ years of experience in digital content production",
+				"Strong multimedia and storytelling skills",
+				"Experience with content management systems"
+			]
+		},
+		{
+			"id": 92,
+			"title": "News Article Writer",
+			"company": {
+				"name": "Daily News Network",
+				"phone": "(212) 555-9212",
+				"email": "editorial@dailynewsnetwork.com"
+			},
+			"location": "Remote",
+			"description": "Write timely and engaging news articles covering current events and industry trends, ensuring high journalistic standards.",
+			"employment_type": "Full-time",
+			"salary": 71000,
+			"bonus": "Up to 5% annual performance bonus",
+			"benefits_package": [
+				"Comprehensive health benefits",
+				"401(k) plan",
+				"Paid time off"
+			],
+			"date_posted": "2025-03-05",
+			"requirements": [
+				"Experience in journalism or news writing",
+				"Excellent research and fact-checking skills",
+				"Bachelor's degree in Journalism or Communications"
+			]
+		},
+		{
+			"id": 93,
+			"title": "Grant Proposal Writer",
+			"company": {
+				"name": "NonProfit Write",
+				"phone": "(212) 555-9313",
+				"email": "grants@nonprofitwrite.com"
+			},
+			"location": "Remote",
+			"description": "Write compelling grant proposals to secure funding for NGOs and non-profit organizations. Collaborate with subject matter experts to produce persuasive proposals.",
+			"employment_type": "Contract",
+			"salary": 95000,
+			"bonus": "Project-based bonus",
+			"benefits_package": ["Flexible work schedule", "Remote work"],
+			"date_posted": "2025-03-05",
+			"requirements": [
+				"7+ years of grant writing experience",
+				"Proven success in securing funding",
+				"Strong research and persuasive writing skills"
+			]
+		},
+		{
+			"id": 94,
+			"title": "White Paper Writer",
+			"company": {
+				"name": "TechWhite Publications",
+				"phone": "(415) 555-9414",
+				"email": "careers@techwhitepub.com"
+			},
+			"location": "Remote",
+			"description": "Research and write detailed white papers on industry trends and technology innovations to support B2B marketing efforts.",
+			"employment_type": "Full-time",
+			"salary": 88000,
+			"bonus": "Performance bonus available",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) plan",
+				"Professional development opportunities"
+			],
+			"date_posted": "2025-03-05",
+			"requirements": [
+				"Experience in technical or business writing",
+				"Strong research and analytical skills",
+				"Bachelor's degree in a related field"
+			]
+		},
+		{
+			"id": 95,
+			"title": "Editorial Content Manager",
+			"company": {
+				"name": "Insightful Media",
+				"phone": "(212) 555-9515",
+				"email": "manager@insightfulmedia.com"
+			},
+			"location": "New York, NY",
+			"description": "Oversee the editorial content calendar and manage a team of writers to ensure the publication of high-quality content across multiple platforms.",
+			"employment_type": "Full-time",
+			"salary": 80000,
+			"bonus": "Up to 8% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) plan",
+				"Paid time off"
+			],
+			"date_posted": "2025-03-05",
+			"requirements": [
+				"Experience in editorial management",
+				"Strong leadership and communication skills",
+				"Bachelor's degree in Journalism, Communications, or related field"
+			]
+		},
+		{
+			"id": 96,
+			"title": "Press Release Writer",
+			"company": {
+				"name": "PR Express",
+				"phone": "(310) 555-9616",
+				"email": "careers@prexpress.com"
+			},
+			"location": "Los Angeles, CA",
+			"description": "Craft compelling press releases and media statements that effectively communicate company news and announcements.",
+			"employment_type": "Full-time",
+			"salary": 68000,
+			"bonus": "Performance bonus available",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Paid time off"
+			],
+			"date_posted": "2025-03-06",
+			"requirements": [
+				"3+ years of press release writing experience",
+				"Excellent writing and editing skills",
+				"Ability to work under tight deadlines"
+			]
+		},
+		{
+			"id": 97,
+			"title": "E-commerce Copywriter",
+			"company": {
+				"name": "Digital Retail Media",
+				"phone": "(646) 555-9717",
+				"email": "jobs@digitalretailmedia.com"
+			},
+			"location": "Remote",
+			"description": "Create persuasive product descriptions and marketing copy for online retailers to drive sales and enhance user experience.",
+			"employment_type": "Full-time",
+			"salary": 65000,
+			"bonus": "Project-based bonus",
+			"benefits_package": [
+				"Flexible work schedule",
+				"Remote work option",
+				"Performance incentives"
+			],
+			"date_posted": "2025-03-06",
+			"requirements": [
+				"Experience in e-commerce copywriting",
+				"Strong SEO and keyword integration skills",
+				"Ability to produce high-quality content at scale"
+			]
+		},
+		{
+			"id": 98,
+			"title": "Social Media Copywriter",
+			"company": {
+				"name": "Viral Content Co.",
+				"phone": "(212) 555-9818",
+				"email": "apply@viralcontentco.com"
+			},
+			"location": "Remote",
+			"description": "Develop creative and engaging copy for social media platforms, ensuring content aligns with brand voice and marketing objectives.",
+			"employment_type": "Full-time",
+			"salary": 63000,
+			"bonus": "Performance bonus available",
+			"benefits_package": [
+				"Health benefits",
+				"401(k) with match",
+				"Remote work flexibility"
+			],
+			"date_posted": "2025-03-06",
+			"requirements": [
+				"2+ years of social media copywriting experience",
+				"Excellent writing and storytelling skills",
+				"Knowledge of current social media trends"
+			]
+		},
+		{
+			"id": 99,
+			"title": "Technical White Paper Writer",
+			"company": {
+				"name": "TechWhite Publications",
+				"phone": "(415) 555-9919",
+				"email": "info@techwhitepub.com"
+			},
+			"location": "Remote",
+			"description": "Research and write detailed white papers on technology trends and industry innovations to support B2B marketing efforts.",
+			"employment_type": "Full-time",
+			"salary": 88000,
+			"bonus": "Performance bonus available",
+			"benefits_package": [
+				"Comprehensive health benefits",
+				"401(k) with match",
+				"Professional development opportunities"
+			],
+			"date_posted": "2025-03-06",
+			"requirements": [
+				"Experience in technical or business writing",
+				"Strong research and analytical skills",
+				"Bachelor's degree in a related field"
+			]
+		},
+		{
+			"id": 100,
+			"title": "Corporate Communications Specialist",
+			"company": {
+				"name": "CorpComm Solutions",
+				"phone": "(212) 555-1000",
+				"email": "careers@corpcommsolutions.com"
+			},
+			"location": "New York, NY",
+			"description": "Develop and manage internal and external communications, ensuring consistent messaging across corporate channels.",
+			"employment_type": "Full-time",
+			"salary": 90000,
+			"bonus": "Up to 8% annual bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Paid time off"
+			],
+			"date_posted": "2025-03-06",
+			"requirements": [
+				"Experience in corporate communications or PR",
+				"Excellent writing and interpersonal skills",
+				"Bachelor's degree in Communications, PR, or related field"
+			]
+		},
+		{
+			"id": 101,
+			"title": "Blog Editor",
+			"company": {
+				"name": "ContentCraft Media",
+				"phone": "(646) 555-1010",
+				"email": "editorial@contentcraftmedia.com"
+			},
+			"location": "Remote",
+			"description": "Edit and manage blog content to ensure high quality, engaging, and SEO-friendly articles that drive readership.",
+			"employment_type": "Full-time",
+			"salary": 70000,
+			"bonus": "Performance bonus available",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) plan",
+				"Flexible working hours"
+			],
+			"date_posted": "2025-03-06",
+			"requirements": [
+				"Experience in editing and content management",
+				"Strong understanding of SEO and digital content trends",
+				"Excellent communication skills"
+			]
+		},
+		{
+			"id": 102,
+			"title": "Content Strategist",
+			"company": {
+				"name": "Strategic Content Co.",
+				"phone": "(312) 555-1020",
+				"email": "strategy@strategiccontentco.com"
+			},
+			"location": "Remote",
+			"description": "Develop long-term content strategies to drive engagement, conversions, and brand growth. Collaborate with cross-functional teams to align content with marketing goals.",
+			"employment_type": "Full-time",
+			"salary": 80000,
+			"bonus": "Incentive bonus available",
+			"benefits_package": [
+				"Health benefits",
+				"401(k) with match",
+				"Professional development opportunities"
+			],
+			"date_posted": "2025-03-06",
+			"requirements": [
+				"Experience in content strategy and planning",
+				"Strong analytical and creative skills",
+				"Bachelor's degree in Marketing, Communications, or related field"
+			]
+		},
+		{
+			"id": 103,
+			"title": "Freelance Script Writer",
+			"company": {
+				"name": "ScreenScript Studios",
+				"phone": "(818) 555-1030",
+				"email": "scripts@screenscriptstudios.com"
+			},
+			"location": "Burbank, CA",
+			"description": "Write engaging scripts for video content, including educational, promotional, and entertainment projects. Collaborate with production teams to refine the narrative.",
+			"employment_type": "Contract",
+			"salary": 75000,
+			"bonus": "Project-based bonus",
+			"benefits_package": ["Flexible working hours", "Remote work option"],
+			"date_posted": "2025-03-06",
+			"requirements": [
+				"Proven experience in scriptwriting",
+				"Excellent storytelling and dialogue skills",
+				"Portfolio of published scripts"
+			]
+		},
+		{
+			"id": 104,
+			"title": "Grant Proposal Specialist",
+			"company": {
+				"name": "GrantPro Writers",
+				"phone": "(212) 555-1040",
+				"email": "grants@grantprowriters.com"
+			},
+			"location": "Remote",
+			"description": "Research and write detailed grant proposals for non-profit organizations to secure funding for various projects.",
+			"employment_type": "Contract",
+			"salary": 95000,
+			"bonus": "Project-based bonus",
+			"benefits_package": ["Flexible schedule", "Remote work option"],
+			"date_posted": "2025-03-06",
+			"requirements": [
+				"7+ years of grant writing experience",
+				"Proven success in securing funding",
+				"Strong research and persuasive writing skills"
+			]
+		},
+		{
+			"id": 105,
+			"title": "Marketing Copywriter",
+			"company": {
+				"name": "AdCopy Masters",
+				"phone": "(310) 555-1050",
+				"email": "apply@adcopymasters.com"
+			},
+			"location": "Los Angeles, CA",
+			"description": "Write creative and compelling copy for marketing materials including advertisements, web content, and promotional campaigns.",
+			"employment_type": "Full-time",
+			"salary": 72000,
+			"bonus": "Performance-based bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with match",
+				"Paid time off"
+			],
+			"date_posted": "2025-03-06",
+			"requirements": [
+				"3+ years of copywriting experience",
+				"Strong creative and conceptual skills",
+				"Excellent written communication and editing skills"
+			]
+		}
+	]
+}

@@ -121,14 +121,6 @@ const JobsDescription = ({ data }) => {
 						{selectedJob?.description}
 					</p>
 
-					<h4 className="font-bold text-base mt-5">Responsibilities</h4>
-
-					<ul className="list-disc ml-5 space-y-2 mt-3">
-						<li>Work with client</li>
-						<li>Work with client</li>
-						<li>Work with client</li>
-					</ul>
-
 					<h4 className="font-bold text-base mt-5">Requirements</h4>
 
 					<ul className="list-disc ml-5 space-y-2 mt-3">

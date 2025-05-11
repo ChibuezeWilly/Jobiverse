@@ -268,7 +268,7 @@ body {
 }
 
 .background {
-    background: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.5)), url("/assets/images/secondBackground.jpg");
+    background: linear-gradient(#000000e6, rgba(0, 0, 0, 0.5)), url("/assets/images/secondBackground.jpg");
     background-position: end;
     background-size: cover;
     width: 100%;

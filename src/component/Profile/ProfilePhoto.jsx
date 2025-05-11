@@ -4,13 +4,14 @@ import { useState } from "react";
 import { FaPencilAlt, FaTimes } from "react-icons/fa";
 import { useFormStore } from "../../Zustand";
 import Information from "./Information";
-import School from '/assets/images/school.jpg'
-import Company from '/assets/images/company.jpg'
+import School from "/assets/images/school.jpg";
+import Company from "/assets/images/company.jpg";
 import { FaArrowUpFromBracket } from "react-icons/fa6";
+import { useImageStore } from "../../Zustand";
 
 const ProfilePhoto = () => {
 	// for headerImage
-	const [backgroundPicture, setBackgroundPicture] = useState(null);
+	const {backgroundPicture, setBackgroundPicture} = useImageStore()
 	const [click, setClick] = useState(false);
 	const showModal = () => setClick(true);
 	const closeModal = () => setClick(false);
@@ -28,7 +29,7 @@ const ProfilePhoto = () => {
 	// end of HeaderImage
 
 	// for headerAbout
-	const [uploadedprofilePicture, setUploadedProfilePicture] = useState(null);
+	const {uploadedprofilePicture, setUploadedProfilePicture} = useImageStore()
 	const [headerClick, setheaderClick] = useState(false);
 	const showHeaderModal = () => setheaderClick(true);
 	const closeHeaderModal = () => setheaderClick(false);
@@ -45,9 +46,18 @@ const ProfilePhoto = () => {
 	};
 	// end of header About
 
-	// FOR ZUSTAND 
-	const {name, heading, locations, city, companyName, school, link, linkText} = useFormStore()
-	// 
+	// FOR ZUSTAND
+	const {
+		name,
+		heading,
+		locations,
+		city,
+		companyName,
+		school,
+		link,
+		linkText,
+	} = useFormStore();
+	//
 
 	return (
 		<>

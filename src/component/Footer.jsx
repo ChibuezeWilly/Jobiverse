@@ -54,9 +54,7 @@ const Footer = () => {
 						<NavLink className={"text-white"} to={"/profile"}>
 							Profile
 						</NavLink>
-						<NavLink className={"text-white"} to={"/blogs"}>
-							Blogs
-						</NavLink>
+						
 						<NavLink className={"text-white"} to={"/contact"}>
 							Contact Us
 						</NavLink>
@@ -72,9 +70,7 @@ const Footer = () => {
 						<NavLink className={"text-white"} to={"/profile"}>
 							Profile
 						</NavLink>
-						<NavLink className={"text-white"} to={"/blogs"}>
-							Blogs
-						</NavLink>
+					
 						<NavLink className={"text-white"} to={"/contact"}>
 							Contact Us
 						</NavLink>

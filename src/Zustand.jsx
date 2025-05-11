@@ -5,6 +5,14 @@ export const useJobStore = create((set) => ({
 	setSelectedJob: (job) => set({ selectedJob: job }),
 }));
 
+export const useImageStore = create((set) => ({
+	backgroundPicture: null,
+	setBackgroundPicture: (value) => set({ backgroundPicture: value }),
+
+	uploadedprofilePicture: null,
+	setUploadedProfilePicture: (value) => set({ profile: value }),
+}));
+
 export const useCountStore = create((set) => ({
 	count: 0,
 	increaseCount: () => set((state) => ({ count: state.count + 1 })),
@@ -208,20 +216,42 @@ export const signedUser = create((set) => ({
 	setPassword: (value) => set({ password: value }),
 }));
 
-export const jobSeeker = create((set) => ({
+export const useJobSeeker = create((set) => ({
+	candidate: localStorage.getItem("candidate") === "true",
+	setCandidate: (value) => {
+		localStorage.setItem("candidate", "true")
+		set({ candidate: value })
+	},
 	name: null,
 	setName: (value) => set({ name: value }),
 	email: null,
 	password: null,
 	setEmail: (value) => set({ email: value }),
 	setPassword: (value) => set({ password: value }),
+	resetValue: () =>
+		set({
+			name: "",
+			email: "",
+			password: "",
+		}),
 }));
 
-export const employer = create((set) => ({
+export const useEmployer = create((set) => ({
+	employer: localStorage.getItem("employer") === "true",
+	setEmployer: (value) => {
+		localStorage.setItem("employer", "true");
+		set({ employer: value });
+	},
 	name: null,
 	setName: (value) => set({ name: value }),
 	email: null,
 	password: null,
 	setEmail: (value) => set({ email: value }),
 	setPassword: (value) => set({ password: value }),
+	resetValue: () =>
+		set({
+			name: "",
+			email: "",
+			password: "",
+		}),
 }));

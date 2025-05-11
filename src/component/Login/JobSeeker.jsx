@@ -3,23 +3,32 @@ import GoogleLogo from "/assets/images/google1.jpeg";
 import { useNavigate } from "react-router-dom";
 import { useAuthenticatedStore } from "../../Zustand";
 import { signInButton } from "../../GoogleSignIn";
-import { useSetUser, jobSeeker } from "../../Zustand";
+import { useSetUser, useJobSeeker } from "../../Zustand";
 
 const JobSeeker = () => {
 	const { setUser } = useSetUser();
 	const navigate = useNavigate();
 	const toJobSeeker = () => navigate("/jobseeker");
 	const { setAuthenticated } = useAuthenticatedStore();
+	const {
+		email,
+		password,
+		setEmail,
+		setPassword,
+		name,
+		setName,
+		setCandidate,
+		resetValue
+	} = useJobSeeker();
+	
 
 	const signIn = async () => {
 		const signedUser = await signInButton();
 		setUser(signedUser);
 		setAuthenticated(true);
+		setCandidate(true)
+		resetValue()
 	};
-
-	const {email, password, setEmail, setPassword, name, setName} = jobSeeker()
-	
-
 	// set it to true in the POST function
 
 	return (

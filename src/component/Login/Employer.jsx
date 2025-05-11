@@ -1,20 +1,34 @@
 import React from "react";
 import GoogleLogo from "/assets/images/google1.jpeg";
-import { useNavigate } from "react-router-dom";
 import { useAuthenticatedStore } from "../../Zustand";
 import { signInButton } from "../../GoogleSignIn";
-import { useSetUser, employer } from "../../Zustand";
+import { useSetUser, useEmployer } from "../../Zustand";
+import { useNavigate } from "react-router-dom";
 
 const Employer = () => {
-	const {setUser} = useSetUser();
+	const navigate = useNavigate()
+	const toHome = () => navigate('/')
+	const { setUser } = useSetUser();
+	const {
+		email,
+		password,
+		setEmail,
+		setPassword,
+		name,
+		setName,
+		setEmployer,
+		resetValue,
+	} = useEmployer();
 	const { setAuthenticated } = useAuthenticatedStore();
 	const signIn = async () => {
 		const signedUser = await signInButton();
 		setUser(signedUser);
 		setAuthenticated(true);
+		toHome()
+		setEmployer(true);
+		resetValue();
+		console.log("employer is true");
 	};
-
-	const {email, password, setEmail, setPassword, name, setName} = employer()
 
 	// set it to true in the POST function
 	return (
@@ -35,7 +49,7 @@ const Employer = () => {
 						type="text"
 						name=""
 						id="name"
-						value={email}
+						value={name}
 						onChange={(e) => setName(e.target.value)}
 						className="h-12 md:h-10 w-full mt-1 block bg-slate-200 outline-blue-700 text-black pl-3 rounded-md font-normal placeholder-gray-600"
 						placeholder="Name"

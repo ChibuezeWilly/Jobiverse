@@ -1,0 +1,2582 @@
+{
+	"graphics": [
+		{
+			"id": 1,
+			"title": "Graphic Designer",
+			"company": {
+				"name": "Creative Designs Co.",
+				"phone": "(404) 555-1001",
+				"email": "jobs@creativedesigns.com"
+			},
+			"location": "Remote",
+			"description": "We are looking for a talented Graphic Designer to create visually appealing designs for various projects.",
+			"employment_type": "Full-time",
+			"salary": 60000,
+			"bonus": "Up to 10% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Paid time off and holidays",
+				"Flexible working hours"
+			],
+			"date_posted": "2025-03-22",
+			"requirements": [
+				"Bachelor's degree in Graphic Design or related field",
+				"2+ years of experience in graphic design",
+				"Proficiency in Adobe Creative Suite"
+			]
+		},
+		{
+			"id": 2,
+			"title": "Senior Graphic Designer",
+			"company": {
+				"name": "Innovative Media Group",
+				"phone": "(404) 555-1002",
+				"email": "careers@innovativemedia.com"
+			},
+			"location": "New York, NY",
+			"description": "Seeking a Senior Graphic Designer to lead design projects and mentor junior designers.",
+			"employment_type": "Full-time",
+			"salary": 80000,
+			"bonus": "Up to 15% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Paid time off and holidays",
+				"Professional development opportunities"
+			],
+			"date_posted": "2025-03-20",
+			"requirements": [
+				"Bachelor's degree in Graphic Design or related field",
+				"5+ years of experience in graphic design",
+				"Strong portfolio showcasing design skills"
+			]
+		},
+		{
+			"id": 3,
+			"title": "Graphic Design Intern",
+			"company": {
+				"name": "NextGen Creatives",
+				"phone": "(404) 555-1003",
+				"email": "jobs@nextgencreatives.com"
+			},
+			"location": "Remote",
+			"description": "Join our team as a Graphic Design Intern to assist with design projects and gain hands-on experience.",
+			"employment_type": "Internship",
+			"salary": 20000,
+			"bonus": "N/A",
+			"benefits_package": [
+				"Mentorship opportunities",
+				"Flexible working hours",
+				"Remote work options"
+			],
+			"date_posted": "2025-03-18",
+			"requirements": [
+				"Currently pursuing a degree in Graphic Design or related field",
+				"Strong interest in graphic design",
+				"Basic knowledge of Adobe Creative Suite"
+			]
+		},
+		{
+			"id": 4,
+			"title": "Graphic Designer - Marketing",
+			"company": {
+				"name": "Marketing Innovations LLC",
+				"phone": "(404) 555-1004",
+				"email": "careers@marketinginnovations.com"
+			},
+			"location": "Chicago, IL",
+			"description": "We are looking for a Graphic Designer to create marketing materials and digital content.",
+			"employment_type": "Full-time",
+			"salary": 65000,
+			"bonus": "Up to 12% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Paid time off and holidays",
+				"Team-building activities"
+			],
+			"date_posted": "2025-03-15",
+			"requirements": [
+				"Bachelor's degree in Graphic Design or related field",
+				"3+ years of experience in graphic design",
+				"Experience with digital marketing materials"
+			]
+		},
+		{
+			"id": 5,
+			"title": "UI/UX Graphic Designer",
+			"company": {
+				"name": "Tech Solutions Group",
+				"phone": "(404) 555-1005",
+				"email": "jobs@techsolutionsgroup.com"
+			},
+			"location": "San Francisco, CA",
+			"description": "Seeking a UI/UX Graphic Designer to create user-friendly interfaces and enhance user experience.",
+			"employment_type": "Full-time",
+			"salary": 70000,
+			"bonus": "Up to 15% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Paid time off and holidays",
+				"Work-from-home options"
+			],
+			"date_posted": "2025-03-10",
+			"requirements": [
+				"Bachelor's degree in Graphic Design, UI/UX, or related field",
+				"3+ years of experience in UI/UX design",
+				"Proficiency in design tools such as Sketch and Figma"
+			]
+		},
+		{
+			"id": 6,
+			"title": "Freelance Graphic Designer",
+			"company": {
+				"name": "Freelance Network",
+				"phone": "(404) 555-1006",
+				"email": "contact@freelancenetwork.com"
+			},
+			"location": "Remote",
+			"description": "Looking for a Freelance Graphic Designer to work on various projects on a contract basis.",
+			"employment_type": "Contract",
+			"salary": "Negotiable",
+			"bonus": "N/A",
+			"benefits_package": ["Flexible schedule", "Remote work options"],
+			"date_posted": "2025-03-05",
+			"requirements": [
+				"Proven experience as a freelance graphic designer",
+				"Strong portfolio of previous work",
+				"Ability to meet deadlines"
+			]
+		},
+		{
+			"id": 7,
+			"title": "Graphic Designer - Branding",
+			"company": {
+				"name": "Brand Builders Inc.",
+				"phone": "(404) 555-1007",
+				"email": "jobs@brandbuilders.com"
+			},
+			"location": "Austin, TX",
+			"description": "We are seeking a Graphic Designer specializing in branding to help develop and maintain brand identity.",
+			"employment_type": "Full-time",
+			"salary": 75000,
+			"bonus": "Up to 10% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Paid time off and holidays",
+				"Creative work environment"
+			],
+			"date_posted": "2025-03-01",
+			"requirements": [
+				"Bachelor's degree in Graphic Design or related field",
+				"4+ years of experience in branding",
+				"Strong understanding of brand strategy"
+			]
+		},
+		{
+			"id": 8,
+			"title": "Motion Graphic Designer",
+			"company": {
+				"name": "Dynamic Media Productions",
+				"phone": "(404) 555-1008",
+				"email": "careers@dynamicmedia.com"
+			},
+			"location": "Los Angeles, CA",
+			"description": "Seeking a Motion Graphic Designer to create engaging animations and video graphics.",
+			"employment_type": "Full-time",
+			"salary": 70000,
+			"bonus": "Up to 12% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Paid time off and holidays",
+				"Access to industry events"
+			],
+			"date_posted": "2025-02-25",
+			"requirements": [
+				"Bachelor's degree in Graphic Design or related field",
+				"2+ years of experience in motion graphics",
+				"Proficiency in After Effects and Premiere Pro"
+			]
+		},
+		{
+			"id": 9,
+			"title": "Graphic Designer - Print Media",
+			"company": {
+				"name": "Print Solutions Ltd.",
+				"phone": "(404) 555-1009",
+				"email": "jobs@printsolutions.com"
+			},
+			"location": "Seattle, WA",
+			"description": "We are looking for a Graphic Designer with a focus on print media to create brochures, flyers, and other printed materials.",
+			"employment_type": "Full-time",
+			"salary": 65000,
+			"bonus": "Up to 10% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Paid time off and holidays",
+				"Creative team environment"
+			],
+			"date_posted": "2025-02-20",
+			"requirements": [
+				"Bachelor's degree in Graphic Design or related field",
+				"3+ years of experience in print design",
+				"Strong understanding of print production processes"
+			]
+		},
+		{
+			"id": 10,
+			"title": "Graphic Designer - Social Media",
+			"company": {
+				"name": "Social Media Agency",
+				"phone": "(404) 555-1010",
+				"email": "careers@socialmediaagency.com"
+			},
+			"location": "Remote",
+			"description": "Looking for a Graphic Designer to create eye-catching graphics for social media platforms.",
+			"employment_type": "Full-time",
+			"salary": 60000,
+			"bonus": "Up to 10% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Paid time off and holidays",
+				"Remote work options"
+			],
+			"date_posted": "2025-02-15",
+			"requirements": [
+				"Bachelor's degree in Graphic Design or related field",
+				"2+ years of experience in social media design",
+				"Strong understanding of social media trends"
+			]
+		},
+		{
+			"id": 11,
+			"title": "Graphic Designer - E-commerce",
+			"company": {
+				"name": "E-commerce Solutions",
+				"phone": "(404) 555-1011",
+				"email": "jobs@ecommercesolutions.com"
+			},
+			"location": "Miami, FL",
+			"description": "We are seeking a Graphic Designer to create product images and promotional graphics for our e-commerce platform.",
+			"employment_type": "Full-time",
+			"salary": 68000,
+			"bonus": "Up to 12% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Paid time off and holidays",
+				"Employee discounts"
+			],
+			"date_posted": "2025-02-10",
+			"requirements": [
+				"Bachelor's degree in Graphic Design or related field",
+				"3+ years of experience in e-commerce design",
+				"Proficiency in Photoshop and Illustrator"
+			]
+		},
+		{
+			"id": 12,
+			"title": "Graphic Designer - Events",
+			"company": {
+				"name": "Event Planning Co.",
+				"phone": "(404) 555-1012",
+				"email": "careers@eventplanningco.com"
+			},
+			"location": "Boston, MA",
+			"description": "Looking for a Graphic Designer to create promotional materials for events and conferences.",
+			"employment_type": "Full-time",
+			"salary": 72000,
+			"bonus": "Up to 10% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Paid time off and holidays",
+				"Travel opportunities"
+			],
+			"date_posted": "2025-02-05",
+			"requirements": [
+				"Bachelor's degree in Graphic Design or related field",
+				"2+ years of experience in event design",
+				"Strong organizational skills"
+			]
+		},
+		{
+			"id": 13,
+			"title": "Graphic Designer - Advertising",
+			"company": {
+				"name": "Ad Agency Inc.",
+				"phone": "(404) 555-1013",
+				"email": "jobs@adagency.com"
+			},
+			"location": "Denver, CO",
+			"description": "We are looking for a Graphic Designer to create compelling advertisements for various media.",
+			"employment_type": "Full-time",
+			"salary": 75000,
+			"bonus": "Up to 15% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Paid time off and holidays",
+				"Creative workspace"
+			],
+			"date_posted": "2025-02-01",
+			"requirements": [
+				"Bachelor's degree in Graphic Design or related field",
+				"4+ years of experience in advertising design",
+				"Strong portfolio of advertising work"
+			]
+		},
+		{
+			"id": 14,
+			"title": "Graphic Designer - Fashion",
+			"company": {
+				"name": "Fashion Forward",
+				"phone": "(404) 555-1014",
+				"email": "careers@fashionforward.com"
+			},
+			"location": "Los Angeles, CA",
+			"description": "Seeking a Graphic Designer to create visually stunning graphics for fashion campaigns.",
+			"employment_type": "Full-time",
+			"salary": 70000,
+			"bonus": "Up to 10% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Paid time off and holidays",
+				"Fashion industry events"
+			],
+			"date_posted": "2025-01-28",
+			"requirements": [
+				"Bachelor's degree in Graphic Design or related field",
+				"3+ years of experience in fashion design",
+				"Strong sense of style and trends"
+			]
+		},
+		{
+			"id": 15,
+			"title": "Graphic Designer - Nonprofit",
+			"company": {
+				"name": "Helping Hands Org.",
+				"phone": "(404) 555-1015",
+				"email": "jobs@helpinghands.org"
+			},
+			"location": "Remote",
+			"description": "We are looking for a Graphic Designer to create impactful visuals for our nonprofit campaigns.",
+			"employment_type": "Full-time",
+			"salary": 65000,
+			"bonus": "Up to 10% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Paid time off and holidays",
+				"Opportunities for community engagement"
+			],
+			"date_posted": "2025-01-25",
+			"requirements": [
+				"Bachelor's degree in Graphic Design or related field",
+				"2+ years of experience in nonprofit design",
+				"Passion for social causes and community work"
+			]
+		},
+		{
+			"id": 16,
+			"title": "Graphic Designer - Digital Media",
+			"company": {
+				"name": "Digital Art Studio",
+				"phone": "(415) 555-1601",
+				"email": "careers@digitalartstudio.com"
+			},
+			"location": "San Francisco, CA",
+			"description": "Design digital assets for websites, social media, and online advertising campaigns.",
+			"employment_type": "Full-time",
+			"salary": 68000,
+			"bonus": "Performance bonus available",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Remote work flexibility"
+			],
+			"date_posted": "2025-03-10",
+			"requirements": [
+				"Bachelor's degree in Graphic Design or related field",
+				"3+ years of digital design experience",
+				"Proficiency in Adobe Creative Suite"
+			]
+		},
+		{
+			"id": 17,
+			"title": "UI/UX Designer",
+			"company": {
+				"name": "Creative Interfaces",
+				"phone": "(312) 555-1702",
+				"email": "apply@creativeinterfaces.com"
+			},
+			"location": "Remote",
+			"description": "Design intuitive user interfaces and craft user experiences for web and mobile applications.",
+			"employment_type": "Full-time",
+			"salary": 75000,
+			"bonus": "Up to 8% performance bonus",
+			"benefits_package": [
+				"Comprehensive health benefits",
+				"401(k) plan",
+				"Flexible schedule"
+			],
+			"date_posted": "2025-03-10",
+			"requirements": [
+				"Experience in UI/UX design and prototyping",
+				"Proficiency in Figma, Sketch, or Adobe XD",
+				"Strong portfolio showcasing previous projects"
+			]
+		},
+		{
+			"id": 18,
+			"title": "Motion Graphics Designer",
+			"company": {
+				"name": "Dynamic Visuals",
+				"phone": "(310) 555-1803",
+				"email": "jobs@dynamicvisuals.com"
+			},
+			"location": "Los Angeles, CA",
+			"description": "Create engaging motion graphics for digital campaigns, explainer videos, and social media content.",
+			"employment_type": "Full-time",
+			"salary": 72000,
+			"bonus": "Project-based bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Paid time off"
+			],
+			"date_posted": "2025-03-10",
+			"requirements": [
+				"Proficiency in Adobe After Effects and Cinema 4D",
+				"Experience in motion design and animation",
+				"Creative storytelling skills"
+			]
+		},
+		{
+			"id": 19,
+			"title": "Brand Identity Designer",
+			"company": {
+				"name": "BrandForge",
+				"phone": "(212) 555-1904",
+				"email": "info@brandforge.com"
+			},
+			"location": "New York, NY",
+			"description": "Develop cohesive brand identities including logos, color schemes, and typography for diverse clients.",
+			"employment_type": "Full-time",
+			"salary": 80000,
+			"bonus": "Up to 10% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with match",
+				"Remote work options"
+			],
+			"date_posted": "2025-03-10",
+			"requirements": [
+				"Bachelor's degree in Graphic Design or related field",
+				"5+ years of experience in brand identity design",
+				"Strong portfolio demonstrating brand development"
+			]
+		},
+		{
+			"id": 20,
+			"title": "Illustrator",
+			"company": {
+				"name": "IllustrateIt",
+				"phone": "(646) 555-2005",
+				"email": "contact@illustrateit.com"
+			},
+			"location": "Remote",
+			"description": "Create digital illustrations for editorial, advertising, and product design projects.",
+			"employment_type": "Freelance",
+			"salary": 60000,
+			"bonus": "Project-based incentives",
+			"benefits_package": ["Flexible work schedule", "Remote work opportunity"],
+			"date_posted": "2025-03-10",
+			"requirements": [
+				"Strong drawing skills and proficiency in Adobe Illustrator",
+				"Experience in digital illustration for print and web",
+				"Creative and versatile portfolio"
+			]
+		},
+		{
+			"id": 21,
+			"title": "3D Animator",
+			"company": {
+				"name": "3D Motion Studio",
+				"phone": "(312) 555-2106",
+				"email": "careers@3dmotionstudio.com"
+			},
+			"location": "Chicago, IL",
+			"description": "Develop 3D animations for video games, films, and interactive media. Create detailed models and animations using industry-standard software.",
+			"employment_type": "Full-time",
+			"salary": 85000,
+			"bonus": "Annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Paid vacation"
+			],
+			"date_posted": "2025-03-10",
+			"requirements": [
+				"Experience with 3D modeling and animation software (Blender, Maya)",
+				"Strong creative and technical skills",
+				"Bachelor's degree in Animation, 3D Design, or related field"
+			]
+		},
+		{
+			"id": 22,
+			"title": "Print Designer",
+			"company": {
+				"name": "PrintCraft",
+				"phone": "(617) 555-2207",
+				"email": "apply@printcraft.com"
+			},
+			"location": "Boston, MA",
+			"description": "Design high-quality print materials including brochures, posters, and packaging. Ensure designs are print-ready and meet production standards.",
+			"employment_type": "Full-time",
+			"salary": 70000,
+			"bonus": "Up to 5% annual bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) plan",
+				"Paid time off"
+			],
+			"date_posted": "2025-03-10",
+			"requirements": [
+				"Experience in print design and production",
+				"Proficiency in Adobe InDesign and Illustrator",
+				"Attention to detail and strong typography skills"
+			]
+		},
+		{
+			"id": 23,
+			"title": "Web Designer",
+			"company": {
+				"name": "WebArt Solutions",
+				"phone": "(512) 555-2308",
+				"email": "design@webartsolutions.com"
+			},
+			"location": "Austin, TX",
+			"description": "Create visually appealing and user-friendly website layouts, ensuring responsive design and seamless user experience.",
+			"employment_type": "Full-time",
+			"salary": 75000,
+			"bonus": "Performance bonus available",
+			"benefits_package": [
+				"Health benefits",
+				"401(k) with match",
+				"Remote work flexibility"
+			],
+			"date_posted": "2025-03-10",
+			"requirements": [
+				"Experience in web design and UX/UI principles",
+				"Proficiency in HTML, CSS, and design tools like Figma or Sketch",
+				"Strong portfolio of previous web design projects"
+			]
+		},
+		{
+			"id": 24,
+			"title": "Packaging Designer",
+			"company": {
+				"name": "PackIt Creative",
+				"phone": "(310) 555-2409",
+				"email": "careers@packitcreative.com"
+			},
+			"location": "Los Angeles, CA",
+			"description": "Design innovative and attractive packaging for consumer products. Collaborate with marketing and production teams to ensure designs meet both aesthetic and functional requirements.",
+			"employment_type": "Full-time",
+			"salary": 72000,
+			"bonus": "Project-based bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Flexible working hours"
+			],
+			"date_posted": "2025-03-10",
+			"requirements": [
+				"Experience in packaging design",
+				"Proficiency in Adobe Illustrator and Photoshop",
+				"Understanding of materials and print production processes"
+			]
+		},
+		{
+			"id": 25,
+			"title": "Product Designer",
+			"company": {
+				"name": "Innovative Design Group",
+				"phone": "(408) 555-2510",
+				"email": "apply@innovativedesigngroup.com"
+			},
+			"location": "San Diego, CA",
+			"description": "Design user-centric products, collaborating with engineers and product managers to ensure functionality and aesthetic appeal.",
+			"employment_type": "Full-time",
+			"salary": 80000,
+			"bonus": "Up to 8% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Paid time off"
+			],
+			"date_posted": "2025-03-10",
+			"requirements": [
+				"Bachelor's degree in Product Design or Industrial Design",
+				"Experience in product design and prototyping",
+				"Strong creative and problem-solving skills"
+			]
+		},
+		{
+			"id": 26,
+			"title": "Freelance Graphic Designer",
+			"company": {
+				"name": "Freelance Creatives",
+				"phone": "(312) 555-2611",
+				"email": "contact@freelancecreatives.com"
+			},
+			"location": "Remote",
+			"description": "Work on a variety of design projects for clients, from digital assets to print materials, on a freelance basis.",
+			"employment_type": "Contract",
+			"salary": 65000,
+			"bonus": "Project-based incentives",
+			"benefits_package": ["Flexible schedule", "Remote work option"],
+			"date_posted": "2025-03-10",
+			"requirements": [
+				"Strong portfolio of diverse design work",
+				"Proficiency in Adobe Creative Suite",
+				"Ability to meet tight deadlines"
+			]
+		},
+		{
+			"id": 27,
+			"title": "Visual Designer",
+			"company": {
+				"name": "Visual Impact",
+				"phone": "(312) 555-2712",
+				"email": "careers@visualimpact.com"
+			},
+			"location": "Seattle, WA",
+			"description": "Create visual content and design assets for digital platforms, ensuring alignment with brand guidelines and enhancing user engagement.",
+			"employment_type": "Full-time",
+			"salary": 73000,
+			"bonus": "Performance bonus available",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) plan",
+				"Remote work options"
+			],
+			"date_posted": "2025-03-10",
+			"requirements": [
+				"Experience in visual design for digital media",
+				"Proficiency in Photoshop and Illustrator",
+				"Strong portfolio showcasing modern design aesthetics"
+			]
+		},
+		{
+			"id": 28,
+			"title": "Environmental Graphic Designer",
+			"company": {
+				"name": "EcoDesign",
+				"phone": "(503) 555-2813",
+				"email": "info@ecodeign.com"
+			},
+			"location": "Portland, OR",
+			"description": "Design signage, wayfinding systems, and environmental graphics for public spaces and commercial properties with a focus on sustainability.",
+			"employment_type": "Full-time",
+			"salary": 70000,
+			"bonus": "Up to 6% performance bonus",
+			"benefits_package": [
+				"Health and dental insurance",
+				"401(k) plan",
+				"Paid vacation"
+			],
+			"date_posted": "2025-03-10",
+			"requirements": [
+				"Bachelor's degree in Graphic Design or Environmental Design",
+				"Experience with signage and wayfinding systems",
+				"Strong creative and technical skills"
+			]
+		},
+		{
+			"id": 29,
+			"title": "Infographic Designer",
+			"company": {
+				"name": "InfoVis Inc.",
+				"phone": "(646) 555-2914",
+				"email": "apply@infovisinc.com"
+			},
+			"location": "Remote",
+			"description": "Create engaging infographics and data visualizations that simplify complex information for various audiences.",
+			"employment_type": "Full-time",
+			"salary": 68000,
+			"bonus": "Performance bonus available",
+			"benefits_package": [
+				"Health benefits",
+				"401(k) with match",
+				"Remote work flexibility"
+			],
+			"date_posted": "2025-03-10",
+			"requirements": [
+				"Experience in data visualization and infographic design",
+				"Proficiency in Adobe Illustrator and Photoshop",
+				"Strong analytical and creative skills"
+			]
+		},
+		{
+			"id": 30,
+			"title": "Typography Specialist",
+			"company": {
+				"name": "TypeCraft",
+				"phone": "(212) 555-3015",
+				"email": "jobs@typecraft.com"
+			},
+			"location": "New York, NY",
+			"description": "Focus on designing and refining typography for print and digital media to ensure clarity and aesthetic appeal.",
+			"employment_type": "Full-time",
+			"salary": 71000,
+			"bonus": "Annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) plan",
+				"Paid time off"
+			],
+			"date_posted": "2025-03-10",
+			"requirements": [
+				"Experience in typography and layout design",
+				"Strong attention to detail",
+				"Proficiency in design software such as Adobe Illustrator and InDesign"
+			]
+		},
+		{
+			"id": 31,
+			"title": "Graphic Designer",
+			"company": {
+				"name": "Creative Designs Co.",
+				"phone": "(212) 555-4000",
+				"email": "jobs@creativedesignsco.com"
+			},
+			"location": "New York, NY",
+			"description": "Develop visual concepts that inspire, inform, and transform.",
+			"employment_type": "Full-time",
+			"salary": 60000,
+			"bonus": "Up to 5%",
+			"benefits_package": [
+				"Health insurance",
+				"Paid time off",
+				"401(k) with company match"
+			],
+			"date_posted": "2025-01-15",
+			"requirements": [
+				"2+ years in graphic design",
+				"Proficient in Adobe Creative Suite",
+				"Strong portfolio showcasing design skills"
+			]
+		},
+		{
+			"id": 32,
+			"title": "Senior Graphic Designer",
+			"company": {
+				"name": "Design Innovations LLC",
+				"phone": "(212) 555-4100",
+				"email": "careers@designinnovations.com"
+			},
+			"location": "Chicago, IL",
+			"description": "Lead design projects and mentor junior designers.",
+			"employment_type": "Full-time",
+			"salary": 80000,
+			"bonus": "Up to 8%",
+			"benefits_package": [
+				"Health and dental benefits",
+				"Flexible schedule",
+				"Paid time off"
+			],
+			"date_posted": "2025-01-20",
+			"requirements": [
+				"5+ years in graphic design",
+				"Leadership experience preferred",
+				"Strong portfolio of design work"
+			]
+		},
+		{
+			"id": 33,
+			"title": "UI/UX Graphic Designer",
+			"company": {
+				"name": "Digital Solutions Inc.",
+				"phone": "(212) 555-4200",
+				"email": "jobs@digitalsolutions.com"
+			},
+			"location": "San Francisco, CA",
+			"description": "Create user-friendly interfaces for web and mobile applications.",
+			"employment_type": "Full-time",
+			"salary": 75000,
+			"bonus": "Up to 7%",
+			"benefits_package": [
+				"Health insurance",
+				"401(k) with company match",
+				"Generous PTO policy"
+			],
+			"date_posted": "2025-01-25",
+			"requirements": [
+				"3+ years in UI/UX design",
+				"Familiarity with design tools like Sketch and Figma",
+				"Strong problem-solving skills"
+			]
+		},
+		{
+			"id": 34,
+			"title": "Brand Identity Designer",
+			"company": {
+				"name": "Brand Builders Inc.",
+				"phone": "(212) 555-4300",
+				"email": "careers@brandbuilders.com"
+			},
+			"location": "Boston, MA",
+			"description": "Develop and maintain brand identity across all channels.",
+			"employment_type": "Full-time",
+			"salary": 70000,
+			"bonus": "Up to 6%",
+			"benefits_package": [
+				"Health and wellness programs",
+				"Remote work options",
+				"Paid time off"
+			],
+			"date_posted": "2025-01-30",
+			"requirements": [
+				"4+ years in branding or graphic design",
+				"Proficient in Adobe Creative Suite",
+				"Strong understanding of branding principles"
+			]
+		},
+		{
+			"id": 35,
+			"title": "Graphic Design Intern",
+			"company": {
+				"name": "Creative Minds",
+				"phone": "(212) 555-1500",
+				"email": "internships@creativeminds.com"
+			},
+			"location": "Chicago, IL",
+			"description": "Assist with graphic design tasks and learn from experienced designers.",
+			"employment_type": "Internship",
+			"salary": "Unpaid",
+			"bonus": "N/A",
+			"benefits_package": [
+				"Training and mentorship",
+				"Networking opportunities",
+				"Potential for future employment"
+			],
+			"date_posted": "2025-01-30",
+			"requirements": [
+				"Enrolled in design or related program",
+				"Basic knowledge of design software",
+				"Strong willingness to learn"
+			]
+		},
+		{
+			"id": 36,
+			"title": "Web Graphic Designer",
+			"company": {
+				"name": "Digital Designs Co.",
+				"phone": "(212) 555-1600",
+				"email": "careers@digitaldesignsco.com"
+			},
+			"location": "San Francisco, CA",
+			"description": "Create web graphics and layouts for websites and online marketing.",
+			"employment_type": "Full-time",
+			"salary": 70000,
+			"bonus": "Up to 7% annual performance bonus",
+			"benefits_package": [
+				"Health and dental insurance",
+				"401(k) with match",
+				"Paid time off",
+				"Flexible work schedule"
+			],
+			"date_posted": "2025-02-01",
+			"requirements": [
+				"3+ years in graphic design with a focus on web",
+				"Proficient in web design tools",
+				"Strong understanding of UX/UI"
+			]
+		},
+		{
+			"id": 37,
+			"title": "Print Graphic Designer",
+			"company": {
+				"name": "Print Works",
+				"phone": "(212) 555-1700",
+				"email": "jobs@printworks.com"
+			},
+			"location": "Boston, MA",
+			"description": "Design graphics for print media including brochures, posters, and flyers.",
+			"employment_type": "Full-time",
+			"salary": 65000,
+			"bonus": "Up to 6% annual performance bonus",
+			"benefits_package": [
+				"Health benefits",
+				"401(k) with company match",
+				"Paid time off",
+				"Work-life balance initiatives"
+			],
+			"date_posted": "2025-02-05",
+			"requirements": [
+				"4+ years of print design experience",
+				"Strong typography skills",
+				"Experience with Adobe Creative Suite"
+			]
+		},
+		{
+			"id": 38,
+			"title": "Brand Graphic Designer",
+			"company": {
+				"name": "Brand Builders",
+				"phone": "(212) 555-1800",
+				"email": "careers@brandbuilders.com"
+			},
+			"location": "Seattle, WA",
+			"description": "Create graphics that align with brand strategy and visual identity.",
+			"employment_type": "Full-time",
+			"salary": 75000,
+			"bonus": "Up to 5% annual performance bonus",
+			"benefits_package": [
+				"Health insurance",
+				"401(k) with match",
+				"Paid time off",
+				"Employee wellness programs"
+			],
+			"date_posted": "2025-02-10",
+			"requirements": [
+				"5+ years in graphic design focused on branding",
+				"Ability to work collaboratively",
+				"Strong analytical skills"
+			]
+		},
+		{
+			"id": 39,
+			"title": "UX/UI Graphic Designer",
+			"company": {
+				"name": "User Experience Pro",
+				"phone": "(212) 555-1900",
+				"email": "jobs@userexperiencepro.com"
+			},
+			"location": "Denver, CO",
+			"description": "Design user-centric interfaces for web and mobile applications.",
+			"employment_type": "Full-time",
+			"salary": 85000,
+			"bonus": "Up to 10% annual performance bonus",
+			"benefits_package": [
+				"Comprehensive health benefits",
+				"401(k) plan",
+				"Flexible work hours",
+				"Paid vacation"
+			],
+			"date_posted": "2025-02-12",
+			"requirements": [
+				"4+ years in UX/UI design",
+				"Strong portfolio demonstrating design process",
+				"Proficient in design thinking methods"
+			]
+		},
+		{
+			"id": 40,
+			"title": "Motion Graphic Designer",
+			"company": {
+				"name": "Creative Animation Studio",
+				"phone": "(212) 555-2000",
+				"email": "careers@creativeanimationstudio.com"
+			},
+			"location": "Atlanta, GA",
+			"description": "Create animations and motion graphics for video and online content.",
+			"employment_type": "Full-time",
+			"salary": 70000,
+			"bonus": "Up to 8% annual performance bonus",
+			"benefits_package": [
+				"Health and dental insurance",
+				"401(k) with company match",
+				"Paid time off",
+				"Creative environment"
+			],
+			"date_posted": "2025-02-15",
+			"requirements": [
+				"3+ years in motion graphics design",
+				"Experience with animation software",
+				"Strong storytelling and visual skills"
+			]
+		},
+		{
+			"id": 41,
+			"title": "Graphic Design Consultant",
+			"company": {
+				"name": "Consulting Designers",
+				"phone": "(212) 555-2100",
+				"email": "consult@consultingdesigners.com"
+			},
+			"location": "New York, NY",
+			"description": "Provide expert advice on graphic design strategies and execution.",
+			"employment_type": "Contract",
+			"salary": "Negotiable",
+			"bonus": "N/A",
+			"benefits_package": [
+				"Flexible working arrangements",
+				"Variety of clients and projects"
+			],
+			"date_posted": "2025-02-20",
+			"requirements": [
+				"Extensive experience in graphic design",
+				"Strong communication skills",
+				"Ability to work independently"
+			]
+		},
+		{
+			"id": 42,
+			"title": "Event Graphic Designer",
+			"company": {
+				"name": "Event Solutions Co.",
+				"phone": "(212) 555-2200",
+				"email": "info@eventsolutionsco.com"
+			},
+			"location": "San Diego, CA",
+			"description": "Design event materials such as banners, brochures, and signage.",
+			"employment_type": "Full-time",
+			"salary": 60000,
+			"bonus": "Up to 4% annual performance bonus",
+			"benefits_package": [
+				"Health insurance",
+				"401(k) with match",
+				"Paid time off",
+				"Team building events"
+			],
+			"date_posted": "2025-02-22",
+			"requirements": [
+				"2+ years in event design",
+				"Strong attention to detail",
+				"Ability to work under tight deadlines"
+			]
+		},
+		{
+			"id": 43,
+			"title": "Infographic Designer",
+			"company": {
+				"name": "Data Visuals Agency",
+				"phone": "(212) 555-2300",
+				"email": "careers@datavisualsagency.com"
+			},
+			"location": "Boston, MA",
+			"description": "Create engaging infographics and data visualizations.",
+			"employment_type": "Full-time",
+			"salary": 65000,
+			"bonus": "Up to 5% annual performance bonus",
+			"benefits_package": [
+				"Health benefits",
+				"401(k) with company match",
+				"Paid time off",
+				"Flexible hours"
+			],
+			"date_posted": "2025-02-25",
+			"requirements": [
+				"3+ years in infographic design",
+				"Strong graphic storytelling skills",
+				"Experience with data visualization tools"
+			]
+		},
+		{
+			"id": 44,
+			"title": "Product Graphic Designer",
+			"company": {
+				"name": "Product Innovations",
+				"phone": "(212) 555-2400",
+				"email": "jobs@productinnovations.com"
+			},
+			"location": "Los Angeles, CA",
+			"description": "Design product packaging and marketing materials.",
+			"employment_type": "Full-time",
+			"salary": 70000,
+			"bonus": "Up to 6% annual performance bonus",
+			"benefits_package": [
+				"Health and dental benefits",
+				"401(k) plan with company match",
+				"Paid time off",
+				"Creative work environment"
+			],
+			"date_posted": "2025-02-27",
+			"requirements": [
+				"4+ years in product design",
+				"Strong understanding of market trends",
+				"Excellent communication skills"
+			]
+		},
+		{
+			"id": 45,
+			"title": "Social Media Graphic Designer",
+			"company": {
+				"name": "Social Media Agency",
+				"phone": "(212) 555-2500",
+				"email": "hr@socialmediaagency.com"
+			},
+			"location": "Miami, FL",
+			"description": "Create graphics and visuals for social media campaigns.",
+			"employment_type": "Full-time",
+			"salary": 65000,
+			"bonus": "Up to 7% annual performance bonus",
+			"benefits_package": [
+				"Health insurance",
+				"401(k) with match",
+				"Paid time off",
+				"Work from home options"
+			],
+			"date_posted": "2025-02-24",
+			"requirements": [
+				"3+ years in graphic design tailored to social media",
+				"Proficiency in image editing software",
+				"Strong understanding of social media trends"
+			]
+		},
+		{
+			"id": 46,
+			"title": "Packaging Graphic Designer",
+			"company": {
+				"name": "Packaging Solutions",
+				"phone": "(212) 555-2600",
+				"email": "careers@packagingsolutions.com"
+			},
+			"location": "Seattle, WA",
+			"description": "Design attractive and functional packaging for various products.",
+			"employment_type": "Full-time",
+			"salary": 68000,
+			"bonus": "Up to 5% annual performance bonus",
+			"benefits_package": [
+				"Health insurance",
+				"401(k) with match",
+				"Paid time off",
+				"Training programs"
+			],
+			"date_posted": "2025-02-28",
+			"requirements": [
+				"3+ years in packaging design",
+				"Strong attention to detail",
+				"Proficient in Adobe Creative Suite"
+			]
+		},
+		{
+			"id": 47,
+			"title": "Digital Graphic Designer",
+			"company": {
+				"name": "Digital Visions",
+				"phone": "(212) 555-2700",
+				"email": "jobs@digitalvisions.com"
+			},
+			"location": "Austin, TX",
+			"description": "Conceive and execute designs for digital platforms including websites and apps.",
+			"employment_type": "Full-time",
+			"salary": 72000,
+			"bonus": "Up to 6% annual performance bonus",
+			"benefits_package": [
+				"Health benefits",
+				"401(k) with match",
+				"Paid time off",
+				"Remote work options"
+			],
+			"date_posted": "2025-02-22",
+			"requirements": [
+				"3+ years of digital design experience",
+				"Strong knowledge of UX/UI design principles",
+				"Solid portfolio demonstrating digital projects"
+			]
+		},
+		{
+			"id": 48,
+			"title": "Illustrator Graphic Designer",
+			"company": {
+				"name": "Artistic Creations",
+				"phone": "(212) 555-2800",
+				"email": "careers@artisticcreations.com"
+			},
+			"location": "Philadelphia, PA",
+			"description": "Create illustrations and graphics for various media including print and digital.",
+			"employment_type": "Full-time",
+			"salary": 70000,
+			"bonus": "Up to 5% annual performance bonus",
+			"benefits_package": [
+				"Health insurance",
+				"401(k) with company match",
+				"Paid time off",
+				"Artistic workshops"
+			],
+			"date_posted": "2025-02-25",
+			"requirements": [
+				"4+ years of illustration and graphic design experience",
+				"Strong portfolio showcasing illustration skills",
+				"Proficiency in digital illustration tools"
+			]
+		},
+		{
+			"id": 49,
+			"title": "Advertising Graphic Designer",
+			"company": {
+				"name": "Ad Visionaries",
+				"phone": "(212) 555-2900",
+				"email": "jobs@advisionaries.com"
+			},
+			"location": "New York, NY",
+			"description": "Develop visual graphics for advertising campaigns across various media.",
+			"employment_type": "Full-time",
+			"salary": 75000,
+			"bonus": "Up to 7% annual performance bonus",
+			"benefits_package": [
+				"Health and dental insurance",
+				"401(k) with match",
+				"Paid time off",
+				"Professional development opportunities"
+			],
+			"date_posted": "2025-03-01",
+			"requirements": [
+				"3+ years in advertising design",
+				"Ability to think creatively and strategically",
+				"Strong portfolio of advertising work"
+			]
+		},
+		{
+			"id": 50,
+			"title": "Signage Graphic Designer",
+			"company": {
+				"name": "Signage Experts",
+				"phone": "(212) 555-3000",
+				"email": "careers@signageexperts.com"
+			},
+			"location": "Las Vegas, NV",
+			"description": "Create effective and attention-grabbing signage for various applications.",
+			"employment_type": "Full-time",
+			"salary": 62000,
+			"bonus": "Up to 4% annual performance bonus",
+			"benefits_package": [
+				"Health insurance",
+				"401(k) with match",
+				"Paid time off",
+				"Creative environment"
+			],
+			"date_posted": "2025-03-05",
+			"requirements": [
+				"3+ years in signage design",
+				"Strong understanding of materials and construction",
+				"Proficient in graphic design software"
+			]
+		},
+		{
+			"id": 51,
+			"title": "Art Director",
+			"company": {
+				"name": "Visionary Designs",
+				"phone": "(212) 555-3100",
+				"email": "jobs@visionarydesigns.com"
+			},
+			"location": "Orlando, FL",
+			"description": "Lead design projects and manage a team of designers to achieve high-quality visuals.",
+			"employment_type": "Full-time",
+			"salary": 90000,
+			"bonus": "Up to 10% annual performance bonus",
+			"benefits_package": [
+				"Comprehensive health coverage",
+				"401(k) with company match",
+				"Generous vacation policy",
+				"Leadership training"
+			],
+			"date_posted": "2025-03-10",
+			"requirements": [
+				"5+ years in graphic design with leadership experience",
+				"Strong portfolio demonstrating art direction roles",
+				"Excellent communication and collaboration skills"
+			]
+		},
+		{
+			"id": 52,
+			"title": "Environmental Graphic Designer",
+			"company": {
+				"name": "Space Maker Studios",
+				"phone": "(212) 555-3200",
+				"email": "careers@spacemakerstudios.com"
+			},
+			"location": "San Jose, CA",
+			"description": "Design environmental graphics to enhance spatial experiences.",
+			"employment_type": "Full-time",
+			"salary": 72000,
+			"bonus": "Up to 6% annual performance bonus",
+			"benefits_package": [
+				"Health insurance",
+				"401(k) with match",
+				"Paid time off",
+				"Creative workplace"
+			],
+			"date_posted": "2025-03-15",
+			"requirements": [
+				"4+ years in environmental design",
+				"Strong creativity and spatial awareness",
+				"Ability to work on-site for installations"
+			]
+		},
+		{
+			"id": 53,
+			"title": "Graphic Design Instructor",
+			"company": {
+				"name": "Creative Arts Academy",
+				"phone": "(212) 555-3300",
+				"email": "jobs@creativeartsacademy.com"
+			},
+			"location": "Detroit, MI",
+			"description": "Teach graphic design concepts and techniques to students in various programs.",
+			"employment_type": "Part-time",
+			"salary": "Negotiable",
+			"bonus": "N/A",
+			"benefits_package": [
+				"Flexible schedule",
+				"Creative teaching environment"
+			],
+			"date_posted": "2025-03-20",
+			"requirements": [
+				"Advanced degree in design or related field",
+				"Teaching experience preferred",
+				"Strong knowledge of graphic design software"
+			]
+		},
+		{
+			"id": 54,
+			"title": "Texture and Materials Designer",
+			"company": {
+				"name": "Graphics Innovations",
+				"phone": "(212) 555-3400",
+				"email": "careers@graphicsinnovations.com"
+			},
+			"location": "Portland, OR",
+			"description": "Design textures and materials for use in various projects, including digital and print.",
+			"employment_type": "Full-time",
+			"salary": 70000,
+			"bonus": "Up to 5% annual performance bonus",
+			"benefits_package": [
+				"Health and dental insurance",
+				"401(k) with match",
+				"Paid time off",
+				"Collaborative work environment"
+			],
+			"date_posted": "2025-03-25",
+			"requirements": [
+				"3+ years in materials or texture design",
+				"Strong knowledge of 3D modeling software",
+				"Creative and innovative mindset"
+			]
+		},
+		{
+			"id": 55,
+			"title": "Digital Marketing Graphic Designer",
+			"company": {
+				"name": "Marketing Masterminds",
+				"phone": "(212) 555-3500",
+				"email": "jobs@marketingmasterminds.com"
+			},
+			"location": "Phoenix, AZ",
+			"description": "Create graphics for online marketing campaigns, including social media and email.",
+			"employment_type": "Full-time",
+			"salary": 67000,
+			"bonus": "Up to 6% annual performance bonus",
+			"benefits_package": [
+				"Health insurance",
+				"401(k) with company match",
+				"Paid time off",
+				"Team activities"
+			],
+			"date_posted": "2025-03-30",
+			"requirements": [
+				"2+ years in digital marketing graphic design",
+				"Strong understanding of online marketing trends",
+				"Ability to work in a fast-paced environment"
+			]
+		},
+		{
+			"id": 56,
+			"title": "Graphic Designer",
+			"company": {
+				"name": "Creative Studio",
+				"phone": "(212) 555-1100",
+				"email": "hr@creativestudio.com"
+			},
+			"location": "New York, NY",
+			"description": "Design visual content for various platforms including print and web.",
+			"employment_type": "Full-time",
+			"salary": 60000,
+			"bonus": "Up to 5% annual performance bonus",
+			"benefits_package": [
+				"Health insurance",
+				"401(k) with match",
+				"Paid time off",
+				"Flexible hours"
+			],
+			"date_posted": "2025-01-15",
+			"requirements": [
+				"2+ years of graphic design experience",
+				"Proficient in Adobe Creative Suite",
+				"Strong portfolio"
+			]
+		},
+		{
+			"id": 57,
+			"title": "Senior Graphic Designer",
+			"company": {
+				"name": "Innovate Graphics",
+				"phone": "(212) 555-1200",
+				"email": "jobs@innovategraphics.com"
+			},
+			"location": "Los Angeles, CA",
+			"description": "Lead design projects and mentor junior designers.",
+			"employment_type": "Full-time",
+			"salary": 80000,
+			"bonus": "Up to 8% annual performance bonus",
+			"benefits_package": [
+				"Comprehensive health coverage",
+				"401(k) with company match",
+				"Generous vacation policy",
+				"Remote work options"
+			],
+			"date_posted": "2025-01-20",
+			"requirements": [
+				"5+ years of graphic design experience",
+				"Strong leadership and collaboration skills",
+				"Familiarity with UX/UI principles"
+			]
+		},
+		{
+			"id": 58,
+			"title": "Junior Graphic Designer",
+			"company": {
+				"name": "Design Collective",
+				"phone": "(212) 555-1300",
+				"email": "careers@designcollective.com"
+			},
+			"location": "Miami, FL",
+			"description": "Assist in creating graphics for marketing and branding projects.",
+			"employment_type": "Full-time",
+			"salary": 45000,
+			"bonus": "Up to 5% annual performance bonus",
+			"benefits_package": [
+				"Health insurance",
+				"Paid time off",
+				"Training and development opportunities"
+			],
+			"date_posted": "2025-01-25",
+			"requirements": [
+				"1+ years of graphic design experience",
+				"Knowledge of Adobe Creative Suite",
+				"Strong creativity and attention to detail"
+			]
+		},
+		{
+			"id": 59,
+			"title": "Freelance Graphic Designer",
+			"company": {
+				"name": "Freelance Hub",
+				"phone": "(212) 555-1400",
+				"email": "info@freelancehub.com"
+			},
+			"location": "Remote",
+			"description": "Provide design services for various clients on a freelance basis.",
+			"employment_type": "Contract",
+			"salary": "Negotiable",
+			"bonus": "N/A",
+			"benefits_package": [
+				"Flexible hours",
+				"Work from anywhere",
+				"Variety of projects"
+			],
+			"date_posted": "2025-01-27",
+			"requirements": [
+				"Proven design experience",
+				"Ability to manage multiple projects",
+				"Strong portfolio"
+			]
+		},
+		{
+			"id": 60,
+			"title": "Graphic Designer - Event Branding",
+			"company": {
+				"name": "Event Branding Agency",
+				"phone": "(404) 555-1020",
+				"email": "jobs@eventbrandingagency.com"
+			},
+			"location": "Los Angeles, CA",
+			"description": "We are seeking a Graphic Designer to create branding materials for events and conferences.",
+			"employment_type": "Full-time",
+			"salary": 75000,
+			"bonus": "Up to 10% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Paid time off and holidays",
+				"Travel opportunities"
+			],
+			"date_posted": "2025-03-10",
+			"requirements": [
+				"Bachelor's degree in Graphic Design or related field",
+				"3+ years of experience in event branding",
+				"Strong organizational skills"
+			]
+		},
+		{
+			"id": 61,
+			"title": "Graphic Designer - Advertising Campaigns",
+			"company": {
+				"name": "Ad Campaign Creators",
+				"phone": "(404) 555-1021",
+				"email": "careers@adcampaigncreators.com"
+			},
+			"location": "New York, NY",
+			"description": "Looking for a Graphic Designer to develop creative concepts for advertising campaigns.",
+			"employment_type": "Full-time",
+			"salary": 80000,
+			"bonus": "Up to 15% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Paid time off and holidays",
+				"Creative workspace"
+			],
+			"date_posted": "2025-03-05",
+			"requirements": [
+				"Bachelor's degree in Graphic Design or related field",
+				"4+ years of experience in advertising design",
+				"Strong portfolio of campaign work"
+			]
+		},
+		{
+			"id": 62,
+			"title": "Graphic Designer - Corporate Identity",
+			"company": {
+				"name": "Corporate Identity Solutions",
+				"phone": "(404) 555-1022",
+				"email": "jobs@corporateidentitysolutions.com"
+			},
+			"location": "Remote",
+			"description": "We are seeking a Graphic Designer to develop corporate identity materials for our clients.",
+			"employment_type": "Full-time",
+			"salary": 70000,
+			"bonus": "Up to 10% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Paid time off and holidays",
+				"Flexible working hours"
+			],
+			"date_posted": "2025-02-28",
+			"requirements": [
+				"Bachelor's degree in Graphic Design or related field",
+				"3+ years of experience in corporate identity design",
+				"Strong understanding of branding principles"
+			]
+		},
+		{
+			"id": 63,
+			"title": "Graphic Designer - Social Impact",
+			"company": {
+				"name": "Social Impact Agency",
+				"phone": "(404) 555-1023",
+				"email": "careers@socialimpactagency.com"
+			},
+			"location": "Miami, FL",
+			"description": "Looking for a Graphic Designer to create visuals that promote social impact initiatives.",
+			"employment_type": "Full-time",
+			"salary": 65000,
+			"bonus": "Up to 10% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Paid time off and holidays",
+				"Opportunities for community engagement"
+			],
+			"date_posted": "2025-02-25",
+			"requirements": [
+				"Bachelor's degree in Graphic Design or related field",
+				"2+ years of experience in social impact design",
+				"Passion for social causes"
+			]
+		},
+		{
+			"id": 64,
+			"title": "Graphic Designer - Sports Marketing",
+			"company": {
+				"name": "Sports Marketing Agency",
+				"phone": "(404) 555-1024",
+				"email": "jobs@sportsmarketingagency.com"
+			},
+			"location": "Los Angeles, CA",
+			"description": "We are seeking a Graphic Designer to create marketing materials for sports events and teams.",
+			"employment_type": "Full-time",
+			"salary": 70000,
+			"bonus": "Up to 12% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Paid time off and holidays",
+				"Access to sporting events"
+			],
+			"date_posted": "2025-02-20",
+			"requirements": [
+				"Bachelor's degree in Graphic Design or related field",
+				"3+ years of experience in sports marketing design",
+				"Strong understanding of sports culture"
+			]
+		},
+		{
+			"id": 65,
+			"title": "Graphic Designer - Nonprofit Campaigns",
+			"company": {
+				"name": "Nonprofit Campaigns Inc.",
+				"phone": "(404) 555-1025",
+				"efmail": "jobs@nonprofitcampaigns.com"
+			},
+			"location": "Remote",
+			"description": "We are looking for a Graphic Designer to create visuals for nonprofit campaigns and initiatives.",
+			"employment_type": "Full-time",
+			"salary": 65000,
+			"bonus": "Up to 10% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Paid time off and holidays",
+				"Opportunities for community engagement"
+			],
+			"date_posted": "2025-02-15",
+			"requirements": [
+				"Bachelor's degree in Graphic Design or related field",
+				"2+ years of experience in nonprofit design",
+				"Passion for social causes and community work"
+			]
+		},
+		{
+			"id": 66,
+			"title": "Graphic Designer - Retail",
+			"company": {
+				"name": "Retail Design Group",
+				"phone": "(404) 555-1026",
+				"email": "careers@retaildesigngroup.com"
+			},
+			"location": "New York, NY",
+			"description": "Seeking a Graphic Designer to create promotional materials for retail products and campaigns.",
+			"employment_type": "Full-time",
+			"salary": 70000,
+			"bonus": "Up to 10% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Paid time off and holidays",
+				"Employee discounts"
+			],
+			"date_posted": "2025-02-10",
+			"requirements": [
+				"Bachelor's degree in Graphic Design or related field",
+				"3+ years of experience in retail design",
+				"Strong understanding of consumer behavior"
+			]
+		},
+		{
+			"id": 67,
+			"title": "Graphic Designer - Technology",
+			"company": {
+				"name": "Tech Innovations",
+				"phone": "(404) 555-1027",
+				"email": "jobs@techinnovations.com"
+			},
+			"location": "Remote",
+			"description": "We are looking for a Graphic Designer to create visuals for technology products and services.",
+			"employment_type": "Full-time",
+			"salary": 75000,
+			"bonus": "Up to 12% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Paid time off and holidays",
+				"Flexible working hours"
+			],
+			"date_posted": "2025-02-05",
+			"requirements": [
+				"Bachelor's degree in Graphic Design or related field",
+				"3+ years of experience in technology design",
+				"Strong portfolio showcasing tech-related projects"
+			]
+		},
+		{
+			"id": 68,
+			"title": "Graphic Designer - Healthcare",
+			"company": {
+				"name": "Healthcare Design Agency",
+				"phone": "(404) 555-1028",
+				"email": "careers@healthcaredesignagency.com"
+			},
+			"location": "Boston, MA",
+			"description": "Seeking a Graphic Designer to create marketing materials for healthcare services and products.",
+			"employment_type": "Full-time",
+			"salary": 70000,
+			"bonus": "Up to 10% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Paid time off and holidays",
+				"Opportunities for professional development"
+			],
+			"date_posted": "2025-01-30",
+			"requirements": [
+				"Bachelor's degree in Graphic Design or related field",
+				"2+ years of experience in healthcare design",
+				"Strong understanding of healthcare marketing"
+			]
+		},
+		{
+			"id": 69,
+			"title": "Graphic Designer - Education",
+			"company": {
+				"name": "Educational Resources Inc.",
+				"phone": "(404) 555-1029",
+				"email": "jobs@educationalresources.com"
+			},
+			"location": "Remote",
+			"description": "We are looking for a Graphic Designer to create educational materials and resources.",
+			"employment_type": "Full-time",
+			"salary": 65000,
+			"bonus": "Up to 10% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Paid time off and holidays",
+				"Flexible working hours"
+			],
+			"date_posted": "2025-01-25",
+			"requirements": [
+				"Bachelor's degree in Graphic Design or related field",
+				"2+ years of experience in educational design ",
+				"Strong understanding of educational content and pedagogy"
+			]
+		},
+		{
+			"id": 70,
+			"title": "Graphic Designer - Travel",
+			"company": {
+				"name": "Travel Agency Co.",
+				"phone": "(404) 555-1030",
+				"email": "careers@travelagencyco.com"
+			},
+			"location": "Miami, FL",
+			"description": "Seeking a Graphic Designer to create promotional materials for travel packages and destinations.",
+			"employment_type": "Full-time",
+			"salary": 70000,
+			"bonus": "Up to 10% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Paid time off and holidays",
+				"Travel discounts"
+			],
+			"date_posted": "2025-01-20",
+			"requirements": [
+				"Bachelor's degree in Graphic Design or related field",
+				"3+ years of experience in travel marketing design",
+				"Strong portfolio showcasing travel-related projects"
+			]
+		},
+
+		{
+			"id": 71,
+			"title": "Graphic Designer - Digital Media",
+			"company": {
+				"name": "Digital Media Solutions",
+				"phone": "(404) 555-1016",
+				"email": "jobs@digitalmediasolutions.com"
+			},
+			"location": "Remote",
+			"description": "We are seeking a Graphic Designer to create engaging digital media content for our online platforms.",
+			"employment_type": "Full-time",
+			"salary": 70000,
+			"bonus": "Up to 12% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Paid time off and holidays",
+				"Flexible working hours"
+			],
+			"date_posted": "2025-03-22",
+			"requirements": [
+				"Bachelor's degree in Graphic Design or related field",
+				"3+ years of experience in digital media design",
+				"Proficiency in Adobe Creative Suite"
+			]
+		},
+		{
+			"id": 72,
+			"title": "Graphic Designer - User Interface",
+			"company": {
+				"name": "UI/UX Innovations",
+				"phone": "(404) 555-1017",
+				"email": "careers@uiuxinnovations.com"
+			},
+			"location": "San Francisco, CA",
+			"description": "Looking for a Graphic Designer to create user-friendly interfaces for web and mobile applications.",
+			"employment_type": "Full-time",
+			"salary": 80000,
+			"bonus": "Up to 15% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Paid time off and holidays",
+				"Professional development opportunities"
+			],
+			"date_posted": "2025-03-20",
+			"requirements": [
+				"Bachelor's degree in Graphic Design, UI/UX, or related field",
+				"4+ years of experience in UI design",
+				"Strong portfolio showcasing UI projects"
+			]
+		},
+		{
+			"id": 73,
+			"title": "Graphic Designer - Packaging",
+			"company": {
+				"name": "Creative Packaging Co.",
+				"phone": "(404) 555-1018",
+				"email": "jobs@creativepackaging.com"
+			},
+			"location": "Chicago, IL",
+			"description": "We are seeking a Graphic Designer to develop innovative packaging designs for our products.",
+			"employment_type": "Full-time",
+			"salary": 75000,
+			"bonus": "Up to 10% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Paid time off and holidays",
+				"Creative work environment"
+			],
+			"date_posted": "2025-03-18",
+			"requirements": [
+				"Bachelor's degree in Graphic Design or related field",
+				"3+ years of experience in packaging design",
+				"Strong understanding of print production"
+			]
+		},
+		{
+			"id": 74,
+			"title": "Graphic Designer - Illustration",
+			"company": {
+				"name": "Illustrative Arts Studio",
+				"phone": "(404) 555-1019",
+				"email": "careers@illustrativearts.com"
+			},
+			"location": "Remote",
+			"description": "Looking for a Graphic Designer with strong illustration skills to create unique visuals for various projects.",
+			"employment_type": "Full-time",
+			"salary": 70000,
+			"bonus": "Up to 12% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Paid time off and holidays",
+				"Flexible working hours"
+			],
+			"date_posted": "2025-03-15",
+			"requirements": [
+				"Bachelor's degree in Graphic Design or related field",
+				"2+ years of experience in illustration",
+				"Strong portfolio of illustrative work"
+			]
+		},
+		{
+			"id": 75,
+			"title": "Interactive Designer",
+			"company": {
+				"name": "Digital Engage",
+				"phone": "(312) 555-7501",
+				"email": "jobs@digitalengage.com"
+			},
+			"location": "Chicago, IL",
+			"description": "Design interactive digital experiences for websites, mobile apps, and digital kiosks. Collaborate with UX teams to bring innovative ideas to life.",
+			"employment_type": "Full-time",
+			"salary": 78000,
+			"bonus": "Performance bonus available",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Flexible work schedule"
+			],
+			"date_posted": "2025-03-10",
+			"requirements": [
+				"Bachelor's degree in Graphic Design or related field",
+				"Experience in interactive design and prototyping",
+				"Proficiency in Adobe Creative Suite and prototyping tools"
+			]
+		},
+		{
+			"id": 76,
+			"title": "Packaging Design Specialist",
+			"company": {
+				"name": "PackIt Creative",
+				"phone": "(310) 555-7602",
+				"email": "careers@packitcreative.com"
+			},
+			"location": "Los Angeles, CA",
+			"description": "Design innovative packaging solutions for consumer products that balance functionality with visual appeal.",
+			"employment_type": "Full-time",
+			"salary": 72000,
+			"bonus": "Up to 6% performance bonus",
+			"benefits_package": [
+				"Comprehensive health benefits",
+				"401(k) plan",
+				"Paid time off"
+			],
+			"date_posted": "2025-03-10",
+			"requirements": [
+				"Experience in packaging design and production",
+				"Proficiency in Adobe Illustrator and Photoshop",
+				"Strong creative and conceptual skills"
+			]
+		},
+		{
+			"id": 77,
+			"title": "Environmental Graphic Designer",
+			"company": {
+				"name": "EcoDesign Studio",
+				"phone": "(503) 555-7703",
+				"email": "apply@ecodeignstudio.com"
+			},
+			"location": "Portland, OR",
+			"description": "Develop environmental graphics including signage, wayfinding, and spatial branding for commercial and public spaces.",
+			"employment_type": "Full-time",
+			"salary": 70000,
+			"bonus": "Annual bonus available",
+			"benefits_package": [
+				"Health and dental insurance",
+				"401(k) with company match",
+				"Paid vacation"
+			],
+			"date_posted": "2025-03-10",
+			"requirements": [
+				"Bachelor's degree in Graphic or Environmental Design",
+				"Experience in signage and spatial design",
+				"Strong technical and creative skills"
+			]
+		},
+		{
+			"id": 78,
+			"title": "Motion Graphics Artist",
+			"company": {
+				"name": "Dynamic Motion",
+				"phone": "(310) 555-7804",
+				"email": "creative@dynamicmotion.com"
+			},
+			"location": "Los Angeles, CA",
+			"description": "Create dynamic motion graphics and animated visuals for digital advertising and online media.",
+			"employment_type": "Full-time",
+			"salary": 74000,
+			"bonus": "Project-based bonus",
+			"benefits_package": [
+				"Medical, dental, and vision insurance",
+				"401(k) with match",
+				"Flexible work environment"
+			],
+			"date_posted": "2025-03-10",
+			"requirements": [
+				"Experience in motion graphics using After Effects and Cinema 4D",
+				"Strong animation and storytelling skills",
+				"Portfolio demonstrating dynamic visual content"
+			]
+		},
+		{
+			"id": 79,
+			"title": "Print & Editorial Designer",
+			"company": {
+				"name": "PrintCraft Studios",
+				"phone": "(617) 555-7905",
+				"email": "design@printcraftstudios.com"
+			},
+			"location": "Boston, MA",
+			"description": "Design layouts and graphics for magazines, newspapers, and digital editorial platforms, ensuring readability and aesthetic appeal.",
+			"employment_type": "Full-time",
+			"salary": 71000,
+			"bonus": "Performance bonus available",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) plan",
+				"Paid time off"
+			],
+			"date_posted": "2025-03-10",
+			"requirements": [
+				"Experience in editorial design and print production",
+				"Proficiency in Adobe InDesign and Photoshop",
+				"Strong typography and layout skills"
+			]
+		},
+		{
+			"id": 80,
+			"title": "User Interface (UI) Designer",
+			"company": {
+				"name": "WebArt Solutions",
+				"phone": "(512) 555-8006",
+				"email": "ui@webartsolutions.com"
+			},
+			"location": "Austin, TX",
+			"description": "Design user interfaces for web and mobile applications that are both visually appealing and user-friendly.",
+			"employment_type": "Full-time",
+			"salary": 75000,
+			"bonus": "Up to 8% performance bonus",
+			"benefits_package": [
+				"Health benefits",
+				"401(k) with company match",
+				"Remote work options"
+			],
+			"date_posted": "2025-03-10",
+			"requirements": [
+				"Experience in UI design and user research",
+				"Proficiency in Sketch, Figma, or Adobe XD",
+				"Strong portfolio showcasing user interface projects"
+			]
+		},
+		{
+			"id": 81,
+			"title": "Brand Identity Designer",
+			"company": {
+				"name": "BrandForge",
+				"phone": "(212) 555-8107",
+				"email": "info@brandforge.com"
+			},
+			"location": "New York, NY",
+			"description": "Develop cohesive brand identities including logos, color schemes, and typography for a variety of clients.",
+			"employment_type": "Full-time",
+			"salary": 80000,
+			"bonus": "Up to 10% annual bonus",
+			"benefits_package": [
+				"Comprehensive health benefits",
+				"401(k) with match",
+				"Paid time off"
+			],
+			"date_posted": "2025-03-10",
+			"requirements": [
+				"Bachelor's degree in Graphic Design or related field",
+				"5+ years of experience in brand identity design",
+				"Strong portfolio demonstrating creative brand solutions"
+			]
+		},
+		{
+			"id": 82,
+			"title": "3D Modeler and Animator",
+			"company": {
+				"name": "3D Motion Studio",
+				"phone": "(312) 555-8208",
+				"email": "careers@3dmotionstudio.com"
+			},
+			"location": "Chicago, IL",
+			"description": "Create detailed 3D models and animations for film, video games, and digital advertising.",
+			"employment_type": "Full-time",
+			"salary": 85000,
+			"bonus": "Annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Paid time off"
+			],
+			"date_posted": "2025-03-10",
+			"requirements": [
+				"Experience with 3D modeling software (Blender, Maya)",
+				"Strong animation and rendering skills",
+				"Bachelor's degree in Animation, 3D Design, or related field"
+			]
+		},
+		{
+			"id": 83,
+			"title": "Visual Designer",
+			"company": {
+				"name": "Creative Impact",
+				"phone": "(312) 555-8309",
+				"email": "apply@creativeimpact.com"
+			},
+			"location": "Remote",
+			"description": "Develop visual content for digital media, including website graphics, social media visuals, and online ads.",
+			"employment_type": "Full-time",
+			"salary": 73000,
+			"bonus": "Performance bonus available",
+			"benefits_package": [
+				"Health benefits",
+				"401(k) with match",
+				"Flexible work schedule"
+			],
+			"date_posted": "2025-03-10",
+			"requirements": [
+				"Experience in visual design for digital platforms",
+				"Proficiency in Adobe Photoshop and Illustrator",
+				"Strong portfolio demonstrating creative design work"
+			]
+		},
+		{
+			"id": 84,
+			"title": "Motion Graphics Director",
+			"company": {
+				"name": "CineMotion Studios",
+				"phone": "(310) 555-8410",
+				"email": "director@cinemotionstudios.com"
+			},
+			"location": "Los Angeles, CA",
+			"description": "Oversee the creation and direction of motion graphics projects for video productions and digital advertising.",
+			"employment_type": "Full-time",
+			"salary": 92000,
+			"bonus": "Up to 12% performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Paid time off and flexible scheduling"
+			],
+			"date_posted": "2025-03-10",
+			"requirements": [
+				"Extensive experience in motion graphics and video production",
+				"Expertise in Adobe After Effects and Cinema 4D",
+				"Strong leadership and creative direction skills"
+			]
+		},
+		{
+			"id": 85,
+			"title": "Illustrator",
+			"company": {
+				"name": "IllustrateIt Studios",
+				"phone": "(646) 555-8511",
+				"email": "illustrations@illustrateitstudios.com"
+			},
+			"location": "Remote",
+			"description": "Create detailed illustrations for editorial, advertising, and digital media projects.",
+			"employment_type": "Freelance",
+			"salary": 60000,
+			"bonus": "Project-based incentives",
+			"benefits_package": ["Flexible work schedule", "Remote work option"],
+			"date_posted": "2025-03-10",
+			"requirements": [
+				"Strong portfolio of digital illustrations",
+				"Proficiency in Adobe Illustrator and Photoshop",
+				"Experience in both traditional and digital illustration techniques"
+			]
+		},
+		{
+			"id": 86,
+			"title": "Art Director",
+			"company": {
+				"name": "Creative Vision Agency",
+				"phone": "(212) 555-8612",
+				"email": "careers@creativevisionagency.com"
+			},
+			"location": "New York, NY",
+			"description": "Lead creative teams in the development of visual concepts for marketing campaigns, ensuring cohesive brand messaging across all channels.",
+			"employment_type": "Full-time",
+			"salary": 99000,
+			"bonus": "Up to 10% annual performance bonus",
+			"benefits_package": [
+				"Comprehensive health benefits",
+				"401(k) with company match",
+				"Generous paid time off"
+			],
+			"date_posted": "2025-03-10",
+			"requirements": [
+				"7+ years of experience in art direction or creative design leadership",
+				"Strong portfolio demonstrating creative vision",
+				"Excellent communication and project management skills"
+			]
+		},
+		{
+			"id": 87,
+			"title": "Print Production Designer",
+			"company": {
+				"name": "PrintWorks",
+				"phone": "(617) 555-8713",
+				"email": "design@printworks.com"
+			},
+			"location": "Boston, MA",
+			"description": "Design print collateral such as brochures, posters, and packaging, ensuring designs are optimized for production and meet brand standards.",
+			"employment_type": "Full-time",
+			"salary": 71000,
+			"bonus": "Performance bonus available",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) plan",
+				"Paid vacation"
+			],
+			"date_posted": "2025-03-10",
+			"requirements": [
+				"Experience in print design and production",
+				"Proficiency in Adobe InDesign and Illustrator",
+				"Strong attention to detail and typography skills"
+			]
+		},
+		{
+			"id": 88,
+			"title": "Editorial Designer",
+			"company": {
+				"name": "MediaPress",
+				"phone": "(212) 555-8814",
+				"email": "apply@mediapress.com"
+			},
+			"location": "New York, NY",
+			"description": "Design layouts and visuals for magazines, newspapers, and online publications, ensuring editorial quality and visual impact.",
+			"employment_type": "Full-time",
+			"salary": 75000,
+			"bonus": "Up to 8% annual bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Remote work options"
+			],
+			"date_posted": "2025-03-10",
+			"requirements": [
+				"Experience in editorial design and layout",
+				"Proficiency in Adobe InDesign and Photoshop",
+				"Strong creative and conceptual skills"
+			]
+		},
+		{
+			"id": 89,
+			"title": "Visual Communications Specialist",
+			"company": {
+				"name": "VisualVoice Media",
+				"phone": "(212) 555-8915",
+				"email": "contact@visualvoicemedia.com"
+			},
+			"location": "Remote",
+			"description": "Develop visually compelling communications materials for digital and print media, enhancing brand identity and audience engagement.",
+			"employment_type": "Full-time",
+			"salary": 77000,
+			"bonus": "Annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with match",
+				"Flexible work hours"
+			],
+			"date_posted": "2025-03-10",
+			"requirements": [
+				"Experience in visual communications or graphic design",
+				"Proficiency in Adobe Creative Suite",
+				"Strong portfolio demonstrating visual storytelling skills"
+			]
+		},
+		{
+			"id": 95,
+			"title": "Graphic Designer - Corporate Communications",
+			"company": {
+				"name": "Corporate Communications Group",
+				"phone": "(404) 555-1035",
+				"email": "jobs@corporatecommunications.com"
+			},
+			"location": "Remote",
+			"description": "We are seeking a Graphic Designer to create visuals for corporate communications and internal materials.",
+			"employment_type": "Full-time",
+			"salary": 70000,
+			"bonus": "Up to 10% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Paid time off and holidays",
+				"Opportunities for professional development"
+			],
+			"date_posted": "2025-03-05",
+			"requirements": [
+				"Bachelor's degree in Graphic Design or related field",
+				"3+ years of experience in corporate design",
+				"Strong understanding of corporate branding"
+			]
+		},
+		{
+			"id": 90,
+			"title": "Graphic Designer - Print Media",
+			"company": {
+				"name": "Print Media Solutions",
+				"phone": "(404) 555-1036",
+				"email": "careers@printmediasolutions.com"
+			},
+			"location": "Chicago, IL",
+			"description": "Looking for a Graphic Designer to create print materials such as brochures, flyers, and posters.",
+			"employment_type": "Full-time",
+			"salary": 65000,
+			"bonus": "Up to 10% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Paid time off and holidays",
+				"Creative work environment"
+			],
+			"date_posted": "2025-02-28",
+			"requirements": [
+				"Bachelor's degree in Graphic Design or related field",
+				"2+ years of experience in print design",
+				"Strong portfolio of print work"
+			]
+		},
+		{
+			"id": 91,
+			"title": "Graphic Designer - Fashion Marketing",
+			"company": {
+				"name": "Fashion Forward Agency",
+				"phone": "(404) 555-1031",
+				"email": "jobs@fashionforwardagency.com"
+			},
+			"location": "New York, NY",
+			"description": "We are seeking a Graphic Designer to create visually appealing marketing materials for fashion brands.",
+			"employment_type": "Full-time",
+			"salary": 75000,
+			"bonus": "Up to 12% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Paid time off and holidays",
+				"Employee discounts on fashion items"
+			],
+			"date_posted": "2025-03-22",
+			"requirements": [
+				"Bachelor's degree in Graphic Design or related field",
+				"3+ years of experience in fashion marketing design",
+				"Strong portfolio showcasing fashion-related work"
+			]
+		},
+		{
+			"id": 92,
+			"title": "Graphic Designer - Nonprofit Communications",
+			"company": {
+				"name": "Nonprofit Communications Group",
+				"phone": "(404) 555-1032",
+				"email": "careers@nonprofitcommunications.com"
+			},
+			"location": "Remote",
+			"description": "Looking for a Graphic Designer to create impactful visuals for nonprofit communications and campaigns.",
+			"employment_type": "Full-time",
+			"salary": 65000,
+			"bonus": "Up to 10% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Paid time off and holidays",
+				"Opportunities for community engagement"
+			],
+			"date_posted": "2025-03-20",
+			"requirements": [
+				"Bachelor's degree in Graphic Design or related field",
+				"2+ years of experience in nonprofit design",
+				"Passion for social causes"
+			]
+		},
+		{
+			"id": 93,
+			"title": "Graphic Designer - E-learning",
+			"company": {
+				"name": "E-learning Solutions",
+				"phone": "(404) 555-1033",
+				"email": "jobs@elearningsolutions.com"
+			},
+			"location": "Remote",
+			"description": "We are seeking a Graphic Designer to create engaging visuals for e-learning courses and materials.",
+			"employment_type": "Full-time",
+			"salary": 70000,
+			"bonus": "Up to 10% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Paid time off and holidays",
+				"Flexible working hours"
+			],
+			"date_posted": "2025-03-15",
+			"requirements": [
+				"Bachelor's degree in Graphic Design or related field",
+				"3+ years of experience in e-learning design",
+				"Strong understanding of instructional design principles"
+			]
+		},
+		{
+			"id": 94,
+			"title": "Graphic Designer - Mobile App",
+			"company": {
+				"name": "Mobile App Innovations",
+				"phone": "(404) 555-1034",
+				"email": "careers@mobileappinnovations.com"
+			},
+			"location": "San Francisco, CA",
+			"description": "Looking for a Graphic Designer to create user-friendly graphics for mobile applications.",
+			"employment_type": "Full-time",
+			"salary": 80000,
+			"bonus": "Up to 15% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Paid time off and holidays",
+				"Access to tech conferences"
+			],
+			"date_posted": "2025-03-10",
+			"requirements": [
+				"Bachelor's degree in Graphic Design or related field",
+				"4+ years of experience in mobile app design",
+				"Strong portfolio showcasing mobile app projects"
+			]
+		},
+		{
+			"id": 95,
+			"title": "Graphic Designer - Corporate Communications",
+			"company": {
+				"name": "Corporate Communications Group",
+				"phone": "(404) 555-1035",
+				"email": "jobs@corporatecommunications.com"
+			},
+			"location": "Remote",
+			"description": "We are seeking a Graphic Designer to create visuals for corporate communications and internal materials.",
+			"employment_type": "Full-time",
+			"salary": 70000,
+			"bonus": "Up to 10% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Paid time off and holidays",
+				"Opportunities for professional development"
+			],
+			"date_posted": "2025-03-05",
+			"requirements": [
+				"Bachelor's degree in Graphic Design or related field",
+				"3+ years of experience in corporate design",
+				"Strong understanding of corporate branding"
+			]
+		},
+		{
+			"id": 96,
+			"title": "Graphic Designer - Print Media",
+			"company": {
+				"name": "Print Media Solutions",
+				"phone": "(404) 555-1036",
+				"email": "careers@printmediasolutions.com"
+			},
+			"location": "Chicago, IL",
+			"description": "Looking for a Graphic Designer to create print materials such as brochures, flyers, and posters.",
+			"employment_type": "Full-time",
+			"salary": 65000,
+			"bonus": "Up to 10% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Paid time off and holidays",
+				"Creative work environment"
+			],
+			"date_posted": "2025-02-28",
+			"requirements": [
+				"Bachelor's degree in Graphic Design or related field",
+				"2+ years of experience in print design",
+				"Strong portfolio of print work"
+			]
+		},
+		{
+			"id": 97,
+			"title": "Graphic Designer - Animation",
+			"company": {
+				"name": "Animation Studio",
+				"phone": "(404) 555-1037",
+				"email": "jobs@animationstudio.com"
+			},
+			"location": "Los Angeles, CA",
+			"description": "We are seeking a Graphic Designer with animation skills to create engaging animated content.",
+			"employment_type": "Full-time",
+			"salary": 80000,
+			"bonus": "Up to 15% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Paid time off and holidays",
+				"Access to industry events"
+			],
+			"date_posted": "2025-02-20",
+			"requirements": [
+				"Bachelor's degree in Graphic Design or related field",
+				"3+ years of experience in animation design",
+				"Strong portfolio showcasing animation work"
+			]
+		},
+		{
+			"id": 98,
+			"title": "Graphic Designer - Content Marketing",
+			"company": {
+				"name": "Content Marketing Agency",
+				"phone": "(404) 555-1038",
+				"email": "careers@contentmarketingagency.com"
+			},
+			"location": "Remote",
+			"description": "Looking for a Graphic Designer to create visuals for content marketing campaigns.",
+			"employment_type": "Full-time",
+			"salary": 70000,
+			"bonus": "Up to 10% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Paid time off and holidays",
+				"Flexible working hours"
+			],
+			"date_posted": "2025-02-15",
+			"requirements": [
+				"Bachelor's degree in Graphic Design or related field",
+				"2+ years of experience in content marketing design",
+				"Strong understanding of digital marketing principles"
+			]
+		},
+		{
+			"id": 99,
+			"title": "Graphic Designer - User Experience",
+			"company": {
+				"name": "User  Experience Agency",
+				"phone": "(404) 555-1039",
+				"email": "jobs@userexperienceagency.com"
+			},
+			"location": "San Francisco, CA",
+			"description": "We are seeking a Graphic Designer to enhance user experience through effective visual design.",
+			"employment_type": "Full-time",
+			"salary": 80000,
+			"bonus": "Up to 15% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Paid time off and holidays",
+				"Professional development opportunities"
+			],
+			"date_posted": "2025-02-10",
+			"requirements": [
+				"Bachelor's degree in Graphic Design, UI/UX, or related field",
+				"4+ years of experience in user experience design",
+				"Strong portfolio showcasing UX projects"
+			]
+		},
+		{
+			"id": 100,
+			"title": "Graphic Designer - Brand Strategy",
+			"company": {
+				"name": "Brand Strategy Group",
+				"phone": "(404) 555-1040",
+				"email": "careers@brandstrategygroup.com"
+			},
+			"location": "Remote",
+			"description": "Looking for a Graphic Designer to develop brand strategies and visual identities for clients.",
+			"employment_type": "Full-time",
+			"salary": 85000,
+			"bonus": "Up to 15% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Paid time off and holidays",
+				"Opportunities for creative collaboration"
+			],
+			"date_posted": "2025-02-05",
+			"requirements": [
+				"Bachelor's degree in Graphic Design or related field",
+				"5+ years of experience in brand strategy design",
+				"Strong understanding of market trends and consumer behavior"
+			]
+		}
+	],
+
+	"digital": [],
+	"sports": [],
+	"video": [],
+	"education": [],
+	"finance": [],
+	"art": [],
+	"tech": [],
+	"customer": [],
+	"marketing": []
+}

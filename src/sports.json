@@ -1,0 +1,1354 @@
+{
+    "digital": [
+        {
+            "id": 1,
+            "title": "Digital Marketing Manager",
+            "company": {
+                "name": "Digital Growth Partners",
+                "phone": "(415) 555-0201",
+                "email": "careers@digitalgrowth.com",
+                "rating": 4.2
+            },
+            "location": "San Francisco, CA",
+            "description": "Lead our digital marketing initiatives and drive growth through innovative strategies. You will oversee SEO, SEM, social media, and content marketing campaigns while analyzing performance metrics.",
+            "employment_type": "Full-time",
+            "salary": "95k - 120k",
+            "bonus": "Up to 15% annual performance bonus",
+            "benefits_package": [
+                "Comprehensive health coverage",
+                "401(k) matching",
+                "Remote work options",
+                "Professional development budget"
+            ],
+            "date_posted": "2d",
+            "requirements": [
+                "5+ years in digital marketing",
+                "Experience with Google Analytics and AdWords",
+                "Strong analytical skills"
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Social Media Strategist",
+            "company": {
+                "name": "Social Buzz Agency",
+                "phone": "(212) 555-0202",
+                "email": "jobs@socialbuzz.com",
+                "rating": 4.0
+            },
+            "location": "New York, NY",
+            "description": "Create and execute engaging social media strategies across multiple platforms. You will develop content calendars, manage community engagement, and drive brand awareness.",
+            "employment_type": "Full-time",
+            "salary": "65k - 85k",
+            "bonus": "Up to 10% annual performance bonus",
+            "benefits_package": [
+                "Health and dental insurance",
+                "Flexible PTO",
+                "Social media training budget",
+                "Remote work options"
+            ],
+            "date_posted": "1d",
+            "requirements": [
+                "3+ years social media management",
+                "Experience with social media analytics",
+                "Content creation skills"
+            ]
+        },
+        {
+            "id": 3,
+            "title": "SEO Specialist",
+            "company": {
+                "name": "Search Engine Experts",
+                "phone": "(310) 555-0203",
+                "email": "careers@searchengineexperts.com",
+                "rating": 4.5
+            },
+            "location": "Los Angeles, CA",
+            "description": "Optimize website content and structure to improve search engine rankings. You will conduct keyword research, analyze performance metrics, and implement SEO best practices.",
+            "employment_type": "Full-time",
+            "salary": "70k - 90k",
+            "bonus": "Up to 8% annual performance bonus",
+            "benefits_package": [
+                "Health insurance",
+                "401(k) plan",
+                "Professional development",
+                "Remote work flexibility"
+            ],
+            "date_posted": "3d",
+            "requirements": [
+                "Experience with SEO tools",
+                "Knowledge of HTML and CSS",
+                "Analytical mindset"
+            ]
+        },
+        {
+            "id": 4,
+            "title": "Content Marketing Manager",
+            "company": {
+                "name": "Content Creators Inc",
+                "phone": "(512) 555-0204",
+                "email": "jobs@contentcreators.com",
+                "rating": 4.3
+            },
+            "location": "Austin, TX",
+            "description": "Develop and execute content strategies that drive engagement and conversions. You will oversee content creation, distribution, and performance tracking across multiple channels.",
+            "employment_type": "Full-time",
+            "salary": "80k - 100k",
+            "bonus": "Up to 12% annual performance bonus",
+            "benefits_package": [
+                "Comprehensive benefits",
+                "Remote work options",
+                "Content creation tools",
+                "Learning budget"
+            ],
+            "date_posted": "4d",
+            "requirements": [
+                "4+ years content marketing",
+                "Strong writing skills",
+                "Experience with CMS platforms"
+            ]
+        },
+        {
+            "id": 5,
+            "title": "PPC Campaign Manager",
+            "company": {
+                "name": "AdTech Solutions",
+                "phone": "(206) 555-0205",
+                "email": "careers@adtechsolutions.com",
+                "rating": 4.1
+            },
+            "location": "Seattle, WA",
+            "description": "Manage and optimize paid advertising campaigns across multiple platforms. You will analyze performance data, adjust strategies, and maximize ROI for digital advertising efforts.",
+            "employment_type": "Full-time",
+            "salary": "75k - 95k",
+            "bonus": "Up to 10% annual performance bonus",
+            "benefits_package": [
+                "Health coverage",
+                "401(k) matching",
+                "Remote work options",
+                "Professional development"
+            ],
+            "date_posted": "2d",
+            "requirements": [
+                "Experience with Google Ads",
+                "Analytical skills",
+                "Budget management"
+            ]
+        },
+        {
+            "id": 6,
+            "title": "Digital Analytics Manager",
+            "company": {
+                "name": "Data Insights Pro",
+                "phone": "(415) 555-0206",
+                "email": "careers@datainsightspro.com",
+                "rating": 4.4
+            },
+            "location": "San Francisco, CA",
+            "description": "Lead our digital analytics initiatives and provide data-driven insights. You will implement tracking solutions, analyze user behavior, and optimize digital marketing strategies.",
+            "employment_type": "Full-time",
+            "salary": "100k - 130k",
+            "bonus": "Up to 15% annual performance bonus",
+            "benefits_package": [
+                "Comprehensive health coverage",
+                "401(k) matching",
+                "Remote work options",
+                "Data analytics tools access"
+            ],
+            "date_posted": "1d",
+            "requirements": [
+                "5+ years in digital analytics",
+                "Expertise in Google Analytics",
+                "SQL and data visualization skills"
+            ]
+        },
+        {
+            "id": 7,
+            "title": "Email Marketing Specialist",
+            "company": {
+                "name": "Email Experts",
+                "phone": "(212) 555-0207",
+                "email": "jobs@emailexperts.com",
+                "rating": 4.2
+            },
+            "location": "New York, NY",
+            "description": "Develop and execute email marketing campaigns that drive engagement and conversions. You will manage email lists, create compelling content, and analyze campaign performance.",
+            "employment_type": "Full-time",
+            "salary": "65k - 85k",
+            "bonus": "Up to 10% annual performance bonus",
+            "benefits_package": [
+                "Health and dental insurance",
+                "Flexible PTO",
+                "Email marketing tools",
+                "Remote work options"
+            ],
+            "date_posted": "3d",
+            "requirements": [
+                "3+ years email marketing",
+                "Experience with email platforms",
+                "HTML and CSS knowledge"
+            ]
+        },
+        {
+            "id": 8,
+            "title": "Digital Product Manager",
+            "company": {
+                "name": "Product Innovators",
+                "phone": "(310) 555-0208",
+                "email": "careers@productinnovators.com",
+                "rating": 4.6
+            },
+            "location": "Los Angeles, CA",
+            "description": "Lead the development of digital products from concept to launch. You will define product strategy, gather requirements, and collaborate with cross-functional teams.",
+            "employment_type": "Full-time",
+            "salary": "110k - 140k",
+            "bonus": "Up to 15% annual performance bonus",
+            "benefits_package": [
+                "Health insurance",
+                "401(k) plan",
+                "Product management tools",
+                "Remote work flexibility"
+            ],
+            "date_posted": "2d",
+            "requirements": [
+                "5+ years product management",
+                "Agile methodology experience",
+                "Strong analytical skills"
+            ]
+        },
+        {
+            "id": 9,
+            "title": "UX/UI Designer",
+            "company": {
+                "name": "Design Studio Pro",
+                "phone": "(512) 555-0209",
+                "email": "jobs@designstudiopro.com",
+                "rating": 4.3
+            },
+            "location": "Austin, TX",
+            "description": "Create intuitive and engaging user experiences for digital products. You will conduct user research, create wireframes, and design user interfaces.",
+            "employment_type": "Full-time",
+            "salary": "85k - 110k",
+            "bonus": "Up to 10% annual performance bonus",
+            "benefits_package": [
+                "Comprehensive benefits",
+                "Design software access",
+                "Remote work options",
+                "Learning budget"
+            ],
+            "date_posted": "4d",
+            "requirements": [
+                "4+ years UX/UI design",
+                "Figma/Sketch expertise",
+                "Portfolio required"
+            ]
+        },
+        {
+            "id": 10,
+            "title": "Digital Content Writer",
+            "company": {
+                "name": "Content Masters",
+                "phone": "(206) 555-0210",
+                "email": "careers@contentmasters.com",
+                "rating": 4.1
+            },
+            "location": "Seattle, WA",
+            "description": "Create compelling digital content that engages audiences and drives conversions. You will write blog posts, social media content, and website copy.",
+            "employment_type": "Full-time",
+            "salary": "60k - 80k",
+            "bonus": "Up to 8% annual performance bonus",
+            "benefits_package": [
+                "Health coverage",
+                "401(k) matching",
+                "Remote work options",
+                "Content tools access"
+            ],
+            "date_posted": "1d",
+            "requirements": [
+                "3+ years content writing",
+                "SEO knowledge",
+                "Portfolio required"
+            ]
+        },
+        {
+            "id": 11,
+            "title": "E-commerce Manager",
+            "company": {
+                "name": "Online Retail Pro",
+                "phone": "(415) 555-0211",
+                "email": "jobs@onlineretailpro.com",
+                "rating": 4.4
+            },
+            "location": "San Francisco, CA",
+            "description": "Oversee our e-commerce operations and drive online sales growth. You will manage product listings, optimize conversion rates, and implement marketing strategies.",
+            "employment_type": "Full-time",
+            "salary": "90k - 120k",
+            "bonus": "Up to 12% annual performance bonus",
+            "benefits_package": [
+                "Health and dental insurance",
+                "401(k) matching",
+                "Remote work options",
+                "Professional development"
+            ],
+            "date_posted": "3d",
+            "requirements": [
+                "5+ years e-commerce",
+                "Platform expertise",
+                "Analytical skills"
+            ]
+        },
+        {
+            "id": 12,
+            "title": "Digital Project Manager",
+            "company": {
+                "name": "Project Solutions",
+                "phone": "(212) 555-0212",
+                "email": "careers@projectsolutions.com",
+                "rating": 4.2
+            },
+            "location": "New York, NY",
+            "description": "Lead digital projects from initiation to completion. You will coordinate teams, manage timelines, and ensure successful project delivery.",
+            "employment_type": "Full-time",
+            "salary": "85k - 110k",
+            "bonus": "Up to 10% annual performance bonus",
+            "benefits_package": [
+                "Health insurance",
+                "401(k) plan",
+                "Project management tools",
+                "Remote work flexibility"
+            ],
+            "date_posted": "2d",
+            "requirements": [
+                "4+ years project management",
+                "PMP certification preferred",
+                "Agile experience"
+            ]
+        },
+        {
+            "id": 13,
+            "title": "Web Analytics Specialist",
+            "company": {
+                "name": "Analytics Pro",
+                "phone": "(310) 555-0213",
+                "email": "jobs@analyticspro.com",
+                "rating": 4.5
+            },
+            "location": "Los Angeles, CA",
+            "description": "Analyze website performance and user behavior to drive optimization. You will implement tracking, create reports, and provide actionable insights.",
+            "employment_type": "Full-time",
+            "salary": "75k - 95k",
+            "bonus": "Up to 8% annual performance bonus",
+            "benefits_package": [
+                "Comprehensive benefits",
+                "Analytics tools access",
+                "Remote work options",
+                "Learning budget"
+            ],
+            "date_posted": "4d",
+            "requirements": [
+                "3+ years web analytics",
+                "Google Analytics expertise",
+                "Data analysis skills"
+            ]
+        },
+        {
+            "id": 14,
+            "title": "Digital Marketing Coordinator",
+            "company": {
+                "name": "Marketing Masters",
+                "phone": "(512) 555-0214",
+                "email": "careers@marketingmasters.com",
+                "rating": 4.1
+            },
+            "location": "Austin, TX",
+            "description": "Support digital marketing initiatives across multiple channels. You will assist with campaign execution, content creation, and performance tracking.",
+            "employment_type": "Full-time",
+            "salary": "55k - 70k",
+            "bonus": "Up to 5% annual performance bonus",
+            "benefits_package": [
+                "Health coverage",
+                "401(k) matching",
+                "Remote work options",
+                "Training budget"
+            ],
+            "date_posted": "1d",
+            "requirements": [
+                "2+ years marketing",
+                "Social media experience",
+                "Basic analytics knowledge"
+            ]
+        },
+        {
+            "id": 15,
+            "title": "Social Media Manager",
+            "company": {
+                "name": "Social Media Experts",
+                "phone": "(206) 555-0215",
+                "email": "jobs@socialmediaexperts.com",
+                "rating": 4.3
+            },
+            "location": "Seattle, WA",
+            "description": "Manage social media presence and engagement across platforms. You will create content, monitor performance, and build community engagement.",
+            "employment_type": "Full-time",
+            "salary": "70k - 90k",
+            "bonus": "Up to 10% annual performance bonus",
+            "benefits_package": [
+                "Health and dental insurance",
+                "401(k) matching",
+                "Remote work options",
+                "Social media tools"
+            ],
+            "date_posted": "3d",
+            "requirements": [
+                "4+ years social media",
+                "Content creation skills",
+                "Analytics experience"
+            ]
+        },
+        {
+            "id": 16,
+            "title": "Digital Strategy Consultant",
+            "company": {
+                "name": "Strategy Partners",
+                "phone": "(415) 555-0216",
+                "email": "careers@strategypartners.com",
+                "rating": 4.7
+            },
+            "location": "San Francisco, CA",
+            "description": "Develop and implement digital strategies for clients across industries. You will analyze market trends, identify opportunities, and drive digital transformation.",
+            "employment_type": "Full-time",
+            "salary": "120k - 150k",
+            "bonus": "Up to 20% annual performance bonus",
+            "benefits_package": [
+                "Comprehensive health coverage",
+                "401(k) matching",
+                "Remote work options",
+                "Professional development"
+            ],
+            "date_posted": "2d",
+            "requirements": [
+                "7+ years digital strategy",
+                "Consulting experience",
+                "MBA preferred"
+            ]
+        },
+        {
+            "id": 17,
+            "title": "Content Strategist",
+            "company": {
+                "name": "Content Solutions",
+                "phone": "(212) 555-0217",
+                "email": "jobs@contentsolutions.com",
+                "rating": 4.4
+            },
+            "location": "New York, NY",
+            "description": "Develop content strategies that align with business goals. You will create content calendars, oversee content creation, and measure performance.",
+            "employment_type": "Full-time",
+            "salary": "85k - 110k",
+            "bonus": "Up to 12% annual performance bonus",
+            "benefits_package": [
+                "Health insurance",
+                "401(k) plan",
+                "Content tools access",
+                "Remote work flexibility"
+            ],
+            "date_posted": "3d",
+            "requirements": [
+                "5+ years content strategy",
+                "SEO expertise",
+                "Analytical skills"
+            ]
+        },
+        {
+            "id": 18,
+            "title": "Digital Brand Manager",
+            "company": {
+                "name": "Brand Experts",
+                "phone": "(310) 555-0218",
+                "email": "careers@brandexperts.com",
+                "rating": 4.5
+            },
+            "location": "Los Angeles, CA",
+            "description": "Manage and enhance digital brand presence across channels. You will develop brand guidelines, oversee campaigns, and maintain brand consistency.",
+            "employment_type": "Full-time",
+            "salary": "90k - 120k",
+            "bonus": "Up to 15% annual performance bonus",
+            "benefits_package": [
+                "Comprehensive benefits",
+                "Brand tools access",
+                "Remote work options",
+                "Learning budget"
+            ],
+            "date_posted": "1d",
+            "requirements": [
+                "5+ years brand management",
+                "Digital marketing experience",
+                "Creative skills"
+            ]
+        },
+        {
+            "id": 19,
+            "title": "Marketing Automation Specialist",
+            "company": {
+                "name": "Automation Pro",
+                "phone": "(512) 555-0219",
+                "email": "jobs@automationpro.com",
+                "rating": 4.2
+            },
+            "location": "Austin, TX",
+            "description": "Implement and optimize marketing automation workflows. You will create email campaigns, set up automation rules, and analyze performance.",
+            "employment_type": "Full-time",
+            "salary": "75k - 95k",
+            "bonus": "Up to 10% annual performance bonus",
+            "benefits_package": [
+                "Health coverage",
+                "401(k) matching",
+                "Remote work options",
+                "Automation tools"
+            ],
+            "date_posted": "4d",
+            "requirements": [
+                "3+ years automation",
+                "Platform expertise",
+                "Technical skills"
+            ]
+        },
+        {
+            "id": 20,
+            "title": "Digital Media Buyer",
+            "company": {
+                "name": "Media Solutions",
+                "phone": "(206) 555-0220",
+                "email": "careers@mediasolutions.com",
+                "rating": 4.3
+            },
+            "location": "Seattle, WA",
+            "description": "Manage digital media buying across platforms. You will optimize ad spend, analyze performance, and maximize ROI.",
+            "employment_type": "Full-time",
+            "salary": "70k - 90k",
+            "bonus": "Up to 12% annual performance bonus",
+            "benefits_package": [
+                "Health and dental insurance",
+                "401(k) matching",
+                "Remote work options",
+                "Media tools access"
+            ],
+            "date_posted": "2d",
+            "requirements": [
+                "4+ years media buying",
+                "Platform expertise",
+                "Analytical skills"
+            ]
+        },
+        {
+            "id": 21,
+            "title": "SEO Content Writer",
+            "company": {
+                "name": "SEO Writers",
+                "phone": "(415) 555-0221",
+                "email": "jobs@seowriters.com",
+                "rating": 4.1
+            },
+            "location": "San Francisco, CA",
+            "description": "Create SEO-optimized content that ranks well and engages readers. You will research keywords, write articles, and optimize existing content.",
+            "employment_type": "Full-time",
+            "salary": "60k - 80k",
+            "bonus": "Up to 8% annual performance bonus",
+            "benefits_package": [
+                "Health insurance",
+                "401(k) plan",
+                "Remote work options",
+                "SEO tools access"
+            ],
+            "date_posted": "3d",
+            "requirements": [
+                "3+ years SEO writing",
+                "Content optimization skills",
+                "Portfolio required"
+            ]
+        },
+        {
+            "id": 22,
+            "title": "Digital Marketing Analyst",
+            "company": {
+                "name": "Analytics Experts",
+                "phone": "(212) 555-0222",
+                "email": "careers@analyticsexperts.com",
+                "rating": 4.4
+            },
+            "location": "New York, NY",
+            "description": "Analyze digital marketing performance and provide insights. You will track metrics, create reports, and recommend optimizations.",
+            "employment_type": "Full-time",
+            "salary": "75k - 95k",
+            "bonus": "Up to 10% annual performance bonus",
+            "benefits_package": [
+                "Comprehensive benefits",
+                "Analytics tools",
+                "Remote work options",
+                "Learning budget"
+            ],
+            "date_posted": "1d",
+            "requirements": [
+                "4+ years analytics",
+                "Data analysis skills",
+                "Reporting experience"
+            ]
+        },
+        {
+            "id": 23,
+            "title": "Social Media Content Creator",
+            "company": {
+                "name": "Content Creators",
+                "phone": "(310) 555-0223",
+                "email": "jobs@contentcreators.com",
+                "rating": 4.2
+            },
+            "location": "Los Angeles, CA",
+            "description": "Create engaging social media content across platforms. You will develop creative concepts, produce content, and engage with audiences.",
+            "employment_type": "Full-time",
+            "salary": "55k - 75k",
+            "bonus": "Up to 8% annual performance bonus",
+            "benefits_package": [
+                "Health coverage",
+                "401(k) matching",
+                "Remote work options",
+                "Content tools"
+            ],
+            "date_posted": "4d",
+            "requirements": [
+                "2+ years content creation",
+                "Social media expertise",
+                "Creative portfolio"
+            ]
+        },
+        {
+            "id": 24,
+            "title": "Digital Marketing Consultant",
+            "company": {
+                "name": "Consulting Pro",
+                "phone": "(512) 555-0224",
+                "email": "careers@consultingpro.com",
+                "rating": 4.6
+            },
+            "location": "Austin, TX",
+            "description": "Provide strategic digital marketing guidance to clients. You will analyze needs, develop strategies, and implement solutions.",
+            "employment_type": "Full-time",
+            "salary": "100k - 130k",
+            "bonus": "Up to 15% annual performance bonus",
+            "benefits_package": [
+                "Health and dental insurance",
+                "401(k) matching",
+                "Remote work options",
+                "Professional development"
+            ],
+            "date_posted": "2d",
+            "requirements": [
+                "6+ years consulting",
+                "Strategy expertise",
+                "Client management"
+            ]
+        },
+        {
+            "id": 25,
+            "title": "Web Content Manager",
+            "company": {
+                "name": "Web Solutions",
+                "phone": "(206) 555-0225",
+                "email": "jobs@websolutions.com",
+                "rating": 4.3
+            },
+            "location": "Seattle, WA",
+            "description": "Manage website content and ensure quality and consistency. You will oversee content updates, optimize for SEO, and maintain standards.",
+            "employment_type": "Full-time",
+            "salary": "70k - 90k",
+            "bonus": "Up to 10% annual performance bonus",
+            "benefits_package": [
+                "Health insurance",
+                "401(k) plan",
+                "CMS access",
+                "Remote work options"
+            ],
+            "date_posted": "3d",
+            "requirements": [
+                "4+ years content management",
+                "CMS experience",
+                "SEO knowledge"
+            ]
+        },
+        {
+            "id": 26,
+            "title": "Digital Marketing Director",
+            "company": {
+                "name": "Marketing Leaders",
+                "phone": "(415) 555-0226",
+                "email": "careers@marketingleaders.com",
+                "rating": 4.7
+            },
+            "location": "San Francisco, CA",
+            "description": "Lead digital marketing strategy and execution. You will oversee teams, manage budgets, and drive growth initiatives.",
+            "employment_type": "Full-time",
+            "salary": "130k - 160k",
+            "bonus": "Up to 20% annual performance bonus",
+            "benefits_package": [
+                "Comprehensive benefits",
+                "401(k) matching",
+                "Remote work options",
+                "Leadership training"
+            ],
+            "date_posted": "1d",
+            "requirements": [
+                "8+ years digital marketing",
+                "Team leadership",
+                "Strategy expertise"
+            ]
+        },
+        {
+            "id": 27,
+            "title": "Social Media Analyst",
+            "company": {
+                "name": "Social Analytics",
+                "phone": "(212) 555-0227",
+                "email": "jobs@socialanalytics.com",
+                "rating": 4.4
+            },
+            "location": "New York, NY",
+            "description": "Analyze social media performance and provide insights. You will track metrics, create reports, and recommend optimizations.",
+            "employment_type": "Full-time",
+            "salary": "65k - 85k",
+            "bonus": "Up to 10% annual performance bonus",
+            "benefits_package": [
+                "Health coverage",
+                "401(k) matching",
+                "Analytics tools",
+                "Remote work options"
+            ],
+            "date_posted": "4d",
+            "requirements": [
+                "3+ years social analytics",
+                "Data analysis skills",
+                "Platform expertise"
+            ]
+        },
+        {
+            "id": 28,
+            "title": "Digital Marketing Specialist",
+            "company": {
+                "name": "Marketing Experts",
+                "phone": "(310) 555-0228",
+                "email": "careers@marketingexperts.com",
+                "rating": 4.5
+            },
+            "location": "Los Angeles, CA",
+            "description": "Execute digital marketing campaigns across channels. You will manage campaigns, analyze performance, and optimize strategies.",
+            "employment_type": "Full-time",
+            "salary": "70k - 90k",
+            "bonus": "Up to 12% annual performance bonus",
+            "benefits_package": [
+                "Comprehensive benefits",
+                "Marketing tools",
+                "Remote work options",
+                "Learning budget"
+            ],
+            "date_posted": "2d",
+            "requirements": [
+                "4+ years digital marketing",
+                "Campaign management",
+                "Analytical skills"
+            ]
+        },
+        {
+            "id": 29,
+            "title": "Content Marketing Manager",
+            "company": {
+                "name": "Content Leaders",
+                "phone": "(512) 555-0229",
+                "email": "jobs@contentleaders.com",
+                "rating": 4.3
+            },
+            "location": "Austin, TX",
+            "description": "Lead content marketing strategy and execution. You will develop content plans, oversee creation, and measure performance.",
+            "employment_type": "Full-time",
+            "salary": "85k - 110k",
+            "bonus": "Up to 15% annual performance bonus",
+            "benefits_package": [
+                "Health insurance",
+                "401(k) plan",
+                "Content tools",
+                "Remote work options"
+            ],
+            "date_posted": "3d",
+            "requirements": [
+                "5+ years content marketing",
+                "Strategy experience",
+                "Team leadership"
+            ]
+        },
+        {
+            "id": 30,
+            "title": "Digital Marketing Coordinator",
+            "company": {
+                "name": "Marketing Solutions",
+                "phone": "(206) 555-0230",
+                "email": "careers@marketingsolutions.com",
+                "rating": 4.2
+            },
+            "location": "Seattle, WA",
+            "description": "Support digital marketing initiatives and campaigns. You will assist with execution, track performance, and maintain documentation.",
+            "employment_type": "Full-time",
+            "salary": "55k - 70k",
+            "bonus": "Up to 8% annual performance bonus",
+            "benefits_package": [
+                "Health coverage",
+                "401(k) matching",
+                "Remote work options",
+                "Training budget"
+            ],
+            "date_posted": "1d",
+            "requirements": [
+                "2+ years marketing",
+                "Project coordination",
+                "Basic analytics"
+            ]
+        },
+        {
+            "id": 31,
+            "title": "SEO Manager",
+            "company": {
+                "name": "SEO Experts",
+                "phone": "(415) 555-0231",
+                "email": "jobs@seoexperts.com",
+                "rating": 4.4
+            },
+            "location": "San Francisco, CA",
+            "description": "Lead SEO strategy and implementation. You will optimize websites, manage content, and drive organic growth.",
+            "employment_type": "Full-time",
+            "salary": "90k - 120k",
+            "bonus": "Up to 15% annual performance bonus",
+            "benefits_package": [
+                "Comprehensive benefits",
+                "SEO tools",
+                "Remote work options",
+                "Professional development"
+            ],
+            "date_posted": "4d",
+            "requirements": [
+                "5+ years SEO",
+                "Technical expertise",
+                "Team leadership"
+            ]
+        },
+        {
+            "id": 32,
+            "title": "Digital Marketing Analyst",
+            "company": {
+                "name": "Analytics Pro",
+                "phone": "(212) 555-0232",
+                "email": "careers@analyticspro.com",
+                "rating": 4.5
+            },
+            "location": "New York, NY",
+            "description": "Analyze digital marketing data and provide insights. You will track metrics, create reports, and recommend optimizations.",
+            "employment_type": "Full-time",
+            "salary": "75k - 95k",
+            "bonus": "Up to 12% annual performance bonus",
+            "benefits_package": [
+                "Health insurance",
+                "401(k) plan",
+                "Analytics tools",
+                "Remote work options"
+            ],
+            "date_posted": "2d",
+            "requirements": [
+                "4+ years analytics",
+                "Data analysis",
+                "Reporting skills"
+            ]
+        },
+        {
+            "id": 33,
+            "title": "Social Media Manager",
+            "company": {
+                "name": "Social Media Pro",
+                "phone": "(310) 555-0233",
+                "email": "jobs@socialmediapro.com",
+                "rating": 4.3
+            },
+            "location": "Los Angeles, CA",
+            "description": "Manage social media presence and engagement. You will create content, monitor performance, and build community.",
+            "employment_type": "Full-time",
+            "salary": "70k - 90k",
+            "bonus": "Up to 10% annual performance bonus",
+            "benefits_package": [
+                "Health coverage",
+                "401(k) matching",
+                "Social tools",
+                "Remote work options"
+            ],
+            "date_posted": "3d",
+            "requirements": [
+                "4+ years social media",
+                "Content creation",
+                "Community management"
+            ]
+        },
+        {
+            "id": 34,
+            "title": "Digital Marketing Specialist",
+            "company": {
+                "name": "Marketing Masters",
+                "phone": "(512) 555-0234",
+                "email": "careers@marketingmasters.com",
+                "rating": 4.4
+            },
+            "location": "Austin, TX",
+            "description": "Execute digital marketing campaigns and strategies. You will manage campaigns, analyze performance, and optimize results.",
+            "employment_type": "Full-time",
+            "salary": "65k - 85k",
+            "bonus": "Up to 10% annual performance bonus",
+            "benefits_package": [
+                "Comprehensive benefits",
+                "Marketing tools",
+                "Remote work options",
+                "Learning budget"
+            ],
+            "date_posted": "1d",
+            "requirements": [
+                "3+ years marketing",
+                "Campaign management",
+                "Analytical skills"
+            ]
+        },
+        {
+            "id": 35,
+            "title": "Content Marketing Specialist",
+            "company": {
+                "name": "Content Solutions",
+                "phone": "(206) 555-0235",
+                "email": "jobs@contentsolutions.com",
+                "rating": 4.2
+            },
+            "location": "Seattle, WA",
+            "description": "Create and manage content marketing initiatives. You will develop content, optimize for SEO, and measure performance.",
+            "employment_type": "Full-time",
+            "salary": "60k - 80k",
+            "bonus": "Up to 8% annual performance bonus",
+            "benefits_package": [
+                "Health insurance",
+                "401(k) plan",
+                "Content tools",
+                "Remote work options"
+            ],
+            "date_posted": "4d",
+            "requirements": [
+                "3+ years content marketing",
+                "Writing skills",
+                "SEO knowledge"
+            ]
+        },
+        {
+            "id": 36,
+            "title": "Digital Marketing Manager",
+            "company": {
+                "name": "Marketing Leaders",
+                "phone": "(415) 555-0236",
+                "email": "careers@marketingleaders.com",
+                "rating": 4.6
+            },
+            "location": "San Francisco, CA",
+            "description": "Lead digital marketing strategy and execution. You will manage teams, budgets, and drive growth initiatives.",
+            "employment_type": "Full-time",
+            "salary": "100k - 130k",
+            "bonus": "Up to 15% annual performance bonus",
+            "benefits_package": [
+                "Comprehensive benefits",
+                "401(k) matching",
+                "Remote work options",
+                "Leadership training"
+            ],
+            "date_posted": "2d",
+            "requirements": [
+                "6+ years marketing",
+                "Team leadership",
+                "Strategy expertise"
+            ]
+        },
+        {
+            "id": 37,
+            "title": "Social Media Specialist",
+            "company": {
+                "name": "Social Experts",
+                "phone": "(212) 555-0237",
+                "email": "jobs@socialexperts.com",
+                "rating": 4.3
+            },
+            "location": "New York, NY",
+            "description": "Manage social media presence and engagement. You will create content, monitor performance, and build community.",
+            "employment_type": "Full-time",
+            "salary": "65k - 85k",
+            "bonus": "Up to 10% annual performance bonus",
+            "benefits_package": [
+                "Health coverage",
+                "401(k) matching",
+                "Social tools",
+                "Remote work options"
+            ],
+            "date_posted": "3d",
+            "requirements": [
+                "3+ years social media",
+                "Content creation",
+                "Community management"
+            ]
+        },
+        {
+            "id": 38,
+            "title": "Digital Marketing Analyst",
+            "company": {
+                "name": "Analytics Solutions",
+                "phone": "(310) 555-0238",
+                "email": "careers@analyticssolutions.com",
+                "rating": 4.4
+            },
+            "location": "Los Angeles, CA",
+            "description": "Analyze digital marketing performance and provide insights. You will track metrics, create reports, and recommend optimizations.",
+            "employment_type": "Full-time",
+            "salary": "70k - 90k",
+            "bonus": "Up to 12% annual performance bonus",
+            "benefits_package": [
+                "Comprehensive benefits",
+                "Analytics tools",
+                "Remote work options",
+                "Learning budget"
+            ],
+            "date_posted": "1d",
+            "requirements": [
+                "4+ years analytics",
+                "Data analysis",
+                "Reporting skills"
+            ]
+        },
+        {
+            "id": 39,
+            "title": "Content Marketing Manager",
+            "company": {
+                "name": "Content Leaders",
+                "phone": "(512) 555-0239",
+                "email": "jobs@contentleaders.com",
+                "rating": 4.5
+            },
+            "location": "Austin, TX",
+            "description": "Lead content marketing strategy and execution. You will develop content plans, oversee creation, and measure performance.",
+            "employment_type": "Full-time",
+            "salary": "85k - 110k",
+            "bonus": "Up to 15% annual performance bonus",
+            "benefits_package": [
+                "Health insurance",
+                "401(k) plan",
+                "Content tools",
+                "Remote work options"
+            ],
+            "date_posted": "4d",
+            "requirements": [
+                "5+ years content marketing",
+                "Strategy experience",
+                "Team leadership"
+            ]
+        },
+        {
+            "id": 40,
+            "title": "Digital Marketing Coordinator",
+            "company": {
+                "name": "Marketing Solutions",
+                "phone": "(206) 555-0240",
+                "email": "careers@marketingsolutions.com",
+                "rating": 4.2
+            },
+            "location": "Seattle, WA",
+            "description": "Support digital marketing initiatives and campaigns. You will assist with execution, track performance, and maintain documentation.",
+            "employment_type": "Full-time",
+            "salary": "55k - 70k",
+            "bonus": "Up to 8% annual performance bonus",
+            "benefits_package": [
+                "Health coverage",
+                "401(k) matching",
+                "Remote work options",
+                "Training budget"
+            ],
+            "date_posted": "2d",
+            "requirements": [
+                "2+ years marketing",
+                "Project coordination",
+                "Basic analytics"
+            ]
+        },
+        {
+            "id": 41,
+            "title": "SEO Specialist",
+            "company": {
+                "name": "SEO Pro",
+                "phone": "(415) 555-0241",
+                "email": "jobs@seopro.com",
+                "rating": 4.4
+            },
+            "location": "San Francisco, CA",
+            "description": "Optimize websites for search engines and drive organic growth. You will implement SEO strategies, analyze performance, and make recommendations.",
+            "employment_type": "Full-time",
+            "salary": "75k - 95k",
+            "bonus": "Up to 10% annual performance bonus",
+            "benefits_package": [
+                "Comprehensive benefits",
+                "SEO tools",
+                "Remote work options",
+                "Professional development"
+            ],
+            "date_posted": "3d",
+            "requirements": [
+                "4+ years SEO",
+                "Technical expertise",
+                "Analytical skills"
+            ]
+        },
+        {
+            "id": 42,
+            "title": "Digital Marketing Analyst",
+            "company": {
+                "name": "Analytics Experts",
+                "phone": "(212) 555-0242",
+                "email": "careers@analyticsexperts.com",
+                "rating": 4.5
+            },
+            "location": "New York, NY",
+            "description": "Analyze digital marketing data and provide insights. You will track metrics, create reports, and recommend optimizations.",
+            "employment_type": "Full-time",
+            "salary": "70k - 90k",
+            "bonus": "Up to 12% annual performance bonus",
+            "benefits_package": [
+                "Health insurance",
+                "401(k) plan",
+                "Analytics tools",
+                "Remote work options"
+            ],
+            "date_posted": "1d",
+            "requirements": [
+                "4+ years analytics",
+                "Data analysis",
+                "Reporting skills"
+            ]
+        },
+        {
+            "id": 43,
+            "title": "Social Media Manager",
+            "company": {
+                "name": "Social Media Experts",
+                "phone": "(310) 555-0243",
+                "email": "jobs@socialmediaexperts.com",
+                "rating": 4.3
+            },
+            "location": "Los Angeles, CA",
+            "description": "Manage social media presence and engagement. You will create content, monitor performance, and build community.",
+            "employment_type": "Full-time",
+            "salary": "65k - 85k",
+            "bonus": "Up to 10% annual performance bonus",
+            "benefits_package": [
+                "Health coverage",
+                "401(k) matching",
+                "Social tools",
+                "Remote work options"
+            ],
+            "date_posted": "4d",
+            "requirements": [
+                "4+ years social media",
+                "Content creation",
+                "Community management"
+            ]
+        },
+        {
+            "id": 44,
+            "title": "Digital Marketing Specialist",
+            "company": {
+                "name": "Marketing Masters",
+                "phone": "(512) 555-0244",
+                "email": "careers@marketingmasters.com",
+                "rating": 4.4
+            },
+            "location": "Austin, TX",
+            "description": "Execute digital marketing campaigns and strategies. You will manage campaigns, analyze performance, and optimize results.",
+            "employment_type": "Full-time",
+            "salary": "60k - 80k",
+            "bonus": "Up to 10% annual performance bonus",
+            "benefits_package": [
+                "Comprehensive benefits",
+                "Marketing tools",
+                "Remote work options",
+                "Learning budget"
+            ],
+            "date_posted": "2d",
+            "requirements": [
+                "3+ years marketing",
+                "Campaign management",
+                "Analytical skills"
+            ]
+        },
+        {
+            "id": 45,
+            "title": "Content Marketing Specialist",
+            "company": {
+                "name": "Content Solutions",
+                "phone": "(206) 555-0245",
+                "email": "jobs@contentsolutions.com",
+                "rating": 4.2
+            },
+            "location": "Seattle, WA",
+            "description": "Create and manage content marketing initiatives. You will develop content, optimize for SEO, and measure performance.",
+            "employment_type": "Full-time",
+            "salary": "55k - 75k",
+            "bonus": "Up to 8% annual performance bonus",
+            "benefits_package": [
+                "Health insurance",
+                "401(k) plan",
+                "Content tools",
+                "Remote work options"
+            ],
+            "date_posted": "3d",
+            "requirements": [
+                "3+ years content marketing",
+                "Writing skills",
+                "SEO knowledge"
+            ]
+        },
+        {
+            "id": 46,
+            "title": "Digital Marketing Manager",
+            "company": {
+                "name": "Marketing Leaders",
+                "phone": "(415) 555-0246",
+                "email": "careers@marketingleaders.com",
+                "rating": 4.6
+            },
+            "location": "San Francisco, CA",
+            "description": "Lead digital marketing strategy and execution. You will manage teams, budgets, and drive growth initiatives.",
+            "employment_type": "Full-time",
+            "salary": "95k - 120k",
+            "bonus": "Up to 15% annual performance bonus",
+            "benefits_package": [
+                "Comprehensive benefits",
+                "401(k) matching",
+                "Remote work options",
+                "Leadership training"
+            ],
+            "date_posted": "1d",
+            "requirements": [
+                "6+ years marketing",
+                "Team leadership",
+                "Strategy expertise"
+            ]
+        },
+        {
+            "id": 47,
+            "title": "Social Media Specialist",
+            "company": {
+                "name": "Social Experts",
+                "phone": "(212) 555-0247",
+                "email": "jobs@socialexperts.com",
+                "rating": 4.3
+            },
+            "location": "New York, NY",
+            "description": "Manage social media presence and engagement. You will create content, monitor performance, and build community.",
+            "employment_type": "Full-time",
+            "salary": "60k - 80k",
+            "bonus": "Up to 10% annual performance bonus",
+            "benefits_package": [
+                "Health coverage",
+                "401(k) matching",
+                "Social tools",
+                "Remote work options"
+            ],
+            "date_posted": "4d",
+            "requirements": [
+                "3+ years social media",
+                "Content creation",
+                "Community management"
+            ]
+        },
+        {
+            "id": 48,
+            "title": "Digital Marketing Analyst",
+            "company": {
+                "name": "Analytics Solutions",
+                "phone": "(310) 555-0248",
+                "email": "careers@analyticssolutions.com",
+                "rating": 4.4
+            },
+            "location": "Los Angeles, CA",
+            "description": "Analyze digital marketing performance and provide insights. You will track metrics, create reports, and recommend optimizations.",
+            "employment_type": "Full-time",
+            "salary": "65k - 85k",
+            "bonus": "Up to 12% annual performance bonus",
+            "benefits_package": [
+                "Comprehensive benefits",
+                "Analytics tools",
+                "Remote work options",
+                "Learning budget"
+            ],
+            "date_posted": "2d",
+            "requirements": [
+                "4+ years analytics",
+                "Data analysis",
+                "Reporting skills"
+            ]
+        },
+        {
+            "id": 49,
+            "title": "Content Marketing Manager",
+            "company": {
+                "name": "Content Leaders",
+                "phone": "(512) 555-0249",
+                "email": "jobs@contentleaders.com",
+                "rating": 4.5
+            },
+            "location": "Austin, TX",
+            "description": "Lead content marketing strategy and execution. You will develop content plans, oversee creation, and measure performance.",
+            "employment_type": "Full-time",
+            "salary": "80k - 105k",
+            "bonus": "Up to 15% annual performance bonus",
+            "benefits_package": [
+                "Health insurance",
+                "401(k) plan",
+                "Content tools",
+                "Remote work options"
+            ],
+            "date_posted": "3d",
+            "requirements": [
+                "5+ years content marketing",
+                "Strategy experience",
+                "Team leadership"
+            ]
+        },
+        {
+            "id": 50,
+            "title": "Digital Marketing Coordinator",
+            "company": {
+                "name": "Marketing Solutions",
+                "phone": "(206) 555-0250",
+                "email": "careers@marketingsolutions.com",
+                "rating": 4.2
+            },
+            "location": "Seattle, WA",
+            "description": "Support digital marketing initiatives and campaigns. You will assist with execution, track performance, and maintain documentation.",
+            "employment_type": "Full-time",
+            "salary": "50k - 65k",
+            "bonus": "Up to 8% annual performance bonus",
+            "benefits_package": [
+                "Health coverage",
+                "401(k) matching",
+                "Remote work options",
+                "Training budget"
+            ],
+            "date_posted": "1d",
+            "requirements": [
+                "2+ years marketing",
+                "Project coordination",
+                "Basic analytics"
+            ]
+        }
+    ]
+}

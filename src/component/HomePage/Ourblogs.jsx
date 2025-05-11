@@ -10,6 +10,7 @@ const Ourblogs = () => {
   return (
 		<div
 			className="mt-20 px-5 md:px-10 lg:px-16 pb-20"
+			id='#blogs'
 			style={{ backgroundColor: "rgb(243, 247, 253)" }}>
 			<h1
 				className="text-blue-700 mt-10 text-lg"

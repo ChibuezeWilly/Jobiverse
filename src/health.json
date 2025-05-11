@@ -1,0 +1,2393 @@
+{
+	"health": [
+		{
+			"id": 1,
+			"title": "Personal Trainer",
+			"company": {
+				"name": "FitLife Gym",
+				"phone": "(305) 555-1234",
+				"email": "careers@fitlifegym.com"
+			},
+			"location": "New York, NY",
+			"description": "Seeking a certified personal trainer to create customized fitness programs for clients.",
+			"employment_type": "Full-time",
+			"salary": 55000,
+			"bonus": "Performance-based commission",
+			"benefits_package": [
+				"Health and dental insurance",
+				"401(k) with employer match",
+				"Free gym membership",
+				"Continuing education support"
+			],
+			"date_posted": "2025-02-05",
+			"requirements": [
+				"Certified Personal Trainer (CPT) credential",
+				"1+ year of experience in personal training",
+				"Excellent communication and motivation skills"
+			]
+		},
+		{
+			"id": 2,
+			"title": "Group Fitness Instructor",
+			"company": {
+				"name": "Peak Performance Studio",
+				"phone": "(312) 555-5678",
+				"email": "jobs@peakperformancestudio.com"
+			},
+			"location": "Los Angeles, CA",
+			"description": "Lead dynamic group fitness classes such as HIIT, yoga, and strength training.",
+			"employment_type": "Part-time",
+			"salary": 35000,
+			"bonus": "Class attendance incentives",
+			"benefits_package": [
+				"Flexible schedule",
+				"Discounted studio membership",
+				"Ongoing training and workshops"
+			],
+			"date_posted": "2025-02-05",
+			"requirements": [
+				"Certified Group Fitness Instructor (ACE, NASM, or AFAA)",
+				"Experience leading group workouts",
+				"Passion for health and fitness"
+			]
+		},
+		{
+			"id": 3,
+			"title": "Sports Coach",
+			"company": {
+				"name": "Elite Athletics Academy",
+				"phone": "(407) 555-9999",
+				"email": "recruiting@eliteathletics.com"
+			},
+			"location": "Orlando, FL",
+			"description": "Train and mentor young athletes in competitive sports programs.",
+			"employment_type": "Full-time",
+			"salary": 60000,
+			"bonus": "Performance-based team incentives",
+			"benefits_package": [
+				"Health and vision insurance",
+				"Professional development funding",
+				"Paid travel for competitions"
+			],
+			"date_posted": "2025-02-05",
+			"requirements": [
+				"Bachelor’s degree in Sports Science or related field",
+				"3+ years of coaching experience",
+				"CPR and First Aid certification"
+			]
+		},
+		{
+			"id": 4,
+			"title": "Gym Manager",
+			"company": {
+				"name": "Total Strength Fitness",
+				"phone": "(214) 555-4567",
+				"email": "careers@totalstrength.com"
+			},
+			"location": "Dallas, TX",
+			"description": "Oversee daily operations, membership services, and staff training in a busy gym.",
+			"employment_type": "Full-time",
+			"salary": 70000,
+			"bonus": "Quarterly performance bonuses",
+			"benefits_package": [
+				"Health and dental insurance",
+				"Paid vacation and holidays",
+				"Employee wellness program"
+			],
+			"date_posted": "2025-02-05",
+			"requirements": [
+				"2+ years of gym management experience",
+				"Strong leadership and customer service skills",
+				"Business or fitness-related degree preferred"
+			]
+		},
+		{
+			"id": 5,
+			"title": "Wellness Coach",
+			"company": {
+				"name": "Holistic Health Solutions",
+				"phone": "(617) 555-7890",
+				"email": "apply@holistichealth.com"
+			},
+			"location": "Remote",
+			"description": "Help clients develop sustainable health and fitness habits through coaching and education.",
+			"employment_type": "Contract",
+			"salary": 50000,
+			"bonus": "Client retention incentives",
+			"benefits_package": [
+				"Flexible schedule",
+				"Remote work option",
+				"Access to wellness training resources"
+			],
+			"date_posted": "2025-02-05",
+			"requirements": [
+				"Certified Health Coach (ACE, NASM, or IIN)",
+				"Experience in nutrition and lifestyle coaching",
+				"Strong interpersonal and motivational skills"
+			]
+		},
+
+		{
+			"id": 16,
+			"title": "Software Engineer - Frontend",
+			"company": {
+				"name": "Tech Innovations Inc.",
+				"phone": "(555) 123-4567",
+				"email": "jobs@techinnovations.com"
+			},
+			"location": "New York, NY",
+			"description": "Seeking a Frontend Software Engineer to build responsive web applications.",
+			"employment_type": "Full-time",
+			"salary": 95000,
+			"bonus": "Up to 10% annual performance bonus",
+			"benefits_package": [
+				"Health insurance",
+				"Remote work options",
+				"Flexible hours",
+				"Professional development opportunities"
+			],
+			"date_posted": "2025-02-05",
+			"requirements": [
+				"Bachelor's degree in Computer Science or related field",
+				"3+ years of experience in frontend development",
+				"Proficiency in JavaScript, HTML, and CSS"
+			]
+		},
+		{
+			"id": 17,
+			"title": "Data Analyst",
+			"company": {
+				"name": "Data Insights LLC",
+				"phone": "(555) 234-5678",
+				"email": "careers@datainsights.com"
+			},
+			"location": "Remote",
+			"description": "Looking for a Data Analyst to interpret data and provide actionable insights.",
+			"employment_type": "Full-time",
+			"salary": 70000,
+			"bonus": "Up to 5% annual performance bonus",
+			"benefits_package": [
+				"Health and wellness programs",
+				"401(k) with matching",
+				"Paid time off",
+				"Team-building activities"
+			],
+			"date_posted": "2025-02-05",
+			"requirements": [
+				"Bachelor's degree in Mathematics, Statistics, or related field",
+				"2+ years of experience in data analysis",
+				"Strong analytical and problem-solving skills"
+			]
+		},
+		{
+			"id": 18,
+			"title": "Marketing Manager",
+			"company": {
+				"name": "Creative Solutions",
+				"phone": "(555) 345-6789",
+				"email": "hr@creativesolutions.com"
+			},
+			"location": "San Francisco, CA",
+			"description": "Seeking a Marketing Manager to lead marketing campaigns and strategies.",
+			"employment_type": "Full-time",
+			"salary": 85000,
+			"bonus": "Up to 12% annual performance bonus",
+			"benefits_package": [
+				"Comprehensive health benefits",
+				"Flexible work schedule",
+				"Paid parental leave",
+				"Annual company retreat"
+			],
+			"date_posted": "2025-02-05",
+			"requirements": [
+				"Bachelor's degree in Marketing or related field",
+				"5+ years of experience in marketing management",
+				"Strong leadership and communication skills"
+			]
+		},
+		{
+			"id": 19,
+			"title": "Product Manager",
+			"company": {
+				"name": "Innovatech",
+				"phone": "(555) 456-7890",
+				"email": "careers@innovatech.com"
+			},
+			"location": "Austin, TX",
+			"description": "Looking for a Product Manager to oversee product development and strategy.",
+			"employment_type": "Full-time",
+			"salary": 90000,
+			"bonus": "Up to 15% annual performance bonus",
+			"benefits_package": [
+				"Health and dental insurance",
+				"Stock options",
+				"Remote work flexibility",
+				"Professional development budget"
+			],
+			"date_posted": "2025-02-05",
+			"requirements": [
+				"Bachelor's degree in Business or related field",
+				"4+ years of experience in product management",
+				"Strong understanding of Agile methodologies"
+			]
+		},
+		{
+			"id": 20,
+			"title": "UX/UI Designer",
+			"company": {
+				"name": "Design Hub",
+				"phone": "(555) 567-8901",
+				"email": "jobs@designhub.com"
+			},
+			"location": "Remote",
+			"description": "Seeking a UX/UI Designer to create user-friendly interfaces for web applications.",
+			"employment_type": "Full-time",
+			"salary": 80000,
+			"bonus": "Up to 10% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"Flexible working hours",
+				"Paid time off",
+				"Creative workshops"
+			],
+			"date_posted": "2025-02-05",
+			"requirements": [
+				"Bachelor's degree in Design or related field",
+				"3+ years of experience in UX/UI design",
+				"Strong portfolio showcasing design skills"
+			]
+		},
+		{
+			"id": 21,
+			"title": "Sales Executive",
+			"company": {
+				"name": "Sales Pros",
+				"phone": "(555) 678-9012",
+				"email": "careers@salespros.com"
+			},
+			"location": "Chicago, IL",
+			"description": "Looking for a Sales Executive to drive revenue and build client relationships.",
+			"employment_type": "Full-time",
+			"salary": 75000,
+			"bonus": "Commission-based earnings",
+			"benefits_package": [
+				"Health insurance",
+				"401(k) plan",
+				"Paid vacation",
+				"Sales training programs"
+			],
+			"date_posted": "2025-02-05",
+			"requirements": [
+				"Bachelor's degree in Business or related field",
+				"2+ years of experience in sales",
+				"Excellent communication and negotiation skills"
+			]
+		},
+		{
+			"id": 22,
+			"title": "Content Writer",
+			"company": {
+				"name": "WriteRight",
+				"phone": "(555) 789-0123",
+				"email": "jobs@writeright.com"
+			},
+			"location": "Remote",
+			"description": "Seeking a Content Writer to create engaging content for various platforms.",
+			"employment_type": "Full-time",
+			"salary": 60000,
+			"bonus": "Up to 5% annual performance bonus",
+			"benefits_package": [
+				"Health and wellness benefits",
+				"Flexible schedule",
+				"Remote work options",
+				"Creative team events"
+			],
+			"date_posted": "2025-02-05",
+			"requirements": [
+				"Bachelor's degree in English, Journalism, or related field",
+				"3+ years of experience in content writing",
+				"Strong writing and editing skills"
+			]
+		},
+		{
+			"id": 23,
+			"title": "Network Administrator",
+			"company": {
+				"name": "IT Solutions",
+				"phone": "(555) 890-1234",
+				"email": "careers@itsolutions.com"
+			},
+			"location": "Remote",
+			"description": "Looking for a Network Administrator to manage and maintain network systems.",
+			"employment_type": "Full-time",
+			"salary": 70000,
+			"bonus": "Up to 8% annual performance bonus",
+			"benefits_package": [
+				"Comprehensive health insurance",
+				"401(k) with company match",
+				"Paid time off",
+				"Training and certifications"
+			],
+			"date_posted": "2025-02-05",
+			"requirements": [
+				"Bachelor's degree in Information Technology or related field",
+				"3+ years of experience in network administration",
+				"Strong understanding of network protocols and security"
+			]
+		},
+		{
+			"id": 24,
+			"title": "Human Resources Manager",
+			"company": {
+				"name": "People First",
+				"phone": "(555) 901-2345",
+				"email": "hr@peoplefirst.com"
+			},
+			"location": "Los Angeles, CA",
+			"description": "Seeking a Human Resources Manager to oversee HR functions and employee relations.",
+			"employment_type": "Full-time",
+			"salary": 85000,
+			"bonus": "Up to 10% annual performance bonus",
+			"benefits_package": [
+				"Health and dental insurance",
+				"401(k) with matching",
+				"Paid time off",
+				"Employee wellness programs"
+			],
+			"date_posted": "2025-02-05",
+			"requirements": [
+				"Bachelor's degree in Human Resources or related field",
+				"5+ years of experience in HR management",
+				"Strong interpersonal and communication skills"
+			]
+		},
+		{
+			"id": 25,
+			"title": "Customer Support Specialist",
+			"company": {
+				"name": "Support Services",
+				"phone": "(555) 012-3456",
+				"email": "careers@supportservices.com"
+			},
+			"location": "Remote",
+			"description": "Looking for a Customer Support Specialist to assist customers with inquiries.",
+			"employment_type": "Full-time",
+			"salary": 50000,
+			"bonus": "Up to 5% annual performance bonus",
+			"benefits_package": [
+				"Health insurance",
+				"Flexible working hours",
+				"Paid time off",
+				"Career advancement opportunities"
+			],
+			"date_posted": "2025-02-05",
+			"requirements": [
+				"High school diploma or equivalent",
+				"1+ years of experience in customer support",
+				"Excellent communication skills"
+			]
+		},
+		{
+			"id": 26,
+			"title": "Financial Analyst",
+			"company": {
+				"name": "Finance Corp",
+				"phone": "(555) 123-6547",
+				"email": "jobs@financecorp.com"
+			},
+			"location": "New York, NY",
+			"description": "Seeking a Financial Analyst to analyze financial data and trends.",
+			"employment_type": "Full-time",
+			"salary": 75000,
+			"bonus": "Up to 7% annual performance bonus",
+			"benefits_package": [
+				"Health and wellness benefits",
+				"401(k) with matching",
+				"Paid time off",
+				"Professional development opportunities"
+			],
+			"date_posted": "2025-02-05",
+			"requirements": [
+				"Bachelor's degree in Finance or related field",
+				"2+ years of experience in financial analysis",
+				"Strong analytical skills"
+			]
+		},
+		{
+			"id": 27,
+			"title": "Web Developer",
+			"company": {
+				"name": "WebWorks",
+				"phone": "(555) 234-7654",
+				"email": "careers@webworks.com"
+			},
+			"location": "Remote",
+			"description": "Looking for a Web Developer to create and maintain websites.",
+			"employment_type": "Full-time",
+			"salary": 70000,
+			"bonus": "Up to 5% annual performance bonus",
+			"benefits_package": [
+				"Health insurance",
+				"Remote work options",
+				"Flexible schedule",
+				"Team outings"
+			],
+			"date_posted": "2025-02-05",
+			"requirements": [
+				"Bachelor's degree in Computer Science or related field",
+				"3+ years of experience in web development",
+				"Proficiency in HTML, CSS, and JavaScript"
+			]
+		},
+		{
+			"id": 28,
+			"title": "Graphic Designer - Marketing",
+			"company": {
+				"name": "Creative Agency",
+				"phone": "(555) 345-8765",
+				"email": "jobs@creativeagency.com"
+			},
+			"location": "Remote",
+			"description": "Seeking a Graphic Designer to create marketing materials and visuals.",
+			"employment_type": "Full-time",
+			"salary": 75000,
+			"bonus": "Up to 10% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"Flexible working hours",
+				"Paid time off",
+				"Creative team events"
+			],
+			"date_posted": "2025-02-05",
+			"requirements": [
+				"Bachelor's degree in Graphic Design or related field",
+				"3+ years of experience in graphic design",
+				"Strong portfolio of design work"
+			]
+		},
+		{
+			"id": 29,
+			"title": "Business Analyst",
+			"company": {
+				"name": "Business Solutions",
+				"phone": "(555) 456-9876",
+				"email": "careers@businesssolutions.com"
+			},
+			"location": "Remote",
+			"description": "Looking for a Business Analyst to improve business processes and systems.",
+			"employment_type": "Full-time",
+			"salary": 80000,
+			"bonus": "Up to 10% annual performance bonus",
+			"benefits_package": [
+				"Health and dental insurance",
+				"401(k) with matching",
+				"Paid time off",
+				"Professional development resources"
+			],
+			"date_posted": "2025-02-05",
+			"requirements": [
+				"Bachelor's degree in Business Administration or related field",
+				"3+ years of experience in business analysis",
+				"Excellent problem-solving and analytical skills"
+			]
+		},
+		{
+			"id": 30,
+			"title": "Certified Personal Trainer",
+			"company": {
+				"name": "Prime Fitness",
+				"phone": "(312) 555-7890",
+				"email": "careers@primefitness.com"
+			},
+			"location": "Chicago, IL",
+			"description": "Provide one-on-one personal training sessions tailored to client needs and fitness goals.",
+			"employment_type": "Full-time",
+			"salary": 58000,
+			"bonus": "Performance-based commissions",
+			"benefits_package": [
+				"Health and dental insurance",
+				"401(k) retirement plan",
+				"Free gym membership"
+			],
+			"date_posted": "2025-02-05",
+			"requirements": [
+				"Certified Personal Trainer (NASM, ACE, ISSA)",
+				"Excellent communication and client engagement skills",
+				"1+ years of experience in personal training"
+			]
+		},
+		{
+			"id": 31,
+			"title": "Group Fitness Instructor",
+			"company": {
+				"name": "FitClub",
+				"phone": "(415) 555-6789",
+				"email": "jobs@fitclub.com"
+			},
+			"location": "San Francisco, CA",
+			"description": "Lead high-energy group fitness classes, including HIIT, yoga, and strength training.",
+			"employment_type": "Part-time",
+			"salary": 32000,
+			"bonus": "Attendance-based incentives",
+			"benefits_package": [
+				"Flexible schedule",
+				"Discounted club membership",
+				"Ongoing instructor training"
+			],
+			"date_posted": "2025-02-05",
+			"requirements": [
+				"Certified Group Fitness Instructor (AFAA, ACE, or NASM)",
+				"Passion for fitness and community engagement",
+				"Previous experience teaching group classes"
+			]
+		},
+		{
+			"id": 32,
+			"title": "Sports Nutritionist",
+			"company": {
+				"name": "Peak Performance Nutrition",
+				"phone": "(646) 555-2345",
+				"email": "hiring@peakperformance.com"
+			},
+			"location": "New York, NY",
+			"description": "Develop and implement nutrition plans for athletes and fitness clients.",
+			"employment_type": "Full-time",
+			"salary": 75000,
+			"bonus": "Client referral bonuses",
+			"benefits_package": [
+				"Comprehensive health insurance",
+				"Continuing education support",
+				"Flexible work hours"
+			],
+			"date_posted": "2025-02-05",
+			"requirements": [
+				"Degree in Nutrition or Dietetics",
+				"Certified Sports Nutritionist (CISSN, ISSN preferred)",
+				"2+ years of experience in sports nutrition"
+			]
+		},
+		{
+			"id": 33,
+			"title": "Wellness Coach",
+			"company": {
+				"name": "Balanced Living",
+				"phone": "(505) 555-8765",
+				"email": "careers@balancedliving.com"
+			},
+			"location": "Remote",
+			"description": "Help clients develop healthier lifestyle habits through wellness coaching sessions.",
+			"employment_type": "Contract",
+			"salary": 55000,
+			"bonus": "Client success bonuses",
+			"benefits_package": [
+				"Remote work opportunity",
+				"Flexible scheduling",
+				"Access to wellness resources"
+			],
+			"date_posted": "2025-02-05",
+			"requirements": [
+				"Certified Wellness Coach (NASM, IIN, or ACE)",
+				"Experience in health coaching or lifestyle consulting",
+				"Excellent motivational and interpersonal skills"
+			]
+		},
+		{
+			"id": 34,
+			"title": "Strength and Conditioning Coach",
+			"company": {
+				"name": "Elite Athlete Training",
+				"phone": "(702) 555-3210",
+				"email": "apply@eliteathletetraining.com"
+			},
+			"location": "Las Vegas, NV",
+			"description": "Train and develop athletic strength programs for competitive athletes.",
+			"employment_type": "Full-time",
+			"salary": 80000,
+			"bonus": "Athlete performance-based bonuses",
+			"benefits_package": [
+				"Health and vision insurance",
+				"Professional development support",
+				"Paid travel for competitions"
+			],
+			"date_posted": "2025-02-05",
+			"requirements": [
+				"Certified Strength and Conditioning Specialist (CSCS)",
+				"3+ years of experience in athletic performance training",
+				"Strong knowledge of biomechanics and injury prevention"
+			]
+		},
+		{
+			"id": 35,
+			"title": "Yoga Instructor",
+			"company": {
+				"name": "Serene Yoga Studio",
+				"phone": "(818) 555-1122",
+				"email": "hiring@sereneyoga.com"
+			},
+			"location": "Los Angeles, CA",
+			"description": "Teach Vinyasa and Hatha yoga classes in a peaceful studio setting.",
+			"employment_type": "Part-time",
+			"salary": 28000,
+			"bonus": "Attendance-based class incentives",
+			"benefits_package": [
+				"Flexible schedule",
+				"Free yoga classes",
+				"Ongoing certification support"
+			],
+			"date_posted": "2025-02-05",
+			"requirements": [
+				"200-hour Yoga Teacher Training (YTT) certification",
+				"Experience in group yoga instruction",
+				"Passionate about holistic wellness"
+			]
+		},
+		{
+			"id": 36,
+			"title": "Certified Personal Trainer",
+			"company": {
+				"name": "Prime Fitness",
+				"phone": "(312) 555-7890",
+				"email": "careers@primefitness.com"
+			},
+			"location": "Chicago, IL",
+			"description": "Provide one-on-one personal training sessions tailored to client needs and fitness goals.",
+			"employment_type": "Full-time",
+			"salary": 58000,
+			"bonus": "Performance-based commissions",
+			"benefits_package": [
+				"Health and dental insurance",
+				"401(k) retirement plan",
+				"Free gym membership"
+			],
+			"date_posted": "2025-02-05",
+			"requirements": [
+				"Certified Personal Trainer (NASM, ACE, ISSA)",
+				"Excellent communication and client engagement skills",
+				"1+ years of experience in personal training"
+			]
+		},
+		{
+			"id": 37,
+			"title": "Group Fitness Instructor",
+			"company": {
+				"name": "FitClub",
+				"phone": "(415) 555-6789",
+				"email": "jobs@fitclub.com"
+			},
+			"location": "San Francisco, CA",
+			"description": "Lead high-energy group fitness classes, including HIIT, yoga, and strength training.",
+			"employment_type": "Part-time",
+			"salary": 32000,
+			"bonus": "Attendance-based incentives",
+			"benefits_package": [
+				"Flexible schedule",
+				"Discounted club membership",
+				"Ongoing instructor training"
+			],
+			"date_posted": "2025-02-05",
+			"requirements": [
+				"Certified Group Fitness Instructor (AFAA, ACE, or NASM)",
+				"Passion for fitness and community engagement",
+				"Previous experience teaching group classes"
+			]
+		},
+		{
+			"id": 38,
+			"title": "Sports Nutritionist",
+			"company": {
+				"name": "Peak Performance Nutrition",
+				"phone": "(646) 555-2345",
+				"email": "hiring@peakperformance.com"
+			},
+			"location": "New York, NY",
+			"description": "Develop and implement nutrition plans for athletes and fitness clients.",
+			"employment_type": "Full-time",
+			"salary": 75000,
+			"bonus": "Client referral bonuses",
+			"benefits_package": [
+				"Comprehensive health insurance",
+				"Continuing education support",
+				"Flexible work hours"
+			],
+			"date_posted": "2025-02-05",
+			"requirements": [
+				"Degree in Nutrition or Dietetics",
+				"Certified Sports Nutritionist (CISSN, ISSN preferred)",
+				"2+ years of experience in sports nutrition"
+			]
+		},
+		{
+			"id": 39,
+			"title": "Wellness Coach",
+			"company": {
+				"name": "Balanced Living",
+				"phone": "(505) 555-8765",
+				"email": "careers@balancedliving.com"
+			},
+			"location": "Remote",
+			"description": "Help clients develop healthier lifestyle habits through wellness coaching sessions.",
+			"employment_type": "Contract",
+			"salary": 55000,
+			"bonus": "Client success bonuses",
+			"benefits_package": [
+				"Remote work opportunity",
+				"Flexible scheduling",
+				"Access to wellness resources"
+			],
+			"date_posted": "2025-02-05",
+			"requirements": [
+				"Certified Wellness Coach (NASM, IIN, or ACE)",
+				"Experience in health coaching or lifestyle consulting",
+				"Excellent motivational and interpersonal skills"
+			]
+		},
+		{
+			"id": 40,
+			"title": "Strength and Conditioning Coach",
+			"company": {
+				"name": "Elite Athlete Training",
+				"phone": "(702) 555-3210",
+				"email": "apply@eliteathletetraining.com"
+			},
+			"location": "Las Vegas, NV",
+			"description": "Train and develop athletic strength programs for competitive athletes.",
+			"employment_type": "Full-time",
+			"salary": 80000,
+			"bonus": "Athlete performance-based bonuses",
+			"benefits_package": [
+				"Health and vision insurance",
+				"Professional development support",
+				"Paid travel for competitions"
+			],
+			"date_posted": "2025-02-05",
+			"requirements": [
+				"Certified Strength and Conditioning Specialist (CSCS)",
+				"3+ years of experience in athletic performance training",
+				"Strong knowledge of biomechanics and injury prevention"
+			]
+		},
+		{
+			"id": 41,
+			"title": "Yoga Instructor",
+			"company": {
+				"name": "Serene Yoga Studio",
+				"phone": "(818) 555-1122",
+				"email": "hiring@sereneyoga.com"
+			},
+			"location": "Los Angeles, CA",
+			"description": "Teach Vinyasa and Hatha yoga classes in a peaceful studio setting.",
+			"employment_type": "Part-time",
+			"salary": 28000,
+			"bonus": "Attendance-based class incentives",
+			"benefits_package": [
+				"Flexible schedule",
+				"Free yoga classes",
+				"Ongoing certification support"
+			],
+			"date_posted": "2025-02-05",
+			"requirements": [
+				"200-hour Yoga Teacher Training (YTT) certification",
+				"Experience in group yoga instruction",
+				"Passionate about holistic wellness"
+			]
+		},
+		{
+			"id": 42,
+			"title": "Physical Therapist",
+			"company": {
+				"name": "Active Recovery Clinic",
+				"phone": "(919) 555-9901",
+				"email": "hr@activerecovery.com"
+			},
+			"location": "Raleigh, NC",
+			"description": "Assist clients in recovering from injuries through personalized therapy programs.",
+			"employment_type": "Full-time",
+			"salary": 90000,
+			"bonus": "Annual performance incentives",
+			"benefits_package": [
+				"Comprehensive health coverage",
+				"Paid time off",
+				"Career advancement programs"
+			],
+			"date_posted": "2025-02-05",
+			"requirements": [
+				"Doctorate in Physical Therapy (DPT)",
+				"State license to practice",
+				"2+ years of experience preferred"
+			]
+		},
+		{
+			"id": 37,
+			"title": "Athletic Trainer",
+			"company": {
+				"name": "Pro Sports Rehab",
+				"phone": "(303) 555-5544",
+				"email": "careers@prosportsrehab.com"
+			},
+			"location": "Denver, CO",
+			"description": "Work with athletes to prevent, diagnose, and treat sports-related injuries.",
+			"employment_type": "Full-time",
+			"salary": 70000,
+			"bonus": "Performance and client retention bonuses",
+			"benefits_package": [
+				"Health and dental insurance",
+				"Continuing education reimbursement",
+				"Access to top training facilities"
+			],
+			"date_posted": "2025-02-05",
+			"requirements": [
+				"Bachelor's degree in Athletic Training or related field",
+				"Certified Athletic Trainer (ATC)",
+				"Experience working with sports teams preferred"
+			]
+		},
+		{
+			"id": 38,
+			"title": "Health and Wellness Coordinator",
+			"company": {
+				"name": "Vitality Wellness Center",
+				"phone": "(210) 555-7777",
+				"email": "jobs@vitalitywellness.com"
+			},
+			"location": "Austin, TX",
+			"description": "Design and oversee wellness programs for corporate and individual clients.",
+			"employment_type": "Full-time",
+			"salary": 65000,
+			"bonus": "Project completion incentives",
+			"benefits_package": [
+				"Medical and vision insurance",
+				"401(k) with company matching",
+				"Hybrid work options"
+			],
+			"date_posted": "2025-02-05",
+			"requirements": [
+				"Degree in Health Science, Nutrition, or a related field",
+				"Experience in wellness program development",
+				"Strong communication and leadership skills"
+			]
+		},
+		{
+			"id": 45,
+			"title": "Software Developer - Backend",
+			"company": {
+				"name": "Tech Solutions Inc.",
+				"phone": "(555) 213-4567",
+				"email": "careers@techsolutions.com"
+			},
+			"location": "Remote",
+			"description": "Looking for a Backend Software Developer to build and maintain server-side applications.",
+			"employment_type": "Full-time",
+			"salary": 95000,
+			"bonus": "Up to 10% annual performance bonus",
+			"benefits_package": [
+				"Health insurance",
+				"Remote work options",
+				"Flexible schedule",
+				"Professional development opportunities"
+			],
+			"date_posted": "2025-02-05",
+			"requirements": [
+				"Bachelor's degree in Computer Science or related field",
+				"3+ years of experience in backend development",
+				"Proficiency in Python, Java, or Node.js"
+			]
+		},
+		{
+			"id": 46,
+			"title": "Digital Marketing Specialist",
+			"company": {
+				"name": "Market Reach",
+				"phone": "(555) 324-5678",
+				"email": "jobs@marketreach.com"
+			},
+			"location": "San Diego, CA",
+			"description": "Seeking a Digital Marketing Specialist to manage online marketing campaigns.",
+			"employment_type": "Full-time",
+			"salary": 65000,
+			"bonus": "Up to 8% annual performance bonus",
+			"benefits_package": [
+				"401(k) with company match",
+				"Health, dental, and vision insurance",
+				"Paid time off",
+				"Career advancement opportunities"
+			],
+			"date_posted": "2025-02-05",
+			"requirements": [
+				"Bachelor's degree in Marketing or related field",
+				"2+ years of experience in digital marketing",
+				"Strong knowledge of SEO and PPC strategies"
+			]
+		},
+		{
+			"id": 47,
+			"title": "Cloud Solutions Architect",
+			"company": {
+				"name": "Cloud Innovations",
+				"phone": "(555) 435-6789",
+				"email": "careers@cloudinnovations.com"
+			},
+			"location": "Remote",
+			"description": "Looking for a Cloud Solutions Architect to design and implement cloud-based solutions.",
+			"employment_type": "Full-time",
+			"salary": 120000,
+			"bonus": "Up to 12% annual performance bonus",
+			"benefits_package": [
+				"Health benefits",
+				"Stock options",
+				"Flexible work hours",
+				"Training and certifications"
+			],
+			"date_posted": "2025-02-05",
+			"requirements": [
+				"Bachelor's degree in Computer Science or related field",
+				"5+ years of experience in cloud architecture",
+				"Strong understanding of AWS or Azure"
+			]
+		},
+		{
+			"id": 48,
+			"title": "Graphic Designer - Product",
+			"company": {
+				"name": "Creative Vision",
+				"phone": "(555) 546-7890",
+				"email": "jobs@creativevision.com"
+			},
+			"location": "Austin, TX",
+			"description": "Seeking a Graphic Designer to develop product packaging and branding.",
+			"employment_type": "Full-time",
+			"salary": 70000,
+			"bonus": "Up to 10% annual performance bonus",
+			"benefits_package": [
+				"Health and dental insurance",
+				"Flexible work schedule",
+				"Paid time off",
+				"Creative team events"
+			],
+			"date_posted": "2025-02-05",
+			"requirements": [
+				"Bachelor's degree in Graphic Design or related field",
+				"3+ years of experience in product design",
+				"Strong portfolio of design work"
+			]
+		},
+		{
+			"id": 49,
+			"title": "Data Scientist",
+			"company": {
+				"name": "DataDriven",
+				"phone": "(555) 654-8901",
+				"email": "careers@datadriven.com"
+			},
+			"location": "New York, NY",
+			"description": "Looking for a Data Scientist to analyze complex data sets and provide insights.",
+			"employment_type": "Full-time",
+			"salary": 110000,
+			"bonus": "Up to 15% annual performance bonus",
+			"benefits_package": [
+				"Comprehensive health insurance",
+				"Flexible working hours",
+				"Paid time off",
+				"Professional development budget"
+			],
+			"date_posted": "2025-02-05",
+			"requirements": [
+				"Master's degree in Data Science or related field",
+				"3+ years of experience in data analysis",
+				"Proficiency in Python or R"
+			]
+		},
+		{
+			"id": 50,
+			"title": "Social Media Manager",
+			"company": {
+				"name": "Buzz Media",
+				"phone": "(555) 789-0123",
+				"email": "jobs@buzzmedia.com"
+			},
+			"location": "Remote",
+			"description": "Seeking a Social Media Manager to create and manage social media campaigns.",
+			"employment_type": "Full-time",
+			"salary": 60000,
+			"bonus": "Up to 5% annual performance bonus",
+			"benefits_package": [
+				"Health insurance",
+				"Flexible work schedule",
+				"Paid time off",
+				"Team-building activities"
+			],
+			"date_posted": "2025-02-05",
+			"requirements": [
+				"Bachelor's degree in Marketing or related field",
+				"2+ years of experience in social media management",
+				"Strong writing and communication skills"
+			]
+		},
+		{
+			"id": 51,
+			"title": "Mobile App Developer",
+			"company": {
+				"name": "AppMasters",
+				"phone": "(555) 890-1234",
+				"email": "careers@appmasters.com"
+			},
+			"location": "Los Angeles, CA",
+			"description": "Looking for a Mobile App Developer to create and maintain mobile applications.",
+			"employment_type": "Full-time",
+			"salary": 90000,
+			"bonus": "Up to 10% annual performance bonus",
+			"benefits_package": [
+				"Health and wellness benefits",
+				"401(k) with company match",
+				"Paid time off",
+				"Team outings"
+			],
+			"date_posted": "2025-02-05",
+			"requirements": [
+				"Bachelor's degree in Computer Science or related field",
+				"3+ years of experience in mobile app development",
+				"Proficiency in Swift or Kotlin"
+			]
+		},
+		{
+			"id": 52,
+			"title": "E-commerce Specialist",
+			"company": {
+				"name": "E-Shop Solutions",
+				"phone": "(555) 123-4567",
+				"email": "jobs@eshopsolutions.com"
+			},
+			"location": "Remote",
+			"description": "Seeking an E-commerce Specialist to manage online store operations and strategies.",
+			"employment_type": "Full-time",
+			"salary": 65000,
+			"bonus": "Up to 7% annual performance bonus",
+			"benefits_package": [
+				"Health benefits",
+				"Remote work options",
+				"Paid time off",
+				"Professional development opportunities"
+			],
+			"date_posted": "2025-02-05",
+			"requirements": [
+				"Bachelor's degree in Business or related field",
+				"2+ years of experience in e-commerce management",
+				"Strong understanding of online sales strategies"
+			]
+		},
+		{
+			"id": 53,
+			"title": "IT Support Specialist",
+			"company": {
+				"name": "TechHelp",
+				"phone": "(555) 234-5678",
+				"email": "careers@techhelp.com"
+			},
+			"location": "Remote",
+			"description": "Looking for an IT Support Specialist to provide technical support to users.",
+			"employment_type": "Full-time",
+			"salary": 55000,
+			"bonus": "Up to 5% annual performance bonus",
+			"benefits_package": [
+				"Health and dental insurance",
+				"401(k) with matching",
+				"Paid time off",
+				"Training and certifications"
+			],
+			"date_posted": "2025-02-05",
+			"requirements": [
+				"Associate's degree in IT or related field",
+				"1+ years of experience in IT support",
+				"Strong problem-solving skills"
+			]
+		},
+		{
+			"id": 54,
+			"title": "Quality Assurance Engineer",
+			"company": {
+				"name": "Quality First",
+				"phone": "(555) 345-6789",
+				"email": "jobs@qualityfirst.com"
+			},
+			"location": "Remote",
+			"description": "Seeking a Quality Assurance Engineer to ensure software quality and performance.",
+			"employment_type": "Full-time",
+			"salary": 75000,
+			"bonus": "Up to 8% annual performance bonus",
+			"benefits_package": [
+				"Health benefits",
+				"Flexible working hours",
+				"Paid vacation",
+				"Career advancement opportunities"
+			],
+			"date_posted": "2025-02-05",
+			"requirements": [
+				"Bachelor's degree in Computer Science or related field",
+				"2+ years of experience in QA testing",
+				"Experience with automation testing tools"
+			]
+		},
+		{
+			"id": 55,
+			"title": "Financial Consultant",
+			"company": {
+				"name": "Finance Pros",
+				"phone": "(555) 456-7890",
+				"email": "careers@financepros.com"
+			},
+			"location": "Chicago, IL",
+			"description": "Looking for a Financial Consultant to provide financial planning and advice to clients.",
+			"employment_type": "Full-time",
+			"salary": 85000,
+			"bonus": "Commission-based earnings",
+			"benefits_package": [
+				"Health and wellness programs",
+				"401(k) with matching",
+				"Paid time off",
+				"Client development resources"
+			],
+			"date_posted": "2025-02-05",
+			"requirements": [
+				"Bachelor's degree in Finance or related field",
+				"3+ years of experience in financial consulting",
+				"Strong analytical and communication skills"
+			]
+		},
+		{
+			"id": 56,
+			"title": "Help Desk Technician",
+			"company": {
+				"name": "AssistMe",
+				"phone": "(555) 567-8901",
+				"email": "careers@assistme.com"
+			},
+			"location": "Remote",
+			"description": "Seeking a Help Desk Technician to provide support and troubleshooting for end-users.",
+			"employment_type": "Full-time",
+			"salary": 50000,
+			"bonus": "Up to 5% annual performance bonus",
+			"benefits_package": [
+				"Health insurance",
+				"Flexible workspace options",
+				"Paid time off",
+				"Continuous training"
+			],
+			"date_posted": "2025-02-05",
+			"requirements": [
+				"High school diploma or equivalent",
+				"1+ years of experience in help desk support",
+				"Strong communication and customer service skills"
+			]
+		},
+		{
+			"id": 57,
+			"title": "Health Coach",
+			"company": {
+				"name": "Wellness First",
+				"phone": "(312) 555-7890",
+				"email": "jobs@wellnessfirst.com"
+			},
+			"location": "Remote",
+			"description": "Help clients develop healthy lifestyle habits through coaching and personalized wellness plans.",
+			"employment_type": "Full-time",
+			"salary": 60000,
+			"bonus": "Client retention bonuses",
+			"benefits_package": [
+				"Health and dental insurance",
+				"Flexible work hours",
+				"Professional development support"
+			],
+			"date_posted": "2025-02-05",
+			"requirements": [
+				"Certified Health Coach credential",
+				"Experience in nutrition and fitness guidance",
+				"Strong interpersonal and motivational skills"
+			]
+		},
+		{
+			"id": 58,
+			"title": "Certified Personal Trainer",
+			"company": {
+				"name": "Peak Performance Gym",
+				"phone": "(415) 555-1122",
+				"email": "careers@peakperformance.com"
+			},
+			"location": "San Francisco, CA",
+			"description": "Provide customized fitness training programs for clients at all fitness levels.",
+			"employment_type": "Part-time",
+			"salary": 35000,
+			"bonus": "Commission on personal training packages",
+			"benefits_package": [
+				"Gym membership",
+				"Flexible schedule",
+				"Opportunities for professional certifications"
+			],
+			"date_posted": "2025-02-05",
+			"requirements": [
+				"Certified Personal Trainer (CPT) credential",
+				"Experience in one-on-one and group training",
+				"Strong communication and motivational skills"
+			]
+		},
+		{
+			"id": 59,
+			"title": "Corporate Wellness Coordinator",
+			"company": {
+				"name": "Healthy Workplace Inc.",
+				"phone": "(646) 555-2233",
+				"email": "jobs@healthyworkplace.com"
+			},
+			"location": "New York, NY",
+			"description": "Design and implement wellness programs for corporate clients to improve employee health.",
+			"employment_type": "Full-time",
+			"salary": 75000,
+			"bonus": "Performance-based incentives",
+			"benefits_package": [
+				"Medical, dental, and vision insurance",
+				"401(k) with employer match",
+				"Remote work flexibility"
+			],
+			"date_posted": "2025-02-05",
+			"requirements": [
+				"Degree in Health Promotion or related field",
+				"Experience in corporate wellness programs",
+				"Excellent organizational and leadership skills"
+			]
+		},
+		{
+			"id": 60,
+			"title": "Nutritionist",
+			"company": {
+				"name": "Balanced Bites",
+				"phone": "(305) 555-3344",
+				"email": "careers@balancedbites.com"
+			},
+			"location": "Miami, FL",
+			"description": "Provide dietary consultations and meal planning services for clients with various health goals.",
+			"employment_type": "Full-time",
+			"salary": 70000,
+			"bonus": "Performance-based bonuses",
+			"benefits_package": [
+				"Medical and vision insurance",
+				"Paid continuing education",
+				"Flexible work options"
+			],
+			"date_posted": "2025-02-05",
+			"requirements": [
+				"Registered Dietitian (RD) certification",
+				"Experience in clinical or private practice settings",
+				"Knowledge of specialized diets and food allergies"
+			]
+		},
+		{
+			"id": 61,
+			"title": "Physical Therapist",
+			"company": {
+				"name": "MoveWell Therapy",
+				"phone": "(214) 555-4455",
+				"email": "jobs@movewelltherapy.com"
+			},
+			"location": "Dallas, TX",
+			"description": "Work with patients to restore movement and manage pain through therapy techniques.",
+			"employment_type": "Full-time",
+			"salary": 85000,
+			"bonus": "Quarterly performance bonuses",
+			"benefits_package": [
+				"Medical and dental insurance",
+				"401(k) matching",
+				"Professional development stipends"
+			],
+			"date_posted": "2025-02-05",
+			"requirements": [
+				"Doctorate in Physical Therapy (DPT)",
+				"Licensed Physical Therapist",
+				"Strong understanding of rehabilitation methods"
+			]
+		},
+		{
+			"id": 62,
+			"title": "Yoga Instructor",
+			"company": {
+				"name": "Zen Flow Studio",
+				"phone": "(818) 555-5566",
+				"email": "careers@zenflowstudio.com"
+			},
+			"location": "Los Angeles, CA",
+			"description": "Lead yoga classes and assist clients in improving flexibility and mindfulness.",
+			"employment_type": "Part-time",
+			"salary": 40000,
+			"bonus": "Class attendance bonuses",
+			"benefits_package": [
+				"Discounted studio membership",
+				"Free training workshops",
+				"Flexible work hours"
+			],
+			"date_posted": "2025-02-05",
+			"requirements": [
+				"Yoga instructor certification",
+				"Experience leading group classes",
+				"Knowledge of different yoga styles"
+			]
+		},
+		{
+			"id": 63,
+			"title": "Massage Therapist",
+			"company": {
+				"name": "Healing Hands Spa",
+				"phone": "(702) 555-6677",
+				"email": "jobs@healinghandsspa.com"
+			},
+			"location": "Las Vegas, NV",
+			"description": "Provide therapeutic massage services to clients seeking relaxation and pain relief.",
+			"employment_type": "Full-time",
+			"salary": 60000,
+			"bonus": "Client retention bonuses",
+			"benefits_package": [
+				"Health insurance",
+				"Paid training",
+				"Flexible scheduling"
+			],
+			"date_posted": "2025-02-05",
+			"requirements": [
+				"Licensed Massage Therapist (LMT)",
+				"Experience in deep tissue and relaxation techniques",
+				"Strong customer service skills"
+			]
+		},
+		{
+			"id": 64,
+			"title": "Wellness Program Director",
+			"company": {
+				"name": "Thrive Health Center",
+				"phone": "(919) 555-7788",
+				"email": "jobs@thrivehealth.com"
+			},
+			"location": "Raleigh, NC",
+			"description": "Oversee the development and implementation of wellness programs for a health-focused organization.",
+			"employment_type": "Full-time",
+			"salary": 95000,
+			"bonus": "Performance-based bonuses",
+			"benefits_package": [
+				"Medical and dental insurance",
+				"Retirement savings plan",
+				"Leadership training programs"
+			],
+			"date_posted": "2025-02-05",
+			"requirements": [
+				"Degree in Health Administration or related field",
+				"Experience managing wellness programs",
+				"Strong leadership and strategic planning skills"
+			]
+		},
+		{
+			"id": 65,
+			"title": "Nutritionist",
+			"company": {
+				"name": "Balanced Bites",
+				"phone": "(305) 555-3344",
+				"email": "careers@balancedbites.com"
+			},
+			"location": "Miami, FL",
+			"description": "Provide dietary consultations and meal planning services for clients with various health goals.",
+			"employment_type": "Full-time",
+			"salary": 70000,
+			"bonus": "Performance-based bonuses",
+			"benefits_package": [
+				"Medical and vision insurance",
+				"Paid continuing education",
+				"Flexible work options"
+			],
+			"date_posted": "2025-02-05",
+			"requirements": [
+				"Registered Dietitian (RD) certification",
+				"Experience in clinical or private practice settings",
+				"Knowledge of specialized diets and food allergies"
+			]
+		},
+		{
+			"id": 66,
+			"title": "Physical Therapist",
+			"company": {
+				"name": "MoveWell Therapy",
+				"phone": "(214) 555-4455",
+				"email": "jobs@movewelltherapy.com"
+			},
+			"location": "Dallas, TX",
+			"description": "Work with patients to restore movement and manage pain through therapy techniques.",
+			"employment_type": "Full-time",
+			"salary": 85000,
+			"bonus": "Quarterly performance bonuses",
+			"benefits_package": [
+				"Medical and dental insurance",
+				"401(k) matching",
+				"Professional development stipends"
+			],
+			"date_posted": "2025-02-05",
+			"requirements": [
+				"Doctorate in Physical Therapy (DPT)",
+				"Licensed Physical Therapist",
+				"Strong understanding of rehabilitation methods"
+			]
+		},
+		{
+			"id": 67,
+			"title": "Yoga Instructor",
+			"company": {
+				"name": "Zen Flow Studio",
+				"phone": "(818) 555-5566",
+				"email": "careers@zenflowstudio.com"
+			},
+			"location": "Los Angeles, CA",
+			"description": "Lead yoga classes and assist clients in improving flexibility and mindfulness.",
+			"employment_type": "Part-time",
+			"salary": 40000,
+			"bonus": "Class attendance bonuses",
+			"benefits_package": [
+				"Discounted studio membership",
+				"Free training workshops",
+				"Flexible work hours"
+			],
+			"date_posted": "2025-02-05",
+			"requirements": [
+				"Yoga instructor certification",
+				"Experience leading group classes",
+				"Knowledge of different yoga styles"
+			]
+		},
+		{
+			"id": 68,
+			"title": "Content Writer",
+			"company": {
+				"name": "Content Creators",
+				"phone": "(555) 678-9012",
+				"email": "jobs@contentcreators.com"
+			},
+			"location": "Remote",
+			"description": "Looking for a Content Writer to produce high-quality articles and blogs.",
+			"employment_type": "Full-time",
+			"salary": 50000,
+			"bonus": "Performance-based bonus",
+			"benefits_package": [
+				"Health insurance",
+				"Remote work opportunities",
+				"Flexible hours",
+				"Paid time off"
+			],
+			"date_posted": "2025-02-06",
+			"requirements": [
+				"Bachelor's degree in English, Journalism, or related field",
+				"2+ years of experience in content writing",
+				"Excellent writing and editing skills"
+			]
+		},
+		{
+			"id": 69,
+			"title": "UI/UX Designer",
+			"company": {
+				"name": "Design Dynamics",
+				"phone": "(555) 789-0123",
+				"email": "careers@designdynamics.com"
+			},
+			"location": "New York, NY",
+			"description": "Seeking a UI/UX Designer to create intuitive user experiences.",
+			"employment_type": "Full-time",
+			"salary": 80000,
+			"bonus": "Up to 10% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Paid vacation",
+				"Creative team events"
+			],
+			"date_posted": "2025-02-06",
+			"requirements": [
+				"Bachelor's degree in Design or related field",
+				"3+ years of experience in UI/UX design",
+				"Proficiency in design tools such as Sketch or Figma"
+			]
+		},
+		{
+			"id": 70,
+			"title": "Sales Executive",
+			"company": {
+				"name": "Growth Partners",
+				"phone": "(555) 234-5678",
+				"email": "jobs@growthpartners.com"
+			},
+			"location": "Chicago, IL",
+			"description": "Looking for a Sales Executive to drive sales and develop client relationships.",
+			"employment_type": "Full-time",
+			"salary": 70000,
+			"bonus": "Commission-based earnings",
+			"benefits_package": [
+				"Comprehensive health benefits",
+				"401(k) with matching",
+				"Paid time off",
+				"Travel opportunities"
+			],
+			"date_posted": "2025-02-06",
+			"requirements": [
+				"Bachelor's degree in Business or related field",
+				"2+ years of sales experience",
+				"Strong communication and negotiation skills"
+			]
+		},
+		{
+			"id": 71,
+			"title": "Database Administrator",
+			"company": {
+				"name": "Data Secure",
+				"phone": "(555) 345-6789",
+				"email": "careers@datasecure.com"
+			},
+			"location": "Seattle, WA",
+			"description": "Seeking a Database Administrator to manage and maintain databases.",
+			"employment_type": "Full-time",
+			"salary": 95000,
+			"bonus": "Up to 8% annual performance bonus",
+			"benefits_package": [
+				"Health insurance",
+				"Flexible work schedule",
+				"Paid time off",
+				"Training and development opportunities"
+			],
+			"date_posted": "2025-02-06",
+			"requirements": [
+				"Bachelor's degree in Computer Science or related field",
+				"3+ years of experience as a database administrator",
+				"Proficiency in SQL and database management systems"
+			]
+		},
+		{
+			"id": 72,
+			"title": "Product Manager",
+			"company": {
+				"name": "Innovative Products Co.",
+				"phone": "(555) 456-7890",
+				"email": "jobs@innovativeproducts.com"
+			},
+			"location": "Remote",
+			"description": "Looking for a Product Manager to oversee the product development lifecycle.",
+			"employment_type": "Full-time",
+			"salary": 105000,
+			"bonus": "Up to 10% annual performance bonus",
+			"benefits_package": [
+				"Comprehensive health insurance",
+				"401(k) with company match",
+				"Remote work options",
+				"Professional development budget"
+			],
+			"date_posted": "2025-02-06",
+			"requirements": [
+				"Bachelor's degree in Business or related field",
+				"5+ years of experience in product management",
+				"Strong project management and leadership skills"
+			]
+		},
+		{
+			"id": 73,
+			"title": "SEO Specialist",
+			"company": {
+				"name": "Digital Visibility",
+				"phone": "(555) 567-8901",
+				"email": "careers@digitalvisibility.com"
+			},
+			"location": "Remote",
+			"description": "Seeking an SEO Specialist to improve website rankings and organic traffic.",
+			"employment_type": "Full-time",
+			"salary": 60000,
+			"bonus": "Performance-based bonus",
+			"benefits_package": [
+				"Health benefits",
+				"Flexible work hours",
+				"Paid time off",
+				"Team-building activities"
+			],
+			"date_posted": "2025-02-06",
+			"requirements": [
+				"Bachelor's degree in Marketing or related field",
+				"2+ years of experience in SEO",
+				"Strong analytical and problem-solving skills"
+			]
+		},
+		{
+			"id": 74,
+			"title": "Network Engineer",
+			"company": {
+				"name": "Tech Networks",
+				"phone": "(555) 678-9012",
+				"email": "jobs@technetworks.com"
+			},
+			"location": "San Francisco, CA",
+			"description": "Looking for a Network Engineer to design and implement network solutions.",
+			"employment_type": "Full-time",
+			"salary": 90000,
+			"bonus": "Up to 10% annual performance bonus",
+			"benefits_package": [
+				"Health insurance",
+				"401(k) with company match",
+				"Paid time off",
+				"Technical training opportunities"
+			],
+			"date_posted": "2025-02-06",
+			"requirements": [
+				"Bachelor's degree in Computer Science or related field",
+				"3+ years of experience in network engineering",
+				"Strong knowledge of network protocols"
+			]
+		},
+		{
+			"id": 75,
+			"title": "Human Resources Manager",
+			"company": {
+				"name": "People Solutions",
+				"phone": "(555) 789-0123",
+				"email": "careers@peoplesolutions.com"
+			},
+			"location": "Remote",
+			"description": "Seeking a Human Resources Manager to oversee HR activities and employee relations.",
+			"employment_type": "Full-time",
+			"salary": 85000,
+			"bonus": "Performance-based bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with matching",
+				"Paid time off",
+				"Professional development opportunities"
+			],
+			"date_posted": "2025-02-06",
+			"requirements": [
+				"Bachelor's degree in Human Resources or related field",
+				"5+ years of HR experience",
+				"Strong understanding of labor laws and regulations"
+			]
+		},
+		{
+			"id": 76,
+			"title": "Operations Manager",
+			"company": {
+				"name": "Streamlined Ops",
+				"phone": "(555) 890-1234",
+				"email": "jobs@streamlinedops.com"
+			},
+			"location": "Miami, FL",
+			"description": "Looking for an Operations Manager to ensure efficient daily operations.",
+			"employment_type": "Full-time",
+			"salary": 95000,
+			"bonus": "Up to 10% annual performance bonus",
+			"benefits_package": [
+				"Comprehensive health benefits",
+				"401(k) with matching",
+				"Flexible schedule",
+				"Paid time off"
+			],
+			"date_posted": "2025-02-06",
+			"requirements": [
+				"Bachelor's degree in Business or related field",
+				"3+ years of experience in operations management",
+				"Strong leadership and organizational skills"
+			]
+		},
+		{
+			"id": 77,
+			"title": "Business Analyst",
+			"company": {
+				"name": "Insight Solutions",
+				"phone": "(555) 901-2345",
+				"email": "careers@insightsolutions.com"
+			},
+			"location": "Remote",
+			"description": "Seeking a Business Analyst to analyze business processes and provide solutions.",
+			"employment_type": "Full-time",
+			"salary": 80000,
+			"bonus": "Performance-based bonus",
+			"benefits_package": [
+				"Health insurance",
+				"Remote work options",
+				"Paid time off",
+				"Professional development opportunities"
+			],
+			"date_posted": "2025-02-06",
+			"requirements": [
+				"Bachelor's degree in Business Administration or related field",
+				"2+ years of experience in business analysis",
+				"Strong analytical and problem-solving skills"
+			]
+		},
+		{
+			"id": 78,
+			"title": "Web Developer",
+			"company": {
+				"name": "Web Innovators",
+				"phone": "(555) 123-4567",
+				"email": "jobs@webinnovators.com"
+			},
+			"location": "Austin, TX",
+			"description": "Looking for a Web Developer to create and maintain websites.",
+			"employment_type": "Full-time",
+			"salary": 70000,
+			"bonus": "Up to 8% annual performance bonus",
+			"benefits_package": [
+				"Health benefits",
+				"Flexible work schedule",
+				"Paid vacation",
+				"Career advancement opportunities"
+			],
+			"date_posted": "2025-02-06",
+			"requirements": [
+				"Bachelor's degree in Computer Science or related field",
+				"2+ years of experience in web development",
+				"Proficiency in HTML, CSS, and JavaScript"
+			]
+		},
+		{
+			"id": 79,
+			"title": "Marketing Coordinator",
+			"company": {
+				"name": "AdVantage Marketing",
+				"phone": "(555) 234-5678",
+				"email": "careers@advantagemarketing.com"
+			},
+			"location": "Remote",
+			"description": "Seeking a Marketing Coordinator to assist with marketing campaigns and initiatives.",
+			"employment_type": "Full-time",
+			"salary": 55000,
+			"bonus": "Performance-based bonus",
+			"benefits_package": [
+				"Comprehensive health insurance",
+				"Flexible work hours",
+				"Paid time off",
+				"Professional development opportunities"
+			],
+			"date_posted": "2025-02-06",
+			"requirements": [
+				"Bachelor's degree in Marketing or related field",
+				"1+ years of experience in marketing",
+				"Strong communication and organizational skills"
+			]
+		},
+		{
+			"id": 80,
+			"title": "Research Scientist",
+			"company": {
+				"name": "Scientific Innovations",
+				"phone": "(555) 567-8901",
+				"email": "jobs@scientificinnovations.com"
+			},
+			"location": "Boston, MA",
+			"description": "Looking for a Research Scientist to conduct research and develop new products.",
+			"employment_type": "Full-time",
+			"salary": 100000,
+			"bonus": "Performance-based bonus",
+			"benefits_package": [
+				"Health and wellness programs",
+				"401(k) with matching",
+				"Paid time off",
+				"Professional development budget"
+			],
+			"date_posted": "2025-02-06",
+			"requirements": [
+				"Ph.D. in a relevant scientific field",
+				"3+ years of research experience",
+				"Strong analytical and problem-solving skills"
+			]
+		},
+		{
+			"id": 81,
+			"title": "Supply Chain Analyst",
+			"company": {
+				"name": "Logistics Corp",
+				"phone": "(555) 678-1234",
+				"email": "careers@logisticscorp.com"
+			},
+			"location": "Remote",
+			"description": "Seeking a Supply Chain Analyst to optimize supply chain processes.",
+			"employment_type": "Full-time",
+			"salary": 70000,
+			"bonus": "Up to 10% annual performance bonus",
+			"benefits_package": [
+				"Health insurance",
+				"401(k) with matching",
+				"Paid time off",
+				"Remote work flexibility"
+			],
+			"date_posted": "2025-02-07",
+			"requirements": [
+				"Bachelor's degree in Supply Chain Management or related field",
+				"2+ years of experience in supply chain analysis",
+				"Strong analytical skills"
+			]
+		},
+		{
+			"id": 82,
+			"title": "Cloud Solutions Architect",
+			"company": {
+				"name": "Cloud Innovations",
+				"phone": "(555) 789-2345",
+				"email": "jobs@cloudinnovations.com"
+			},
+			"location": "San Jose, CA",
+			"description": "Looking for a Cloud Solutions Architect to design cloud solutions.",
+			"employment_type": "Full-time",
+			"salary": 120000,
+			"bonus": "Up to 15% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with matching",
+				"Remote work options",
+				"Paid time off"
+			],
+			"date_posted": "2025-02-07",
+			"requirements": [
+				"Bachelor's degree in Computer Science or related field",
+				"5+ years of experience in cloud architecture",
+				"Proficiency in AWS or Azure"
+			]
+		},
+		{
+			"id": 83,
+			"title": "Digital Marketing Manager",
+			"company": {
+				"name": "Market Leaders",
+				"phone": "(555) 901-3456",
+				"email": "careers@marketleaders.com"
+			},
+			"location": "Remote",
+			"description": "Seeking a Digital Marketing Manager to lead marketing initiatives.",
+			"employment_type": "Full-time",
+			"salary": 90000,
+			"bonus": "Performance-based bonus",
+			"benefits_package": [
+				"Health insurance",
+				"401(k) with matching",
+				"Paid time off",
+				"Professional development opportunities"
+			],
+			"date_posted": "2025-02-07",
+			"requirements": [
+				"Bachelor's degree in Marketing or related field",
+				"4+ years of experience in digital marketing",
+				"Strong knowledge of SEO/SEM"
+			]
+		},
+		{
+			"id": 84,
+			"title": "Graphic Designer",
+			"company": {
+				"name": "Creative Minds Agency",
+				"phone": "(555) 123-4567",
+				"email": "jobs@creativemindsagency.com"
+			},
+			"location": "New York, NY",
+			"description": "Looking for a Graphic Designer to create visual content.",
+			"employment_type": "Full-time",
+			"salary": 60000,
+			"bonus": "Project completion bonus",
+			"benefits_package": [
+				"Health and wellness programs",
+				"Paid time off",
+				"Flexible work hours",
+				"Team building activities"
+			],
+			"date_posted": "2025-02-07",
+			"requirements": [
+				"Bachelor's degree in Graphic Design or related field",
+				"2+ years of experience in graphic design",
+				"Proficient in Adobe Creative Suite"
+			]
+		},
+		{
+			"id": 85,
+			"title": "Compliance Officer",
+			"company": {
+				"name": "Regulatory Compliance Group",
+				"phone": "(555) 234-5678",
+				"email": "careers@rcgroup.com"
+			},
+			"location": "Remote",
+			"description": "Seeking a Compliance Officer to ensure adherence to regulations.",
+			"employment_type": "Full-time",
+			"salary": 80000,
+			"bonus": "Performance-based bonus",
+			"benefits_package": [
+				"Health benefits",
+				"401(k) with matching",
+				"Paid time off",
+				"Professional development"
+			],
+			"date_posted": "2025-02-07",
+			"requirements": [
+				"Bachelor's degree in Finance, Law, or related field",
+				"3+ years of experience in compliance",
+				"Strong understanding of regulations"
+			]
+		},
+		{
+			"id": 86,
+			"title": "Pharmaceutical Sales Representative",
+			"company": {
+				"name": "Health Innovations",
+				"phone": "(555) 345-6789",
+				"email": "jobs@healthinnovations.com"
+			},
+			"location": "Atlanta, GA",
+			"description": "Looking for a Pharmaceutical Sales Representative to drive sales to healthcare providers.",
+			"employment_type": "Full-time",
+			"salary": 75000,
+			"bonus": "Commission-based earnings",
+			"benefits_package": [
+				"Health and wellness programs",
+				"401(k) with matching",
+				"Paid time off",
+				"Travel allowances"
+			],
+			"date_posted": "2025-02-07",
+			"requirements": [
+				"Bachelor's degree in Life Sciences or related field",
+				"2+ years of sales experience, preferably in pharmaceuticals",
+				"Strong interpersonal skills"
+			]
+		},
+		{
+			"id": 87,
+			"title": "Technical Support Engineer",
+			"company": {
+				"name": "Support Tech",
+				"phone": "(555) 456-7890",
+				"email": "careers@supporttech.com"
+			},
+			"location": "Remote",
+			"description": "Seeking a Technical Support Engineer to assist customers with technical issues.",
+			"employment_type": "Full-time",
+			"salary": 60000,
+			"bonus": "Up to 5% annual performance bonus",
+			"benefits_package": [
+				"Health insurance",
+				"Flexible work hours",
+				"Paid time off",
+				"Continuous education"
+			],
+			"date_posted": "2025-02-07",
+			"requirements": [
+				"Bachelor's degree in Computer Science or related field",
+				"1+ years of experience in technical support",
+				"Strong problem-solving skills"
+			]
+		},
+		{
+			"id": 88,
+			"title": "Data Scientist",
+			"company": {
+				"name": "Analytics Group",
+				"phone": "(555) 567-8901",
+				"email": "jobs@analyticsgroup.com"
+			},
+			"location": "Remote",
+			"description": "Looking for a Data Scientist to analyze data sets and provide insights.",
+			"employment_type": "Full-time",
+			"salary": 100000,
+			"bonus": "Performance-based bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Paid time off",
+				"Professional development opportunities"
+			],
+			"date_posted": "2025-02-07",
+			"requirements": [
+				"Master's degree in Data Science or related field",
+				"2+ years of experience in data analysis",
+				"Strong coding skills in Python or R"
+			]
+		},
+		{
+			"id": 89,
+			"title": "Customer Success Manager",
+			"company": {
+				"name": "Client Focused",
+				"phone": "(555) 678-1234",
+				"email": "careers@clientfocused.com"
+			},
+			"location": "Remote",
+			"description": "Seeking a Customer Success Manager to enhance customer experience.",
+			"employment_type": "Full-time",
+			"salary": 80000,
+			"bonus": "Performance-based bonus",
+			"benefits_package": [
+				"Health insurance",
+				"401(k) with matching",
+				"Paid time off",
+				"Remote work options"
+			],
+			"date_posted": "2025-02-07",
+			"requirements": [
+				"Bachelor's degree in Business Administration or related field",
+				"3+ years in customer success or account management",
+				"Strong communication skills"
+			]
+		},
+		{
+			"id": 90,
+			"title": "Software Development Manager",
+			"company": {
+				"name": "Tech Solutions Ltd.",
+				"phone": "(555) 789-3456",
+				"email": "jobs@techsolutionsltd.com"
+			},
+			"location": "Remote",
+			"description": "Looking for a Software Development Manager to lead development teams.",
+			"employment_type": "Full-time",
+			"salary": 130000,
+			"bonus": "Up to 15% annual performance bonus",
+			"benefits_package": [
+				"Comprehensive health benefits",
+				"401(k) with matching",
+				"Generous paid time off",
+				"Team retreats"
+			],
+			"date_posted": "2025-02-07",
+			"requirements": [
+				"Bachelor's degree in Computer Science or related field",
+				"5+ years of experience in software development",
+				"Strong leadership skills"
+			]
+		},
+		{
+			"id": 91,
+			"title": "Event Coordinator",
+			"company": {
+				"name": "Eventful",
+				"phone": "(555) 890-1234",
+				"email": "careers@eventful.com"
+			},
+			"location": "Chicago, IL",
+			"description": "Seeking an Event Coordinator to plan and execute events.",
+			"employment_type": "Full-time",
+			"salary": 55000,
+			"bonus": "Performance-based bonus",
+			"benefits_package": [
+				"Health insurance",
+				"401(k) with matching",
+				"Paid time off",
+				"Professional development opportunities"
+			],
+			"date_posted": "2025-02-07",
+			"requirements": [
+				"Bachelor's degree in Event Management or related field",
+				"2+ years of experience in event planning",
+				"Excellent organizational skills"
+			]
+		},
+		{
+			"id": 92,
+			"title": "Training Specialist",
+			"company": {
+				"name": "Development Solutions",
+				"phone": "(555) 567-8901",
+				"email": "jobs@developmentsolutions.com"
+			},
+			"location": "Remote",
+			"description": "Looking for a Training Specialist to develop and conduct training programs.",
+			"employment_type": "Full-time",
+			"salary": 60000,
+			"bonus": "Performance-based bonus",
+			"benefits_package": [
+				"Health benefits",
+				"401(k) with matching",
+				"Paid time off",
+				"Continuous learning opportunities"
+			],
+			"date_posted": "2025-02-07",
+			"requirements": [
+				"Bachelor's degree in Education or related field",
+				"2+ years of experience in training",
+				"Strong presentation skills"
+			]
+		},
+		{
+			"id": 93,
+			"title": "Social Media Manager",
+			"company": {
+				"name": "Social Buzz",
+				"phone": "(555) 678-9012",
+				"email": "careers@socialbuzz.com"
+			},
+			"location": "Remote",
+			"description": "Seeking a Social Media Manager to develop and manage social media strategies.",
+			"employment_type": "Full-time",
+			"salary": 65000,
+			"bonus": "Performance-based bonus",
+			"benefits_package": [
+				"Health insurance",
+				"Flexible hours",
+				"Paid time off",
+				"Team retreats"
+			],
+			"date_posted": "2025-02-07",
+			"requirements": [
+				"Bachelor's degree in Marketing or related field",
+				"3+ years of experience in social media management",
+				"Strong creative skills"
+			]
+		},
+		{
+			"id": 94,
+			"title": "IT Project Manager",
+			"company": {
+				"name": "IT Solutions Group",
+				"phone": "(555) 789-0123",
+				"email": "jobs@itsolutionsgroup.com"
+			},
+			"location": "Remote",
+			"description": "Looking for an IT Project Manager to oversee tech projects.",
+			"employment_type": "Full-time",
+			"salary": 95000,
+			"bonus": "Up to 10% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, vision insurance",
+				"401(k) with matching",
+				"Paid vacation",
+				"Professional development budget"
+			],
+			"date_posted": "2025-02-07",
+			"requirements": [
+				"Bachelor's degree in Information Technology or related field",
+				"3+ years of project management experience",
+				"PMP certification preferred"
+			]
+		},
+		{
+			"id": 96,
+			"title": "Product Manager",
+			"company": {
+				"name": "Innovative Solutions",
+				"phone": "(555) 456-7890",
+				"email": "careers@innovativesolutions.com"
+			},
+			"location": "New York, NY",
+			"description": "Looking for a Product Manager to oversee product development and strategy.",
+			"employment_type": "Full-time",
+			"salary": 110000,
+			"bonus": "Up to 10% performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with matching",
+				"Generous paid time off",
+				"Professional development opportunities"
+			],
+			"date_posted": "2025-02-08",
+			"requirements": [
+				"Bachelor's degree in Business or related field",
+				"4+ years of experience in product management",
+				"Strong project management skills"
+			]
+		},
+		{
+			"id": 97,
+			"title": "Financial Analyst",
+			"company": {
+				"name": "Finance Solutions",
+				"phone": "(555) 567-8901",
+				"email": "jobs@financesolutions.com"
+			},
+			"location": "Remote",
+			"description": "Seeking a Financial Analyst to provide financial planning and analysis.",
+			"employment_type": "Full-time",
+			"salary": 75000,
+			"bonus": "Performance-based bonus",
+			"benefits_package": [
+				"Health insurance",
+				"401(k) with matching",
+				"Paid time off",
+				"Professional development opportunities"
+			],
+			"date_posted": "2025-02-08",
+			"requirements": [
+				"Bachelor's degree in Finance or related field",
+				"2+ years of experience in financial analysis",
+				"Strong analytical skills"
+			]
+		},
+		{
+			"id": 98,
+			"title": "UI/UX Designer",
+			"company": {
+				"name": "Design Studio",
+				"phone": "(555) 678-9012",
+				"email": "careers@designstudio.com"
+			},
+			"location": "Remote",
+			"description": "Looking for a UI/UX Designer to improve user experience and design.",
+			"employment_type": "Full-time",
+			"salary": 75000,
+			"bonus": "Project completion bonus",
+			"benefits_package": [
+				"Health and wellness programs",
+				"Flexible work hours",
+				"Paid time off",
+				"Career development opportunities"
+			],
+			"date_posted": "2025-02-08",
+			"requirements": [
+				"Bachelor's degree in Design or related field",
+				"3+ years of experience in UI/UX design",
+				"Expertise in design tools like Figma or Sketch"
+			]
+		},
+		{
+			"id": 99,
+			"title": "Human Resources Manager",
+			"company": {
+				"name": "People First",
+				"phone": "(555) 789-0123",
+				"email": "jobs@peoplefirst.com"
+			},
+			"location": "Remote",
+			"description": "Seeking an HR Manager to manage recruitment, policies, and employee relations.",
+			"employment_type": "Full-time",
+			"salary": 95000,
+			"bonus": "Performance-based bonus",
+			"benefits_package": [
+				"Health insurance",
+				"401(k) with matching",
+				"Paid time off",
+				"Professional development budget"
+			],
+			"date_posted": "2025-02-08",
+			"requirements": [
+				"Bachelor's degree in Human Resources or related field",
+				"5+ years of experience in HR management",
+				"Strong knowledge of labor laws"
+			]
+		},
+		{
+			"id": 100,
+			"title": "Business Development Representative",
+			"company": {
+				"name": "Growth Partners",
+				"phone": "(555) 890-1234",
+				"email": "careers@growthpartners.com"
+			},
+			"location": "Remote",
+			"description": "Looking for a Business Development Representative to drive sales and build client relationships.",
+			"employment_type": "Full-time",
+			"salary": 60000,
+			"bonus": "Commission-based earnings",
+			"benefits_package": [
+				"Health benefits",
+				"401(k) with matching",
+				"Paid time off",
+				"Remote work options"
+			],
+			"date_posted": "2025-02-08",
+			"requirements": [
+				"Bachelor's degree in Business or related field",
+				"1+ years of experience in sales or business development",
+				"Excellent communication skills"
+			]
+		},
+		{
+			"id": 101,
+			"title": "Accountant",
+			"company": {
+				"name": "Accounting Solutions",
+				"phone": "(555) 123-4567",
+				"email": "jobs@accountingsolutions.com"
+			},
+			"location": "Boston, MA",
+			"description": "Seeking an Accountant to manage financial records and reports.",
+			"employment_type": "Full-time",
+			"salary": 70000,
+			"bonus": "Year-end performance bonus",
+			"benefits_package": [
+				"Health insurance",
+				"401(k) with matching",
+				"Paid time off",
+				"Continuing education support"
+			],
+			"date_posted": "2025-02-08",
+			"requirements": [
+				"Bachelor's degree in Accounting or related field",
+				"2+ years of accounting experience",
+				"Strong knowledge of GAAP"
+			]
+		},
+		{
+			"id": 102,
+			"title": "Network Engineer",
+			"company": {
+				"name": "Tech Networks",
+				"phone": "(555) 456-7890",
+				"email": "careers@technetworks.com"
+			},
+			"location": "San Francisco, CA",
+			"description": "Looking for a Network Engineer to design and maintain network systems.",
+			"employment_type": "Full-time",
+			"salary": 95000,
+			"bonus": "Up to 10% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with matching",
+				"Generous paid time off",
+				"Training and certification opportunities"
+			],
+			"date_posted": "2025-02-08",
+			"requirements": [
+				"Bachelor's degree in Network Engineering or related field",
+				"3+ years of experience in network design",
+				"Strong knowledge of networking protocols"
+			]
+		},
+		{
+			"id": 103,
+			"title": "Content Writer",
+			"company": {
+				"name": "Content Creators",
+				"phone": "(555) 567-8901",
+				"email": "jobs@contentcreators.com"
+			},
+			"location": "Remote",
+			"description": "Seeking a Content Writer to create engaging content for blogs and social media.",
+			"employment_type": "Full-time",
+			"salary": 50000,
+			"bonus": "Performance-based bonus",
+			"benefits_package": [
+				"Health insurance",
+				"Flexible work hours",
+				"Paid time off",
+				"Creative team environment"
+			],
+			"date_posted": "2025-02-08",
+			"requirements": [
+				"Bachelor's degree in English, Journalism, or related field",
+				"2+ years of experience in content writing",
+				"Strong writing and editing skills"
+			]
+		},
+		{
+			"id": 104,
+			"title": "Video Production Specialist",
+			"company": {
+				"name": "Media Makers",
+				"phone": "(555) 678-9012",
+				"email": "careers@mediamakers.com"
+			},
+			"location": "Los Angeles, CA",
+			"description": "Looking for a Video Production Specialist to create promotional videos.",
+			"employment_type": "Full-time",
+			"salary": 65000,
+			"bonus": "Project completion bonus",
+			"benefits_package": [
+				"Health insurance",
+				"Paid time off",
+				"Flexible schedule",
+				"Creative development opportunities"
+			],
+			"date_posted": "2025-02-08",
+			"requirements": [
+				"Bachelor's degree in Film Production or related field",
+				"2+ years of experience in video production",
+				"Proficient in video editing software"
+			]
+		}
+	]
+}

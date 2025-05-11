@@ -1,0 +1,2676 @@
+{
+	"business": [
+		{
+			"id": 1,
+			"title": "Business Development Manager",
+			"company": {
+				"name": "Innovative Solutions",
+				"phone": "(212) 555-0100",
+				"email": "careers@innovativesolutions.com"
+			},
+			"location": "New York, NY",
+			"description": "Looking for a Business Development Manager to drive growth through strategic partnerships. You will identify new business opportunities, develop relationships, and create strategies to increase revenue.",
+			"employment_type": "Full-time",
+			"salary": 120000,
+			"bonus": "Up to 10% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Paid time off and holidays",
+				"Professional development opportunities"
+			],
+			"date_posted": "2024-01-28",
+			"requirements": [
+				"Experience in B2B sales and partnerships",
+				"Strong negotiation and closing skills",
+				"Ability to identify and develop new business opportunities"
+			]
+		},
+		{
+			"id": 2,
+			"title": "Director of Business Development",
+			"company": {
+				"name": "GlobalTech",
+				"phone": "(415) 555-0101",
+				"email": "jobs@globaltech.com"
+			},
+			"location": "San Francisco, CA",
+			"description": "Seeking a Director of Business Development to oversee expansion into new markets and verticals. You will lead a team, develop strategic initiatives, and drive revenue growth through innovative partnerships.",
+			"employment_type": "Full-time",
+			"salary": 160000,
+			"bonus": "Up to 15% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Flexible work hours",
+				"Generous PTO policy"
+			],
+			"date_posted": "2024-01-25",
+			"requirements": [
+				"10+ years in business development and leadership",
+				"Proven track record of driving revenue growth",
+				"Excellent communication and team leadership skills"
+			]
+		},
+		{
+			"id": 3,
+			"title": "Business Development Executive",
+			"company": {
+				"name": "TechWorks",
+				"phone": "(312) 555-0102",
+				"email": "careers@techworks.com"
+			},
+			"location": "Chicago, IL",
+			"description": "Hiring a Business Development Executive to establish relationships with key clients and partners. You will be responsible for generating leads, negotiating contracts, and ensuring client satisfaction.",
+			"employment_type": "Full-time",
+			"salary": 95000,
+			"bonus": "Up to 8% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Paid time off and holidays",
+				"Professional development opportunities"
+			],
+			"date_posted": "2024-01-22",
+			"requirements": [
+				"Experience in B2B sales and customer relationship management",
+				"Strong communication and interpersonal skills",
+				"Ability to manage multiple client accounts"
+			]
+		},
+		{
+			"id": 4,
+			"title": "Sales and Business Development Manager",
+			"company": {
+				"name": "NextGen Systems",
+				"phone": "(310) 555-0103",
+				"email": "jobs@nextgensystems.com"
+			},
+			"location": "Los Angeles, CA",
+			"description": "Looking for a Sales and Business Development Manager to generate new leads and increase sales. You will develop sales strategies, manage client relationships, and drive revenue growth.",
+			"employment_type": "Full-time",
+			"salary": 110000,
+			"bonus": "Up to 10% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Paid time off and holidays",
+				"Professional development opportunities"
+			],
+			"date_posted": "2024-01-19",
+			"requirements": [
+				"Experience with lead generation and sales funnels",
+				"Strong sales presentation and negotiation skills",
+				"Ability to collaborate with cross-functional teams"
+			]
+		},
+		{
+			"id": 5,
+			"title": "Business Development Representative",
+			"company": {
+				"name": "GrowthTech",
+				"phone": "(617) 555-0104",
+				"email": "careers@growthtech.com"
+			},
+			"location": "Boston, MA",
+			"description": "Hiring a Business Development Representative to reach out to potential clients and create opportunities. You will conduct market research, generate leads, and support the sales team.",
+			"employment_type": "Full-time",
+			"salary": 70000,
+			"bonus": "Up to 5% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Paid time off and holidays",
+				"Professional development opportunities"
+			],
+			"date_posted": "2024-01-17",
+			"requirements": [
+				"Strong communication and cold-calling skills",
+				"Experience with CRM software",
+				"Goal-oriented with a passion for sales"
+			]
+		},
+		{
+			"id": 6,
+			"title": "Business Development Consultant",
+			"company": {
+				"name": "Consulting Group",
+				"phone": "(404) 555-0105",
+				"email": "jobs@consultinggroup.com"
+			},
+			"location": "Remote",
+			"description": "Looking for a Business Development Consultant to provide strategic advice and expand our client base. You will analyze market trends, develop strategies, and support client engagements.",
+			"employment_type": "Contract",
+			"salary": 90000,
+			"bonus": "Performance-based bonuses available",
+			"benefits_package": [
+				"Flexible work schedule",
+				"Remote work options",
+				"Professional development opportunities"
+			],
+			"date_posted": "2024-01-15",
+			"requirements": [
+				"Experience in consulting and business strategy",
+				"Strong project management skills",
+				"Ability to work independently and remotely"
+			]
+		},
+		{
+			"id": 7,
+			"title": "VP of Business Development",
+			"company": {
+				"name": "FinTech Innovators",
+				"phone": "(305) 555-0106",
+				"email": "careers@fintechinnovators.com"
+			},
+			"location": "Miami, FL",
+			"description": "Seeking a VP of Business Development to lead efforts to form strategic alliances in the financial tech industry. You will drive business growth, manage key partnerships, and oversee the business development team.",
+			"employment_type": "Full-time",
+			"salary": 200000,
+			"bonus": "Up to 15% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Paid time off and holidays",
+				"Professional development opportunities"
+			],
+			"date_posted": "2024-01-10",
+			"requirements": [
+				"15+ years of business development experience",
+				"Extensive network in the fintech sector",
+				"Proven track record of securing large partnerships"
+			]
+		},
+		{
+			"id": 8,
+			"title": "Regional Business Development Manager",
+			"company": {
+				"name": "TechCorp",
+				"phone": "(512) 555-0107",
+				"email": "jobs@techcorp.com"
+			},
+			"location": "Austin, TX",
+			"description": "Hiring a Regional Business Development Manager to manage key accounts and drive sales in the region. You will develop regional strategies, build relationships, and achieve sales targets.",
+			"employment_type": "Full-time",
+			"salary": 115000,
+			"bonus": "Up to 10% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Paid time off and holidays",
+				"Professional development opportunities"
+			],
+			"date_posted": "2024-01-12",
+			"requirements": [
+				"Experience in sales and regional business growth",
+				"Strong leadership and team management skills",
+				"Ability to work cross-functionally with marketing and sales"
+			]
+		},
+		{
+			"id": 9,
+			"title": "Business Development Analyst",
+			"company": {
+				"name": "MarketEdge",
+				"phone": "(206) 555-0108",
+				"email": "careers@marketedge.com"
+			},
+			"location": "Seattle, WA",
+			"description": "Looking for a Business Development Analyst to assist with market research and identifying growth opportunities. You will analyze data, prepare reports, and support strategic initiatives.",
+			"employment_type": "Full-time",
+			"salary": 85000,
+			"bonus": "Up to 5% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Paid time off and holidays",
+				"Professional development opportunities"
+			],
+			"date_posted": "2024-01-08",
+			"requirements": [
+				"Experience with market research and data analysis",
+				"Proficiency in Excel and data visualization tools",
+				"Strong problem-solving and analytical skills"
+			]
+		},
+		{
+			"id": 10,
+			"title": "International Business Development Manager",
+			"company": {
+				"name": "Global Enterprises",
+				"phone": "(312) 555-0109",
+				"email": "jobs@globalenterprises.com"
+			},
+			"location": "Chicago, IL",
+			"description": "Hiring an International Business Development Manager to drive global market expansion. You will identify international opportunities, develop strategies, and manage cross-border partnerships.",
+			"employment_type": "Full-time",
+			"salary": 130000,
+			"bonus": "Up to 10% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Paid time off and holidays",
+				"Professional development opportunities"
+			],
+			"date_posted": "2024-01-05",
+			"requirements": [
+				"Experience in international business and market expansion",
+				"Fluency in multiple languages is a plus",
+				"Strong strategic thinking and negotiation skills"
+			]
+		},
+		{
+			"id": 11,
+			"title": "Business Development Coordinator",
+			"company": {
+				"name": "Visionary Group",
+				"phone": "(214) 555-0110",
+				"email": "careers@visionarygroup.com"
+			},
+			"location": "Dallas, TX",
+			"description": "Looking for a Business Development Coordinator to support business growth efforts and client relations. You will assist in project management, coordinate meetings, and help develop marketing materials.",
+			"employment_type": "Full-time",
+			"salary": 80000,
+			"bonus": "Up to 5% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Paid time off and holidays",
+				"Professional development opportunities"
+			],
+			"date_posted": "2024-01-03",
+			"requirements": [
+				"Strong organizational and multitasking skills",
+				"Proficiency with CRM software",
+				"Excellent communication skills"
+			]
+		},
+		{
+			"id": 12,
+			"title": "Strategic Business Development Manager",
+			"company": {
+				"name": "TechForward",
+				"phone": "(404) 555-0111",
+				"email": "jobs@techforward.com"
+			},
+			"location": "Atlanta, GA",
+			"description": "Hiring a Strategic Business Development Manager to identify and execute growth opportunities in the tech sector. You will analyze market trends, develop strategic plans, and collaborate with cross-functional teams.",
+			"employment_type": "Full-time",
+			"salary": 135000,
+			"bonus": "Up to 10% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Paid time off and holidays",
+				"Professional development opportunities"
+			],
+			"date_posted": "2024-01-02",
+			"requirements": [
+				"Experience in the tech industry",
+				"Strong problem-solving and decision-making skills",
+				"Ability to manage key accounts"
+			]
+		},
+		{
+			"id": 13,
+			"title": "International Business Development Executive",
+			"company": {
+				"name": "GlobalReach",
+				"phone": "(020) 555-0112",
+				"email": "careers@globalreach.com"
+			},
+			"location": "London, UK",
+			"description": "Seeking an International Business Development Executive to expand the company's reach into global markets. You will develop international strategies, build relationships, and drive revenue growth.",
+			"employment_type": "Full-time",
+			"salary": 145000,
+			"bonus": "Up to 12% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Flexible work hours",
+				"Generous PTO policy"
+			],
+			"date_posted": "2024-01-01",
+			"requirements": [
+				"Fluent in English and another language (Spanish preferred)",
+				"Extensive international sales experience",
+				"Willingness to travel frequently"
+			]
+		},
+		{
+			"id": 14,
+			"title": "Business Development Consultant - Startups",
+			"company": {
+				"name": "Startup Hub",
+				"phone": "(310) 555-0113",
+				"email": "careers@startuphubs.com"
+			},
+			"location": "Remote",
+			"description": "Looking for a Business Development Consultant to help early-stage startups find and seize new opportunities. You will provide strategic guidance, develop business plans, and assist with fundraising efforts.",
+			"employment_type": "Contract",
+			"salary": 100000,
+			"bonus": "Performance-based bonuses available",
+			"benefits_package": [
+				"Flexible work schedule",
+				"Remote work options",
+				"Professional development opportunities"
+			],
+			"date_posted": "2023-12-28",
+			"requirements": [
+				"Experience working with startups",
+				"Strong consulting and advisory skills",
+				"Ability to thrive in a fast-paced environment"
+			]
+		},
+		{
+			"id": 15,
+			"title": "Senior Business Development Manager",
+			"company": {
+				"name": "GreenEnergy Co.",
+				"phone": "(720) 555-0114",
+				"email": "careers@greenenergyco.com"
+			},
+			"location": "Denver, CO",
+			"description": "Hiring a Senior Business Development Manager to spearhead new projects in the renewable energy sector. You will develop strategic partnerships, drive sales initiatives, and lead a team.",
+			"employment_type": "Full-time",
+			"salary": 160000,
+			"bonus": "Up to 15% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Paid time off and holidays",
+				"Professional development opportunities"
+			],
+			"date_posted": "2023-12-27",
+			"requirements": [
+				"Experience in renewable energy or sustainability",
+				"Proven track record in business development",
+				"Strong leadership and team management abilities"
+			]
+		},
+		{
+			"id": 16,
+			"title": "Regional Sales and Business Development Manager",
+			"company": {
+				"name": "Retail Innovations",
+				"phone": "(602) 555-0115",
+				"email": "careers@retailinnovations.com"
+			},
+			"location": "Phoenix, AZ",
+			"description": "Looking for a Regional Sales and Business Development Manager to oversee sales growth in the southwestern region. You will develop regional strategies, manage key accounts, and drive revenue.",
+			"employment_type": "Full-time",
+			"salary": 95000,
+			"bonus": "Up to 10% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Paid time off and holidays",
+				"Professional development opportunities"
+			],
+			"date_posted": "2023-12-26",
+			"requirements": [
+				"Proven sales leadership and regional market knowledge",
+				"Experience in retail or e-commerce",
+				"Strong strategic thinking and business acumen"
+			]
+		},
+		{
+			"id": 17,
+			"title": "Business Development Manager - SaaS",
+			"company": {
+				"name": "CloudTech Solutions",
+				"phone": "(512) 555-0116",
+				"email": "jobs@cloudtechsolutions.com"
+			},
+			"location": "Austin, TX",
+			"description": "Hiring a Business Development Manager to promote and sell SaaS solutions to businesses and enterprises. You will identify prospects, develop relationships, and close deals.",
+			"employment_type": "Full-time",
+			"salary": 120000,
+			"bonus": "Up to 10% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Paid time off and holidays",
+				"Professional development opportunities"
+			],
+			"date_posted": "2023-12-24",
+			"requirements": [
+				"Experience in B2B SaaS sales",
+				"Strong communication and presentation skills",
+				"Ability to build and maintain client relationships"
+			]
+		},
+		{
+			"id": 18,
+			"title": "Vice President of Global Business Development",
+			"company": {
+				"name": "Health Innovations",
+				"phone": "(619) 555-0117",
+				"email": "careers@healthinnovations.com"
+			},
+			"location": "San Diego, CA",
+			"description": "Seeking a Vice President of Global Business Development to lead global partnerships and market expansion in the healthcare sector. You will drive strategic initiatives and manage a global team.",
+			"employment_type": "Full-time",
+			"salary": 210000,
+			"bonus": "Up to 15% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Paid time off and holidays",
+				"Professional development opportunities"
+			],
+			"date_posted": "2023-12-23",
+			"requirements": [
+				"15+ years in business development and leadership",
+				"Experience in the healthcare or life sciences industry",
+				"Exceptional global network and market insight"
+			]
+		},
+		{
+			"id": 19,
+			"title": "Business Development Officer",
+			"company": {
+				"name": "Financial Growth Partners",
+				"phone": "(202) 555-0118",
+				"email": "careers@financialgrowthpartners.com"
+			},
+			"location": "Washington, DC",
+			"description": "Looking for a Business Development Officer to drive new business initiatives in the financial services sector. You will develop strategies, manage client relationships, and achieve sales targets.",
+			"employment_type": "Full-time",
+			"salary": 110000,
+			"bonus": "Up to 10% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Paid time off and holidays",
+				"Professional development opportunities"
+			],
+			"date_posted": "2023-12-20",
+			"requirements": [
+				"Experience in financial services or fintech",
+				"Strong sales and business acumen",
+				"Excellent negotiation skills"
+			]
+		},
+		{
+			"id": 20,
+			"title": "Business Development Lead - E-commerce",
+			"company": {
+				"name": "EcomSuccess",
+				"phone": "(305) 555-0119",
+				"email": "careers@ecomsuccess.com"
+			},
+			"location": "Miami, FL",
+			"description": "Hiring a Business Development Lead to create and manage strategic partnerships in the e-commerce industry. You will develop and implement strategies to enhance business growth, manage partner relationships, and drive sales initiatives.",
+			"employment_type": "Full-time",
+			"salary": 105000,
+			"bonus": "Up to 10% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Paid time off and holidays",
+				"Professional development opportunities"
+			],
+			"date_posted": "2023-12-19",
+			"requirements": [
+				"Experience in e-commerce or digital marketing",
+				"Strong partnership management skills",
+				"Proven success in driving business growth"
+			]
+		},
+		{
+			"id": 21,
+			"title": "Senior Business Development Manager",
+			"company": {
+				"name": "Corporate Strategies",
+				"phone": "(312) 555-0120",
+				"email": "careers@corporatestrategies.com"
+			},
+			"location": "Chicago, IL",
+			"description": "Seeking a Senior Business Development Manager to lead strategic initiatives. You will identify growth opportunities, develop business plans, and manage key client relationships.",
+			"employment_type": "Full-time",
+			"salary": 95000,
+			"bonus": "Up to 8% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Paid time off and holidays",
+				"Professional development opportunities"
+			],
+			"date_posted": "2025-01-20",
+			"requirements": [
+				"5+ years of experience in business development",
+				"Proven track record of closing deals",
+				"Strong analytical and negotiation skills"
+			]
+		},
+		{
+			"id": 22,
+			"title": "Business Development Analyst",
+			"company": {
+				"name": "Market Research Inc.",
+				"phone": "(404) 555-0121",
+				"email": "careers@marketresearchinc.com"
+			},
+			"location": "Atlanta, GA",
+			"description": "We need a Business Development Analyst to support growth strategies. You will conduct market analysis, prepare reports, and assist in strategic planning.",
+			"employment_type": "Full-time",
+			"salary": 75000,
+			"bonus": "Up to 5% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Paid time off and holidays",
+				"Professional development opportunities"
+			],
+			"date_posted": "2025-01-18",
+			"requirements": [
+				"Bachelor's degree in Business or Finance",
+				"Experience in market research or analysis",
+				"Proficient in Microsoft Excel"
+			]
+		},
+		{
+			"id": 23,
+			"title": "Global Business Development Lead",
+			"company": {
+				"name": "Tech Global",
+				"phone": "(415) 555-0122",
+				"email": "careers@techglobal.com"
+			},
+			"location": "San Francisco, CA",
+			"description": "Looking for a Global Business Development Lead to expand international markets. You will develop global strategies, manage partnerships, and drive revenue growth.",
+			"employment_type": "Full-time",
+			"salary": 120000,
+			"bonus": "Up to 10% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Paid time off and holidays",
+				"Professional development opportunities"
+			],
+			"date_posted": "2025-01-10",
+			"requirements": [
+				"10+ years in business development with a focus on international markets",
+				"Strong leadership skills",
+				"Fluent in English and another language preferred"
+			]
+		},
+		{
+			"id": 24,
+			"title": "Business Development Manager",
+			"company": {
+				"name": "Innovative Solutions",
+				"phone": "(212) 555-0100",
+				"email": "careers@innovativesolutions.com"
+			},
+			"location": "New York, NY",
+			"description": "Looking for a Business Development Manager to drive growth through strategic partnerships. You will identify new business opportunities, develop relationships, and create strategies to increase revenue.",
+			"employment_type": "Full-time",
+			"salary": 120000,
+			"bonus": "Up to 10% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Paid time off and holidays",
+				"Professional development opportunities"
+			],
+			"date_posted": "2024-01-28",
+			"requirements": [
+				"Experience in B2B sales and partnerships",
+				"Strong negotiation and closing skills",
+				"Ability to identify and develop new business opportunities"
+			]
+		},
+		{
+			"id": 25,
+			"title": "Director of Business Development",
+			"company": {
+				"name": "GlobalTech",
+				"phone": "(415) 555-0101",
+				"email": "jobs@globaltech.com"
+			},
+			"location": "San Francisco, CA",
+			"description": "Seeking a Director of Business Development to oversee expansion into new markets and verticals. You will lead a team, develop strategic initiatives, and drive revenue growth through innovative partnerships.",
+			"employment_type": "Full-time",
+			"salary": 160000,
+			"bonus": "Up to 15% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Flexible work hours",
+				"Generous PTO policy"
+			],
+			"date_posted": "2024-01-25",
+			"requirements": [
+				"10+ years in business development and leadership",
+				"Proven track record of driving revenue growth",
+				"Excellent communication and team leadership skills"
+			]
+		},
+		{
+			"id": 26,
+			"title": "Business Development Executive",
+			"company": {
+				"name": "TechWorks",
+				"phone": "(312) 555-0102",
+				"email": "careers@techworks.com"
+			},
+			"location": "Chicago, IL",
+			"description": "Hiring a Business Development Executive to establish relationships with key clients and partners. You will be responsible for generating leads, negotiating contracts, and ensuring client satisfaction.",
+			"employment_type": "Full-time",
+			"salary": 95000,
+			"bonus": "Up to 8% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Paid time off and holidays",
+				"Professional development opportunities"
+			],
+			"date_posted": "2024-01-22",
+			"requirements": [
+				"Experience in B2B sales and customer relationship management",
+				"Strong communication and interpersonal skills",
+				"Ability to manage multiple client accounts"
+			]
+		},
+		{
+			"id": 27,
+			"title": "Sales and Business Development Manager",
+			"company": {
+				"name": "NextGen Systems",
+				"phone": "(310) 555-0103",
+				"email": "jobs@nextgensystems.com"
+			},
+			"location": "Los Angeles, CA",
+			"description": "Looking for a Sales and Business Development Manager to generate new leads and increase sales. You will develop sales strategies, manage client relationships, and drive revenue growth.",
+			"employment_type": "Full-time",
+			"salary": 110000,
+			"bonus": "Up to 10% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Paid time off and holidays",
+				"Professional development opportunities"
+			],
+			"date_posted": "2024-01-19",
+			"requirements": [
+				"Experience with lead generation and sales funnels",
+				"Strong sales presentation and negotiation skills",
+				"Ability to collaborate with cross-functional teams"
+			]
+		},
+		{
+			"id": 28,
+			"title": "Business Development Representative",
+			"company": {
+				"name": "GrowthTech",
+				"phone": "(617) 555-0104",
+				"email": "careers@growthtech.com"
+			},
+			"location": "Boston, MA",
+			"description": "Hiring a Business Development Representative to reach out to potential clients and create opportunities. You will conduct market research, generate leads, and support the sales team.",
+			"employment_type": "Full-time",
+			"salary": 70000,
+			"bonus": "Up to 5% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Paid time off and holidays",
+				"Professional development opportunities"
+			],
+			"date_posted": "2024-01-17",
+			"requirements": [
+				"Strong communication and cold-calling skills",
+				"Experience with CRM software",
+				"Goal-oriented with a passion for sales"
+			]
+		},
+		{
+			"id": 29,
+			"title": "Business Development Consultant",
+			"company": {
+				"name": "Consulting Group",
+				"phone": "(404) 555-0105",
+				"email": "jobs@consultinggroup.com"
+			},
+			"location": "Remote",
+			"description": "Looking for a Business Development Consultant to provide strategic advice and expand our client base. You will analyze market trends, develop strategies, and support client engagements.",
+			"employment_type": "Contract",
+			"salary": 90000,
+			"bonus": "Performance-based bonuses available",
+			"benefits_package": [
+				"Flexible work schedule",
+				"Remote work options",
+				"Professional development opportunities"
+			],
+			"date_posted": "2024-01-15",
+			"requirements": [
+				"Experience in consulting and business strategy",
+				"Strong project management skills",
+				"Ability to work independently and remotely"
+			]
+		},
+		{
+			"id": 30,
+			"title": "VP of Business Development",
+			"company": {
+				"name": "FinTech Innovators",
+				"phone": "(305) 555-0106",
+				"email": "careers@fintechinnovators.com"
+			},
+			"location": "Miami, FL",
+			"description": "Seeking a VP of Business Development to lead efforts to form strategic alliances in the financial tech industry. You will drive business growth, manage key partnerships, and oversee the business development team.",
+			"employment_type": "Full-time",
+			"salary": 200000,
+			"bonus": "Up to 15% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Paid time off and holidays",
+				"Professional development opportunities"
+			],
+			"date_posted": "2024-01-10",
+			"requirements": [
+				"15+ years of business development experience",
+				"Extensive network in the fintech sector",
+				"Proven track record of securing large partnerships"
+			]
+		},
+		{
+			"id": 31,
+			"title": "Regional Business Development Manager",
+			"company": {
+				"name": "TechCorp",
+				"phone": "(512) 555-0107",
+				"email": "jobs@techcorp.com"
+			},
+			"location": "Austin, TX",
+			"description": "Hiring a Regional Business Development Manager to manage key accounts and drive sales in the region. You will develop regional strategies, build relationships, and achieve sales targets.",
+			"employment_type": "Full-time",
+			"salary": 115000,
+			"bonus": "Up to 10% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Paid time off and holidays",
+				"Professional development opportunities"
+			],
+			"date_posted": "2024-01-12",
+			"requirements": [
+				"Experience in sales and regional business growth",
+				"Strong leadership and team management skills",
+				"Ability to work cross-functionally with marketing and sales"
+			]
+		},
+		{
+			"id": 32,
+			"title": "Business Development Analyst",
+			"company": {
+				"name": "MarketEdge",
+				"phone": "(206) 555-0108",
+				"email": "careers@marketedge.com"
+			},
+			"location": "Seattle, WA",
+			"description": "Looking for a Business Development Analyst to assist with market research and identifying growth opportunities. You will analyze data, prepare reports, and support strategic initiatives.",
+			"employment_type": "Full-time",
+			"salary": 85000,
+			"bonus": "Up to 5% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Paid time off and holidays",
+				"Professional development opportunities"
+			],
+			"date_posted": "2024-01-08",
+			"requirements": [
+				"Experience with market research and data analysis",
+				"Proficiency in Excel and data visualization tools",
+				"Strong problem-solving and analytical skills"
+			]
+		},
+		{
+			"id": 33,
+			"title": "International Business Development Manager",
+			"company": {
+				"name": "Global Enterprises",
+				"phone": "(312) 555-0109",
+				"email": "jobs@globalenterprises.com"
+			},
+			"location": "Chicago, IL",
+			"description": "Hiring an International Business Development Manager to drive global market expansion. You will identify international opportunities, develop strategies, and manage cross-border partnerships.",
+			"employment_type": "Full-time",
+			"salary": 130000,
+			"bonus": "Up to 10% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Paid time off and holidays",
+				"Professional development opportunities"
+			],
+			"date_posted": "2024-01-05",
+			"requirements": [
+				"Experience in international business and market expansion",
+				"Fluency in multiple languages is a plus",
+				"Strong strategic thinking and negotiation skills"
+			]
+		},
+		{
+			"id": 34,
+			"title": "Business Development Coordinator",
+			"company": {
+				"name": "Visionary Group",
+				"phone": "(214) 555-0110",
+				"email": "careers@visionarygroup.com"
+			},
+			"location": "Dallas, TX",
+			"description": "Looking for a Business Development Coordinator to support business growth efforts and client relations. You will assist in project management, coordinate meetings, and help develop marketing materials.",
+			"employment_type": "Full-time",
+			"salary": 80000,
+			"bonus": "Up to 5% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Paid time off and holidays",
+				"Professional development opportunities"
+			],
+			"date_posted": "2024-01-03",
+			"requirements": [
+				"Strong organizational and multitasking skills",
+				"Proficiency with CRM software",
+				"Excellent communication skills"
+			]
+		},
+		{
+			"id": 35,
+			"title": "Strategic Business Development Manager",
+			"company": {
+				"name": "TechForward",
+				"phone": "(404) 555-0111",
+				"email": "jobs@techforward.com"
+			},
+			"location": "Atlanta, GA",
+			"description": "Hiring a Strategic Business Development Manager to identify and execute growth opportunities in the tech sector. You will analyze market trends, develop strategic plans, and collaborate with cross-functional teams.",
+			"employment_type": "Full-time",
+			"salary": 135000,
+			"bonus": "Up to 10% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Paid time off and holidays",
+				"Professional development opportunities"
+			],
+			"date_posted": "2024-01-02",
+			"requirements": [
+				"Experience in the tech industry",
+				"Strong problem-solving and decision-making skills",
+				"Ability to manage key accounts"
+			]
+		},
+		{
+			"id": 36,
+			"title": "International Business Development Executive",
+			"company": {
+				"name": "GlobalReach",
+				"phone": "(020) 555-0112",
+				"email": "careers@globalreach.com"
+			},
+			"location": "London, UK",
+			"description": "Seeking an International Business Development Executive to expand the company's reach into global markets. You will develop international strategies, build relationships, and drive revenue growth.",
+			"employment_type": "Full-time",
+			"salary": 145000,
+			"bonus": "Up to 12% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Flexible work hours",
+				"Generous PTO policy"
+			],
+			"date_posted": "2024-01-01",
+			"requirements": [
+				"Fluent in English and another language (Spanish preferred)",
+				"Extensive international sales experience",
+				"Willingness to travel frequently"
+			]
+		},
+		{
+			"id": 37,
+			"title": "Business Development Consultant - Startups",
+			"company": {
+				"name": "Startup Hub",
+				"phone": "(310) 555-0113",
+				"email": "careers@startuphubs.com"
+			},
+			"location": "Remote",
+			"description": "Looking for a Business Development Consultant to help early-stage startups find and seize new opportunities. You will provide strategic guidance, develop business plans, and assist with fundraising efforts.",
+			"employment_type": "Contract",
+			"salary": 100000,
+			"bonus": "Performance-based bonuses available",
+			"benefits_package": [
+				"Flexible work schedule",
+				"Remote work options",
+				"Professional development opportunities"
+			],
+			"date_posted": "2023-12-28",
+			"requirements": [
+				"Experience working with startups",
+				"Strong consulting and advisory skills",
+				"Ability to thrive in a fast-paced environment"
+			]
+		},
+		{
+			"id": 38,
+			"title": "Senior Business Development Manager",
+			"company": {
+				"name": "GreenEnergy Co.",
+				"phone": "(720) 555-0114",
+				"email": "careers@greenenergyco.com"
+			},
+			"location": "Denver, CO",
+			"description": "Hiring a Senior Business Development Manager to spearhead new projects in the renewable energy sector. You will develop strategic partnerships, drive sales initiatives, and lead a team.",
+			"employment_type": "Full-time",
+			"salary": 160000,
+			"bonus": "Up to 15% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Paid time off and holidays",
+				"Professional development opportunities"
+			],
+			"date_posted": "2023-12-27",
+			"requirements": [
+				"Experience in renewable energy or sustainability",
+				"Proven track record in business development",
+				"Strong leadership and team management abilities"
+			]
+		},
+		{
+			"id": 39,
+			"title": "Regional Sales and Business Development Manager",
+			"company": {
+				"name": "Retail Innovations",
+				"phone": "(602) 555-0115",
+				"email": "careers@retailinnovations.com"
+			},
+			"location": "Phoenix, AZ",
+			"description": "Looking for a Regional Sales and Business Development Manager to oversee sales growth in the southwestern region. You will develop regional strategies, manage key accounts, and drive revenue.",
+			"employment_type": "Full-time",
+			"salary": 95000,
+			"bonus": "Up to 10% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Paid time off and holidays",
+				"Professional development opportunities"
+			],
+			"date_posted": "2023-12-26",
+			"requirements": [
+				"Proven sales leadership and regional market knowledge",
+				"Experience in retail or e-commerce",
+				"Strong strategic thinking and business acumen"
+			]
+		},
+		{
+			"id": 40,
+			"title": "Business Development Manager - SaaS",
+			"company": {
+				"name": "CloudTech Solutions",
+				"phone": "(512) 555-0116",
+				"email": "jobs@cloudtechsolutions.com"
+			},
+			"location": "Austin, TX",
+			"description": "Hiring a Business Development Manager to promote and sell SaaS solutions to businesses and enterprises. You will identify prospects, develop relationships, and close deals.",
+			"employment_type": "Full-time",
+			"salary": 120000,
+			"bonus": "Up to 10% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Paid time off and holidays",
+				"Professional development opportunities"
+			],
+			"date_posted": "2023-12-24",
+			"requirements": [
+				"Experience in B2B SaaS sales",
+				"Strong communication and presentation skills",
+				"Ability to build and maintain client relationships"
+			]
+		},
+		{
+			"id": 41,
+			"title": "Vice President of Global Business Development",
+			"company": {
+				"name": "Health Innovations",
+				"phone": "(619) 555-0117",
+				"email": "careers@healthinnovations.com"
+			},
+			"location": "San Diego, CA",
+			"description": "Seeking a Vice President of Global Business Development to lead global partnerships and market expansion in the healthcare sector. You will drive strategic initiatives and manage a global team.",
+			"employment_type": "Full-time",
+			"salary": 210000,
+			"bonus": "Up to 15% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Paid time off and holidays",
+				"Professional development opportunities"
+			],
+			"date_posted": "2023-12-23",
+			"requirements": [
+				"15+ years in business development and leadership",
+				"Experience in the healthcare or life sciences industry",
+				"Exceptional global network and market insight"
+			]
+		},
+		{
+			"id": 42,
+			"title": "Business Development Officer",
+			"company": {
+				"name": "Financial Growth Partners",
+				"phone": "(202) 555-0118",
+				"email": "careers@financialgrowthpartners.com"
+			},
+			"location": "Washington, DC",
+			"description": "Looking for a Business Development Officer to drive new business initiatives in the financial services sector. You will develop strategies, manage client relationships, and achieve sales targets.",
+			"employment_type": "Full-time",
+			"salary": 110000,
+			"bonus": "Up to 10% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Paid time off and holidays",
+				"Professional development opportunities"
+			],
+			"date_posted": "2023-12-20",
+			"requirements": [
+				"Experience in financial services or fintech",
+				"Strong sales and business acumen",
+				"Excellent negotiation skills"
+			]
+		},
+		{
+			"id": 43,
+			"title": "Business Development Lead - E-commerce",
+			"company": {
+				"name": "EcomSuccess",
+				"phone": "(305) 555-0119",
+				"email": "careers@ecomsuccess.com"
+			},
+			"location": "Miami, FL",
+			"description": "Hiring a Business Development Lead to create and manage strategic partnerships in the e-commerce industry. You will develop and implement strategies to enhance business growth, manage partner relationships, and drive sales initiatives.",
+			"employment_type": "Full-time",
+			"salary": 105000,
+			"bonus": "Up to 10% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Paid time off and holidays",
+				"Professional development opportunities"
+			],
+			"date_posted": "2023-12-19",
+			"requirements": [
+				"Experience in e-commerce or digital marketing",
+				"Strong partnership management skills",
+				"Proven success in driving business growth"
+			]
+		},
+		{
+			"id": 44,
+			"title": "Senior Business Development Manager",
+			"company": {
+				"name": "Corporate Strategies",
+				"phone": "(312) 555-0120",
+				"email": "careers@corporatestrategies.com"
+			},
+			"location": "Chicago, IL",
+			"description": "Seeking a Senior Business Development Manager to lead strategic initiatives. You will identify growth opportunities, develop business plans, and manage key client relationships.",
+			"employment_type": "Full-time",
+			"salary": 95000,
+			"bonus": "Up to 8% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Paid time off and holidays",
+				"Professional development opportunities"
+			],
+			"date_posted": "2025-01-20",
+			"requirements": [
+				"5+ years of experience in business development",
+				"Proven track record of closing deals",
+				"Strong analytical and negotiation skills"
+			]
+		},
+		{
+			"id": 45,
+			"title": "Business Development Analyst",
+			"company": {
+				"name": "Market Research Inc.",
+				"phone": "(404) 555-0121",
+				"email": "careers@marketresearchinc.com"
+			},
+			"location": "Atlanta, GA",
+			"description": "We need a Business Development Analyst to support growth strategies. You will conduct market analysis, prepare reports, and assist in strategic planning.",
+			"employment_type": "Full-time",
+			"salary": 75000,
+			"bonus": "Up to 5% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Paid time off and holidays",
+				"Professional development opportunities"
+			],
+			"date_posted": "2025-01-18",
+			"requirements": [
+				"Bachelor's degree in Business or Finance",
+				"Experience in market research or analysis",
+				"Proficient in Microsoft Excel"
+			]
+		},
+		{
+			"id": 46,
+			"title": "Global Business Development Lead",
+			"company": {
+				"name": "Tech Global",
+				"phone": "(415) 555-0122",
+				"email": "careers@techglobal.com"
+			},
+			"location": "San Francisco, CA",
+			"description": "Looking for a Global Business Development Lead to expand international markets. You will develop global strategies, manage partnerships, and drive revenue growth.",
+			"employment_type": "Full-time",
+			"salary": 120000,
+			"bonus": "Up to 10% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Paid time off and holidays",
+				"Professional development opportunities"
+			],
+			"date_posted": "2025-01-10",
+			"requirements": [
+				"10+ years in business development with a focus on international markets",
+				"Strong leadership skills",
+				"Fluent in English and another language preferred"
+			]
+		},
+		{
+			"id": 47,
+			"title": "VP of Business Development",
+			"company": {
+				"name": "FinTech Innovators",
+				"phone": "(305) 555-0106",
+				"email": "careers@fintechinnovators.com"
+			},
+			"location": "Miami, FL",
+			"description": "Seeking a VP of Business Development to lead efforts to form strategic alliances in the financial tech industry. You will drive business growth, manage key partnerships, and oversee the business development team.",
+			"employment_type": "Full-time",
+			"salary": 200000,
+			"bonus": "Up to 15% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Paid time off and holidays",
+				"Professional development opportunities"
+			],
+			"date_posted": "2024-01-10",
+			"requirements": [
+				"15+ years of business development experience",
+				"Extensive network in the fintech sector",
+				"Proven track record of securing large partnerships"
+			]
+		},
+		{
+			"id": 45,
+			"title": "Director of Business Development Operations",
+			"company": {
+				"name": "Global Corp",
+				"phone": "(617) 555-0144",
+				"email": "careers@globalcorp.com"
+			},
+			"location": "Boston, MA",
+			"description": "Seeking a Director to enhance business development processes and operations. You will streamline workflows, manage teams, and drive operational efficiency.",
+			"employment_type": "Full-time",
+			"salary": 140000,
+			"bonus": "Up to 10% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Paid time off and holidays",
+				"Professional development opportunities"
+			],
+			"date_posted": "2025-01-10",
+			"requirements": [
+				"10+ years in business development and operations management",
+				"Strong project management skills",
+				"MBA preferred"
+			]
+		},
+		{
+			"id": 46,
+			"title": "Business Development Specialist",
+			"company": {
+				"name": "Nonprofit Org",
+				"phone": "(310) 555-0145",
+				"email": "careers@nonprofitorg.com"
+			},
+			"location": "Los Angeles, CA",
+			"description": "Looking for a Business Development Specialist to assist with fundraising efforts. You will develop outreach strategies, manage donor relationships, and support fundraising campaigns.",
+			"employment_type": "Full-time",
+			"salary": 55000,
+			"bonus": "Up to 5% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Paid time off and holidays",
+				"Professional development opportunities"
+			],
+			"date_posted": "2025-01-14",
+			"requirements": [
+				"Bachelor's degree in Business or nonprofit management",
+				"Experience in fundraising or grant writing",
+				"Strong interpersonal skills"
+			]
+		},
+		{
+			"id": 47,
+			"title": "Business Development Intern",
+			"company": {
+				"name": "Startup Inc.",
+				"phone": "(404) 555-0146",
+				"email": "interns@startupinc.com"
+			},
+			"location": "Remote",
+			"description": "Seeking a Business Development Intern to support the team in various projects. You will assist with research, outreach, and administrative tasks.",
+			"employment_type": "Internship",
+			"salary": 20000,
+			"bonus": "N/A",
+			"benefits_package": [
+				"Flexible work hours",
+				"Mentorship opportunities",
+				"Potential for full-time employment"
+			],
+			"date_posted": "2025-01-20",
+			"requirements": [
+				"Currently pursuing a degree in Business or related field",
+				"Eager to learn and develop skills",
+				"Ability to work in a fast-paced environment"
+			]
+		},
+		{
+			"id": 48,
+			"title": "Head of Business Development",
+			"company": {
+				"name": "Global Solutions",
+				"phone": "(212) 555-0147",
+				"email": "careers@globalsolutions.com"
+			},
+			"location": "New York, NY",
+			"description": "Looking for a Head of Business Development to lead the firm's growth initiatives. You will develop and implement strategies, manage key partnerships, and drive overall business growth.",
+			"employment_type": "Full-time",
+			"salary": 160000,
+			"bonus": "Up to 12% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Paid time off and holidays",
+				"Professional development opportunities"
+			],
+			"date_posted": "2025-01-11",
+			"requirements": [
+				"15+ years in business development and leadership roles",
+				"Strong networking abilities",
+				"Proven record of revenue generation"
+			]
+		},
+		{
+			"id": 49,
+			"title": "Strategic Partnerships Manager",
+			"company": {
+				"name": "Innovation Hub",
+				"phone": "(206) 555-0148",
+				"email": "careers@innovationhub.com"
+			},
+			"location": "Seattle, WA",
+			"description": "Seeking a Strategic Partnerships Manager to cultivate relationships and explore new ventures. You will identify partnership opportunities, negotiate agreements, and drive collaborative projects.",
+			"employment_type": "Full-time",
+			"salary": 90000,
+			"bonus": "Up to 8% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Paid time off and holidays",
+				"Professional development opportunities"
+			],
+			"date_posted": "2025-01-26",
+			"requirements": [
+				"5+ years of experience in partnerships or business development",
+				"Excellent negotiation skills",
+				"Strong industry knowledge"
+			]
+		},
+		{
+			"id": 50,
+			"title": "Business Development Analyst",
+			"company": {
+				"name": "Tech Solutions",
+				"phone": "(404) 555-0149",
+				"email": "careers@techsolutions.com"
+			},
+			"location": "Seattle, WA",
+			"description": "Hiring a Business Development Analyst to support market research and strategic sales planning. You will analyze data, prepare reports, and assist in developing business strategies.",
+			"employment_type": "Full-time",
+			"salary": 75000,
+			"bonus": "Up to 5% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Paid time off and holidays",
+				"Professional development opportunities"
+			],
+			"date_posted": "2023-12-25",
+			"requirements": [
+				"Strong analytical skills",
+				"Experience with market research tools",
+				"Ability to support sales teams with actionable insights"
+			]
+		},
+		{
+			"id": 51,
+			"title": "Business Development Manager",
+			"company": {
+				"name": "Tech Innovations Inc.",
+				"phone": "(404) 555-0101",
+				"email": "careers@techinnovations.com"
+			},
+			"location": "New York, NY",
+			"description": "Seeking a Business Development Manager to drive growth and expand market presence.",
+			"employment_type": "Full-time",
+			"salary": 90000,
+			"bonus": "Up to 15% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Paid time off and holidays",
+				"Remote work options"
+			],
+			"date_posted": "2025-03-20",
+			"requirements": [
+				"Bachelor's degree in Business or related field",
+				"3+ years of experience in business development",
+				"Strong communication and negotiation skills"
+			]
+		},
+		{
+			"id": 52,
+			"title": "Senior Business Development Executive",
+			"company": {
+				"name": "Global Solutions Ltd.",
+				"phone": "(404) 555-0102",
+				"email": "jobs@globalsolutions.com"
+			},
+			"location": "Remote",
+			"description": "Looking for a Senior Business Development Executive to lead strategic partnerships and drive revenue.",
+			"employment_type": "Full-time",
+			"salary": 120000,
+			"bonus": "Up to 20% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Flexible working hours",
+				"Professional development opportunities"
+			],
+			"date_posted": "2025-03-18",
+			"requirements": [
+				"Bachelor's degree in Business or related field",
+				"5+ years of experience in business development",
+				"Proven track record of achieving sales targets"
+			]
+		},
+		{
+			"id": 53,
+			"title": "Business Development Associate",
+			"company": {
+				"name": "Innovative Marketing Group",
+				"phone": "(404) 555-0103",
+				"email": "careers@innovativemarketing.com"
+			},
+			"location": "Chicago, IL",
+			"description": "Join our team as a Business Development Associate to support sales initiatives and client outreach.",
+			"employment_type": "Full-time",
+			"salary": 60000,
+			"bonus": "Up to 10% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Paid time off and holidays",
+				"Team-building activities"
+			],
+			"date_posted": "2025-03-15",
+			"requirements": [
+				"Bachelor's degree in Business or related field",
+				"1-2 years of experience in sales or business development",
+				"Excellent interpersonal skills"
+			]
+		},
+		{
+			"id": 54,
+			"title": "Director of Business Development",
+			"company": {
+				"name": "NextGen Technologies",
+				"phone": "(404) 555-0104",
+				"email": "jobs@nextgentech.com"
+			},
+			"location": "San Francisco, CA",
+			"description": "We are looking for a Director of Business Development to oversee our growth strategy and lead the business development team.",
+			"employment_type": "Full-time",
+			"salary": 150000,
+			"bonus": "Up to 25% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Unlimited paid time off",
+				"Stock options"
+			],
+			"date_posted": "2025-03-10",
+			"requirements": [
+				"Bachelor's degree in Business or related field",
+				"7+ years of experience in business development",
+				"Strong leadership and strategic planning skills"
+			]
+		},
+		{
+			"id": 55,
+			"title": "Business Development Representative",
+			"company": {
+				"name": "Creative Solutions Co.",
+				"phone": "(404) 555-0105",
+				"email": "careers@creativesolutions.com"
+			},
+			"location": "Austin, TX",
+			"description": "As a Business Development Representative, you will identify new business opportunities and build relationships with potential clients.",
+			"employment_type": "Full-time",
+			"salary": 55000,
+			"bonus": "Up to 12% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Paid time off and holidays",
+				"Sales training programs"
+			],
+			"date_posted": "2025-03-05",
+			"requirements": [
+				"Bachelor's degree in Business or related field",
+				"1-3 years of experience in sales or business development",
+				"Strong networking skills"
+			]
+		},
+		{
+			"id": 56,
+			"title": "Business Development Analyst",
+			"company": {
+				"name": "Market Insights Corp.",
+				"phone": "(404) 555-0106",
+				"email": "jobs@marketinsights.com"
+			},
+			"location": "Remote",
+			"description": "Seeking a Business Development Analyst to analyze market trends and support strategic initiatives.",
+			"employment_type": "Full-time",
+			"salary": 75000,
+			"bonus": "Up to 10% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Remote work options",
+				"Professional development opportunities"
+			],
+			"date_posted": "2025-03-01",
+			"requirements": [
+				"Bachelor's degree in Business, Economics, or related field",
+				"2+ years of experience in business analysis or development",
+				"Strong analytical and problem-solving skills"
+			]
+		},
+		{
+			"id": 57,
+			"title": "Regional Business Development Manager",
+			"company": {
+				"name": "Eco Solutions Group",
+				"phone": "(404) 555-0107",
+				"email": "careers@ecosolutions.com"
+			},
+			"location": "Denver, CO",
+			"description": "Looking for a Regional Business Development Manager to expand our market reach in the region.",
+			"employment_type": "Full-time",
+			"salary": 95000,
+			"bonus": "Up to 15% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Paid time off and holidays",
+				"Travel reimbursement"
+			],
+			"date_posted": "2025-02-28",
+			"requirements": [
+				"Bachelor's degree in Business or related field",
+				"4+ years of experience in business development",
+				"Ability to travel as needed"
+			]
+		},
+		{
+			"id": 58,
+			"title": "Business Development Coordinator",
+			"company": {
+				"name": "Digital Marketing Agency",
+				"phone": "(404) 555-0108",
+				"email": "jobs@digitalmarketingagency.com"
+			},
+			"location": "Los Angeles, CA",
+			"description": "Join our team as a Business Development Coordinator to assist in the execution of business strategies.",
+			"employment_type": "Full-time",
+			"salary": 65000,
+			"bonus": "Up to 8% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Paid time off and holidays",
+				"Team-building activities"
+			],
+			"date_posted": "2025-02-25",
+			"requirements": [
+				"Bachelor's degree in Business or related field",
+				"1-2 years of experience in business development or marketing",
+				"Strong organizational skills"
+			]
+		},
+		{
+			"id": 59,
+			"title": "Business Development Director",
+			"company": {
+				"name": "Innovative Tech Solutions",
+				"phone": "(404) 555-0109",
+				"email": "careers@innovativetech.com"
+			},
+			"location": "Seattle, WA",
+			"description": "We are seeking a Business Development Director to lead our growth initiatives and manage key client relationships.",
+			"employment_type": "Full-time",
+			"salary": 160000,
+			"bonus": "Up to 30% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Unlimited paid time off",
+				"Stock options"
+			],
+			"date_posted": "2025-02-20",
+			"requirements": [
+				"Bachelor's degree in Business or related field",
+				"10+ years of experience in business development",
+				"Exceptional leadership and communication skills"
+			]
+		},
+		{
+			"id": 60,
+			"title": "Business Development Specialist",
+			"company": {
+				"name": "Next Level Consulting",
+				"phone": "(404) 555-0110",
+				" email": "jobs@nextlevelconsulting.com"
+			},
+			"location": "Miami, FL",
+			"description": "As a Business Development Specialist, you will identify new business opportunities and assist in the development of strategic plans.",
+			"employment_type": "Full-time",
+			"salary": 70000,
+			"bonus": "Up to 12% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Paid time off and holidays",
+				"Professional development opportunities"
+			],
+			"date_posted": "2025-02-15",
+			"requirements": [
+				"Bachelor's degree in Business or related field",
+				"2+ years of experience in business development or sales",
+				"Strong analytical and communication skills"
+			]
+		},
+		{
+			"id": 61,
+			"title": "Business Development Consultant",
+			"company": {
+				"name": "Strategic Growth Partners",
+				"phone": "(404) 555-0111",
+				"email": "careers@strategicgrowth.com"
+			},
+			"location": "Remote",
+			"description": "We are looking for a Business Development Consultant to provide insights and strategies for business growth.",
+			"employment_type": "Contract",
+			"salary": 80000,
+			"bonus": "Up to 15% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"Flexible working hours",
+				"Remote work options",
+				"Professional development opportunities"
+			],
+			"date_posted": "2025-02-10",
+			"requirements": [
+				"Bachelor's degree in Business or related field",
+				"5+ years of experience in consulting or business development",
+				"Strong problem-solving skills"
+			]
+		},
+		{
+			"id": 62,
+			"title": "International Business Development Manager",
+			"company": {
+				"name": "Global Trade Solutions",
+				"phone": "(404) 555-0112",
+				"email": "jobs@globaltradesolutions.com"
+			},
+			"location": "New York, NY",
+			"description": "Seeking an International Business Development Manager to expand our global market presence.",
+			"employment_type": "Full-time",
+			"salary": 110000,
+			"bonus": "Up to 20% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Paid time off and holidays",
+				"Travel opportunities"
+			],
+			"date_posted": "2025-02-05",
+			"requirements": [
+				"Bachelor's degree in International Business or related field",
+				"4+ years of experience in international business development",
+				"Fluency in a second language is a plus"
+			]
+		},
+		{
+			"id": 63,
+			"title": "Business Development Officer",
+			"company": {
+				"name": "Financial Growth Advisors",
+				"phone": "(404) 555-0113",
+				"email": "careers@financialgrowth.com"
+			},
+			"location": "Chicago, IL",
+			"description": "Join our team as a Business Development Officer to drive client acquisition and retention strategies.",
+			"employment_type": "Full-time",
+			"salary": 95000,
+			"bonus": "Up to 15% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Paid time off and holidays",
+				"Team-building activities"
+			],
+			"date_posted": "2025-02-01",
+			"requirements": [
+				"Bachelor's degree in Business or related field",
+				"3+ years of experience in business development or sales",
+				"Strong relationship-building skills"
+			]
+		},
+		{
+			"id": 64,
+			"title": "Business Development Executive",
+			"company": {
+				"name": "Tech Solutions Group",
+				"phone": "(404) 555-0114",
+				"email": "jobs@techsolutionsgroup.com"
+			},
+			"location": "San Francisco, CA",
+			"description": "We are looking for a Business Development Executive to identify and pursue new business opportunities.",
+			"employment_type": "Full-time",
+			"salary": 105000,
+			"bonus": "Up to 18% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Paid time off and holidays",
+				"Remote work options"
+			],
+			"date_posted": "2025-01-28",
+			"requirements": [
+				"Bachelor's degree in Business or related field",
+				"5+ years of experience in business development or sales",
+				"Proven ability to close deals and meet targets"
+			]
+		},
+		{
+			"id": 65,
+			"title": "Business Development Strategist",
+			"company": {
+				"name": "Innovative Strategies LLC",
+				"phone": "(404) 555-0115",
+				"email": "careers@innovativestrategies.com"
+			},
+			"location": "Remote",
+			"description": "Looking for a Business Development Strategist to create and implement growth strategies.",
+			"employment_type": "Full-time",
+			"salary": 115000,
+			"bonus": "Up to 20% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Flexible working hours",
+				"Professional development opportunities"
+			],
+			"date_posted": "2025-01-25",
+			"requirements": [
+				"Bachelor's degree in Business or related field",
+				"6+ years of experience in business development",
+				"Strong strategic thinking and planning skills"
+			]
+		},
+		{
+			"id": 66,
+			"title": "Business Development Lead",
+			"company": {
+				"name": "NextGen Innovations",
+				"phone": "(404) 555-0116",
+				"email": "jobs@nextgeninnovations.com"
+			},
+			"location": "Boston, MA",
+			"description": "We are seeking a Business Development Lead to spearhead our client acquisition efforts.",
+			"employment_type": "Full-time",
+			"salary": 130000,
+			"bonus": "Up to 25% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Paid time off and holidays",
+				"Stock options"
+			],
+			"date_posted": "2025-01-20",
+			"requirements": [
+				"Bachelor's degree in Business or related field",
+				"5+ years of experience in business development",
+				"Excellent leadership and communication skills"
+			]
+		},
+		{
+			"id": 67,
+			"title": "Business Development Intern",
+			"company": {
+				"name": "Emerging Tech Solutions",
+				"phone": "(404) 555-0117",
+				"email": "careers@emergingtech.com"
+			},
+			"location": "Remote",
+			"description": "Join us as a Business Development Intern to gain hands-on experience in the field.",
+			"employment_type": "Internship",
+			"salary": 20000,
+			"bonus": "N/A",
+			"benefits_package": [
+				"Mentorship opportunities",
+				"Flexible working hours",
+				"Remote work options"
+			],
+			"date_posted": "2025-01-15",
+			"requirements": [
+				"Currently pursuing a degree in Business or related field",
+				"Strong interest in business development",
+				"Excellent communication skills"
+			]
+		},
+		{
+			"id": 68,
+			"title": "Business Development Project Manager",
+			"company": {
+				"name": "Strategic Ventures Inc.",
+				"phone": "(404) 555-0118",
+				"email": "jobs@strategicventures.com"
+			},
+			"location": "Atlanta, GA",
+			"description": "Looking for a Business Development Project Manager to oversee key projects and initiatives.",
+			"employment_type": "Full-time",
+			"salary": 95000,
+			"bonus": "Up to 15% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Paid time off and holidays",
+				"Team-building activities"
+			],
+			"date_posted": "2025-01-10",
+			"requirements": [
+				"Bachelor's degree in Business or related field",
+				"4+ years of experience in project management or business development",
+				"Strong organizational and leadership skills"
+			]
+		},
+		{
+			"id": 69,
+			"title": "Business Development Research Analyst",
+			"company": {
+				"name": "Market Research Group",
+				"phone": "(404) 555-0119",
+				"email": "careers@marketresearchgroup.com"
+			},
+			"location": "Remote",
+			"description": "Seeking a Business Development Research Analyst to conduct market research and support business strategies.",
+			"employment_type": "Full-time",
+			"salary": 70000,
+			"bonus": "Up to 10% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Remote work options",
+				"Professional development opportunities"
+			],
+			"date_posted": "2025-01-05",
+			"requirements": [
+				"Bachelor's degree in Business, Marketing, or related field",
+				"2+ years of experience in market research or business development",
+				"Strong analytical skills"
+			]
+		},
+		{
+			"id": 70,
+			"title": "Business Development Marketing Specialist",
+			"company": {
+				"name": "Creative Marketing Solutions",
+				"phone": "(404) 555-0120",
+				"email": "jobs@creativemarketing.com"
+			},
+			"location": "Phoenix, AZ",
+			"description": "We are looking for a Business Development Marketing Specialist to develop marketing strategies that drive business growth.",
+			"employment_type": "Full-time",
+			"salary": 80000,
+			"bonus": "Up to 12% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Paid time off and holidays",
+				"Flexible working hours"
+			],
+			"date_posted": "2025-01-01",
+			"requirements": [
+				"Bachelor's degree in Marketing or Business",
+				"3+ years of experience in marketing or business development",
+				"Strong creative and analytical skills"
+			]
+		},
+		{
+			"id": 71,
+			"title": "Business Development Account Manager",
+			"company": {
+				"name": "Client Success Partners",
+				"phone": "(404) 555-0121",
+				"email": "careers@clientsuccess.com"
+			},
+			"location": "Dallas, TX",
+			"description": "Join our team as a Business Development Account Manager to manage client relationships and drive account growth.",
+			"employment_type": "Full-time",
+			"salary": 90000,
+			"bonus": "Up to 15% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Paid time off and holidays",
+				"Team-building activities"
+			],
+			"date_posted": "2024-12-28",
+			"requirements": [
+				"Bachelor's degree in Business or related field",
+				"4+ years of experience in account management or business development",
+				"Excellent relationship management skills"
+			]
+		},
+		{
+			"id": 72,
+			"title": "Business Development Operations Manager",
+			"company": {
+				"name": "Operational Excellence Group",
+				"phone": "(404) 555-0122",
+				"email": "jobs@operationalexcellence.com"
+			},
+			"location": "Orlando, FL",
+			"description": "We are seeking a Business Development Operations Manager to streamline processes and improve operational efficiency.",
+			"employment_type": "Full-time",
+			"salary": 95000,
+			"bonus": "Up to 10% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Paid time off and holidays",
+				"Professional development opportunities"
+			],
+			"date_posted": "2024-12-25",
+			"requirements": [
+				"Bachelor's degree in Business or related field",
+				"5+ years of experience in operations or business development",
+				"Strong project management skills"
+			]
+		},
+		{
+			"id": 73,
+			"title": "Business Development Sales Manager",
+			"company": {
+				"name": "Sales Growth Solutions",
+				"phone": "(404) 555-0123",
+				"email": "careers@salesgrowth.com"
+			},
+			"location": "San Diego, CA",
+			"description": "Looking for a Business Development Sales Manager to lead our sales team and drive revenue growth.",
+			"employment_type": "Full-time",
+			"salary": 110000,
+			"bonus": "Up to 20% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Paid time off and holidays",
+				"Sales training programs"
+			],
+			"date_posted": "2024-12-20",
+			"requirements": [
+				"Bachelor's degree in Business or related field",
+				"6+ years of experience in sales or business development",
+				"Proven leadership skills"
+			]
+		},
+		{
+			"id": 74,
+			"title": "Business Development Partnerships Manager",
+			"company": {
+				"name": "Collaborative Ventures",
+				"phone": "(404) 555-0124",
+				"email": "jobs@collaborativeventures.com"
+			},
+			"location": "Philadelphia, PA",
+			"description": "We are seeking a Business Development Partnerships Manager to establish and manage strategic partnerships.",
+			"employment_type": "Full-time",
+			"salary": 105000,
+			"bonus": "Up to 15% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Paid time off and holidays",
+				"Networking events"
+			],
+			"date_posted": "2024-12-15",
+			"requirements": [
+				"Bachelor's degree in Business or related field",
+				"5+ years of experience in partnership development",
+				"Strong negotiation and relationship management skills"
+			]
+		},
+		{
+			"id": 75,
+			"title": "Business Development Growth Manager",
+			"company": {
+				"name": "Growth Strategies Inc.",
+				"phone": "(404) 555-0125",
+				"email": "careers@growthstrategies.com"
+			},
+			"location": "Houston, TX",
+			"description": "Join us as a Business Development Growth Manager to identify and implement growth opportunities.",
+			"employment_type": "Full-time",
+			"salary": 115000,
+			"bonus": "Up to 20% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Paid time off and holidays",
+				"Professional development opportunities"
+			],
+			"date_posted": "2024-12-10",
+			"requirements": [
+				"Bachelor's degree in Business or related field",
+				"6+ years of experience in business development",
+				"Strong analytical and strategic thinking skills"
+			]
+		},
+		{
+			"id": 76,
+			"title": "Business Development Account Executive",
+			"company": {
+				"name": "Client Solutions Group",
+				"phone": "(404) 555-0126",
+				"email": "jobs@clientsolutions.com"
+			},
+			"location": "Atlanta, GA",
+			"description": "We are looking for a Business Development Account Executive to drive sales and manage client accounts.",
+			"employment_type": "Full-time",
+			"salary": 90000,
+			"bonus": "Up to 15% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Paid time off and holidays",
+				"Sales training programs"
+			],
+			"date_posted": "2024-12-05",
+			"requirements": [
+				"Bachelor's degree in Business or related field",
+				"3+ years of experience in sales or account management",
+				"Excellent communication and negotiation skills"
+			]
+		},
+		{
+			"id": 77,
+			"title": "Business Development Program Manager",
+			"company": {
+				"name": "Strategic Initiatives Corp.",
+				"phone": "(404) 555-0127",
+				"email": "careers@strategicinitiatives.com"
+			},
+			"location": "Remote",
+			"description": "Seeking a Business Development Program Manager to oversee and coordinate business development programs.",
+			"employment_type": "Full-time",
+			"salary": 95000,
+			"bonus": "Up to 10% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Remote work options",
+				"Professional development opportunities"
+			],
+			"date_posted": "2024-12-01",
+			"requirements": [
+				"Bachelor's degree in Business or related field",
+				"5+ years of experience in program management or business development",
+				"Strong organizational and leadership skills"
+			]
+		},
+		{
+			"id": 78,
+			"title": "Business Development Sales Executive",
+			"company": {
+				"name": "Sales Excellence Group",
+				"phone": "(404) 555-0128",
+				"email": "jobs@salesexcellence.com"
+			},
+			"location": "San Jose, CA",
+			"description": "Join our team as a Business Development Sales Executive to drive sales and expand our client base.",
+			"employment_type": "Full-time",
+			"salary": 100000,
+			"bonus": "Up to 18% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Paid time off and holidays",
+				"Sales training programs"
+			],
+			"date_posted": "2024-11-28",
+			"requirements": [
+				"Bachelor's degree in Business or related field",
+				"4+ years of experience in sales or business development",
+				"Proven track record of meeting sales targets"
+			]
+		},
+		{
+			"id": 79,
+			"title": "Business Development Marketing Manager",
+			"company": {
+				"name": "Marketing Innovations LLC",
+				"phone": "(404) 555-0129",
+				"email": "careers@marketinginnovations.com"
+			},
+			"location": "Boston, MA",
+			"description": "We are looking for a Business Development Marketing Manager to create and execute marketing strategies that drive business growth.",
+			"employment_type": "Full-time",
+			"salary": 105000,
+			"bonus": "Up to 15% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Paid time off and holidays",
+				"Flexible working hours"
+			],
+			"date_posted": "2024-11-20",
+			"requirements": [
+				"Bachelor's degree in Marketing or Business",
+				"5+ years of experience in marketing or business development",
+				"Strong creative and analytical skills"
+			]
+		},
+		{
+			"id": 80,
+			"title": "Business Development Technology Manager",
+			"company": {
+				"name": "Tech Growth Partners",
+				"phone": "(404) 555-0130",
+				"email": "jobs@techgrowthpartners.com"
+			},
+			"location": "Remote",
+			"description": "Seeking a Business Development Technology Manager to identify and implement technology solutions that enhance business operations.",
+			"employment_type": "Full-time",
+			"salary": 120000,
+			"bonus": "Up to 20% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Remote work options",
+				"Professional development opportunities"
+			],
+			"date_posted": "2024-11-15",
+			"requirements": [
+				"Bachelor's degree in Information Technology or related field",
+				"6+ years of experience in technology or business development",
+				"Strong project management skills"
+			]
+		},
+		{
+			"id": 81,
+			"title": "Business Development Financial Analyst",
+			"company": {
+				"name": "Financial Insights Group",
+				"phone": "(404) 555-0131",
+				"email": "careers@financialinsights.com"
+			},
+			"location": "Chicago, IL",
+			"description": "Join our team as a Business Development Financial Analyst to analyze financial data and support business strategies.",
+			"employment_type": "Full-time",
+			"salary": 85000,
+			"bonus": "Up to 10% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Paid time off and holidays",
+				"Team-building activities"
+			],
+			"date_posted": "2024-11-10",
+			"requirements": [
+				"Bachelor's degree in Finance, Business, or related field",
+				"3+ years of experience in financial analysis or business development",
+				"Strong analytical skills"
+			]
+		},
+		{
+			"id": 82,
+			"title": "Business Development Compliance Manager",
+			"company": {
+				"name": "Compliance Solutions Inc.",
+				"phone": "(404) 555-0132",
+				"email": "jobs@compliancesolutions.com"
+			},
+			"location": "New York, NY",
+			"description": "We are looking for a Business Development Compliance Manager to ensure compliance with regulations and support business growth.",
+			"employment_type": "Full-time",
+			"salary": 95000,
+			"bonus": "Up to 12% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Paid time off and holidays",
+				"Professional development opportunities"
+			],
+			"date_posted": "2024-11-05",
+			"requirements": [
+				"Bachelor's degree in Business, Law, or related field",
+				"5+ years of experience in compliance or business development",
+				"Strong attention to detail"
+			]
+		},
+		{
+			"id": 83,
+			"title": "Business Development Quality Assurance Manager",
+			"company": {
+				"name": "Quality Assurance Group",
+				"phone": "(404) 555-0133",
+				"email": "careers@qualityassurancegroup.com"
+			},
+			"location": "Remote",
+			"description": "Seeking a Business Development Quality Assurance Manager to oversee quality assurance processes and improve business operations.",
+			"employment_type": "Full-time",
+			"salary": 100000,
+			"bonus": "Up to 15% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Remote work options",
+				"Professional development opportunities"
+			],
+			"date_posted": "2024-11-01",
+			"requirements": [
+				"Bachelor's degree in Business or related field",
+				"4+ years of experience in quality assurance or business development",
+				"Strong analytical and problem-solving skills"
+			]
+		},
+		{
+			"id": 84,
+			"title": "Business Development Risk Manager",
+			"company": {
+				"name": "Risk Management Solutions",
+				"phone": "(404) 555-0134",
+				"email": "jobs@riskmanagementsolutions.com"
+			},
+			"location": "Los Angeles, CA",
+			"description": "We are looking for a Business Development Risk Manager to identify and mitigate business risks.",
+			"employment_type": "Full-time",
+			"salary": 105000,
+			"bonus": "Up to 15% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Paid time off and holidays",
+				"Professional development opportunities"
+			],
+			"date_posted": "2024-10-28",
+			"requirements": [
+				"Bachelor's degree in Business, Finance, or related field",
+				"5+ years of experience in risk management or business development",
+				"Strong analytical and decision-making skills"
+			]
+		},
+		{
+			"id": 85,
+			"title": "Business Development Training Manager",
+			"company": {
+				"name": "Training Solutions Group",
+				"phone": "(404) 555-0135",
+				"email": "careers@trainingsolutions.com"
+			},
+			"location": "Remote",
+			"description": "Join us as a Business Development Training Manager to develop and implement training programs for business development teams.",
+			"employment_type": "Full-time",
+			"salary": 90000,
+			"bonus": "Up to 10% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Remote work options",
+				"Professional development opportunities"
+			],
+			"date_posted": "2024-10-25",
+			"requirements": [
+				"Bachelor's degree in Business or related field",
+				"4+ years of experience in training or business development",
+				"Strong presentation and communication skills"
+			]
+		},
+		{
+			"id": 86,
+			"title": "Business Development Technology Analyst",
+			"company": {
+				"name": "Tech Innovations Group",
+				"phone": "(404) 555-0136",
+				"email": "jobs@techinnovationsgroup.com"
+			},
+			"location": "San Francisco, CA",
+			"description": "We are seeking a Business Development Technology Analyst to analyze technology trends and support business strategies.",
+			"employment_type": "Full-time",
+			"salary": 80000,
+			"bonus": "Up to 12% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Paid time off and holidays",
+				"Flexible working hours"
+			],
+			"date_posted": "2024-10-20",
+			"requirements": [
+				"Bachelor's degree in Information Technology or related field",
+				"3+ years of experience in technology analysis or business development",
+				"Strong analytical skills"
+			]
+		},
+		{
+			"id": 87,
+			"title": "Business Development Community Manager",
+			"company": {
+				"name": "Community Engagement Group",
+				"phone": "(404) 555-0137",
+				"email": "careers@communityengagement.com"
+			},
+			"location": "Remote",
+			"description": "Looking for a Business Development Community Manager to build and manage community relationships.",
+			"employment_type": "Full-time",
+			"salary": 75000,
+			"bonus": "Up to 10% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Remote work options",
+				"Professional development opportunities"
+			],
+			"date_posted": "2024-10-15",
+			"requirements": [
+				"Bachelor's degree in Business or related field",
+				"2+ years of experience in community management or business development",
+				"Strong interpersonal skills"
+			]
+		},
+		{
+			"id": 88,
+			"title": "Business Development Social Media Manager",
+			"company": {
+				"name": "Social Media Solutions",
+				"phone": "(404) 555-0138",
+				"email": "jobs@socialmediasolutions.com"
+			},
+			"location": "New York, NY",
+			"description": "We are seeking a Business Development Social Media Manager to develop and implement social media strategies that drive engagement and business growth.",
+			"employment_type": "Full-time",
+			"salary": 85000,
+			"bonus": "Up to 12% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Paid time off and holidays",
+				"Flexible working hours"
+			],
+			"date_posted": "2024-10-10",
+			"requirements": [
+				"Bachelor's degree in Marketing, Business, or related field",
+				"3+ years of experience in social media management or business development",
+				"Strong creative and analytical skills"
+			]
+		},
+		{
+			"id": 89,
+			"title": "Business Development Event Manager",
+			"company": {
+				"name": "Event Solutions Group",
+				"phone": "(404) 555-0139",
+				"email": "careers@eventsolutions.com"
+			},
+			"location": "Los Angeles, CA",
+			"description": "Join us as a Business Development Event Manager to plan and execute events that drive business opportunities.",
+			"employment_type": "Full-time",
+			"salary": 95000,
+			"bonus": "Up to 15% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Paid time off and holidays",
+				"Team-building activities"
+			],
+			"date_posted": "2024-10-05",
+			"requirements": [
+				"Bachelor's degree in Event Management, Business, or related field",
+				"4+ years of experience in event planning or business development",
+				"Strong organizational and communication skills"
+			]
+		},
+		{
+			"id": 90,
+			"title": "Business Development Digital Marketing Manager",
+			"company": {
+				"name": "Digital Growth Agency",
+				"phone": "(404) 555-0140",
+				"email": "jobs@digitalgrowthagency.com"
+			},
+			"location": "Remote",
+			"description": "We are looking for a Business Development Digital Marketing Manager to create and implement digital marketing strategies that enhance business growth.",
+			"employment_type": "Full-time",
+			"salary": 110000,
+			"bonus": "Up to 20% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Remote work options",
+				"Professional development opportunities"
+			],
+			"date_posted": "2024-10-01",
+			"requirements": [
+				"Bachelor's degree in Marketing or Business",
+				"5+ years of experience in digital marketing or business development",
+				"Strong analytical and creative skills"
+			]
+		},
+		{
+			"id": 91,
+			"title": "Business Development Customer Success Manager",
+			"company": {
+				"name": "Customer Success Solutions",
+				"phone": "(404) 555-0141",
+				"email": "careers@customersuccess.com"
+			},
+			"location": "Remote",
+			"description": "Join our team as a Business Development Customer Success Manager to ensure client satisfaction and drive retention.",
+			"employment_type": "Full-time",
+			"salary": 95000,
+			"bonus": "Up to 15% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Paid time off and holidays",
+				"Team-building activities"
+			],
+			"date_posted": "2024-09-28",
+			"requirements": [
+				"Bachelor's degree in Business or related field",
+				"4+ years of experience in customer success or business development",
+				"Strong relationship management skills"
+			]
+		},
+		{
+			"id": 92,
+			"title": "Business Development Product Manager",
+			"company": {
+				"name": "Product Innovations Inc.",
+				"phone": "(404) 555-0142",
+				"email": "jobs@productinnovations.com"
+			},
+			"location": "San Francisco, CA",
+			"description": "We are seeking a Business Development Product Manager to oversee product development and market strategies.",
+			"employment_type": "Full-time",
+			"salary": 120000,
+			"bonus": "Up to 20% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Paid time off and holidays",
+				"Professional development opportunities"
+			],
+			"date_posted": "2024-09-25",
+			"requirements": [
+				"Bachelor's degree in Business, Marketing, or related field",
+				"5+ years of experience in product management or business development",
+				"Strong analytical and strategic thinking skills"
+			]
+		},
+		{
+			"id": 93,
+			"title": "Business Development Brand Manager",
+			"company": {
+				"name": "Brand Solutions Group",
+				"phone": "(404) 555-0143",
+				"email": "careers@brandsolutions.com"
+			},
+			"location": "Remote",
+			"description": "Looking for a Business Development Brand Manager to enhance brand visibility and drive market growth.",
+			"employment_type": "Full-time",
+			"salary": 95000,
+			"bonus": "Up to 15% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Paid time off and holidays",
+				"Flexible working hours"
+			],
+			"date_posted": "2024-09-20",
+			"requirements": [
+				"Bachelor's degree in Marketing or Business",
+				"4+ years of experience in brand management or business development",
+				"Strong creative and strategic skills"
+			]
+		},
+		{
+			"id": 94,
+			"title": "Business Development E-commerce Manager",
+			"company": {
+				"name": "E-commerce Solutions Inc.",
+				"phone": "(404) 555-0144",
+				"email": "jobs@ecommercesolutions.com"
+			},
+			"location": "Los Angeles, CA",
+			"description": "We are seeking a Business Development E-commerce Manager to drive online sales and enhance customer experience.",
+			"employment_type": "Full-time",
+			"salary": 100000,
+			"bonus": "Up to 18% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Paid time off and holidays",
+				"Remote work options"
+			],
+			"date_posted": "2024-09-15",
+			"requirements": [
+				"Bachelor's degree in Business or related field",
+				"5+ years of experience in e-commerce or business development",
+				"Strong analytical and marketing skills"
+			]
+		},
+		{
+			"id": 95,
+			"title": "Business Development Mobile App Manager",
+			"company": {
+				"name": "Mobile Innovations Group",
+				"phone": "(404) 555-0145",
+				"email": "careers@mobileinnovations.com"
+			},
+			"location": "Remote",
+			"description": "Join us as a Business Development Mobile App Manager to enhance app performance and user engagement.",
+			"employment_type": "Full-time",
+			"salary": 110000,
+			"bonus": "Up to 20% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Paid time off and holidays",
+				"Professional development opportunities"
+			],
+			"date_posted": "2024-09-10",
+			"requirements": [
+				"Bachelor's degree in Business or related field",
+				"6+ years of experience in mobile app development or business development",
+				"Strong project management skills"
+			]
+		},
+		{
+			"id": 96,
+			"title": "Business Development Analytics Manager",
+			"company": {
+				"name": "Data Insights Group",
+				"phone": "(404) 555-0146",
+				"email": "jobs@datainsights.com"
+			},
+			"location": "Chicago, IL",
+			"description": "We are looking for a Business Development Analytics Manager to leverage data for strategic decision-making.",
+			"employment_type": "Full-time",
+			"salary": 95000,
+			"bonus": "Up to 15% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Paid time off and holidays",
+				"Team-building activities"
+			],
+			"date_posted": "2024-09-05",
+			"requirements": [
+				"Bachelor's degree in Data Science, Business, or related field",
+				"5+ years of experience in analytics or business development",
+				"Strong analytical and problem-solving skills"
+			]
+		},
+		{
+			"id": 97,
+			"title": "Business Development Sustainability Manager",
+			"company": {
+				"name": "Sustainable Solutions Group",
+				"phone": "(404) 555-0147",
+				"email": "careers@sustainablesolutions.com"
+			},
+			"location": "Remote",
+			"description": "Join us as a Business Development Sustainability Manager to drive sustainable business practices.",
+			"employment_type": "Full-time",
+			"salary": 100000,
+			"bonus": "Up to 15% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Paid time off and holidays",
+				"Professional development opportunities"
+			],
+			"date_posted": "2024-09-01",
+			"requirements": [
+				"Bachelor's degree in Environmental Science, Business, or related field",
+				"5+ years of experience in sustainability or business development",
+				"Strong project management and communication skills"
+			]
+		},
+		{
+			"id": 98,
+			"title": "Business Development Innovation Manager",
+			"company": {
+				"name": "Innovation Hub",
+				"phone": "(404) 555-0148",
+				"email": "jobs@innovationhub.com"
+			},
+			"location": "Remote",
+			"description": "We are seeking a Business Development Innovation Manager to drive innovative solutions and business growth.",
+			"employment_type": "Full-time",
+			"salary": 115000,
+			"bonus": "Up to 20% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Remote work options",
+				"Professional development opportunities"
+			],
+			"date_posted": "2024-08-28",
+			"requirements": [
+				"Bachelor's degree in Business, Innovation, or related field",
+				"6+ years of experience in innovation or business development",
+				"Strong creative and strategic thinking skills"
+			]
+		},
+		{
+			"id": 99,
+			"title": "Business Development Strategy Consultant",
+			"company": {
+				"name": "Strategic Consulting Group",
+				"phone": "(404) 555-0149",
+				"email": "careers@strategicconsulting.com"
+			},
+			"location": "Remote",
+			"description": "Join us as a Business Development Strategy Consultant to provide strategic insights and recommendations.",
+			"employment_type": "Contract",
+			"salary": 90000,
+			"bonus": "Up to 15% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"Flexible working hours",
+				"Remote work options",
+				"Professional development opportunities"
+			],
+			"date_posted": "2024-08-25",
+			"requirements": [
+				"Bachelor's degree in Business or related field",
+				"5+ years of experience in strategy consulting or business development",
+				"Strong analytical and problem-solving skills"
+			]
+		},
+		{
+			"id": 100,
+			"title": "Business Development Customer Experience Manager",
+			"company": {
+				"name": "Customer Experience Solutions",
+				"phone": "(404) 555-0150",
+				"email": "jobs@customerexperiencesolutions.com"
+			},
+			"location": "Remote",
+			"description": "We are looking for a Business Development Customer Experience Manager to enhance customer satisfaction and loyalty.",
+			"employment_type": "Full-time",
+			"salary": 95000,
+			"bonus": "Up to 15% annual performance bonus",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Paid time off and holidays",
+				"Team-building activities"
+			],
+			"date_posted": "2024-08-20",
+			"requirements": [
+				"Bachelor's degree in Business or related field",
+				"4+ years of experience in customer experience or business development",
+				"Strong relationship management skills"
+			]
+		}
+	]
+}

@@ -1,8 +1,9 @@
 import React from "react";
 import { NavLink } from "react-router-dom";
 import { FaHome, FaInfoCircle, FaBriefcase, FaUser } from "react-icons/fa";
-import { PiBuildingApartmentDuotone } from "react-icons/pi";
-const MobileNavbar = () => {
+import { FaUserTie } from "react-icons/fa";
+const MobileNavbarJobseeker = () => {
+
 	const activeLink = ({ isActive }) =>
 		isActive
 			? "activeLink text-decoration-none "
@@ -24,13 +25,13 @@ const MobileNavbar = () => {
 					<FaBriefcase className="text-lg block mx-auto mt-1" />
 					<span className="mt-5 text-sm">Find Jobs</span>
 				</NavLink>
-				<NavLink className={activeLink} to={"/employers"}>
-					<PiBuildingApartmentDuotone className="text-base block mb-1 mx-auto" />
-					<span className="relative text-base">Employers</span>
+				<NavLink className={activeLink} to={"/candidates"}>
+					<FaUserTie className="text-base block mb-1 mx-auto" />
+					<span className="relative text-base">Candidates</span>
 				</NavLink>
 			</nav>
 		</>
 	);
 };
 
-export default MobileNavbar;
+export default MobileNavbarJobseeker;
