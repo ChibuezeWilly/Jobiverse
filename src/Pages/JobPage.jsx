@@ -6,7 +6,7 @@ const JobPage = () => {
 	return (
 		<div className="pt-10 pb-10">
 			<h1 className="text-center font-bold text-xl md:text-3xl mt-14">Find the Right Job for you</h1>
-			<FindJob />
+			{/* <FindJob /> */}
 			<JobsNavbar />
 			<Outlet />
 		</div>

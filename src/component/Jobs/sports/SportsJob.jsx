@@ -4,23 +4,11 @@ import Spinner from "../../Spinner";
 import { useClicked, useJobStore } from "../../../Zustand";
 import JobsCard from "../JobsCard";
 import JobsDescription from "../JobsDescription";
+import Jobs from './sports.json'
 
 const SportsJob = () => {
-	const backendKey = "http://localhost:4000/sports?_limit=30&_start=0";
-	// Fetch jobs from API
-	const fetchJobs = async () => {
-		const res = await fetch(backendKey);
-		if (!res.ok) throw new Error("Error fetching data");
-		return await res.json();
-	};
-
-	// Use React Query to fetch job listings
-	const { data, isLoading } = useQuery({
-		queryFn: fetchJobs,
-		queryKey: ["jobs"],
-		staleTime: 300000,
-		cacheTime: 500000,
-	});
+	
+	const data = Jobs.digital
 
 	// Get Zustand state and actions
 	const { selectedJob, setSelectedJob } = useJobStore();

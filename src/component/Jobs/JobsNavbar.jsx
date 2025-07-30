@@ -7,7 +7,7 @@ const JobsNavbar = () => {
 	return (
 		<>
 			<nav
-				className="ml-5 md:ml-0 border-gray-400 flex flex-row justify-start md:justify-center items-center mt-20 md:mt-10 pb-3 space-x-3 md:space-x-10"
+				className="ml-5 md:ml-0 border-gray-400 flex flex-row justify-between md:justify-center items-center mt-20 md:mt-10 pb-3 space-x-3 md:space-x-10"
 				style={{ borderBottomWidth: "1px" }}>
 				{/* Centering the NavLinks */}
 				<NavLink
@@ -29,11 +29,20 @@ const JobsNavbar = () => {
 				</NavLink>
 			</nav>
 			{/* Pushing button to the right */}
+			<form action="" className="float-end mr-3 -mt-24 ">
+				<input
+					type="email"
+					name=""
+					id=""
+					placeholder="Email"
+					className="w-72 h-8 rounded-md border-2 border-gray-500"
+				/>
+			</form>
 			<button
-				className="float-end mr-3 -mt-24 md:-mt-10 h-8 w-36 relative hover:bg-gray-600 hover:text-white hover:h-10 hover:rounded-md"
+				className="float-end mr-3 -mt-24 md:-mt-10 h-8 w-36 relative"
 				style={{ fontFamily: "Rubik", fontSize: "15px" }}>
-				<FaBell className="absolute mt-1 text-lg" />
-				<span className="ml-5">Create Job Alert</span>
+				<FaBell className="absolute mt-[2px] text-lg" />
+				<span className="ml-5 ">Create Job Alert</span>
 			</button>
 		</>
 	);

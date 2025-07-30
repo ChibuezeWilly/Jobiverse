@@ -4,23 +4,10 @@ import Spinner from "../../Spinner";
 import { useClicked, useJobStore } from "../../../Zustand";
 import JobsCard from "../JobsCard";
 import JobsDescription from "../JobsDescription";
+import Jobs from "./graphics.json";
 
 const GraphicsJobs = () => {
-	const backendKey = "http://localhost:4000/graphics?_limit=30&_start=0";
-	// Fetch jobs from API
-	const fetchJobs = async () => {
-		const res = await fetch(backendKey);
-		if (!res.ok) throw new Error("Error fetching data");
-		return await res.json();
-	};
-
-	// Use React Query to fetch job listings
-	const { data, isLoading } = useQuery({
-		queryFn: fetchJobs,
-		queryKey: ["jobs"],
-		staleTime: 300000,
-		cacheTime: 500000,
-	});
+	const data = Jobs.graphics;
 
 	// Get Zustand state and actions
 	const { selectedJob, setSelectedJob } = useJobStore();
@@ -33,41 +20,26 @@ const GraphicsJobs = () => {
 		}
 	}, [data]);
 
-	// const [workType, workLocation, title] = useJobsStore()
-
-	// const filterJobs = data.filter(
-	// 	(job) =>
-	// 		job.title.toLowerCase().includes(title.toLowerCase()) ||
-	// 		job.workType.toLowerCase().includes(workType.toLowerCase()) ||
-	// 		job.workLocation.toLowerCase().includes(workLocation.toLowerCase())
-	// );
-
 	return (
 		<div className="mt-0 mb-10">
 			<p className="mt-3 ml-3">{}</p>
 			<div className="jobs w-full mt-1">
-				{isLoading ? (
-					<Spinner />
-				) : (
-					<>
-						{/* Jobs List */}
-						<div className="jobsList space-y-3 px-4 py-5">
-							{data?.map((job) => (
-								<JobsCard job={job} key={job.id} />
-							))}
-						</div>
+				{/* Jobs List */}
+				<div className="jobsList space-y-3 px-4 py-5">
+					{data?.map((job) => (
+						<JobsCard job={job} key={job.id} />
+					))}
+				</div>
 
-						{/* Job Description */}
-						<div
-							className={`jobsDescription ${
-								clicked ? "block" : "hidden"
-							}  md:block mt-5 px-4 py-5 rounded-md`}
-							style={{ borderWidth: "1px" }}
-							id="jobs">
-							<JobsDescription job={selectedJob} data={data} />
-						</div>
-					</>
-				)}
+				{/* Job Description */}
+				<div
+					className={`jobsDescription ${
+						clicked ? "block" : "hidden"
+					}  md:block mt-5 px-4 py-5 rounded-md`}
+					style={{ borderWidth: "1px" }}
+					id="jobs">
+					<JobsDescription job={selectedJob} data={data} />
+				</div>
 			</div>
 		</div>
 	);

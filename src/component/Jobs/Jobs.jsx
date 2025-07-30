@@ -1,36 +1,15 @@
-import React, { useEffect, useState } from "react";
-
 import JobsCard from "./JobsCard";
 import { useClicked, useJobStore } from "../../Zustand";
 import JobsDescription from "./JobsDescription";
-import JobData from "../../business.json";
 
-const Jobs = () => {
-	const data = JobData.business;
-
-	const { selectedJob, setSelectedJob } = useJobStore();
+const Jobs = ({data}) => {
+	const { selectedJob } = useJobStore();
 	const { clicked } = useClicked();
-
-	useEffect(() => {
-		if (data?.length > 0) {
-			setSelectedJob(data[0]);
-		}
-	}, []);
-
-	// const [workType, workLocation, title] = useJobsStore()
-
-	// const filterJobs = data.filter(
-	// 	(job) =>
-	// 		job.title.toLowerCase().includes(title.toLowerCase()) ||
-	// 		job.workType.toLowerCase().includes(workType.toLowerCase()) ||
-	// 		job.workLocation.toLowerCase().includes(workLocation.toLowerCase())
-	// );
 
 	return (
 		<div className="mt-0 mb-10">
 			<p className="mt-3 ml-3"></p>
 			<div className="jobs w-full mt-1">
-				
 				<>
 					{/* Jobs List */}
 					<div className="jobsList space-y-3 px-4 py-5">

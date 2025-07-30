@@ -68,10 +68,7 @@ const Navbar = () => {
 						<span className="text-base"> Jobs</span>
 					</NavLink>
 
-					<NavLink className={activeLink} to={"/candidates"}>
-						<FaUserTie className="text-base block mb-1 mx-auto" />
-						<span className="relative text-base">Candidates</span>
-					</NavLink>
+					
 				</nav>
 
 				<div className="flex flex-row gap-3 items-center group">
@@ -179,9 +176,7 @@ const Navbar = () => {
 									/>
 								</svg>
 							</span>
-							<p className="text-base relative" style={{ fontFamily: "Inter" }}>
-								Account Settings{" "}
-							</p>
+						
 						</div>
 
 						{/* log put */}

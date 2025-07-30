@@ -1,11 +1,10 @@
 import React from "react";
-import { useQuery } from "@tanstack/react-query";
 import Spinner from "./Spinner";
 import { useNavigate } from "react-router-dom";
 import FeaturedJobList from "./FeaturedJobList";
-import jobs from "../jobs.json";
+import Jobs from "../jobs.json";
 const FeaturedJobs = () => {
-	const data = JobData.joblistings;
+	const data = Jobs.joblistings;
 	console.log(data);
 
 	useEffect(() => {
@@ -32,17 +31,11 @@ const FeaturedJobs = () => {
 				Tailored Just for You!
 			</h1>
 			<div className="bg-slate-200">
-				{isLoading ? (
-					<Spinner />
-				) : error ? (
-					<p className="text-red-700 text-center text-2xl">{error}</p>
-				) : (
-					<div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 place-items-center gap-5 mt-10 pb-10">
-						{data.map((job) => (
-							<FeaturedJobList job={job} key={job.id} />
-						))}
-					</div>
-				)}
+				<div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 place-items-center gap-5 mt-10 pb-10">
+					{data.map((job) => (
+						<FeaturedJobList job={job} key={job.id} />
+					))}
+				</div>
 			</div>
 
 			<div className="flex justify-center items-center" onClick={toJobs}>
