@@ -1,0 +1,4880 @@
+{
+	"digital": [
+		{
+			"id": 1,
+			"title": "Digital Marketing Specialist",
+			"company": {
+				"name": "Digital Dynamics",
+				"phone": "(555) 123-4567",
+				"email": "careers@digitaldynamics.com"
+			},
+			"location": "San Francisco, CA",
+			"description": "We're seeking a Digital Marketing Specialist to develop and execute comprehensive digital marketing campaigns. You'll manage social media, email marketing, SEO, and paid advertising to drive brand awareness and lead generation.",
+			"employment_type": "Full-time",
+			"salary": 75000,
+			"bonus": "Performance-based bonus up to 15%",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with 4% company match",
+				"Flexible work arrangements",
+				"Professional development budget"
+			],
+			"date_posted": "2024-01-28",
+			"requirements": [
+				"3+ years experience in digital marketing",
+				"Proficiency in Google Analytics and AdWords",
+				"Experience with social media platforms",
+				"Strong analytical and creative skills"
+			]
+		},
+		{
+			"id": 2,
+			"title": "UX/UI Designer",
+			"company": {
+				"name": "Creative Tech Solutions",
+				"phone": "(555) 234-5678",
+				"email": "jobs@creativetech.com"
+			},
+			"location": "Austin, TX",
+			"description": "Join our design team to create intuitive and engaging user experiences. You'll work on web and mobile applications, conduct user research, and collaborate with developers to bring designs to life.",
+			"employment_type": "Full-time",
+			"salary": 85000,
+			"bonus": "Annual bonus based on project success",
+			"benefits_package": [
+				"Comprehensive health coverage",
+				"Unlimited PTO",
+				"Home office setup allowance",
+				"Design conference attendance"
+			],
+			"date_posted": "2024-01-27",
+			"requirements": [
+				"Portfolio demonstrating UX/UI work",
+				"Proficiency in Figma, Sketch, or Adobe XD",
+				"Understanding of user-centered design principles",
+				"Experience with prototyping tools"
+			]
+		},
+		{
+			"id": 3,
+			"title": "Content Creator",
+			"company": {
+				"name": "Media Masters",
+				"phone": "(555) 345-6789",
+				"email": "talent@mediamasters.com"
+			},
+			"location": "Los Angeles, CA",
+			"description": "Create compelling digital content across multiple platforms. You'll develop blog posts, social media content, videos, and other digital assets that engage our audience and drive brand awareness.",
+			"employment_type": "Full-time",
+			"salary": 65000,
+			"bonus": "Content performance bonuses",
+			"benefits_package": [
+				"Health and wellness benefits",
+				"Creative equipment allowance",
+				"Professional development opportunities",
+				"Flexible scheduling"
+			],
+			"date_posted": "2024-01-26",
+			"requirements": [
+				"Strong writing and storytelling skills",
+				"Experience with content management systems",
+				"Knowledge of SEO best practices",
+				"Creative portfolio required"
+			]
+		},
+		{
+			"id": 4,
+			"title": "SEO Specialist",
+			"company": {
+				"name": "Search Engine Pros",
+				"phone": "(555) 456-7890",
+				"email": "careers@searchenginepros.com"
+			},
+			"location": "Seattle, WA",
+			"description": "Optimize websites for search engines and improve organic traffic. You'll conduct keyword research, implement on-page SEO strategies, and analyze performance metrics to drive results.",
+			"employment_type": "Full-time",
+			"salary": 70000,
+			"bonus": "Traffic growth bonuses",
+			"benefits_package": [
+				"Health insurance with dental",
+				"401(k) retirement plan",
+				"Remote work options",
+				"SEO tool subscriptions"
+			],
+			"date_posted": "2024-01-25",
+			"requirements": [
+				"2+ years SEO experience",
+				"Proficiency in Google Analytics and Search Console",
+				"Knowledge of technical SEO",
+				"Experience with keyword research tools"
+			]
+		},
+		{
+			"id": 5,
+			"title": "Social Media Manager",
+			"company": {
+				"name": "Social Success Agency",
+				"phone": "(555) 567-8901",
+				"email": "jobs@socialsuccess.com"
+			},
+			"location": "Miami, FL",
+			"description": "Manage social media presence across all platforms. Create engaging content, grow followers, and develop strategies that increase brand engagement and drive conversions.",
+			"employment_type": "Full-time",
+			"salary": 60000,
+			"bonus": "Engagement-based performance bonuses",
+			"benefits_package": [
+				"Health and dental insurance",
+				"Paid time off and holidays",
+				"Social media training budget",
+				"Flexible work environment"
+			],
+			"date_posted": "2024-01-24",
+			"requirements": [
+				"Experience managing social media accounts",
+				"Creative content creation skills",
+				"Analytics and reporting experience",
+				"Knowledge of social media trends"
+			]
+		},
+		{
+			"id": 6,
+			"title": "Digital Analytics Manager",
+			"company": {
+				"name": "Data Insights Corp",
+				"phone": "(555) 678-9012",
+				"email": "careers@datainsights.com"
+			},
+			"location": "Chicago, IL",
+			"description": "Lead our digital analytics initiatives to provide actionable insights. You'll analyze user behavior, track conversion rates, and develop reports that inform business decisions.",
+			"employment_type": "Full-time",
+			"salary": 90000,
+			"bonus": "Data-driven performance bonuses",
+			"benefits_package": [
+				"Comprehensive health benefits",
+				"401(k) with company match",
+				"Analytics certification support",
+				"Professional development budget"
+			],
+			"date_posted": "2024-01-23",
+			"requirements": [
+				"5+ years in digital analytics",
+				"Expertise in Google Analytics and Adobe Analytics",
+				"SQL and data visualization skills",
+				"Experience with A/B testing"
+			]
+		},
+		{
+			"id": 7,
+			"title": "E-commerce Specialist",
+			"company": {
+				"name": "Online Retail Solutions",
+				"phone": "(555) 789-0123",
+				"email": "jobs@onlineretail.com"
+			},
+			"location": "Denver, CO",
+			"description": "Optimize our e-commerce platform to maximize sales and customer experience. You'll manage product listings, implement conversion optimization strategies, and analyze sales data.",
+			"employment_type": "Full-time",
+			"salary": 70000,
+			"bonus": "Sales growth commission",
+			"benefits_package": [
+				"Health and dental coverage",
+				"Employee discount program",
+				"Professional development opportunities",
+				"Flexible work arrangements"
+			],
+			"date_posted": "2024-01-22",
+			"requirements": [
+				"Experience with e-commerce platforms",
+				"Knowledge of conversion optimization",
+				"Analytics and reporting skills",
+				"Understanding of customer journey"
+			]
+		},
+		{
+			"id": 8,
+			"title": "Digital Project Manager",
+			"company": {
+				"name": "Digital Project Hub",
+				"phone": "(555) 890-1234",
+				"email": "careers@digitalprojecthub.com"
+			},
+			"location": "Portland, OR",
+			"description": "Lead digital projects from conception to completion. Coordinate with cross-functional teams, manage timelines and budgets, and ensure successful delivery of digital solutions.",
+			"employment_type": "Full-time",
+			"salary": 80000,
+			"bonus": "Project success bonuses",
+			"benefits_package": [
+				"Health insurance with vision",
+				"401(k) retirement plan",
+				"Project management certification support",
+				"Professional development budget"
+			],
+			"date_posted": "2024-01-21",
+			"requirements": [
+				"3+ years project management experience",
+				"PMP certification preferred",
+				"Experience with agile methodologies",
+				"Strong communication and leadership skills"
+			]
+		},
+		{
+			"id": 9,
+			"title": "Digital Copywriter",
+			"company": {
+				"name": "Creative Words Studio",
+				"phone": "(555) 901-2345",
+				"email": "jobs@creativewords.com"
+			},
+			"location": "Nashville, TN",
+			"description": "Create compelling digital copy that converts. Write website content, email campaigns, social media posts, and advertising copy that resonates with target audiences.",
+			"employment_type": "Full-time",
+			"salary": 55000,
+			"bonus": "Performance-based bonuses",
+			"benefits_package": [
+				"Health and dental insurance",
+				"Paid time off and holidays",
+				"Writing workshop attendance",
+				"Flexible work environment"
+			],
+			"date_posted": "2024-01-20",
+			"requirements": [
+				"Strong writing and editing skills",
+				"Experience with digital marketing copy",
+				"Understanding of SEO principles",
+				"Portfolio of writing samples"
+			]
+		},
+		{
+			"id": 10,
+			"title": "Digital Strategy Consultant",
+			"company": {
+				"name": "Strategic Digital Partners",
+				"phone": "(555) 012-3456",
+				"email": "careers@strategicdigital.com"
+			},
+			"location": "Boston, MA",
+			"description": "Develop comprehensive digital strategies for clients. Analyze market trends, create roadmaps, and provide expert guidance on digital transformation initiatives.",
+			"employment_type": "Full-time",
+			"salary": 95000,
+			"bonus": "Client satisfaction bonuses",
+			"benefits_package": [
+				"Comprehensive health benefits",
+				"401(k) with generous match",
+				"Professional development budget",
+				"Conference and training opportunities"
+			],
+			"date_posted": "2024-01-19",
+			"requirements": [
+				"5+ years in digital strategy",
+				"Experience with digital transformation",
+				"Strong analytical and presentation skills",
+				"Consulting experience preferred"
+			]
+		},
+		{
+			"id": 11,
+			"title": "Digital Video Producer",
+			"company": {
+				"name": "Visual Story Studios",
+				"phone": "(555) 123-4567",
+				"email": "jobs@visualstory.com"
+			},
+			"location": "Atlanta, GA",
+			"description": "Create engaging video content for digital platforms. Produce commercials, social media videos, and educational content that captures audience attention and drives engagement.",
+			"employment_type": "Full-time",
+			"salary": 70000,
+			"bonus": "Content performance bonuses",
+			"benefits_package": [
+				"Health and dental insurance",
+				"Equipment and software allowances",
+				"Professional development opportunities",
+				"Creative project bonuses"
+			],
+			"date_posted": "2024-01-18",
+			"requirements": [
+				"Experience with video production software",
+				"Portfolio of digital video work",
+				"Understanding of digital video trends",
+				"Strong storytelling abilities"
+			]
+		},
+		{
+			"id": 12,
+			"title": "Digital Brand Manager",
+			"company": {
+				"name": "Brand Digital Agency",
+				"phone": "(555) 234-5678",
+				"email": "careers@branddigital.com"
+			},
+			"location": "Phoenix, AZ",
+			"description": "Develop and maintain brand presence across all digital channels. Create brand guidelines, manage brand voice, and ensure consistent messaging across platforms.",
+			"employment_type": "Full-time",
+			"salary": 75000,
+			"bonus": "Brand growth bonuses",
+			"benefits_package": [
+				"Health insurance with vision",
+				"401(k) retirement plan",
+				"Brand development training",
+				"Professional development budget"
+			],
+			"date_posted": "2024-01-17",
+			"requirements": [
+				"3+ years brand management experience",
+				"Experience with brand strategy development",
+				"Strong creative and analytical skills",
+				"Knowledge of digital brand platforms"
+			]
+		},
+		{
+			"id": 13,
+			"title": "Digital Customer Success Manager",
+			"company": {
+				"name": "Customer Success Digital",
+				"phone": "(555) 345-6789",
+				"email": "jobs@customersuccessdigital.com"
+			},
+			"location": "Dallas, TX",
+			"description": "Ensure customer satisfaction and retention through digital channels. Provide support, training, and guidance to help customers maximize value from our digital products.",
+			"employment_type": "Full-time",
+			"salary": 65000,
+			"bonus": "Customer retention bonuses",
+			"benefits_package": [
+				"Health and dental coverage",
+				"Paid time off and holidays",
+				"Customer success training",
+				"Remote work options"
+			],
+			"date_posted": "2024-01-16",
+			"requirements": [
+				"Experience in customer success or support",
+				"Strong communication skills",
+				"Knowledge of digital products",
+				"Problem-solving abilities"
+			]
+		},
+		{
+			"id": 14,
+			"title": "Digital Product Manager",
+			"company": {
+				"name": "Digital Product Labs",
+				"phone": "(555) 456-7890",
+				"email": "careers@digitalproductlabs.com"
+			},
+			"location": "San Diego, CA",
+			"description": "Lead the development of digital products from concept to launch. Define product requirements, work with development teams, and ensure successful product delivery.",
+			"employment_type": "Full-time",
+			"salary": 85000,
+			"bonus": "Product success bonuses",
+			"benefits_package": [
+				"Comprehensive health benefits",
+				"401(k) with company match",
+				"Product management training",
+				"Professional development opportunities"
+			],
+			"date_posted": "2024-01-15",
+			"requirements": [
+				"3+ years product management experience",
+				"Experience with agile development",
+				"Strong analytical and communication skills",
+				"Knowledge of digital product lifecycle"
+			]
+		},
+		{
+			"id": 15,
+			"title": "Digital Marketing Automation Specialist",
+			"company": {
+				"name": "Marketing Automation Pro",
+				"phone": "(555) 567-8901",
+				"email": "jobs@marketingautomationpro.com"
+			},
+			"location": "Charlotte, NC",
+			"description": "Design and implement marketing automation workflows. Create email campaigns, lead nurturing programs, and automated marketing processes to improve efficiency and results.",
+			"employment_type": "Full-time",
+			"salary": 70000,
+			"bonus": "Automation efficiency bonuses",
+			"benefits_package": [
+				"Health and dental insurance",
+				"401(k) retirement plan",
+				"Automation tool certifications",
+				"Professional development budget"
+			],
+			"date_posted": "2024-01-14",
+			"requirements": [
+				"Experience with marketing automation platforms",
+				"Knowledge of email marketing best practices",
+				"Analytical and technical skills",
+				"Experience with CRM systems"
+			]
+		},
+		{
+			"id": 16,
+			"title": "Digital Graphic Designer",
+			"company": {
+				"name": "Digital Design Studio",
+				"phone": "(555) 678-9012",
+				"email": "careers@digitaldesignstudio.com"
+			},
+			"location": "Minneapolis, MN",
+			"description": "Create visually stunning digital graphics for web, social media, and marketing campaigns. Design logos, banners, infographics, and other digital assets that enhance brand presence.",
+			"employment_type": "Full-time",
+			"salary": 60000,
+			"bonus": "Design project bonuses",
+			"benefits_package": [
+				"Health insurance with dental",
+				"Design software subscriptions",
+				"Creative equipment allowance",
+				"Professional development opportunities"
+			],
+			"date_posted": "2024-01-13",
+			"requirements": [
+				"Proficiency in Adobe Creative Suite",
+				"Strong portfolio of digital design work",
+				"Understanding of digital design principles",
+				"Experience with web and social media design"
+			]
+		},
+		{
+			"id": 17,
+			"title": "Digital Data Analyst",
+			"company": {
+				"name": "Data Analytics Digital",
+				"phone": "(555) 789-0123",
+				"email": "jobs@dataanalyticsdigital.com"
+			},
+			"location": "Houston, TX",
+			"description": "Analyze digital data to provide insights and recommendations. Track user behavior, conversion rates, and campaign performance to optimize digital marketing efforts.",
+			"employment_type": "Full-time",
+			"salary": 65000,
+			"bonus": "Insight-driven bonuses",
+			"benefits_package": [
+				"Health and dental coverage",
+				"401(k) with company match",
+				"Data analysis training",
+				"Professional development budget"
+			],
+			"date_posted": "2024-01-12",
+			"requirements": [
+				"Experience with data analysis tools",
+				"Knowledge of digital analytics platforms",
+				"Strong analytical and reporting skills",
+				"Experience with data visualization"
+			]
+		},
+		{
+			"id": 18,
+			"title": "Digital Community Manager",
+			"company": {
+				"name": "Community Digital Hub",
+				"phone": "(555) 890-1234",
+				"email": "careers@communitydigitalhub.com"
+			},
+			"location": "Orlando, FL",
+			"description": "Build and nurture online communities across digital platforms. Engage with followers, moderate discussions, and create content that fosters meaningful connections.",
+			"employment_type": "Full-time",
+			"salary": 55000,
+			"bonus": "Community growth bonuses",
+			"benefits_package": [
+				"Health and dental insurance",
+				"Paid time off and holidays",
+				"Community management training",
+				"Flexible work arrangements"
+			],
+			"date_posted": "2024-01-11",
+			"requirements": [
+				"Experience managing online communities",
+				"Strong communication and moderation skills",
+				"Knowledge of social media platforms",
+				"Understanding of community building"
+			]
+		},
+		{
+			"id": 19,
+			"title": "Digital Influencer Manager",
+			"company": {
+				"name": "Influencer Digital Agency",
+				"phone": "(555) 901-2345",
+				"email": "jobs@influencerdigital.com"
+			},
+			"location": "Las Vegas, NV",
+			"description": "Manage relationships with digital influencers and content creators. Develop influencer marketing campaigns, negotiate partnerships, and track campaign performance.",
+			"employment_type": "Full-time",
+			"salary": 70000,
+			"bonus": "Campaign success bonuses",
+			"benefits_package": [
+				"Health insurance with vision",
+				"401(k) retirement plan",
+				"Influencer marketing training",
+				"Professional development opportunities"
+			],
+			"date_posted": "2024-01-10",
+			"requirements": [
+				"Experience in influencer marketing",
+				"Strong relationship management skills",
+				"Knowledge of social media platforms",
+				"Experience with campaign tracking"
+			]
+		},
+		{
+			"id": 20,
+			"title": "Digital Innovation Specialist",
+			"company": {
+				"name": "Digital Innovation Labs",
+				"phone": "(555) 012-3456",
+				"email": "careers@digitalinnovationlabs.com"
+			},
+			"location": "Salt Lake City, UT",
+			"description": "Drive digital innovation and transformation initiatives. Research emerging technologies, develop new digital strategies, and implement cutting-edge digital solutions.",
+			"employment_type": "Full-time",
+			"salary": 80000,
+			"bonus": "Innovation project bonuses",
+			"benefits_package": [
+				"Comprehensive health benefits",
+				"401(k) with generous match",
+				"Innovation conference attendance",
+				"Professional development budget"
+			],
+			"date_posted": "2024-01-09",
+			"requirements": [
+				"Experience with emerging digital technologies",
+				"Strong research and analytical skills",
+				"Knowledge of digital transformation",
+				"Innovation mindset and creativity"
+			]
+		}
+	],
+	"sports": [
+		{
+			"id": 1,
+			"title": "Sports Marketing Manager",
+			"company": {
+				"name": "Elite Sports Marketing",
+				"phone": "(555) 111-2222",
+				"email": "careers@elitesportsmarketing.com"
+			},
+			"location": "New York, NY",
+			"description": "Develop and execute marketing strategies for professional sports teams and athletes. Create campaigns, manage sponsorships, and drive fan engagement across all digital platforms.",
+			"employment_type": "Full-time",
+			"salary": 75000,
+			"bonus": "Performance-based bonuses up to 20%",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Sports event tickets and access",
+				"Professional development opportunities"
+			],
+			"date_posted": "2024-01-28",
+			"requirements": [
+				"3+ years sports marketing experience",
+				"Knowledge of professional sports industry",
+				"Experience with sponsorship management",
+				"Strong digital marketing skills"
+			]
+		},
+		{
+			"id": 2,
+			"title": "Sports Data Analyst",
+			"company": {
+				"name": "Sports Analytics Pro",
+				"phone": "(555) 222-3333",
+				"email": "jobs@sportsanalyticspro.com"
+			},
+			"location": "Boston, MA",
+			"description": "Analyze sports performance data to provide insights for teams and athletes. Track player statistics, game analytics, and performance metrics to support strategic decisions.",
+			"employment_type": "Full-time",
+			"salary": 65000,
+			"bonus": "Analytics-driven performance bonuses",
+			"benefits_package": [
+				"Comprehensive health coverage",
+				"401(k) retirement plan",
+				"Sports analytics software access",
+				"Professional development budget"
+			],
+			"date_posted": "2024-01-27",
+			"requirements": [
+				"Experience with sports analytics tools",
+				"Strong statistical analysis skills",
+				"Knowledge of various sports",
+				"Proficiency in data visualization"
+			]
+		},
+		{
+			"id": 3,
+			"title": "Sports Equipment Manager",
+			"company": {
+				"name": "Pro Sports Equipment",
+				"phone": "(555) 333-4444",
+				"email": "careers@prosportsequipment.com"
+			},
+			"location": "Los Angeles, CA",
+			"description": "Manage sports equipment inventory, maintenance, and distribution for professional teams. Ensure all equipment meets safety standards and performance requirements.",
+			"employment_type": "Full-time",
+			"salary": 55000,
+			"bonus": "Equipment efficiency bonuses",
+			"benefits_package": [
+				"Health and dental insurance",
+				"Equipment discounts",
+				"Professional development opportunities",
+				"Team event access"
+			],
+			"date_posted": "2024-01-26",
+			"requirements": [
+				"Experience with sports equipment",
+				"Knowledge of safety standards",
+				"Inventory management skills",
+				"Physical fitness requirements"
+			]
+		},
+		{
+			"id": 4,
+			"title": "Sports Nutritionist",
+			"company": {
+				"name": "Elite Sports Nutrition",
+				"phone": "(555) 444-5555",
+				"email": "jobs@elitesportsnutrition.com"
+			},
+			"location": "Miami, FL",
+			"description": "Develop nutrition plans for athletes to optimize performance and recovery. Provide dietary guidance, meal planning, and nutritional education for sports teams.",
+			"employment_type": "Full-time",
+			"salary": 70000,
+			"bonus": "Performance improvement bonuses",
+			"benefits_package": [
+				"Health insurance with dental",
+				"401(k) with company match",
+				"Nutrition certification support",
+				"Professional development opportunities"
+			],
+			"date_posted": "2024-01-25",
+			"requirements": [
+				"Registered Dietitian certification",
+				"Sports nutrition experience",
+				"Knowledge of athletic performance",
+				"Strong communication skills"
+			]
+		},
+		{
+			"id": 5,
+			"title": "Sports Physical Therapist",
+			"company": {
+				"name": "Sports Rehab Center",
+				"phone": "(555) 555-6666",
+				"email": "careers@sportsrehabcenter.com"
+			},
+			"location": "Chicago, IL",
+			"description": "Provide physical therapy and rehabilitation services for athletes. Develop treatment plans, monitor recovery progress, and help athletes return to peak performance.",
+			"employment_type": "Full-time",
+			"salary": 80000,
+			"bonus": "Recovery success bonuses",
+			"benefits_package": [
+				"Comprehensive health benefits",
+				"401(k) retirement plan",
+				"Continuing education support",
+				"Professional development budget"
+			],
+			"date_posted": "2024-01-24",
+			"requirements": [
+				"Licensed Physical Therapist",
+				"Sports medicine experience",
+				"Knowledge of athletic injuries",
+				"Strong clinical skills"
+			]
+		},
+		{
+			"id": 6,
+			"title": "Sports Event Coordinator",
+			"company": {
+				"name": "Sports Event Management",
+				"phone": "(555) 666-7777",
+				"email": "jobs@sportseventmanagement.com"
+			},
+			"location": "Dallas, TX",
+			"description": "Plan and coordinate sports events, tournaments, and competitions. Manage logistics, vendor relationships, and ensure successful event execution.",
+			"employment_type": "Full-time",
+			"salary": 60000,
+			"bonus": "Event success bonuses",
+			"benefits_package": [
+				"Health and dental insurance",
+				"Paid time off and holidays",
+				"Event access and tickets",
+				"Professional development opportunities"
+			],
+			"date_posted": "2024-01-23",
+			"requirements": [
+				"Event planning experience",
+				"Strong organizational skills",
+				"Knowledge of sports industry",
+				"Excellent communication abilities"
+			]
+		},
+		{
+			"id": 7,
+			"title": "Sports Broadcasting Producer",
+			"company": {
+				"name": "Sports Media Network",
+				"phone": "(555) 777-8888",
+				"email": "careers@sportsmedianetwork.com"
+			},
+			"location": "Atlanta, GA",
+			"description": "Produce live sports broadcasts and content for television and digital platforms. Coordinate camera crews, manage production schedules, and ensure high-quality content delivery.",
+			"employment_type": "Full-time",
+			"salary": 75000,
+			"bonus": "Broadcast success bonuses",
+			"benefits_package": [
+				"Health insurance with vision",
+				"401(k) retirement plan",
+				"Broadcasting equipment access",
+				"Professional development budget"
+			],
+			"date_posted": "2024-01-22",
+			"requirements": [
+				"Broadcasting production experience",
+				"Knowledge of sports media",
+				"Technical production skills",
+				"Strong leadership abilities"
+			]
+		},
+		{
+			"id": 8,
+			"title": "Sports Facility Manager",
+			"company": {
+				"name": "Elite Sports Facilities",
+				"phone": "(555) 888-9999",
+				"email": "jobs@elitesportsfacilities.com"
+			},
+			"location": "Phoenix, AZ",
+			"description": "Manage sports facilities including stadiums, arenas, and training centers. Oversee operations, maintenance, and customer service for facility users.",
+			"employment_type": "Full-time",
+			"salary": 65000,
+			"bonus": "Facility performance bonuses",
+			"benefits_package": [
+				"Health and dental coverage",
+				"401(k) with company match",
+				"Facility access privileges",
+				"Professional development opportunities"
+			],
+			"date_posted": "2024-01-21",
+			"requirements": [
+				"Facility management experience",
+				"Operations management skills",
+				"Customer service experience",
+				"Knowledge of sports facilities"
+			]
+		},
+		{
+			"id": 9,
+			"title": "Sports Agent",
+			"company": {
+				"name": "Elite Sports Management",
+				"phone": "(555) 999-0000",
+				"email": "careers@elitesportsmanagement.com"
+			},
+			"location": "Los Angeles, CA",
+			"description": "Represent professional athletes in contract negotiations, endorsements, and career management. Build relationships with teams, sponsors, and media outlets.",
+			"employment_type": "Full-time",
+			"salary": 85000,
+			"bonus": "Commission-based earnings",
+			"benefits_package": [
+				"Health insurance with dental",
+				"401(k) retirement plan",
+				"Professional networking opportunities",
+				"Performance-based bonuses"
+			],
+			"date_posted": "2024-01-20",
+			"requirements": [
+				"Sports agent license required",
+				"Negotiation and contract experience",
+				"Strong networking skills",
+				"Knowledge of sports industry"
+			]
+		},
+		{
+			"id": 10,
+			"title": "Sports Trainer",
+			"company": {
+				"name": "Performance Sports Training",
+				"phone": "(555) 000-1111",
+				"email": "jobs@performancesportstraining.com"
+			},
+			"location": "Denver, CO",
+			"description": "Develop and implement training programs for athletes to improve performance, strength, and conditioning. Work with individual athletes and teams.",
+			"employment_type": "Full-time",
+			"salary": 60000,
+			"bonus": "Performance improvement bonuses",
+			"benefits_package": [
+				"Health and dental insurance",
+				"401(k) with company match",
+				"Training certification support",
+				"Professional development opportunities"
+			],
+			"date_posted": "2024-01-19",
+			"requirements": [
+				"Certified Personal Trainer",
+				"Sports training experience",
+				"Knowledge of athletic performance",
+				"Strong motivational skills"
+			]
+		},
+		{
+			"id": 11,
+			"title": "Sports Photographer",
+			"company": {
+				"name": "Action Sports Photography",
+				"phone": "(555) 111-2222",
+				"email": "careers@actionsportsphotography.com"
+			},
+			"location": "San Francisco, CA",
+			"description": "Capture high-quality sports images for media outlets, teams, and athletes. Cover games, events, and training sessions with professional photography equipment.",
+			"employment_type": "Full-time",
+			"salary": 55000,
+			"bonus": "Photo publication bonuses",
+			"benefits_package": [
+				"Health and dental insurance",
+				"Photography equipment allowance",
+				"Event access and credentials",
+				"Professional development opportunities"
+			],
+			"date_posted": "2024-01-18",
+			"requirements": [
+				"Professional photography experience",
+				"Sports photography portfolio",
+				"Knowledge of sports events",
+				"Technical photography skills"
+			]
+		},
+		{
+			"id": 12,
+			"title": "Sports Journalist",
+			"company": {
+				"name": "Sports News Network",
+				"phone": "(555) 222-3333",
+				"email": "jobs@sportsnewsnetwork.com"
+			},
+			"location": "New York, NY",
+			"description": "Cover sports news, events, and stories for digital and print media. Conduct interviews, write articles, and provide analysis on sports topics.",
+			"employment_type": "Full-time",
+			"salary": 65000,
+			"bonus": "Article performance bonuses",
+			"benefits_package": [
+				"Health insurance with vision",
+				"401(k) retirement plan",
+				"Press credentials and access",
+				"Professional development budget"
+			],
+			"date_posted": "2024-01-17",
+			"requirements": [
+				"Journalism degree or experience",
+				"Sports knowledge and passion",
+				"Strong writing and research skills",
+				"Experience with digital media"
+			]
+		},
+		{
+			"id": 13,
+			"title": "Sports Technology Specialist",
+			"company": {
+				"name": "Sports Tech Innovations",
+				"phone": "(555) 333-4444",
+				"email": "careers@sportstechinnovations.com"
+			},
+			"location": "Seattle, WA",
+			"description": "Develop and implement technology solutions for sports teams and organizations. Work with wearable technology, analytics platforms, and performance tracking systems.",
+			"employment_type": "Full-time",
+			"salary": 80000,
+			"bonus": "Technology innovation bonuses",
+			"benefits_package": [
+				"Comprehensive health benefits",
+				"401(k) with company match",
+				"Latest technology access",
+				"Professional development budget"
+			],
+			"date_posted": "2024-01-16",
+			"requirements": [
+				"Technology development experience",
+				"Knowledge of sports technology",
+				"Programming and data skills",
+				"Understanding of athletic performance"
+			]
+		},
+		{
+			"id": 14,
+			"title": "Sports Merchandise Manager",
+			"company": {
+				"name": "Fan Gear Sports",
+				"phone": "(555) 444-5555",
+				"email": "jobs@fangearsports.com"
+			},
+			"location": "Nashville, TN",
+			"description": "Manage sports merchandise inventory, sales, and distribution for teams and retail locations. Develop product strategies and manage vendor relationships.",
+			"employment_type": "Full-time",
+			"salary": 60000,
+			"bonus": "Sales performance bonuses",
+			"benefits_package": [
+				"Health and dental insurance",
+				"401(k) with company match",
+				"Merchandise discounts",
+				"Professional development opportunities"
+			],
+			"date_posted": "2024-01-15",
+			"requirements": [
+				"Retail management experience",
+				"Inventory management skills",
+				"Knowledge of sports merchandise",
+				"Strong sales abilities"
+			]
+		},
+		{
+			"id": 15,
+			"title": "Sports Social Media Manager",
+			"company": {
+				"name": "Sports Social Media",
+				"phone": "(555) 555-6666",
+				"email": "careers@sportssocialmedia.com"
+			},
+			"location": "Austin, TX",
+			"description": "Manage social media presence for sports teams, athletes, and organizations. Create engaging content, grow followers, and drive fan engagement.",
+			"employment_type": "Full-time",
+			"salary": 55000,
+			"bonus": "Engagement growth bonuses",
+			"benefits_package": [
+				"Health and dental coverage",
+				"Paid time off and holidays",
+				"Social media training",
+				"Event access and tickets"
+			],
+			"date_posted": "2024-01-14",
+			"requirements": [
+				"Social media management experience",
+				"Sports industry knowledge",
+				"Content creation skills",
+				"Analytics and reporting experience"
+			]
+		},
+		{
+			"id": 16,
+			"title": "Sports Video Editor",
+			"company": {
+				"name": "Sports Video Productions",
+				"phone": "(555) 666-7777",
+				"email": "jobs@sportsvideoproductions.com"
+			},
+			"location": "Portland, OR",
+			"description": "Edit and produce sports video content for teams, media outlets, and digital platforms. Create highlight reels, promotional videos, and game analysis content.",
+			"employment_type": "Full-time",
+			"salary": 65000,
+			"bonus": "Video performance bonuses",
+			"benefits_package": [
+				"Health insurance with vision",
+				"401(k) retirement plan",
+				"Video editing software access",
+				"Professional development budget"
+			],
+			"date_posted": "2024-01-13",
+			"requirements": [
+				"Video editing experience",
+				"Proficiency in editing software",
+				"Sports content knowledge",
+				"Creative storytelling skills"
+			]
+		},
+		{
+			"id": 17,
+			"title": "Sports Sponsorship Coordinator",
+			"company": {
+				"name": "Sports Sponsorship Pro",
+				"phone": "(555) 777-8888",
+				"email": "careers@sportssponsorshippro.com"
+			},
+			"location": "Charlotte, NC",
+			"description": "Coordinate sponsorship activations and partnerships for sports teams and events. Manage sponsor relationships and ensure contract fulfillment.",
+			"employment_type": "Full-time",
+			"salary": 60000,
+			"bonus": "Sponsorship success bonuses",
+			"benefits_package": [
+				"Health and dental insurance",
+				"401(k) with company match",
+				"Event access and networking",
+				"Professional development opportunities"
+			],
+			"date_posted": "2024-01-12",
+			"requirements": [
+				"Sponsorship coordination experience",
+				"Relationship management skills",
+				"Knowledge of sports industry",
+				"Strong communication abilities"
+			]
+		},
+		{
+			"id": 18,
+			"title": "Sports Performance Analyst",
+			"company": {
+				"name": "Elite Performance Analytics",
+				"phone": "(555) 888-9999",
+				"email": "jobs@eliteperformanceanalytics.com"
+			},
+			"location": "Minneapolis, MN",
+			"description": "Analyze athlete performance data to provide insights for training and game strategy. Use technology and analytics to improve team and individual performance.",
+			"employment_type": "Full-time",
+			"salary": 70000,
+			"bonus": "Performance improvement bonuses",
+			"benefits_package": [
+				"Comprehensive health benefits",
+				"401(k) retirement plan",
+				"Analytics software access",
+				"Professional development budget"
+			],
+			"date_posted": "2024-01-11",
+			"requirements": [
+				"Sports analytics experience",
+				"Data analysis skills",
+				"Knowledge of performance metrics",
+				"Technology proficiency"
+			]
+		},
+		{
+			"id": 19,
+			"title": "Sports Community Manager",
+			"company": {
+				"name": "Sports Community Hub",
+				"phone": "(555) 999-0000",
+				"email": "careers@sportscommunityhub.com"
+			},
+			"location": "Salt Lake City, UT",
+			"description": "Build and manage online communities for sports teams and organizations. Engage with fans, moderate discussions, and create content that fosters community growth.",
+			"employment_type": "Full-time",
+			"salary": 55000,
+			"bonus": "Community growth bonuses",
+			"benefits_package": [
+				"Health and dental coverage",
+				"Paid time off and holidays",
+				"Community management training",
+				"Event access and tickets"
+			],
+			"date_posted": "2024-01-10",
+			"requirements": [
+				"Community management experience",
+				"Sports industry knowledge",
+				"Strong communication skills",
+				"Social media expertise"
+			]
+		},
+		{
+			"id": 20,
+			"title": "Sports Innovation Specialist",
+			"company": {
+				"name": "Sports Innovation Lab",
+				"phone": "(555) 000-1111",
+				"email": "jobs@sportsinnovationlab.com"
+			},
+			"location": "Las Vegas, NV",
+			"description": "Research and develop innovative solutions for the sports industry. Explore new technologies, training methods, and performance enhancement techniques.",
+			"employment_type": "Full-time",
+			"salary": 75000,
+			"bonus": "Innovation project bonuses",
+			"benefits_package": [
+				"Health insurance with dental",
+				"401(k) with company match",
+				"Research and development budget",
+				"Professional development opportunities"
+			],
+			"date_posted": "2024-01-09",
+			"requirements": [
+				"Research and development experience",
+				"Knowledge of sports technology",
+				"Innovation mindset",
+				"Strong analytical skills"
+			]
+		}
+	],
+	"video": [
+		{
+			"id": 1,
+			"title": "Video Producer",
+			"company": {
+				"name": "Creative Video Productions",
+				"phone": "(555) 100-2000",
+				"email": "careers@creativevideoproductions.com"
+			},
+			"location": "Los Angeles, CA",
+			"description": "Lead video production projects from concept to completion. Coordinate with clients, manage production teams, and ensure high-quality video content delivery.",
+			"employment_type": "Full-time",
+			"salary": 75000,
+			"bonus": "Project success bonuses up to 15%",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Professional equipment access",
+				"Professional development opportunities"
+			],
+			"date_posted": "2024-01-28",
+			"requirements": [
+				"5+ years video production experience",
+				"Strong project management skills",
+				"Experience with video editing software",
+				"Excellent communication abilities"
+			]
+		},
+		{
+			"id": 2,
+			"title": "Video Editor",
+			"company": {
+				"name": "Post-Production Studio",
+				"phone": "(555) 200-3000",
+				"email": "jobs@postproductionstudio.com"
+			},
+			"location": "New York, NY",
+			"description": "Edit and post-produce video content for various platforms. Create compelling narratives, add effects, and ensure final product meets quality standards.",
+			"employment_type": "Full-time",
+			"salary": 65000,
+			"bonus": "Editing quality bonuses",
+			"benefits_package": [
+				"Comprehensive health coverage",
+				"401(k) retirement plan",
+				"Latest editing software access",
+				"Professional development budget"
+			],
+			"date_posted": "2024-01-27",
+			"requirements": [
+				"Proficiency in Adobe Premiere Pro",
+				"Experience with After Effects",
+				"Strong storytelling skills",
+				"Portfolio of edited work"
+			]
+		},
+		{
+			"id": 3,
+			"title": "Cinematographer",
+			"company": {
+				"name": "Visual Story Films",
+				"phone": "(555) 300-4000",
+				"email": "careers@visualstoryfilms.com"
+			},
+			"location": "Atlanta, GA",
+			"description": "Capture stunning visual content for films, commercials, and digital media. Operate cameras, design lighting setups, and create compelling visual narratives.",
+			"employment_type": "Full-time",
+			"salary": 80000,
+			"bonus": "Visual quality bonuses",
+			"benefits_package": [
+				"Health and dental insurance",
+				"Equipment and gear allowances",
+				"Professional development opportunities",
+				"Creative project bonuses"
+			],
+			"date_posted": "2024-01-26",
+			"requirements": [
+				"Professional cinematography experience",
+				"Knowledge of camera systems and lighting",
+				"Strong visual storytelling skills",
+				"Portfolio of cinematography work"
+			]
+		},
+		{
+			"id": 4,
+			"title": "Video Content Creator",
+			"company": {
+				"name": "Digital Content Studio",
+				"phone": "(555) 400-5000",
+				"email": "jobs@digitalcontentstudio.com"
+			},
+			"location": "Austin, TX",
+			"description": "Create engaging video content for social media, YouTube, and digital platforms. Develop concepts, shoot, edit, and publish content that drives engagement.",
+			"employment_type": "Full-time",
+			"salary": 60000,
+			"bonus": "Content performance bonuses",
+			"benefits_package": [
+				"Health insurance with dental",
+				"401(k) with company match",
+				"Content creation equipment",
+				"Professional development budget"
+			],
+			"date_posted": "2024-01-25",
+			"requirements": [
+				"Experience creating digital video content",
+				"Knowledge of social media platforms",
+				"Video editing and production skills",
+				"Creative storytelling abilities"
+			]
+		},
+		{
+			"id": 5,
+			"title": "Video Marketing Specialist",
+			"company": {
+				"name": "Video Marketing Pro",
+				"phone": "(555) 500-6000",
+				"email": "careers@videomarketingpro.com"
+			},
+			"location": "San Francisco, CA",
+			"description": "Develop video marketing strategies and campaigns. Create promotional videos, commercials, and content that drives brand awareness and conversions.",
+			"employment_type": "Full-time",
+			"salary": 70000,
+			"bonus": "Campaign success bonuses",
+			"benefits_package": [
+				"Health and dental coverage",
+				"401(k) retirement plan",
+				"Marketing tools and software",
+				"Professional development opportunities"
+			],
+			"date_posted": "2024-01-24",
+			"requirements": [
+				"Video marketing experience",
+				"Knowledge of marketing principles",
+				"Video production and editing skills",
+				"Analytics and performance tracking"
+			]
+		},
+		{
+			"id": 6,
+			"title": "Live Stream Producer",
+			"company": {
+				"name": "Live Stream Productions",
+				"phone": "(555) 600-7000",
+				"email": "jobs@livestreamproductions.com"
+			},
+			"location": "Nashville, TN",
+			"description": "Produce and manage live streaming events for various platforms. Coordinate technical setup, manage stream quality, and engage with live audiences.",
+			"employment_type": "Full-time",
+			"salary": 65000,
+			"bonus": "Stream performance bonuses",
+			"benefits_package": [
+				"Health and dental insurance",
+				"Paid time off and holidays",
+				"Live streaming equipment",
+				"Professional development opportunities"
+			],
+			"date_posted": "2024-01-23",
+			"requirements": [
+				"Live streaming production experience",
+				"Technical streaming knowledge",
+				"Real-time problem-solving skills",
+				"Audience engagement experience"
+			]
+		},
+		{
+			"id": 7,
+			"title": "Video Animator",
+			"company": {
+				"name": "Animation Studio Pro",
+				"phone": "(555) 700-8000",
+				"email": "careers@animationstudiopro.com"
+			},
+			"location": "Seattle, WA",
+			"description": "Create animated video content for commercials, explainer videos, and digital media. Use animation software to bring concepts to life.",
+			"employment_type": "Full-time",
+			"salary": 75000,
+			"bonus": "Animation quality bonuses",
+			"benefits_package": [
+				"Health insurance with vision",
+				"401(k) retirement plan",
+				"Animation software licenses",
+				"Professional development budget"
+			],
+			"date_posted": "2024-01-22",
+			"requirements": [
+				"Animation software proficiency",
+				"Strong artistic and creative skills",
+				"Portfolio of animated work",
+				"Understanding of motion graphics"
+			]
+		},
+		{
+			"id": 8,
+			"title": "Video Sound Designer",
+			"company": {
+				"name": "Audio Visual Productions",
+				"phone": "(555) 800-9000",
+				"email": "jobs@audiovisualproductions.com"
+			},
+			"location": "Miami, FL",
+			"description": "Design and mix audio for video content. Create sound effects, music integration, and ensure high-quality audio production for video projects.",
+			"employment_type": "Full-time",
+			"salary": 60000,
+			"bonus": "Audio quality bonuses",
+			"benefits_package": [
+				"Health and dental coverage",
+				"401(k) with company match",
+				"Audio equipment and software",
+				"Professional development opportunities"
+			],
+			"date_posted": "2024-01-21",
+			"requirements": [
+				"Audio production experience",
+				"Knowledge of sound design principles",
+				"Proficiency in audio software",
+				"Understanding of video-audio sync"
+			]
+		},
+		{
+			"id": 9,
+			"title": "Video Colorist",
+			"company": {
+				"name": "Color Grading Studio",
+				"phone": "(555) 900-0000",
+				"email": "careers@colorgradingstudio.com"
+			},
+			"location": "Denver, CO",
+			"description": "Grade and color correct video content to achieve desired visual aesthetics. Work with color grading software to enhance video quality and mood.",
+			"employment_type": "Full-time",
+			"salary": 70000,
+			"bonus": "Color grading quality bonuses",
+			"benefits_package": [
+				"Health insurance with dental",
+				"401(k) retirement plan",
+				"Color grading software access",
+				"Professional development budget"
+			],
+			"date_posted": "2024-01-20",
+			"requirements": [
+				"Color grading experience",
+				"Knowledge of color theory",
+				"Proficiency in DaVinci Resolve",
+				"Strong visual aesthetic sense"
+			]
+		},
+		{
+			"id": 10,
+			"title": "Video Script Writer",
+			"company": {
+				"name": "Script Writing Studio",
+				"phone": "(555) 000-1000",
+				"email": "jobs@scriptwritingstudio.com"
+			},
+			"location": "Portland, OR",
+			"description": "Write compelling scripts for video content including commercials, documentaries, and digital media. Develop narratives that engage and inform audiences.",
+			"employment_type": "Full-time",
+			"salary": 55000,
+			"bonus": "Script performance bonuses",
+			"benefits_package": [
+				"Health and dental insurance",
+				"401(k) with company match",
+				"Writing workshop attendance",
+				"Professional development opportunities"
+			],
+			"date_posted": "2024-01-19",
+			"requirements": [
+				"Script writing experience",
+				"Strong storytelling skills",
+				"Understanding of video narrative",
+				"Portfolio of written scripts"
+			]
+		},
+		{
+			"id": 11,
+			"title": "Video Director",
+			"company": {
+				"name": "Creative Direction Films",
+				"phone": "(555) 100-2000",
+				"email": "careers@creativedirectionfilms.com"
+			},
+			"location": "Chicago, IL",
+			"description": "Direct video productions and guide creative vision. Work with actors, crew, and clients to bring video concepts to life with artistic direction.",
+			"employment_type": "Full-time",
+			"salary": 85000,
+			"bonus": "Directorial success bonuses",
+			"benefits_package": [
+				"Comprehensive health benefits",
+				"401(k) retirement plan",
+				"Directorial equipment access",
+				"Professional development budget"
+			],
+			"date_posted": "2024-01-18",
+			"requirements": [
+				"Video directing experience",
+				"Strong creative vision",
+				"Leadership and communication skills",
+				"Portfolio of directed work"
+			]
+		},
+		{
+			"id": 12,
+			"title": "Video Motion Graphics Designer",
+			"company": {
+				"name": "Motion Graphics Studio",
+				"phone": "(555) 200-3000",
+				"email": "jobs@motiongraphicsstudio.com"
+			},
+			"location": "Phoenix, AZ",
+			"description": "Create dynamic motion graphics and visual effects for video content. Design animated elements, titles, and graphics that enhance video storytelling.",
+			"employment_type": "Full-time",
+			"salary": 70000,
+			"bonus": "Motion graphics quality bonuses",
+			"benefits_package": [
+				"Health insurance with vision",
+				"401(k) retirement plan",
+				"Motion graphics software access",
+				"Professional development budget"
+			],
+			"date_posted": "2024-01-17",
+			"requirements": [
+				"Motion graphics experience",
+				"Proficiency in After Effects",
+				"Strong design and animation skills",
+				"Portfolio of motion graphics work"
+			]
+		},
+		{
+			"id": 13,
+			"title": "Video Drone Operator",
+			"company": {
+				"name": "Aerial Video Productions",
+				"phone": "(555) 300-4000",
+				"email": "careers@aerialvideoproductions.com"
+			},
+			"location": "Las Vegas, NV",
+			"description": "Operate drones to capture aerial video footage for various projects. Ensure safe and legal drone operations while achieving desired visual results.",
+			"employment_type": "Full-time",
+			"salary": 65000,
+			"bonus": "Aerial footage quality bonuses",
+			"benefits_package": [
+				"Health and dental insurance",
+				"401(k) with company match",
+				"Drone equipment and maintenance",
+				"Professional development opportunities"
+			],
+			"date_posted": "2024-01-16",
+			"requirements": [
+				"FAA drone pilot certification",
+				"Aerial photography experience",
+				"Knowledge of drone regulations",
+				"Portfolio of aerial footage"
+			]
+		},
+		{
+			"id": 14,
+			"title": "Video Social Media Manager",
+			"company": {
+				"name": "Video Social Media Pro",
+				"phone": "(555) 400-5000",
+				"email": "jobs@videosocialmediapro.com"
+			},
+			"location": "Charlotte, NC",
+			"description": "Manage video content across social media platforms. Create, edit, and publish video content that drives engagement and grows social media presence.",
+			"employment_type": "Full-time",
+			"salary": 60000,
+			"bonus": "Social media growth bonuses",
+			"benefits_package": [
+				"Health and dental coverage",
+				"Paid time off and holidays",
+				"Social media tools access",
+				"Professional development opportunities"
+			],
+			"date_posted": "2024-01-15",
+			"requirements": [
+				"Social media management experience",
+				"Video content creation skills",
+				"Knowledge of social media platforms",
+				"Analytics and performance tracking"
+			]
+		},
+		{
+			"id": 15,
+			"title": "Video Quality Assurance Specialist",
+			"company": {
+				"name": "Video Quality Control",
+				"phone": "(555) 500-6000",
+				"email": "careers@videoqualitycontrol.com"
+			},
+			"location": "Minneapolis, MN",
+			"description": "Review and ensure video content meets quality standards. Check for technical issues, content accuracy, and compliance with brand guidelines.",
+			"employment_type": "Full-time",
+			"salary": 55000,
+			"bonus": "Quality assurance bonuses",
+			"benefits_package": [
+				"Health insurance with dental",
+				"401(k) retirement plan",
+				"Quality control software access",
+				"Professional development budget"
+			],
+			"date_posted": "2024-01-14",
+			"requirements": [
+				"Video quality control experience",
+				"Attention to detail",
+				"Knowledge of video standards",
+				"Technical video knowledge"
+			]
+		},
+		{
+			"id": 16,
+			"title": "Video Equipment Technician",
+			"company": {
+				"name": "Video Equipment Solutions",
+				"phone": "(555) 600-7000",
+				"email": "jobs@videoequipmentsolutions.com"
+			},
+			"location": "Salt Lake City, UT",
+			"description": "Maintain and repair video production equipment. Ensure cameras, lighting, and audio equipment are in optimal condition for video productions.",
+			"employment_type": "Full-time",
+			"salary": 60000,
+			"bonus": "Equipment maintenance bonuses",
+			"benefits_package": [
+				"Health and dental insurance",
+				"401(k) with company match",
+				"Technical training opportunities",
+				"Professional development budget"
+			],
+			"date_posted": "2024-01-13",
+			"requirements": [
+				"Video equipment technical knowledge",
+				"Equipment repair experience",
+				"Understanding of video technology",
+				"Problem-solving skills"
+			]
+		},
+		{
+			"id": 17,
+			"title": "Video Project Manager",
+			"company": {
+				"name": "Video Project Management",
+				"phone": "(555) 700-8000",
+				"email": "careers@videoprojectmanagement.com"
+			},
+			"location": "Boston, MA",
+			"description": "Manage video production projects from start to finish. Coordinate teams, manage budgets, timelines, and ensure successful project delivery.",
+			"employment_type": "Full-time",
+			"salary": 75000,
+			"bonus": "Project success bonuses",
+			"benefits_package": [
+				"Health insurance with vision",
+				"401(k) retirement plan",
+				"Project management tools access",
+				"Professional development budget"
+			],
+			"date_posted": "2024-01-12",
+			"requirements": [
+				"Project management experience",
+				"Video production knowledge",
+				"Strong organizational skills",
+				"Team leadership abilities"
+			]
+		},
+		{
+			"id": 18,
+			"title": "Video Analytics Specialist",
+			"company": {
+				"name": "Video Analytics Pro",
+				"phone": "(555) 800-9000",
+				"email": "jobs@videoanalyticspro.com"
+			},
+			"location": "Austin, TX",
+			"description": "Analyze video performance data and viewer engagement metrics. Provide insights to optimize video content and improve audience retention.",
+			"employment_type": "Full-time",
+			"salary": 65000,
+			"bonus": "Analytics-driven bonuses",
+			"benefits_package": [
+				"Health and dental coverage",
+				"401(k) with company match",
+				"Analytics software access",
+				"Professional development opportunities"
+			],
+			"date_posted": "2024-01-11",
+			"requirements": [
+				"Video analytics experience",
+				"Data analysis skills",
+				"Knowledge of video platforms",
+				"Understanding of viewer behavior"
+			]
+		},
+		{
+			"id": 19,
+			"title": "Video Brand Manager",
+			"company": {
+				"name": "Video Brand Studio",
+				"phone": "(555) 900-0000",
+				"email": "careers@videobrandstudio.com"
+			},
+			"location": "Dallas, TX",
+			"description": "Develop and maintain brand consistency across all video content. Create brand guidelines, ensure visual identity, and manage brand voice in video productions.",
+			"employment_type": "Full-time",
+			"salary": 70000,
+			"bonus": "Brand consistency bonuses",
+			"benefits_package": [
+				"Health insurance with dental",
+				"401(k) retirement plan",
+				"Brand development training",
+				"Professional development budget"
+			],
+			"date_posted": "2024-01-10",
+			"requirements": [
+				"Brand management experience",
+				"Video production knowledge",
+				"Understanding of brand identity",
+				"Creative direction skills"
+			]
+		},
+		{
+			"id": 20,
+			"title": "Video Innovation Specialist",
+			"company": {
+				"name": "Video Innovation Lab",
+				"phone": "(555) 000-1000",
+				"email": "jobs@videoinnovationlab.com"
+			},
+			"location": "San Diego, CA",
+			"description": "Research and implement cutting-edge video technologies and techniques. Explore new video formats, technologies, and creative approaches to video production.",
+			"employment_type": "Full-time",
+			"salary": 80000,
+			"bonus": "Innovation project bonuses",
+			"benefits_package": [
+				"Comprehensive health benefits",
+				"401(k) with generous match",
+				"Latest video technology access",
+				"Professional development budget"
+			],
+			"date_posted": "2024-01-09",
+			"requirements": [
+				"Video technology research experience",
+				"Knowledge of emerging video formats",
+				"Innovation mindset",
+				"Strong technical skills"
+			]
+		}
+	],
+	"education": [
+		{
+			"id": 1,
+			"title": "Online Course Developer",
+			"company": {
+				"name": "Digital Learning Academy",
+				"phone": "(555) 101-2020",
+				"email": "careers@digitallearningacademy.com"
+			},
+			"location": "San Francisco, CA",
+			"description": "Design and develop engaging online courses for various subjects. Create interactive content, assessments, and learning materials that enhance student engagement and learning outcomes.",
+			"employment_type": "Full-time",
+			"salary": 70000,
+			"bonus": "Course success bonuses up to 15%",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Professional development opportunities",
+				"Learning platform access"
+			],
+			"date_posted": "2024-01-28",
+			"requirements": [
+				"3+ years instructional design experience",
+				"Knowledge of learning management systems",
+				"Strong content creation skills",
+				"Understanding of educational technology"
+			]
+		},
+		{
+			"id": 2,
+			"title": "Educational Technology Specialist",
+			"company": {
+				"name": "EdTech Solutions",
+				"phone": "(555) 202-3030",
+				"email": "jobs@edtechsolutions.com"
+			},
+			"location": "Austin, TX",
+			"description": "Implement and support educational technology solutions in schools and institutions. Train teachers, troubleshoot technical issues, and optimize learning technology usage.",
+			"employment_type": "Full-time",
+			"salary": 65000,
+			"bonus": "Technology adoption bonuses",
+			"benefits_package": [
+				"Comprehensive health coverage",
+				"401(k) retirement plan",
+				"Latest educational technology access",
+				"Professional development budget"
+			],
+			"date_posted": "2024-01-27",
+			"requirements": [
+				"Educational technology experience",
+				"Technical support skills",
+				"Training and presentation abilities",
+				"Knowledge of learning platforms"
+			]
+		},
+		{
+			"id": 3,
+			"title": "Curriculum Designer",
+			"company": {
+				"name": "Curriculum Development Institute",
+				"phone": "(555) 303-4040",
+				"email": "careers@curriculumdevelopment.com"
+			},
+			"location": "Boston, MA",
+			"description": "Design comprehensive curriculum frameworks for various educational levels. Develop learning objectives, assessment strategies, and instructional materials aligned with educational standards.",
+			"employment_type": "Full-time",
+			"salary": 75000,
+			"bonus": "Curriculum adoption bonuses",
+			"benefits_package": [
+				"Health and dental insurance",
+				"401(k) with company match",
+				"Educational conference attendance",
+				"Professional development opportunities"
+			],
+			"date_posted": "2024-01-26",
+			"requirements": [
+				"Curriculum design experience",
+				"Understanding of educational standards",
+				"Strong research and writing skills",
+				"Knowledge of instructional design"
+			]
+		},
+		{
+			"id": 4,
+			"title": "Academic Advisor",
+			"company": {
+				"name": "Student Success University",
+				"phone": "(555) 404-5050",
+				"email": "jobs@studentsuccessuniversity.com"
+			},
+			"location": "Chicago, IL",
+			"description": "Provide academic guidance and support to students. Help with course selection, career planning, and academic goal setting to ensure student success and retention.",
+			"employment_type": "Full-time",
+			"salary": 55000,
+			"bonus": "Student retention bonuses",
+			"benefits_package": [
+				"Health insurance with dental",
+				"401(k) retirement plan",
+				"Professional development opportunities",
+				"Tuition assistance programs"
+			],
+			"date_posted": "2024-01-25",
+			"requirements": [
+				"Academic advising experience",
+				"Strong interpersonal skills",
+				"Knowledge of academic programs",
+				"Student support background"
+			]
+		},
+		{
+			"id": 5,
+			"title": "Educational Content Writer",
+			"company": {
+				"name": "Educational Content Studio",
+				"phone": "(555) 505-6060",
+				"email": "careers@educationalcontentstudio.com"
+			},
+			"location": "New York, NY",
+			"description": "Create educational content for textbooks, online courses, and learning materials. Write clear, engaging content that facilitates learning across various subjects.",
+			"employment_type": "Full-time",
+			"salary": 60000,
+			"bonus": "Content quality bonuses",
+			"benefits_package": [
+				"Health and dental coverage",
+				"401(k) with company match",
+				"Writing workshop attendance",
+				"Professional development budget"
+			],
+			"date_posted": "2024-01-24",
+			"requirements": [
+				"Educational writing experience",
+				"Strong research and writing skills",
+				"Knowledge of educational standards",
+				"Subject matter expertise"
+			]
+		},
+		{
+			"id": 6,
+			"title": "Learning Management System Administrator",
+			"company": {
+				"name": "LMS Solutions Pro",
+				"phone": "(555) 606-7070",
+				"email": "jobs@lmssolutionspro.com"
+			},
+			"location": "Seattle, WA",
+			"description": "Manage and maintain learning management systems for educational institutions. Configure courses, manage user accounts, and provide technical support to faculty and students.",
+			"employment_type": "Full-time",
+			"salary": 70000,
+			"bonus": "System performance bonuses",
+			"benefits_package": [
+				"Health insurance with vision",
+				"401(k) retirement plan",
+				"LMS certification support",
+				"Professional development budget"
+			],
+			"date_posted": "2024-01-23",
+			"requirements": [
+				"LMS administration experience",
+				"Technical troubleshooting skills",
+				"Knowledge of educational platforms",
+				"User support experience"
+			]
+		},
+		{
+			"id": 7,
+			"title": "Educational Assessment Specialist",
+			"company": {
+				"name": "Assessment Solutions",
+				"phone": "(555) 707-8080",
+				"email": "careers@assessmentsolutions.com"
+			},
+			"location": "Denver, CO",
+			"description": "Develop and implement educational assessments to measure student learning outcomes. Create tests, analyze results, and provide insights for educational improvement.",
+			"employment_type": "Full-time",
+			"salary": 65000,
+			"bonus": "Assessment quality bonuses",
+			"benefits_package": [
+				"Health and dental insurance",
+				"401(k) with company match",
+				"Assessment training opportunities",
+				"Professional development budget"
+			],
+			"date_posted": "2024-01-22",
+			"requirements": [
+				"Educational assessment experience",
+				"Statistical analysis skills",
+				"Knowledge of testing principles",
+				"Data interpretation abilities"
+			]
+		},
+		{
+			"id": 8,
+			"title": "Student Success Coordinator",
+			"company": {
+				"name": "Student Success Institute",
+				"phone": "(555) 808-9090",
+				"email": "jobs@studentsuccessinstitute.com"
+			},
+			"location": "Miami, FL",
+			"description": "Coordinate student success programs and initiatives. Develop retention strategies, organize student support services, and track student progress and outcomes.",
+			"employment_type": "Full-time",
+			"salary": 55000,
+			"bonus": "Student success bonuses",
+			"benefits_package": [
+				"Health insurance with dental",
+				"401(k) retirement plan",
+				"Student success training",
+				"Professional development opportunities"
+			],
+			"date_posted": "2024-01-21",
+			"requirements": [
+				"Student services experience",
+				"Program coordination skills",
+				"Data tracking and analysis",
+				"Strong organizational abilities"
+			]
+		},
+		{
+			"id": 9,
+			"title": "Educational Data Analyst",
+			"company": {
+				"name": "Educational Analytics Pro",
+				"phone": "(555) 909-0000",
+				"email": "careers@educationalanalyticspro.com"
+			},
+			"location": "Atlanta, GA",
+			"description": "Analyze educational data to provide insights for institutional improvement. Track student performance, enrollment trends, and educational outcomes to support decision-making.",
+			"employment_type": "Full-time",
+			"salary": 70000,
+			"bonus": "Data-driven insight bonuses",
+			"benefits_package": [
+				"Health and dental coverage",
+				"401(k) with company match",
+				"Analytics software access",
+				"Professional development budget"
+			],
+			"date_posted": "2024-01-20",
+			"requirements": [
+				"Educational data analysis experience",
+				"Statistical analysis skills",
+				"Knowledge of educational metrics",
+				"Data visualization abilities"
+			]
+		},
+		{
+			"id": 10,
+			"title": "Educational Marketing Manager",
+			"company": {
+				"name": "Educational Marketing Solutions",
+				"phone": "(555) 000-1111",
+				"email": "jobs@educationalmarketingsolutions.com"
+			},
+			"location": "Phoenix, AZ",
+			"description": "Develop marketing strategies for educational institutions and programs. Create campaigns to attract students, promote programs, and enhance institutional reputation.",
+			"employment_type": "Full-time",
+			"salary": 65000,
+			"bonus": "Enrollment growth bonuses",
+			"benefits_package": [
+				"Health insurance with vision",
+				"401(k) retirement plan",
+				"Marketing tools and software",
+				"Professional development budget"
+			],
+			"date_posted": "2024-01-19",
+			"requirements": [
+				"Educational marketing experience",
+				"Digital marketing skills",
+				"Knowledge of educational market",
+				"Campaign management abilities"
+			]
+		},
+		{
+			"id": 11,
+			"title": "Educational Technology Trainer",
+			"company": {
+				"name": "EdTech Training Institute",
+				"phone": "(555) 111-2222",
+				"email": "careers@edtechtraininginstitute.com"
+			},
+			"location": "Portland, OR",
+			"description": "Train educators on educational technology tools and platforms. Develop training programs, conduct workshops, and provide ongoing support for technology integration.",
+			"employment_type": "Full-time",
+			"salary": 60000,
+			"bonus": "Training effectiveness bonuses",
+			"benefits_package": [
+				"Health and dental insurance",
+				"401(k) with company match",
+				"Technology training opportunities",
+				"Professional development budget"
+			],
+			"date_posted": "2024-01-18",
+			"requirements": [
+				"Educational technology training experience",
+				"Presentation and teaching skills",
+				"Knowledge of learning platforms",
+				"Strong communication abilities"
+			]
+		},
+		{
+			"id": 12,
+			"title": "Educational Program Manager",
+			"company": {
+				"name": "Educational Programs Pro",
+				"phone": "(555) 222-3333",
+				"email": "jobs@educationalprogramspro.com"
+			},
+			"location": "Nashville, TN",
+			"description": "Manage educational programs and initiatives from development to implementation. Coordinate with stakeholders, track program outcomes, and ensure successful delivery.",
+			"employment_type": "Full-time",
+			"salary": 70000,
+			"bonus": "Program success bonuses",
+			"benefits_package": [
+				"Health insurance with dental",
+				"401(k) retirement plan",
+				"Program management training",
+				"Professional development opportunities"
+			],
+			"date_posted": "2024-01-17",
+			"requirements": [
+				"Educational program management experience",
+				"Project management skills",
+				"Stakeholder coordination abilities",
+				"Outcome tracking experience"
+			]
+		},
+		{
+			"id": 13,
+			"title": "Educational Research Coordinator",
+			"company": {
+				"name": "Educational Research Institute",
+				"phone": "(555) 333-4444",
+				"email": "careers@educationalresearchinstitute.com"
+			},
+			"location": "Charlotte, NC",
+			"description": "Coordinate educational research projects and studies. Manage research protocols, collect data, and contribute to educational research publications and reports.",
+			"employment_type": "Full-time",
+			"salary": 65000,
+			"bonus": "Research publication bonuses",
+			"benefits_package": [
+				"Health and dental coverage",
+				"401(k) with company match",
+				"Research conference attendance",
+				"Professional development budget"
+			],
+			"date_posted": "2024-01-16",
+			"requirements": [
+				"Educational research experience",
+				"Research methodology knowledge",
+				"Data collection and analysis skills",
+				"Academic writing abilities"
+			]
+		},
+		{
+			"id": 14,
+			"title": "Educational Compliance Specialist",
+			"company": {
+				"name": "Educational Compliance Pro",
+				"phone": "(555) 444-5555",
+				"email": "jobs@educationalcompliancepro.com"
+			},
+			"location": "Minneapolis, MN",
+			"description": "Ensure educational institutions comply with regulatory requirements and standards. Monitor policies, conduct audits, and provide guidance on compliance matters.",
+			"employment_type": "Full-time",
+			"salary": 60000,
+			"bonus": "Compliance success bonuses",
+			"benefits_package": [
+				"Health insurance with dental",
+				"401(k) retirement plan",
+				"Compliance training opportunities",
+				"Professional development budget"
+			],
+			"date_posted": "2024-01-15",
+			"requirements": [
+				"Educational compliance experience",
+				"Knowledge of educational regulations",
+				"Audit and monitoring skills",
+				"Policy interpretation abilities"
+			]
+		},
+		{
+			"id": 15,
+			"title": "Educational Outreach Coordinator",
+			"company": {
+				"name": "Educational Outreach Institute",
+				"phone": "(555) 555-6666",
+				"email": "careers@educationaloutreachinstitute.com"
+			},
+			"location": "Salt Lake City, UT",
+			"description": "Develop and implement educational outreach programs to engage communities and promote educational opportunities. Build partnerships and coordinate outreach events.",
+			"employment_type": "Full-time",
+			"salary": 55000,
+			"bonus": "Outreach success bonuses",
+			"benefits_package": [
+				"Health and dental insurance",
+				"401(k) with company match",
+				"Community engagement training",
+				"Professional development opportunities"
+			],
+			"date_posted": "2024-01-14",
+			"requirements": [
+				"Educational outreach experience",
+				"Community engagement skills",
+				"Partnership development abilities",
+				"Event coordination experience"
+			]
+		},
+		{
+			"id": 16,
+			"title": "Educational Technology Consultant",
+			"company": {
+				"name": "EdTech Consulting Group",
+				"phone": "(555) 666-7777",
+				"email": "careers@edtechconsultinggroup.com"
+			},
+			"location": "Las Vegas, NV",
+			"description": "Provide consulting services to educational institutions on technology implementation and digital transformation. Assess needs, recommend solutions, and guide implementation strategies.",
+			"employment_type": "Full-time",
+			"salary": 80000,
+			"bonus": "Consulting success bonuses",
+			"benefits_package": [
+				"Health insurance with vision",
+				"401(k) retirement plan",
+				"Consulting training opportunities",
+				"Professional development budget"
+			],
+			"date_posted": "2024-01-13",
+			"requirements": [
+				"Educational technology consulting experience",
+				"Strategic planning skills",
+				"Knowledge of educational technology trends",
+				"Client relationship management"
+			]
+		},
+		{
+			"id": 17,
+			"title": "Educational Content Manager",
+			"company": {
+				"name": "Educational Content Solutions",
+				"phone": "(555) 777-8888",
+				"email": "careers@educationalcontentsolutions.com"
+			},
+			"location": "Dallas, TX",
+			"description": "Manage educational content libraries and learning resources. Organize, curate, and maintain educational materials for various subjects and learning levels.",
+			"employment_type": "Full-time",
+			"salary": 60000,
+			"bonus": "Content management bonuses",
+			"benefits_package": [
+				"Health and dental coverage",
+				"401(k) with company match",
+				"Content management training",
+				"Professional development opportunities"
+			],
+			"date_posted": "2024-01-12",
+			"requirements": [
+				"Educational content management experience",
+				"Content organization skills",
+				"Knowledge of educational standards",
+				"Digital asset management"
+			]
+		},
+		{
+			"id": 18,
+			"title": "Educational Innovation Specialist",
+			"company": {
+				"name": "Educational Innovation Lab",
+				"phone": "(555) 888-9999",
+				"email": "jobs@educationalinnovationlab.com"
+			},
+			"location": "San Diego, CA",
+			"description": "Research and implement innovative educational approaches and technologies. Explore new teaching methods, learning models, and educational solutions.",
+			"employment_type": "Full-time",
+			"salary": 70000,
+			"bonus": "Innovation project bonuses",
+			"benefits_package": [
+				"Health insurance with dental",
+				"401(k) with company match",
+				"Innovation research opportunities",
+				"Professional development budget"
+			],
+			"date_posted": "2024-01-11",
+			"requirements": [
+				"Educational innovation experience",
+				"Research and development skills",
+				"Knowledge of emerging educational trends",
+				"Innovation mindset"
+			]
+		},
+		{
+			"id": 19,
+			"title": "Educational Quality Assurance Manager",
+			"company": {
+				"name": "Educational Quality Institute",
+				"phone": "(555) 999-0000",
+				"email": "careers@educationalqualityinstitute.com"
+			},
+			"location": "Houston, TX",
+			"description": "Ensure educational quality standards are met across programs and institutions. Develop quality metrics, conduct evaluations, and implement improvement strategies.",
+			"employment_type": "Full-time",
+			"salary": 65000,
+			"bonus": "Quality improvement bonuses",
+			"benefits_package": [
+				"Health and dental insurance",
+				"401(k) retirement plan",
+				"Quality assurance training",
+				"Professional development budget"
+			],
+			"date_posted": "2024-01-10",
+			"requirements": [
+				"Educational quality assurance experience",
+				"Evaluation and assessment skills",
+				"Quality metrics development",
+				"Process improvement knowledge"
+			]
+		},
+		{
+			"id": 20,
+			"title": "Educational Partnership Manager",
+			"company": {
+				"name": "Educational Partnerships Pro",
+				"phone": "(555) 000-1111",
+				"email": "jobs@educationalpartnershipspro.com"
+			},
+			"location": "Orlando, FL",
+			"description": "Develop and manage partnerships between educational institutions and external organizations. Build collaborative relationships to enhance educational opportunities and resources.",
+			"employment_type": "Full-time",
+			"salary": 60000,
+			"bonus": "Partnership success bonuses",
+			"benefits_package": [
+				"Health and dental insurance",
+				"401(k) with company match",
+				"Partnership development training",
+				"Professional development opportunities"
+			],
+			"date_posted": "2024-01-09",
+			"requirements": [
+				"Partnership management experience",
+				"Relationship building skills",
+				"Negotiation abilities",
+				"Educational sector knowledge"
+			]
+		}
+	],
+	"finance": [
+		{
+			"id": 1,
+			"title": "Financial Analyst",
+			"company": {
+				"name": "Elite Financial Services",
+				"phone": "(555) 201-2020",
+				"email": "careers@elitefinancialservices.com"
+			},
+			"location": "New York, NY",
+			"description": "Analyze financial data to provide insights for business decisions. Create financial models, prepare reports, and support strategic planning initiatives.",
+			"employment_type": "Full-time",
+			"salary": 75000,
+			"bonus": "Performance-based bonuses up to 20%",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Professional development opportunities",
+				"Financial software access"
+			],
+			"date_posted": "2024-01-28",
+			"requirements": [
+				"3+ years financial analysis experience",
+				"Proficiency in Excel and financial modeling",
+				"Strong analytical and quantitative skills",
+				"Knowledge of financial statements"
+			]
+		},
+		{
+			"id": 2,
+			"title": "Investment Manager",
+			"company": {
+				"name": "Capital Investment Group",
+				"phone": "(555) 202-3030",
+				"email": "jobs@capitalinvestmentgroup.com"
+			},
+			"location": "Boston, MA",
+			"description": "Manage investment portfolios for clients and institutions. Develop investment strategies, conduct market research, and optimize portfolio performance.",
+			"employment_type": "Full-time",
+			"salary": 90000,
+			"bonus": "Portfolio performance bonuses",
+			"benefits_package": [
+				"Comprehensive health coverage",
+				"401(k) retirement plan",
+				"Investment research tools access",
+				"Professional development budget"
+			],
+			"date_posted": "2024-01-27",
+			"requirements": [
+				"5+ years investment management experience",
+				"CFA or similar certification preferred",
+				"Strong market analysis skills",
+				"Portfolio management expertise"
+			]
+		},
+		{
+			"id": 3,
+			"title": "Financial Advisor",
+			"company": {
+				"name": "Wealth Management Solutions",
+				"phone": "(555) 303-4040",
+				"email": "careers@wealthmanagementsolutions.com"
+			},
+			"location": "Los Angeles, CA",
+			"description": "Provide comprehensive financial planning and investment advice to individual clients. Help clients achieve their financial goals through personalized strategies.",
+			"employment_type": "Full-time",
+			"salary": 70000,
+			"bonus": "Commission-based earnings",
+			"benefits_package": [
+				"Health and dental insurance",
+				"401(k) with company match",
+				"Professional certification support",
+				"Client relationship tools"
+			],
+			"date_posted": "2024-01-26",
+			"requirements": [
+				"Series 7 and 66 licenses",
+				"Financial planning experience",
+				"Strong client relationship skills",
+				"Knowledge of investment products"
+			]
+		},
+		{
+			"id": 4,
+			"title": "Risk Manager",
+			"company": {
+				"name": "Risk Management Pro",
+				"phone": "(555) 404-5050",
+				"email": "jobs@riskmanagementpro.com"
+			},
+			"location": "Chicago, IL",
+			"description": "Identify, assess, and manage financial risks for organizations. Develop risk mitigation strategies and ensure compliance with risk management policies.",
+			"employment_type": "Full-time",
+			"salary": 85000,
+			"bonus": "Risk mitigation success bonuses",
+			"benefits_package": [
+				"Health insurance with dental",
+				"401(k) retirement plan",
+				"Risk management training",
+				"Professional development budget"
+			],
+			"date_posted": "2024-01-25",
+			"requirements": [
+				"Risk management experience",
+				"Quantitative analysis skills",
+				"Knowledge of financial regulations",
+				"Strong analytical abilities"
+			]
+		},
+		{
+			"id": 5,
+			"title": "Credit Analyst",
+			"company": {
+				"name": "Credit Analysis Institute",
+				"phone": "(555) 505-6060",
+				"email": "careers@creditanalysisinstitute.com"
+			},
+			"location": "Dallas, TX",
+			"description": "Analyze creditworthiness of individuals and businesses. Evaluate financial statements, assess risk, and make credit recommendations.",
+			"employment_type": "Full-time",
+			"salary": 65000,
+			"bonus": "Credit quality bonuses",
+			"benefits_package": [
+				"Health and dental coverage",
+				"401(k) with company match",
+				"Credit analysis training",
+				"Professional development opportunities"
+			],
+			"date_posted": "2024-01-24",
+			"requirements": [
+				"Credit analysis experience",
+				"Financial statement analysis skills",
+				"Knowledge of lending practices",
+				"Strong decision-making abilities"
+			]
+		},
+		{
+			"id": 6,
+			"title": "Treasury Analyst",
+			"company": {
+				"name": "Corporate Treasury Solutions",
+				"phone": "(555) 606-7070",
+				"email": "jobs@corporatetreasurysolutions.com"
+			},
+			"location": "Atlanta, GA",
+			"description": "Manage corporate cash flow, investments, and financial risk. Optimize working capital, manage banking relationships, and ensure financial liquidity.",
+			"employment_type": "Full-time",
+			"salary": 70000,
+			"bonus": "Treasury performance bonuses",
+			"benefits_package": [
+				"Health insurance with vision",
+				"401(k) retirement plan",
+				"Treasury management tools",
+				"Professional development budget"
+			],
+			"date_posted": "2024-01-23",
+			"requirements": [
+				"Treasury management experience",
+				"Cash flow forecasting skills",
+				"Knowledge of financial markets",
+				"Strong analytical capabilities"
+			]
+		},
+		{
+			"id": 7,
+			"title": "Financial Controller",
+			"company": {
+				"name": "Financial Control Pro",
+				"phone": "(555) 707-8080",
+				"email": "careers@financialcontrolpro.com"
+			},
+			"location": "Seattle, WA",
+			"description": "Oversee financial operations and reporting for organizations. Manage accounting functions, ensure compliance, and provide financial leadership.",
+			"employment_type": "Full-time",
+			"salary": 95000,
+			"bonus": "Financial performance bonuses",
+			"benefits_package": [
+				"Health and dental insurance",
+				"401(k) with company match",
+				"Professional certification support",
+				"Leadership development opportunities"
+			],
+			"date_posted": "2024-01-22",
+			"requirements": [
+				"5+ years accounting experience",
+				"CPA certification preferred",
+				"Financial reporting expertise",
+				"Leadership and management skills"
+			]
+		},
+		{
+			"id": 8,
+			"title": "Quantitative Analyst",
+			"company": {
+				"name": "Quantitative Finance Institute",
+				"phone": "(555) 808-9090",
+				"email": "jobs@quantitativefinanceinstitute.com"
+			},
+			"location": "San Francisco, CA",
+			"description": "Develop mathematical models for financial analysis and risk assessment. Use statistical methods and programming to solve complex financial problems.",
+			"employment_type": "Full-time",
+			"salary": 100000,
+			"bonus": "Model performance bonuses",
+			"benefits_package": [
+				"Health insurance with dental",
+				"401(k) retirement plan",
+				"Advanced analytics tools access",
+				"Professional development budget"
+			],
+			"date_posted": "2024-01-21",
+			"requirements": [
+				"Advanced degree in quantitative field",
+				"Programming skills (Python, R, etc.)",
+				"Mathematical modeling experience",
+				"Financial markets knowledge"
+			]
+		},
+		{
+			"id": 9,
+			"title": "Financial Planning Manager",
+			"company": {
+				"name": "Financial Planning Institute",
+				"phone": "(555) 909-0000",
+				"email": "careers@financialplanninginstitute.com"
+			},
+			"location": "Miami, FL",
+			"description": "Lead financial planning teams and develop comprehensive financial strategies for clients. Manage client relationships and ensure high-quality service delivery.",
+			"employment_type": "Full-time",
+			"salary": 80000,
+			"bonus": "Client satisfaction bonuses",
+			"benefits_package": [
+				"Health and dental coverage",
+				"401(k) with company match",
+				"Professional development opportunities",
+				"Client management tools"
+			],
+			"date_posted": "2024-01-20",
+			"requirements": [
+				"Financial planning experience",
+				"Team leadership skills",
+				"Client relationship management",
+				"CFP certification preferred"
+			]
+		},
+		{
+			"id": 10,
+			"title": "Corporate Finance Manager",
+			"company": {
+				"name": "Corporate Finance Solutions",
+				"phone": "(555) 000-1111",
+				"email": "jobs@corporatefinancesolutions.com"
+			},
+			"location": "Denver, CO",
+			"description": "Manage corporate financial activities including budgeting, forecasting, and capital allocation. Support strategic financial decisions and optimize corporate financial performance.",
+			"employment_type": "Full-time",
+			"salary": 85000,
+			"bonus": "Financial performance bonuses",
+			"benefits_package": [
+				"Health insurance with vision",
+				"401(k) retirement plan",
+				"Corporate finance training",
+				"Professional development budget"
+			],
+			"date_posted": "2024-01-19",
+			"requirements": [
+				"Corporate finance experience",
+				"Financial modeling skills",
+				"Strategic planning abilities",
+				"MBA or relevant degree preferred"
+			]
+		},
+		{
+			"id": 11,
+			"title": "Financial Operations Specialist",
+			"company": {
+				"name": "Financial Operations Pro",
+				"phone": "(555) 111-2222",
+				"email": "careers@financialoperationspro.com"
+			},
+			"location": "Phoenix, AZ",
+			"description": "Optimize financial operations and processes. Streamline workflows, implement automation, and improve efficiency in financial functions.",
+			"employment_type": "Full-time",
+			"salary": 65000,
+			"bonus": "Operational efficiency bonuses",
+			"benefits_package": [
+				"Health and dental insurance",
+				"401(k) with company match",
+				"Process improvement training",
+				"Professional development opportunities"
+			],
+			"date_posted": "2024-01-18",
+			"requirements": [
+				"Financial operations experience",
+				"Process optimization skills",
+				"Automation knowledge",
+				"Strong analytical abilities"
+			]
+		},
+		{
+			"id": 12,
+			"title": "Financial Reporting Specialist",
+			"company": {
+				"name": "Financial Reporting Institute",
+				"phone": "(555) 222-3333",
+				"email": "jobs@financialreportinginstitute.com"
+			},
+			"location": "Nashville, TN",
+			"description": "Prepare and analyze financial reports for internal and external stakeholders. Ensure accuracy and compliance with reporting standards and regulations.",
+			"employment_type": "Full-time",
+			"salary": 70000,
+			"bonus": "Reporting quality bonuses",
+			"benefits_package": [
+				"Health insurance with dental",
+				"401(k) retirement plan",
+				"Reporting software access",
+				"Professional development budget"
+			],
+			"date_posted": "2024-01-17",
+			"requirements": [
+				"Financial reporting experience",
+				"Knowledge of GAAP and IFRS",
+				"Strong attention to detail",
+				"Excel and reporting software skills"
+			]
+		},
+		{
+			"id": 13,
+			"title": "Investment Banking Analyst",
+			"company": {
+				"name": "Investment Banking Pro",
+				"phone": "(555) 333-4444",
+				"email": "careers@investmentbankingpro.com"
+			},
+			"location": "New York, NY",
+			"description": "Support investment banking activities including M&A, capital raising, and financial advisory services. Conduct financial analysis and prepare client presentations.",
+			"employment_type": "Full-time",
+			"salary": 90000,
+			"bonus": "Deal success bonuses",
+			"benefits_package": [
+				"Health and dental coverage",
+				"401(k) with company match",
+				"Investment banking training",
+				"Professional development opportunities"
+			],
+			"date_posted": "2024-01-16",
+			"requirements": [
+				"Investment banking experience",
+				"Financial modeling expertise",
+				"Strong presentation skills",
+				"Knowledge of capital markets"
+			]
+		},
+		{
+			"id": 14,
+			"title": "Financial Compliance Officer",
+			"company": {
+				"name": "Financial Compliance Institute",
+				"phone": "(555) 444-5555",
+				"email": "jobs@financialcomplianceinstitute.com"
+			},
+			"location": "Charlotte, NC",
+			"description": "Ensure compliance with financial regulations and industry standards. Monitor activities, conduct audits, and implement compliance programs.",
+			"employment_type": "Full-time",
+			"salary": 75000,
+			"bonus": "Compliance success bonuses",
+			"benefits_package": [
+				"Health insurance with dental",
+				"401(k) retirement plan",
+				"Compliance training opportunities",
+				"Professional development budget"
+			],
+			"date_posted": "2024-01-15",
+			"requirements": [
+				"Financial compliance experience",
+				"Knowledge of financial regulations",
+				"Audit and monitoring skills",
+				"Strong attention to detail"
+			]
+		},
+		{
+			"id": 15,
+			"title": "Financial Technology Specialist",
+			"company": {
+				"name": "FinTech Solutions Pro",
+				"phone": "(555) 555-6666",
+				"email": "careers@fintechsolutionspro.com"
+			},
+			"location": "Austin, TX",
+			"description": "Implement and optimize financial technology solutions. Work with fintech platforms, automation tools, and digital financial services.",
+			"employment_type": "Full-time",
+			"salary": 80000,
+			"bonus": "Technology implementation bonuses",
+			"benefits_package": [
+				"Health and dental insurance",
+				"401(k) with company match",
+				"FinTech tools and software access",
+				"Professional development opportunities"
+			],
+			"date_posted": "2024-01-14",
+			"requirements": [
+				"FinTech experience",
+				"Technology implementation skills",
+				"Knowledge of financial systems",
+				"Strong technical abilities"
+			]
+		},
+		{
+			"id": 16,
+			"title": "Financial Data Analyst",
+			"company": {
+				"name": "Financial Data Analytics",
+				"phone": "(555) 666-7777",
+				"email": "jobs@financialdataanalytics.com"
+			},
+			"location": "Minneapolis, MN",
+			"description": "Analyze financial data to provide insights and support decision-making. Use data visualization and statistical analysis to identify trends and opportunities.",
+			"employment_type": "Full-time",
+			"salary": 70000,
+			"bonus": "Data-driven insight bonuses",
+			"benefits_package": [
+				"Health insurance with vision",
+				"401(k) retirement plan",
+				"Data analytics tools access",
+				"Professional development budget"
+			],
+			"date_posted": "2024-01-13",
+			"requirements": [
+				"Financial data analysis experience",
+				"Statistical analysis skills",
+				"Data visualization expertise",
+				"Knowledge of financial metrics"
+			]
+		},
+		{
+			"id": 17,
+			"title": "Financial Marketing Manager",
+			"company": {
+				"name": "Financial Marketing Solutions",
+				"phone": "(555) 777-8888",
+				"email": "careers@financialmarketingsolutions.com"
+			},
+			"location": "Las Vegas, NV",
+			"description": "Develop marketing strategies for financial products and services. Create campaigns that comply with financial regulations and drive customer acquisition.",
+			"employment_type": "Full-time",
+			"salary": 65000,
+			"bonus": "Marketing performance bonuses",
+			"benefits_package": [
+				"Health and dental coverage",
+				"401(k) with company match",
+				"Marketing tools and software",
+				"Professional development opportunities"
+			],
+			"date_posted": "2024-01-12",
+			"requirements": [
+				"Financial marketing experience",
+				"Knowledge of financial regulations",
+				"Digital marketing skills",
+				"Campaign management abilities"
+			]
+		},
+		{
+			"id": 18,
+			"title": "Financial Customer Success Manager",
+			"company": {
+				"name": "Financial Customer Success",
+				"phone": "(555) 888-9999",
+				"email": "jobs@financialcustomersuccess.com"
+			},
+			"location": "Salt Lake City, UT",
+			"description": "Ensure customer satisfaction with financial products and services. Provide support, training, and guidance to help customers achieve their financial goals.",
+			"employment_type": "Full-time",
+			"salary": 60000,
+			"bonus": "Customer satisfaction bonuses",
+			"benefits_package": [
+				"Health insurance with dental",
+				"401(k) with company match",
+				"Customer success training",
+				"Professional development opportunities"
+			],
+			"date_posted": "2024-01-11",
+			"requirements": [
+				"Customer success experience",
+				"Financial product knowledge",
+				"Strong communication skills",
+				"Problem-solving abilities"
+			]
+		},
+		{
+			"id": 19,
+			"title": "Financial Innovation Specialist",
+			"company": {
+				"name": "Financial Innovation Lab",
+				"phone": "(555) 999-0000",
+				"email": "careers@financialinnovationlab.com"
+			},
+			"location": "San Diego, CA",
+			"description": "Research and implement innovative financial solutions and technologies. Explore new financial products, services, and digital transformation opportunities.",
+			"employment_type": "Full-time",
+			"salary": 85000,
+			"bonus": "Innovation project bonuses",
+			"benefits_package": [
+				"Health insurance with dental",
+				"401(k) with company match",
+				"Innovation research opportunities",
+				"Professional development budget"
+			],
+			"date_posted": "2024-01-10",
+			"requirements": [
+				"Financial innovation experience",
+				"Research and development skills",
+				"Knowledge of emerging fintech trends",
+				"Innovation mindset"
+			]
+		},
+		{
+			"id": 20,
+			"title": "Financial Strategy Consultant",
+			"company": {
+				"name": "Financial Strategy Group",
+				"phone": "(555) 000-1111",
+				"email": "jobs@financialstrategygroup.com"
+			},
+			"location": "Houston, TX",
+			"description": "Provide strategic financial consulting services to organizations. Develop financial strategies, optimize capital structure, and support business growth initiatives.",
+			"employment_type": "Full-time",
+			"salary": 95000,
+			"bonus": "Consulting success bonuses",
+			"benefits_package": [
+				"Comprehensive health benefits",
+				"401(k) with generous match",
+				"Consulting training opportunities",
+				"Professional development budget"
+			],
+			"date_posted": "2024-01-09",
+			"requirements": [
+				"Financial consulting experience",
+				"Strategic planning skills",
+				"Strong analytical abilities",
+				"Client relationship management"
+			]
+		}
+	],
+	"art": [
+		{
+			"id": 1,
+			"title": "Digital Artist",
+			"company": {
+				"name": "Creative Digital Studio",
+				"phone": "(555) 301-3020",
+				"email": "careers@creativedigitalstudio.com"
+			},
+			"location": "Los Angeles, CA",
+			"description": "Create stunning digital artwork for various media including games, films, and digital platforms. Use digital tools to produce concept art, illustrations, and visual designs.",
+			"employment_type": "Full-time",
+			"salary": 65000,
+			"bonus": "Project success bonuses up to 15%",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Professional software licenses",
+				"Creative development opportunities"
+			],
+			"date_posted": "2024-01-28",
+			"requirements": [
+				"3+ years digital art experience",
+				"Proficiency in Photoshop, Illustrator",
+				"Strong portfolio of digital artwork",
+				"Understanding of digital art principles"
+			]
+		},
+		{
+			"id": 2,
+			"title": "Concept Artist",
+			"company": {
+				"name": "Concept Art Studio",
+				"phone": "(555) 302-3030",
+				"email": "jobs@conceptartstudio.com"
+			},
+			"location": "San Francisco, CA",
+			"description": "Create concept artwork for films, games, and entertainment projects. Develop visual concepts, character designs, and environmental artwork that bring stories to life.",
+			"employment_type": "Full-time",
+			"salary": 70000,
+			"bonus": "Concept approval bonuses",
+			"benefits_package": [
+				"Comprehensive health coverage",
+				"401(k) retirement plan",
+				"Latest drawing tablets and software",
+				"Professional development budget"
+			],
+			"date_posted": "2024-01-27",
+			"requirements": [
+				"Concept art experience",
+				"Strong drawing and painting skills",
+				"Portfolio of concept artwork",
+				"Understanding of visual storytelling"
+			]
+		},
+		{
+			"id": 3,
+			"title": "Gallery Curator",
+			"company": {
+				"name": "Contemporary Art Gallery",
+				"phone": "(555) 303-3040",
+				"email": "careers@contemporaryartgallery.com"
+			},
+			"location": "New York, NY",
+			"description": "Curate art exhibitions and manage gallery collections. Select artwork, organize exhibitions, and develop relationships with artists and collectors.",
+			"employment_type": "Full-time",
+			"salary": 60000,
+			"bonus": "Exhibition success bonuses",
+			"benefits_package": [
+				"Health and dental insurance",
+				"401(k) with company match",
+				"Art world networking opportunities",
+				"Professional development opportunities"
+			],
+			"date_posted": "2024-01-26",
+			"requirements": [
+				"Art history or curatorial experience",
+				"Knowledge of contemporary art",
+				"Strong organizational skills",
+				"Gallery management experience"
+			]
+		},
+		{
+			"id": 4,
+			"title": "Art Director",
+			"company": {
+				"name": "Creative Direction Agency",
+				"phone": "(555) 304-3050",
+				"email": "jobs@creativedirectionagency.com"
+			},
+			"location": "Chicago, IL",
+			"description": "Lead creative teams and oversee visual design projects. Develop artistic concepts, manage creative processes, and ensure high-quality visual output.",
+			"employment_type": "Full-time",
+			"salary": 85000,
+			"bonus": "Creative success bonuses",
+			"benefits_package": [
+				"Health insurance with dental",
+				"401(k) retirement plan",
+				"Creative leadership training",
+				"Professional development budget"
+			],
+			"date_posted": "2024-01-25",
+			"requirements": [
+				"5+ years art direction experience",
+				"Strong leadership and communication skills",
+				"Portfolio of creative projects",
+				"Understanding of visual design principles"
+			]
+		},
+		{
+			"id": 5,
+			"title": "Illustrator",
+			"company": {
+				"name": "Illustration Studio Pro",
+				"phone": "(555) 305-3060",
+				"email": "careers@illustrationstudiopro.com"
+			},
+			"location": "Austin, TX",
+			"description": "Create custom illustrations for books, magazines, advertising, and digital media. Develop unique artistic styles and deliver high-quality visual content.",
+			"employment_type": "Full-time",
+			"salary": 55000,
+			"bonus": "Illustration quality bonuses",
+			"benefits_package": [
+				"Health and dental coverage",
+				"401(k) with company match",
+				"Professional illustration tools",
+				"Creative development opportunities"
+			],
+			"date_posted": "2024-01-24",
+			"requirements": [
+				"Professional illustration experience",
+				"Strong drawing and design skills",
+				"Portfolio of illustration work",
+				"Ability to work in various styles"
+			]
+		},
+		{
+			"id": 6,
+			"title": "Art Conservator",
+			"company": {
+				"name": "Art Conservation Institute",
+				"phone": "(555) 306-3070",
+				"email": "jobs@artconservationinstitute.com"
+			},
+			"location": "Boston, MA",
+			"description": "Preserve and restore artwork and cultural artifacts. Use specialized techniques to maintain and repair paintings, sculptures, and other artistic works.",
+			"employment_type": "Full-time",
+			"salary": 65000,
+			"bonus": "Conservation success bonuses",
+			"benefits_package": [
+				"Health insurance with vision",
+				"401(k) retirement plan",
+				"Conservation materials and tools",
+				"Professional development budget"
+			],
+			"date_posted": "2024-01-23",
+			"requirements": [
+				"Art conservation degree or experience",
+				"Knowledge of conservation techniques",
+				"Understanding of art materials",
+				"Attention to detail and patience"
+			]
+		},
+		{
+			"id": 7,
+			"title": "Art Teacher",
+			"company": {
+				"name": "Creative Arts Academy",
+				"phone": "(555) 307-3080",
+				"email": "careers@creativeartsacademy.com"
+			},
+			"location": "Seattle, WA",
+			"description": "Teach art classes and develop creative curriculum for students of all ages. Inspire artistic expression and develop students' creative skills and techniques.",
+			"employment_type": "Full-time",
+			"salary": 50000,
+			"bonus": "Student achievement bonuses",
+			"benefits_package": [
+				"Health and dental insurance",
+				"401(k) with company match",
+				"Art supplies and materials",
+				"Professional development opportunities"
+			],
+			"date_posted": "2024-01-22",
+			"requirements": [
+				"Art education degree or experience",
+				"Teaching experience preferred",
+				"Strong artistic skills",
+				"Passion for art education"
+			]
+		},
+		{
+			"id": 8,
+			"title": "Art Therapist",
+			"company": {
+				"name": "Art Therapy Center",
+				"phone": "(555) 308-3090",
+				"email": "jobs@arttherapycenter.com"
+			},
+			"location": "Denver, CO",
+			"description": "Use art as a therapeutic tool to help clients express emotions and work through psychological challenges. Conduct individual and group art therapy sessions.",
+			"employment_type": "Full-time",
+			"salary": 60000,
+			"bonus": "Client progress bonuses",
+			"benefits_package": [
+				"Health insurance with dental",
+				"401(k) retirement plan",
+				"Art therapy certification support",
+				"Professional development budget"
+			],
+			"date_posted": "2024-01-21",
+			"requirements": [
+				"Art therapy certification",
+				"Psychology or counseling background",
+				"Strong artistic and therapeutic skills",
+				"Experience working with clients"
+			]
+		},
+		{
+			"id": 9,
+			"title": "Art Photographer",
+			"company": {
+				"name": "Fine Art Photography Studio",
+				"phone": "(555) 309-3000",
+				"email": "careers@fineartphotographystudio.com"
+			},
+			"location": "Miami, FL",
+			"description": "Create artistic photography for galleries, exhibitions, and commercial projects. Develop unique photographic styles and capture compelling visual narratives.",
+			"employment_type": "Full-time",
+			"salary": 55000,
+			"bonus": "Gallery sales bonuses",
+			"benefits_package": [
+				"Health and dental coverage",
+				"401(k) with company match",
+				"Professional photography equipment",
+				"Gallery exhibition opportunities"
+			],
+			"date_posted": "2024-01-20",
+			"requirements": [
+				"Fine art photography experience",
+				"Portfolio of artistic photography",
+				"Technical photography skills",
+				"Understanding of art photography"
+			]
+		},
+		{
+			"id": 10,
+			"title": "Art Marketing Specialist",
+			"company": {
+				"name": "Art Marketing Pro",
+				"phone": "(555) 300-3010",
+				"email": "jobs@artmarketingpro.com"
+			},
+			"location": "Phoenix, AZ",
+			"description": "Develop marketing strategies for artists, galleries, and art organizations. Create campaigns that promote artwork and build artist brands.",
+			"employment_type": "Full-time",
+			"salary": 55000,
+			"bonus": "Sales performance bonuses",
+			"benefits_package": [
+				"Health insurance with vision",
+				"401(k) retirement plan",
+				"Marketing tools and software",
+				"Professional development budget"
+			],
+			"date_posted": "2024-01-19",
+			"requirements": [
+				"Art marketing experience",
+				"Knowledge of art market",
+				"Digital marketing skills",
+				"Gallery or artist relationship experience"
+			]
+		},
+		{
+			"id": 11,
+			"title": "Art Installer",
+			"company": {
+				"name": "Art Installation Services",
+				"phone": "(555) 301-3020",
+				"email": "careers@artinstallationservices.com"
+			},
+			"location": "Nashville, TN",
+			"description": "Install and display artwork in galleries, museums, and public spaces. Handle artwork safely and create optimal viewing experiences.",
+			"employment_type": "Full-time",
+			"salary": 45000,
+			"bonus": "Installation quality bonuses",
+			"benefits_package": [
+				"Health and dental insurance",
+				"401(k) with company match",
+				"Installation tools and equipment",
+				"Professional development opportunities"
+			],
+			"date_posted": "2024-01-18",
+			"requirements": [
+				"Art installation experience",
+				"Physical dexterity and strength",
+				"Knowledge of art handling",
+				"Attention to detail"
+			]
+		},
+		{
+			"id": 12,
+			"title": "Art Researcher",
+			"company": {
+				"name": "Art Research Institute",
+				"phone": "(555) 302-3030",
+				"email": "jobs@artresearchinstitute.com"
+			},
+			"location": "Portland, OR",
+			"description": "Conduct research on art history, artists, and cultural movements. Contribute to academic publications and museum exhibitions.",
+			"employment_type": "Full-time",
+			"salary": 60000,
+			"bonus": "Research publication bonuses",
+			"benefits_package": [
+				"Health insurance with dental",
+				"401(k) retirement plan",
+				"Research conference attendance",
+				"Professional development budget"
+			],
+			"date_posted": "2024-01-17",
+			"requirements": [
+				"Art history degree or experience",
+				"Research and writing skills",
+				"Knowledge of art movements",
+				"Academic background preferred"
+			]
+		},
+		{
+			"id": 13,
+			"title": "Art Event Coordinator",
+			"company": {
+				"name": "Art Events Management",
+				"phone": "(555) 303-3040",
+				"email": "careers@arteventsmanagement.com"
+			},
+			"location": "Charlotte, NC",
+			"description": "Plan and coordinate art exhibitions, gallery openings, and cultural events. Manage logistics, artist relationships, and event marketing.",
+			"employment_type": "Full-time",
+			"salary": 50000,
+			"bonus": "Event success bonuses",
+			"benefits_package": [
+				"Health and dental coverage",
+				"401(k) with company match",
+				"Event planning tools",
+				"Professional development opportunities"
+			],
+			"date_posted": "2024-01-16",
+			"requirements": [
+				"Event coordination experience",
+				"Knowledge of art world",
+				"Strong organizational skills",
+				"Artist relationship management"
+			]
+		},
+		{
+			"id": 14,
+			"title": "Art Appraiser",
+			"company": {
+				"name": "Art Appraisal Services",
+				"phone": "(555) 304-3050",
+				"email": "jobs@artappraisalservices.com"
+			},
+			"location": "Minneapolis, MN",
+			"description": "Evaluate and appraise artwork for insurance, sales, and estate purposes. Provide expert opinions on artwork value and authenticity.",
+			"employment_type": "Full-time",
+			"salary": 65000,
+			"bonus": "Appraisal accuracy bonuses",
+			"benefits_package": [
+				"Health insurance with dental",
+				"401(k) retirement plan",
+				"Appraisal certification support",
+				"Professional development budget"
+			],
+			"date_posted": "2024-01-15",
+			"requirements": [
+				"Art appraisal certification",
+				"Knowledge of art market",
+				"Research and analysis skills",
+				"Understanding of art authentication"
+			]
+		},
+		{
+			"id": 15,
+			"title": "Art Social Media Manager",
+			"company": {
+				"name": "Art Social Media Pro",
+				"phone": "(555) 305-3060",
+				"email": "careers@artsocialmediapro.com"
+			},
+			"location": "Salt Lake City, UT",
+			"description": "Manage social media presence for artists, galleries, and art organizations. Create engaging content that showcases artwork and builds online communities.",
+			"employment_type": "Full-time",
+			"salary": 50000,
+			"bonus": "Social media growth bonuses",
+			"benefits_package": [
+				"Health and dental insurance",
+				"401(k) with company match",
+				"Social media tools access",
+				"Professional development opportunities"
+			],
+			"date_posted": "2024-01-14",
+			"requirements": [
+				"Social media management experience",
+				"Knowledge of art world",
+				"Content creation skills",
+				"Community engagement abilities"
+			]
+		},
+		{
+			"id": 16,
+			"title": "Art Video Producer",
+			"company": {
+				"name": "Art Video Productions",
+				"phone": "(555) 306-3070",
+				"email": "jobs@artvideoproductions.com"
+			},
+			"location": "Las Vegas, NV",
+			"description": "Create video content for artists, galleries, and art organizations. Produce artist interviews, exhibition documentation, and promotional videos.",
+			"employment_type": "Full-time",
+			"salary": 55000,
+			"bonus": "Video performance bonuses",
+			"benefits_package": [
+				"Health insurance with vision",
+				"401(k) retirement plan",
+				"Video production equipment",
+				"Professional development budget"
+			],
+			"date_posted": "2024-01-13",
+			"requirements": [
+				"Video production experience",
+				"Knowledge of art world",
+				"Storytelling abilities",
+				"Technical video skills"
+			]
+		},
+		{
+			"id": 17,
+			"title": "Art Technology Specialist",
+			"company": {
+				"name": "Art Tech Solutions",
+				"phone": "(555) 307-3080",
+				"email": "careers@arttechsolutions.com"
+			},
+			"location": "San Diego, CA",
+			"description": "Implement and support technology solutions for art organizations. Manage digital art platforms, virtual exhibitions, and art-related software.",
+			"employment_type": "Full-time",
+			"salary": 60000,
+			"bonus": "Technology adoption bonuses",
+			"benefits_package": [
+				"Health and dental coverage",
+				"401(k) with company match",
+				"Latest art technology access",
+				"Professional development budget"
+			],
+			"date_posted": "2024-01-12",
+			"requirements": [
+				"Technology implementation experience",
+				"Knowledge of art platforms",
+				"Technical support skills",
+				"Understanding of digital art"
+			]
+		},
+		{
+			"id": 18,
+			"title": "Art Innovation Specialist",
+			"company": {
+				"name": "Art Innovation Lab",
+				"phone": "(555) 308-3090",
+				"email": "jobs@artinnovationlab.com"
+			},
+			"location": "Dallas, TX",
+			"description": "Explore and implement innovative art technologies and techniques. Research new art forms, digital tools, and creative technologies.",
+			"employment_type": "Full-time",
+			"salary": 65000,
+			"bonus": "Innovation project bonuses",
+			"benefits_package": [
+				"Health insurance with dental",
+				"401(k) with company match",
+				"Innovation research opportunities",
+				"Professional development budget"
+			],
+			"date_posted": "2024-01-11",
+			"requirements": [
+				"Art innovation experience",
+				"Research and development skills",
+				"Knowledge of emerging art technologies",
+				"Innovation mindset"
+			]
+		},
+		{
+			"id": 19,
+			"title": "Art Quality Assurance Manager",
+			"company": {
+				"name": "Art Quality Institute",
+				"phone": "(555) 309-3000",
+				"email": "careers@artqualityinstitute.com"
+			},
+			"location": "Houston, TX",
+			"description": "Ensure quality standards for art production, reproduction, and display. Develop quality metrics and implement quality control processes.",
+			"employment_type": "Full-time",
+			"salary": 55000,
+			"bonus": "Quality improvement bonuses",
+			"benefits_package": [
+				"Health and dental insurance",
+				"401(k) retirement plan",
+				"Quality assurance training",
+				"Professional development budget"
+			],
+			"date_posted": "2024-01-10",
+			"requirements": [
+				"Quality assurance experience",
+				"Knowledge of art materials",
+				"Attention to detail",
+				"Process improvement skills"
+			]
+		},
+		{
+			"id": 20,
+			"title": "Art Partnership Manager",
+			"company": {
+				"name": "Art Partnerships Pro",
+				"phone": "(555) 300-3010",
+				"email": "jobs@artpartnershipspro.com"
+			},
+			"location": "Orlando, FL",
+			"description": "Develop and manage partnerships between art organizations, galleries, and cultural institutions. Build collaborative relationships to enhance artistic opportunities.",
+			"employment_type": "Full-time",
+			"salary": 55000,
+			"bonus": "Partnership success bonuses",
+			"benefits_package": [
+				"Health insurance with dental",
+				"401(k) with company match",
+				"Partnership development training",
+				"Professional development opportunities"
+			],
+			"date_posted": "2024-01-09",
+			"requirements": [
+				"Partnership management experience",
+				"Knowledge of art world",
+				"Relationship building skills",
+				"Cultural sector experience"
+			]
+		}
+	],
+	"tech": [
+		{
+			"id": 1,
+			"title": "Software Engineer",
+			"company": {
+				"name": "Tech Innovations Inc",
+				"phone": "(555) 401-4020",
+				"email": "careers@techinnovationsinc.com"
+			},
+			"location": "San Francisco, CA",
+			"description": "Develop high-quality software applications and systems. Write clean, efficient code, collaborate with cross-functional teams, and contribute to product development.",
+			"employment_type": "Full-time",
+			"salary": 120000,
+			"bonus": "Performance-based bonuses up to 25%",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Flexible work arrangements",
+				"Professional development budget"
+			],
+			"date_posted": "2024-01-28",
+			"requirements": [
+				"3+ years software development experience",
+				"Proficiency in multiple programming languages",
+				"Strong problem-solving skills",
+				"Experience with modern development practices"
+			]
+		},
+		{
+			"id": 2,
+			"title": "Data Scientist",
+			"company": {
+				"name": "Data Analytics Pro",
+				"phone": "(555) 402-4030",
+				"email": "jobs@dataanalyticspro.com"
+			},
+			"location": "New York, NY",
+			"description": "Analyze complex data sets to extract insights and drive business decisions. Develop machine learning models and statistical analyses for predictive analytics.",
+			"employment_type": "Full-time",
+			"salary": 110000,
+			"bonus": "Model performance bonuses",
+			"benefits_package": [
+				"Comprehensive health coverage",
+				"401(k) retirement plan",
+				"Latest analytics tools access",
+				"Professional development budget"
+			],
+			"date_posted": "2024-01-27",
+			"requirements": [
+				"Advanced degree in statistics, computer science, or related field",
+				"Experience with Python, R, or similar",
+				"Machine learning and statistical modeling skills",
+				"Strong analytical and communication abilities"
+			]
+		},
+		{
+			"id": 3,
+			"title": "DevOps Engineer",
+			"company": {
+				"name": "Cloud Infrastructure Solutions",
+				"phone": "(555) 403-4040",
+				"email": "careers@cloudinfrastructuresolutions.com"
+			},
+			"location": "Seattle, WA",
+			"description": "Manage and optimize cloud infrastructure and deployment pipelines. Implement CI/CD processes, monitor system performance, and ensure reliable software delivery.",
+			"employment_type": "Full-time",
+			"salary": 100000,
+			"bonus": "Infrastructure reliability bonuses",
+			"benefits_package": [
+				"Health and dental insurance",
+				"401(k) with company match",
+				"Cloud platform certifications",
+				"Professional development opportunities"
+			],
+			"date_posted": "2024-01-26",
+			"requirements": [
+				"DevOps experience with cloud platforms",
+				"Knowledge of CI/CD tools and practices",
+				"Infrastructure as code experience",
+				"Strong troubleshooting skills"
+			]
+		},
+		{
+			"id": 4,
+			"title": "Product Manager",
+			"company": {
+				"name": "Product Strategy Institute",
+				"phone": "(555) 404-4050",
+				"email": "jobs@productstrategyinstitute.com"
+			},
+			"location": "Austin, TX",
+			"description": "Lead product development from concept to launch. Define product strategy, gather requirements, and coordinate with engineering teams to deliver successful products.",
+			"employment_type": "Full-time",
+			"salary": 95000,
+			"bonus": "Product success bonuses",
+			"benefits_package": [
+				"Health insurance with dental",
+				"401(k) retirement plan",
+				"Product management training",
+				"Professional development budget"
+			],
+			"date_posted": "2024-01-25",
+			"requirements": [
+				"3+ years product management experience",
+				"Strong analytical and strategic thinking",
+				"Excellent communication skills",
+				"Technical background preferred"
+			]
+		},
+		{
+			"id": 5,
+			"title": "Cybersecurity Analyst",
+			"company": {
+				"name": "Cyber Security Pro",
+				"phone": "(555) 405-4060",
+				"email": "careers@cybersecuritypro.com"
+			},
+			"location": "Washington, DC",
+			"description": "Protect systems and networks from cyber threats. Monitor security events, investigate incidents, and implement security measures to safeguard digital assets.",
+			"employment_type": "Full-time",
+			"salary": 85000,
+			"bonus": "Security incident prevention bonuses",
+			"benefits_package": [
+				"Health and dental coverage",
+				"401(k) with company match",
+				"Security certification support",
+				"Professional development opportunities"
+			],
+			"date_posted": "2024-01-24",
+			"requirements": [
+				"Cybersecurity experience",
+				"Knowledge of security tools and practices",
+				"Incident response skills",
+				"Relevant certifications preferred"
+			]
+		},
+		{
+			"id": 6,
+			"title": "Frontend Developer",
+			"company": {
+				"name": "Web Development Studio",
+				"phone": "(555) 406-4070",
+				"email": "jobs@webdevelopmentstudio.com"
+			},
+			"location": "Los Angeles, CA",
+			"description": "Create responsive and interactive user interfaces. Build modern web applications using HTML, CSS, JavaScript, and frontend frameworks.",
+			"employment_type": "Full-time",
+			"salary": 90000,
+			"bonus": "UI/UX quality bonuses",
+			"benefits_package": [
+				"Health insurance with vision",
+				"401(k) retirement plan",
+				"Latest development tools access",
+				"Professional development budget"
+			],
+			"date_posted": "2024-01-23",
+			"requirements": [
+				"Frontend development experience",
+				"Proficiency in modern JavaScript frameworks",
+				"Understanding of responsive design",
+				"Strong attention to detail"
+			]
+		},
+		{
+			"id": 7,
+			"title": "Backend Developer",
+			"company": {
+				"name": "Backend Systems Pro",
+				"phone": "(555) 407-4080",
+				"email": "careers@backendsystemspro.com"
+			},
+			"location": "Chicago, IL",
+			"description": "Develop server-side applications and APIs. Design database schemas, implement business logic, and ensure system scalability and performance.",
+			"employment_type": "Full-time",
+			"salary": 95000,
+			"bonus": "System performance bonuses",
+			"benefits_package": [
+				"Health and dental insurance",
+				"401(k) with company match",
+				"Backend development tools",
+				"Professional development opportunities"
+			],
+			"date_posted": "2024-01-22",
+			"requirements": [
+				"Backend development experience",
+				"Database design and optimization skills",
+				"API development knowledge",
+				"Understanding of server architecture"
+			]
+		},
+		{
+			"id": 8,
+			"title": "Machine Learning Engineer",
+			"company": {
+				"name": "ML Engineering Institute",
+				"phone": "(555) 408-4090",
+				"email": "jobs@mlengineeringinstitute.com"
+			},
+			"location": "Boston, MA",
+			"description": "Design and implement machine learning systems and algorithms. Develop scalable ML pipelines and deploy models to production environments.",
+			"employment_type": "Full-time",
+			"salary": 120000,
+			"bonus": "Model deployment success bonuses",
+			"benefits_package": [
+				"Health insurance with dental",
+				"401(k) retirement plan",
+				"ML platform and tools access",
+				"Professional development budget"
+			],
+			"date_posted": "2024-01-21",
+			"requirements": [
+				"Machine learning engineering experience",
+				"Strong programming skills",
+				"Knowledge of ML frameworks",
+				"Experience with model deployment"
+			]
+		},
+		{
+			"id": 9,
+			"title": "Cloud Architect",
+			"company": {
+				"name": "Cloud Architecture Solutions",
+				"phone": "(555) 409-4000",
+				"email": "careers@cloudarchitecturesolutions.com"
+			},
+			"location": "Denver, CO",
+			"description": "Design and implement cloud infrastructure solutions. Create scalable, secure, and cost-effective cloud architectures for enterprise applications.",
+			"employment_type": "Full-time",
+			"salary": 110000,
+			"bonus": "Architecture optimization bonuses",
+			"benefits_package": [
+				"Health and dental coverage",
+				"401(k) with company match",
+				"Cloud platform certifications",
+				"Professional development opportunities"
+			],
+			"date_posted": "2024-01-20",
+			"requirements": [
+				"Cloud architecture experience",
+				"Knowledge of major cloud platforms",
+				"Infrastructure design skills",
+				"Security and compliance knowledge"
+			]
+		},
+		{
+			"id": 10,
+			"title": "QA Engineer",
+			"company": {
+				"name": "Quality Assurance Pro",
+				"phone": "(555) 400-4010",
+				"email": "jobs@qualityassurancepro.com"
+			},
+			"location": "Phoenix, AZ",
+			"description": "Ensure software quality through comprehensive testing. Develop test plans, automate testing processes, and identify and report software defects.",
+			"employment_type": "Full-time",
+			"salary": 75000,
+			"bonus": "Quality improvement bonuses",
+			"benefits_package": [
+				"Health insurance with vision",
+				"401(k) retirement plan",
+				"Testing tools and software access",
+				"Professional development budget"
+			],
+			"date_posted": "2024-01-19",
+			"requirements": [
+				"QA engineering experience",
+				"Automated testing skills",
+				"Knowledge of testing methodologies",
+				"Strong attention to detail"
+			]
+		},
+		{
+			"id": 11,
+			"title": "Technical Lead",
+			"company": {
+				"name": "Technical Leadership Institute",
+				"phone": "(555) 401-4020",
+				"email": "careers@technicalleadershipinstitute.com"
+			},
+			"location": "Nashville, TN",
+			"description": "Lead development teams and provide technical guidance. Make architectural decisions, mentor developers, and ensure code quality and best practices.",
+			"employment_type": "Full-time",
+			"salary": 130000,
+			"bonus": "Team performance bonuses",
+			"benefits_package": [
+				"Health and dental insurance",
+				"401(k) with company match",
+				"Leadership development training",
+				"Professional development budget"
+			],
+			"date_posted": "2024-01-18",
+			"requirements": [
+				"5+ years development experience",
+				"Team leadership skills",
+				"Strong technical expertise",
+				"Excellent communication abilities"
+			]
+		},
+		{
+			"id": 12,
+			"title": "Database Administrator",
+			"company": {
+				"name": "Database Management Pro",
+				"phone": "(555) 402-4030",
+				"email": "jobs@databasemanagementpro.com"
+			},
+			"location": "Portland, OR",
+			"description": "Manage and optimize database systems. Ensure data integrity, performance, and security while supporting application development teams.",
+			"employment_type": "Full-time",
+			"salary": 85000,
+			"bonus": "Database performance bonuses",
+			"benefits_package": [
+				"Health insurance with dental",
+				"401(k) retirement plan",
+				"Database certification support",
+				"Professional development budget"
+			],
+			"date_posted": "2024-01-17",
+			"requirements": [
+				"Database administration experience",
+				"Knowledge of SQL and database systems",
+				"Performance optimization skills",
+				"Backup and recovery expertise"
+			]
+		},
+		{
+			"id": 13,
+			"title": "Network Engineer",
+			"company": {
+				"name": "Network Engineering Solutions",
+				"phone": "(555) 403-4040",
+				"email": "careers@networkengineeringsolutions.com"
+			},
+			"location": "Charlotte, NC",
+			"description": "Design, implement, and maintain network infrastructure. Ensure network security, performance, and reliability for enterprise environments.",
+			"employment_type": "Full-time",
+			"salary": 80000,
+			"bonus": "Network reliability bonuses",
+			"benefits_package": [
+				"Health and dental coverage",
+				"401(k) with company match",
+				"Network certification support",
+				"Professional development opportunities"
+			],
+			"date_posted": "2024-01-16",
+			"requirements": [
+				"Network engineering experience",
+				"Knowledge of networking protocols",
+				"Network security skills",
+				"Troubleshooting abilities"
+			]
+		},
+		{
+			"id": 14,
+			"title": "Mobile App Developer",
+			"company": {
+				"name": "Mobile Development Studio",
+				"phone": "(555) 404-4050",
+				"email": "jobs@mobiledevelopmentstudio.com"
+			},
+			"location": "Minneapolis, MN",
+			"description": "Develop native and cross-platform mobile applications. Create user-friendly mobile experiences for iOS and Android platforms.",
+			"employment_type": "Full-time",
+			"salary": 90000,
+			"bonus": "App performance bonuses",
+			"benefits_package": [
+				"Health insurance with dental",
+				"401(k) retirement plan",
+				"Mobile development tools access",
+				"Professional development budget"
+			],
+			"date_posted": "2024-01-15",
+			"requirements": [
+				"Mobile app development experience",
+				"iOS and/or Android development skills",
+				"Understanding of mobile UI/UX",
+				"App store deployment experience"
+			]
+		},
+		{
+			"id": 15,
+			"title": "Tech Support Specialist",
+			"company": {
+				"name": "Technical Support Pro",
+				"phone": "(555) 405-4060",
+				"email": "careers@technicalsupportpro.com"
+			},
+			"location": "Salt Lake City, UT",
+			"description": "Provide technical support and troubleshooting for software and hardware issues. Assist users with technical problems and maintain system functionality.",
+			"employment_type": "Full-time",
+			"salary": 55000,
+			"bonus": "Customer satisfaction bonuses",
+			"benefits_package": [
+				"Health and dental insurance",
+				"401(k) with company match",
+				"Technical training opportunities",
+				"Professional development budget"
+			],
+			"date_posted": "2024-01-14",
+			"requirements": [
+				"Technical support experience",
+				"Strong troubleshooting skills",
+				"Excellent customer service abilities",
+				"Knowledge of common software and hardware"
+			]
+		},
+		{
+			"id": 16,
+			"title": "Tech Project Manager",
+			"company": {
+				"name": "Tech Project Management",
+				"phone": "(555) 406-4070",
+				"email": "jobs@techprojectmanagement.com"
+			},
+			"location": "Las Vegas, NV",
+			"description": "Manage technology projects from initiation to completion. Coordinate development teams, track project progress, and ensure successful delivery.",
+			"employment_type": "Full-time",
+			"salary": 95000,
+			"bonus": "Project success bonuses",
+			"benefits_package": [
+				"Health insurance with vision",
+				"401(k) retirement plan",
+				"Project management tools access",
+				"Professional development budget"
+			],
+			"date_posted": "2024-01-13",
+			"requirements": [
+				"Technical project management experience",
+				"Agile and Scrum methodologies",
+				"Team coordination skills",
+				"Technical background preferred"
+			]
+		},
+		{
+			"id": 17,
+			"title": "Tech Innovation Specialist",
+			"company": {
+				"name": "Tech Innovation Lab",
+				"phone": "(555) 407-4080",
+				"email": "careers@techinnovationlab.com"
+			},
+			"location": "San Diego, CA",
+			"description": "Research and implement cutting-edge technologies and solutions. Explore emerging tech trends and develop innovative applications.",
+			"employment_type": "Full-time",
+			"salary": 100000,
+			"bonus": "Innovation project bonuses",
+			"benefits_package": [
+				"Health and dental coverage",
+				"401(k) with company match",
+				"Latest technology access",
+				"Professional development budget"
+			],
+			"date_posted": "2024-01-12",
+			"requirements": [
+				"Technology innovation experience",
+				"Research and development skills",
+				"Knowledge of emerging technologies",
+				"Innovation mindset"
+			]
+		},
+		{
+			"id": 18,
+			"title": "Tech Marketing Manager",
+			"company": {
+				"name": "Tech Marketing Solutions",
+				"phone": "(555) 408-4090",
+				"email": "jobs@techmarketingsolutions.com"
+			},
+			"location": "Dallas, TX",
+			"description": "Develop marketing strategies for technology products and services. Create campaigns that drive product adoption and brand awareness.",
+			"employment_type": "Full-time",
+			"salary": 75000,
+			"bonus": "Marketing performance bonuses",
+			"benefits_package": [
+				"Health insurance with dental",
+				"401(k) retirement plan",
+				"Marketing tools and software",
+				"Professional development opportunities"
+			],
+			"date_posted": "2024-01-11",
+			"requirements": [
+				"Tech marketing experience",
+				"Digital marketing skills",
+				"Knowledge of technology market",
+				"Campaign management abilities"
+			]
+		},
+		{
+			"id": 19,
+			"title": "Tech Customer Success Manager",
+			"company": {
+				"name": "Tech Customer Success Pro",
+				"phone": "(555) 409-4000",
+				"email": "careers@techcustomersuccesspro.com"
+			},
+			"location": "Houston, TX",
+			"description": "Ensure customer satisfaction with technology products and services. Provide support, training, and guidance to help customers maximize value.",
+			"employment_type": "Full-time",
+			"salary": 65000,
+			"bonus": "Customer retention bonuses",
+			"benefits_package": [
+				"Health and dental insurance",
+				"401(k) with company match",
+				"Customer success training",
+				"Professional development opportunities"
+			],
+			"date_posted": "2024-01-10",
+			"requirements": [
+				"Customer success experience",
+				"Technical product knowledge",
+				"Strong communication skills",
+				"Problem-solving abilities"
+			]
+		},
+		{
+			"id": 20,
+			"title": "Tech Strategy Consultant",
+			"company": {
+				"name": "Tech Strategy Group",
+				"phone": "(555) 400-4010",
+				"email": "jobs@techstrategygroup.com"
+			},
+			"location": "Orlando, FL",
+			"description": "Provide strategic technology consulting services to organizations. Develop technology roadmaps, optimize IT infrastructure, and support digital transformation.",
+			"employment_type": "Full-time",
+			"salary": 110000,
+			"bonus": "Consulting success bonuses",
+			"benefits_package": [
+				"Comprehensive health benefits",
+				"401(k) with generous match",
+				"Consulting training opportunities",
+				"Professional development budget"
+			],
+			"date_posted": "2024-01-09",
+			"requirements": [
+				"Technology consulting experience",
+				"Strategic planning skills",
+				"Strong analytical abilities",
+				"Client relationship management"
+			]
+		}
+	],
+	"customer": [
+		{
+			"id": 1,
+			"title": "Customer Support Specialist",
+			"company": {
+				"name": "Support Solutions Inc.",
+				"phone": "(555) 501-5020",
+				"email": "careers@supportsolutions.com"
+			},
+			"location": "Dallas, TX",
+			"description": "Provide exceptional customer support via phone, email, and chat. Resolve customer issues, answer questions, and ensure customer satisfaction.",
+			"employment_type": "Full-time",
+			"salary": 50000,
+			"bonus": "Customer satisfaction bonuses",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Remote work options",
+				"Professional development opportunities"
+			],
+			"date_posted": "2024-01-28",
+			"requirements": [
+				"2+ years customer support experience",
+				"Excellent communication skills",
+				"Problem-solving abilities",
+				"Familiarity with support software"
+			]
+		},
+		{
+			"id": 2,
+			"title": "Customer Success Manager",
+			"company": {
+				"name": "Customer Success Pro",
+				"phone": "(555) 502-5030",
+				"email": "jobs@customersuccesspro.com"
+			},
+			"location": "San Francisco, CA",
+			"description": "Manage customer relationships and ensure successful product adoption. Provide onboarding, training, and ongoing support to maximize customer value.",
+			"employment_type": "Full-time",
+			"salary": 65000,
+			"bonus": "Retention and upsell bonuses",
+			"benefits_package": [
+				"Comprehensive health coverage",
+				"401(k) retirement plan",
+				"Customer success training",
+				"Professional development budget"
+			],
+			"date_posted": "2024-01-27",
+			"requirements": [
+				"Customer success experience",
+				"Strong relationship management skills",
+				"Experience with CRM tools",
+				"Analytical and communication abilities"
+			]
+		},
+		{
+			"id": 3,
+			"title": "Call Center Representative",
+			"company": {
+				"name": "Call Center Solutions",
+				"phone": "(555) 503-5040",
+				"email": "careers@callcentersolutions.com"
+			},
+			"location": "Houston, TX",
+			"description": "Handle inbound and outbound customer calls. Address inquiries, resolve complaints, and provide information about products and services.",
+			"employment_type": "Full-time",
+			"salary": 40000,
+			"bonus": "Call quality bonuses",
+			"benefits_package": [
+				"Health and dental insurance",
+				"401(k) with company match",
+				"Call center training",
+				"Professional development opportunities"
+			],
+			"date_posted": "2024-01-26",
+			"requirements": [
+				"Call center experience",
+				"Excellent phone etiquette",
+				"Problem-solving skills",
+				"Ability to multitask"
+			]
+		},
+		{
+			"id": 4,
+			"title": "Technical Support Agent",
+			"company": {
+				"name": "Tech Support Pro",
+				"phone": "(555) 504-5050",
+				"email": "jobs@techsupportpro.com"
+			},
+			"location": "Seattle, WA",
+			"description": "Provide technical assistance to customers. Troubleshoot software and hardware issues, guide users, and escalate complex problems as needed.",
+			"employment_type": "Full-time",
+			"salary": 55000,
+			"bonus": "Resolution rate bonuses",
+			"benefits_package": [
+				"Health insurance with dental",
+				"401(k) retirement plan",
+				"Technical training opportunities",
+				"Professional development budget"
+			],
+			"date_posted": "2024-01-25",
+			"requirements": [
+				"Technical support experience",
+				"Strong troubleshooting skills",
+				"Customer service orientation",
+				"Familiarity with helpdesk systems"
+			]
+		},
+		{
+			"id": 5,
+			"title": "Client Relationship Manager",
+			"company": {
+				"name": "Client Relations Group",
+				"phone": "(555) 505-5060",
+				"email": "careers@clientrelationsgroup.com"
+			},
+			"location": "Boston, MA",
+			"description": "Build and maintain strong client relationships. Serve as the main point of contact, address client needs, and ensure high levels of satisfaction.",
+			"employment_type": "Full-time",
+			"salary": 70000,
+			"bonus": "Client retention bonuses",
+			"benefits_package": [
+				"Health and dental coverage",
+				"401(k) with company match",
+				"Client management tools",
+				"Professional development opportunities"
+			],
+			"date_posted": "2024-01-24",
+			"requirements": [
+				"Client relationship experience",
+				"Strong communication skills",
+				"CRM software proficiency",
+				"Problem-solving abilities"
+			]
+		},
+		{
+			"id": 6,
+			"title": "Customer Experience Analyst",
+			"company": {
+				"name": "CX Analytics Pro",
+				"phone": "(555) 506-5070",
+				"email": "jobs@cxanalyticspro.com"
+			},
+			"location": "Miami, FL",
+			"description": "Analyze customer feedback and experience data. Identify trends, recommend improvements, and help enhance the overall customer journey.",
+			"employment_type": "Full-time",
+			"salary": 60000,
+			"bonus": "CX improvement bonuses",
+			"benefits_package": [
+				"Health insurance with vision",
+				"401(k) retirement plan",
+				"Analytics tools access",
+				"Professional development budget"
+			],
+			"date_posted": "2024-01-23",
+			"requirements": [
+				"Customer experience analysis",
+				"Data analysis skills",
+				"Experience with CX tools",
+				"Strong communication abilities"
+			]
+		},
+		{
+			"id": 7,
+			"title": "Customer Onboarding Specialist",
+			"company": {
+				"name": "Onboarding Solutions",
+				"phone": "(555) 507-5080",
+				"email": "careers@onboardingsolutions.com"
+			},
+			"location": "Portland, OR",
+			"description": "Guide new customers through the onboarding process. Ensure a smooth transition, provide training, and set customers up for success.",
+			"employment_type": "Full-time",
+			"salary": 55000,
+			"bonus": "Onboarding success bonuses",
+			"benefits_package": [
+				"Health and dental insurance",
+				"401(k) with company match",
+				"Onboarding tools and resources",
+				"Professional development opportunities"
+			],
+			"date_posted": "2024-01-22",
+			"requirements": [
+				"Onboarding experience",
+				"Training and teaching skills",
+				"Customer service orientation",
+				"Strong organizational abilities"
+			]
+		},
+		{
+			"id": 8,
+			"title": "Customer Retention Specialist",
+			"company": {
+				"name": "Retention Experts",
+				"phone": "(555) 508-5090",
+				"email": "jobs@retentionexperts.com"
+			},
+			"location": "Charlotte, NC",
+			"description": "Develop and implement strategies to retain customers. Analyze churn data, reach out to at-risk customers, and improve retention rates.",
+			"employment_type": "Full-time",
+			"salary": 60000,
+			"bonus": "Retention improvement bonuses",
+			"benefits_package": [
+				"Health and dental coverage",
+				"401(k) with company match",
+				"Retention analytics tools",
+				"Professional development budget"
+			],
+			"date_posted": "2024-01-21",
+			"requirements": [
+				"Customer retention experience",
+				"Data analysis skills",
+				"Customer outreach abilities",
+				"Problem-solving skills"
+			]
+		},
+		{
+			"id": 9,
+			"title": "Customer Insights Analyst",
+			"company": {
+				"name": "Insights Analytics Group",
+				"phone": "(555) 509-5000",
+				"email": "careers@insightsanalyticsgroup.com"
+			},
+			"location": "San Diego, CA",
+			"description": "Gather and analyze customer data to provide actionable insights. Support marketing, sales, and product teams with customer intelligence.",
+			"employment_type": "Full-time",
+			"salary": 65000,
+			"bonus": "Insight-driven bonuses",
+			"benefits_package": [
+				"Health insurance with dental",
+				"401(k) retirement plan",
+				"Analytics software access",
+				"Professional development budget"
+			],
+			"date_posted": "2024-01-20",
+			"requirements": [
+				"Customer insights analysis",
+				"Data analysis and visualization",
+				"Experience with analytics tools",
+				"Strong communication skills"
+			]
+		},
+		{
+			"id": 10,
+			"title": "Customer Service Trainer",
+			"company": {
+				"name": "Service Training Solutions",
+				"phone": "(555) 500-5010",
+				"email": "jobs@servicetrainingsolutions.com"
+			},
+			"location": "Minneapolis, MN",
+			"description": "Train customer service teams on best practices and company policies. Develop training materials, conduct workshops, and monitor training effectiveness.",
+			"employment_type": "Full-time",
+			"salary": 60000,
+			"bonus": "Training effectiveness bonuses",
+			"benefits_package": [
+				"Health insurance with vision",
+				"401(k) retirement plan",
+				"Training resources and tools",
+				"Professional development budget"
+			],
+			"date_posted": "2024-01-19",
+			"requirements": [
+				"Customer service training experience",
+				"Presentation and teaching skills",
+				"Knowledge of customer service standards",
+				"Strong communication abilities"
+			]
+		},
+		{
+			"id": 11,
+			"title": "Customer Operations Manager",
+			"company": {
+				"name": "Customer Operations Pro",
+				"phone": "(555) 501-5020",
+				"email": "careers@customeroperationspro.com"
+			},
+			"location": "Las Vegas, NV",
+			"description": "Oversee customer operations and ensure efficient processes. Manage support teams, optimize workflows, and drive operational improvements.",
+			"employment_type": "Full-time",
+			"salary": 75000,
+			"bonus": "Operational efficiency bonuses",
+			"benefits_package": [
+				"Health and dental insurance",
+				"401(k) with company match",
+				"Operations management training",
+				"Professional development budget"
+			],
+			"date_posted": "2024-01-18",
+			"requirements": [
+				"Customer operations management",
+				"Process optimization skills",
+				"Team leadership abilities",
+				"Experience with support operations"
+			]
+		},
+		{
+			"id": 12,
+			"title": "Customer Engagement Coordinator",
+			"company": {
+				"name": "Engagement Solutions",
+				"phone": "(555) 502-5030",
+				"email": "jobs@engagementsolutions.com"
+			},
+			"location": "Orlando, FL",
+			"description": "Coordinate customer engagement initiatives and campaigns. Foster relationships, organize events, and drive customer participation.",
+			"employment_type": "Full-time",
+			"salary": 55000,
+			"bonus": "Engagement growth bonuses",
+			"benefits_package": [
+				"Health and dental coverage",
+				"401(k) with company match",
+				"Engagement tools and resources",
+				"Professional development opportunities"
+			],
+			"date_posted": "2024-01-17",
+			"requirements": [
+				"Customer engagement experience",
+				"Event planning skills",
+				"Relationship building abilities",
+				"Strong communication skills"
+			]
+		},
+		{
+			"id": 13,
+			"title": "Customer Feedback Analyst",
+			"company": {
+				"name": "Feedback Analytics Pro",
+				"phone": "(555) 503-5040",
+				"email": "careers@feedbackanalyticspro.com"
+			},
+			"location": "San Diego, CA",
+			"description": "Analyze customer feedback and survey data. Identify areas for improvement and provide actionable recommendations to enhance customer experience.",
+			"employment_type": "Full-time",
+			"salary": 60000,
+			"bonus": "Feedback-driven bonuses",
+			"benefits_package": [
+				"Health insurance with dental",
+				"401(k) retirement plan",
+				"Feedback analytics tools",
+				"Professional development budget"
+			],
+			"date_posted": "2024-01-16",
+			"requirements": [
+				"Feedback analysis experience",
+				"Survey design and analysis skills",
+				"Data visualization abilities",
+				"Strong communication skills"
+			]
+		},
+		{
+			"id": 14,
+			"title": "Customer Loyalty Program Manager",
+			"company": {
+				"name": "Loyalty Solutions Group",
+				"phone": "(555) 504-5050",
+				"email": "jobs@loyaltysolutionsgroup.com"
+			},
+			"location": "Boston, MA",
+			"description": "Develop and manage customer loyalty programs. Increase customer retention, track program performance, and optimize rewards strategies.",
+			"employment_type": "Full-time",
+			"salary": 70000,
+			"bonus": "Loyalty program growth bonuses",
+			"benefits_package": [
+				"Health and dental insurance",
+				"401(k) with company match",
+				"Loyalty program tools",
+				"Professional development opportunities"
+			],
+			"date_posted": "2024-01-15",
+			"requirements": [
+				"Loyalty program management",
+				"Marketing and analytics skills",
+				"Customer retention experience",
+				"Strong organizational abilities"
+			]
+		},
+		{
+			"id": 15,
+			"title": "Customer Billing Specialist",
+			"company": {
+				"name": "Billing Solutions Pro",
+				"phone": "(555) 505-5060",
+				"email": "careers@billingsolutionspro.com"
+			},
+			"location": "Phoenix, AZ",
+			"description": "Manage customer billing and invoicing processes. Resolve billing issues, process payments, and ensure accurate financial records.",
+			"employment_type": "Full-time",
+			"salary": 50000,
+			"bonus": "Billing accuracy bonuses",
+			"benefits_package": [
+				"Health insurance with vision",
+				"401(k) retirement plan",
+				"Billing software access",
+				"Professional development budget"
+			],
+			"date_posted": "2024-01-14",
+			"requirements": [
+				"Billing and invoicing experience",
+				"Attention to detail",
+				"Financial recordkeeping skills",
+				"Customer service orientation"
+			]
+		},
+		{
+			"id": 16,
+			"title": "Customer Solutions Architect",
+			"company": {
+				"name": "Solutions Architecture Group",
+				"phone": "(555) 506-5070",
+				"email": "jobs@solutionsarchitecturegroup.com"
+			},
+			"location": "Chicago, IL",
+			"description": "Design and implement customer solutions for complex business needs. Collaborate with sales, product, and engineering teams to deliver tailored solutions.",
+			"employment_type": "Full-time",
+			"salary": 95000,
+			"bonus": "Solution delivery bonuses",
+			"benefits_package": [
+				"Health and dental insurance",
+				"401(k) with company match",
+				"Solution design tools",
+				"Professional development opportunities"
+			],
+			"date_posted": "2024-01-13",
+			"requirements": [
+				"Solution architecture experience",
+				"Technical and business analysis skills",
+				"Collaboration abilities",
+				"Customer-focused mindset"
+			]
+		},
+		{
+			"id": 17,
+			"title": "Customer Advocacy Manager",
+			"company": {
+				"name": "Advocacy Solutions",
+				"phone": "(555) 507-5080",
+				"email": "careers@advocacysolutions.com"
+			},
+			"location": "San Francisco, CA",
+			"description": "Champion the voice of the customer within the organization. Collect feedback, advocate for customer needs, and drive customer-centric initiatives.",
+			"employment_type": "Full-time",
+			"salary": 70000,
+			"bonus": "Advocacy impact bonuses",
+			"benefits_package": [
+				"Health and dental coverage",
+				"401(k) with company match",
+				"Advocacy training",
+				"Professional development budget"
+			],
+			"date_posted": "2024-01-12",
+			"requirements": [
+				"Customer advocacy experience",
+				"Feedback collection and analysis",
+				"Strong communication skills",
+				"Customer-centric mindset"
+			]
+		},
+		{
+			"id": 18,
+			"title": "Customer Service Supervisor",
+			"company": {
+				"name": "Service Supervision Group",
+				"phone": "(555) 508-5090",
+				"email": "jobs@servicesupervisiongroup.com"
+			},
+			"location": "Houston, TX",
+			"description": "Supervise customer service teams and ensure high-quality support. Monitor performance, provide coaching, and resolve escalated issues.",
+			"employment_type": "Full-time",
+			"salary": 65000,
+			"bonus": "Team performance bonuses",
+			"benefits_package": [
+				"Health and dental insurance",
+				"401(k) with company match",
+				"Supervisory training",
+				"Professional development opportunities"
+			],
+			"date_posted": "2024-01-11",
+			"requirements": [
+				"Customer service supervision",
+				"Team leadership skills",
+				"Coaching and mentoring abilities",
+				"Problem-solving skills"
+			]
+		},
+		{
+			"id": 19,
+			"title": "Customer Account Executive",
+			"company": {
+				"name": "Account Executive Solutions",
+				"phone": "(555) 509-5000",
+				"email": "careers@accountexecutivesolutions.com"
+			},
+			"location": "Miami, FL",
+			"description": "Manage customer accounts and drive revenue growth. Identify upsell opportunities, negotiate contracts, and ensure customer satisfaction.",
+			"employment_type": "Full-time",
+			"salary": 80000,
+			"bonus": "Sales and retention bonuses",
+			"benefits_package": [
+				"Health insurance with dental",
+				"401(k) retirement plan",
+				"Account management tools",
+				"Professional development budget"
+			],
+			"date_posted": "2024-01-10",
+			"requirements": [
+				"Account management experience",
+				"Sales and negotiation skills",
+				"Customer relationship management",
+				"Strong communication abilities"
+			]
+		},
+		{
+			"id": 20,
+			"title": "Customer Community Manager",
+			"company": {
+				"name": "Community Management Pro",
+				"phone": "(555) 500-5010",
+				"email": "jobs@communitymanagementpro.com"
+			},
+			"location": "Nashville, TN",
+			"description": "Build and manage online customer communities. Foster engagement, moderate discussions, and create content that supports community growth.",
+			"employment_type": "Full-time",
+			"salary": 60000,
+			"bonus": "Community growth bonuses",
+			"benefits_package": [
+				"Health and dental insurance",
+				"401(k) with company match",
+				"Community management tools",
+				"Professional development opportunities"
+			],
+			"date_posted": "2024-01-09",
+			"requirements": [
+				"Community management experience",
+				"Online engagement skills",
+				"Content creation abilities",
+				"Strong communication skills"
+			]
+		}
+	],
+	"marketing": [
+		{
+			"id": 1,
+			"title": "Marketing Coordinator",
+			"company": {
+				"name": "Marketing Solutions Inc.",
+				"phone": "(555) 601-6020",
+				"email": "careers@marketingsolutions.com"
+			},
+			"location": "New York, NY",
+			"description": "Coordinate marketing campaigns and support the marketing team. Assist with project management, event planning, and campaign execution.",
+			"employment_type": "Full-time",
+			"salary": 55000,
+			"bonus": "Campaign success bonuses",
+			"benefits_package": [
+				"Health, dental, and vision insurance",
+				"401(k) with company match",
+				"Marketing tools access",
+				"Professional development opportunities"
+			],
+			"date_posted": "2024-01-28",
+			"requirements": [
+				"2+ years marketing experience",
+				"Project management skills",
+				"Strong communication abilities",
+				"Familiarity with marketing software"
+			]
+		},
+		{
+			"id": 2,
+			"title": "Digital Marketing Manager",
+			"company": {
+				"name": "Digital Marketing Pro",
+				"phone": "(555) 602-6030",
+				"email": "jobs@digitalmarketingpro.com"
+			},
+			"location": "San Francisco, CA",
+			"description": "Lead digital marketing strategies and campaigns. Manage SEO, SEM, email marketing, and social media to drive brand awareness and lead generation.",
+			"employment_type": "Full-time",
+			"salary": 85000,
+			"bonus": "Digital campaign performance bonuses",
+			"benefits_package": [
+				"Comprehensive health coverage",
+				"401(k) retirement plan",
+				"Digital marketing certifications",
+				"Professional development budget"
+			],
+			"date_posted": "2024-01-27",
+			"requirements": [
+				"Digital marketing experience",
+				"SEO/SEM expertise",
+				"Email marketing skills",
+				"Analytics and reporting abilities"
+			]
+		},
+		{
+			"id": 3,
+			"title": "Content Marketing Specialist",
+			"company": {
+				"name": "Content Marketing Studio",
+				"phone": "(555) 603-6040",
+				"email": "careers@contentmarketingstudio.com"
+			},
+			"location": "Austin, TX",
+			"description": "Develop and execute content marketing strategies. Create blog posts, whitepapers, and multimedia content to engage audiences and drive traffic.",
+			"employment_type": "Full-time",
+			"salary": 70000,
+			"bonus": "Content performance bonuses",
+			"benefits_package": [
+				"Health and dental insurance",
+				"401(k) with company match",
+				"Content creation tools",
+				"Professional development opportunities"
+			],
+			"date_posted": "2024-01-26",
+			"requirements": [
+				"Content marketing experience",
+				"Strong writing and editing skills",
+				"SEO knowledge",
+				"Portfolio of content work"
+			]
+		},
+		{
+			"id": 4,
+			"title": "Social Media Strategist",
+			"company": {
+				"name": "Social Media Solutions",
+				"phone": "(555) 604-6050",
+				"email": "jobs@socialmediasolutions.com"
+			},
+			"location": "Chicago, IL",
+			"description": "Develop and implement social media strategies. Grow brand presence, engage audiences, and analyze social media performance metrics.",
+			"employment_type": "Full-time",
+			"salary": 65000,
+			"bonus": "Engagement growth bonuses",
+			"benefits_package": [
+				"Health insurance with dental",
+				"401(k) retirement plan",
+				"Social media tools access",
+				"Professional development budget"
+			],
+			"date_posted": "2024-01-25",
+			"requirements": [
+				"Social media management experience",
+				"Content creation skills",
+				"Analytics and reporting abilities",
+				"Knowledge of social media trends"
+			]
+		},
+		{
+			"id": 5,
+			"title": "Brand Manager",
+			"company": {
+				"name": "Brand Management Pro",
+				"phone": "(555) 605-6060",
+				"email": "careers@brandmanagementpro.com"
+			},
+			"location": "Boston, MA",
+			"description": "Manage brand strategy and ensure consistent messaging. Oversee brand guidelines, monitor brand reputation, and coordinate branding initiatives.",
+			"employment_type": "Full-time",
+			"salary": 80000,
+			"bonus": "Brand growth bonuses",
+			"benefits_package": [
+				"Health and dental coverage",
+				"401(k) with company match",
+				"Brand management tools",
+				"Professional development opportunities"
+			],
+			"date_posted": "2024-01-24",
+			"requirements": [
+				"Brand management experience",
+				"Strategic thinking skills",
+				"Branding and messaging expertise",
+				"Strong communication abilities"
+			]
+		},
+		{
+			"id": 6,
+			"title": "Product Marketing Manager",
+			"company": {
+				"name": "Product Marketing Solutions",
+				"phone": "(555) 606-6070",
+				"email": "jobs@productmarketingsolutions.com"
+			},
+			"location": "Seattle, WA",
+			"description": "Lead product marketing efforts for new and existing products. Develop go-to-market strategies, create product messaging, and support sales enablement.",
+			"employment_type": "Full-time",
+			"salary": 90000,
+			"bonus": "Product launch bonuses",
+			"benefits_package": [
+				"Health insurance with vision",
+				"401(k) retirement plan",
+				"Product marketing tools",
+				"Professional development budget"
+			],
+			"date_posted": "2024-01-23",
+			"requirements": [
+				"Product marketing experience",
+				"Go-to-market strategy skills",
+				"Sales enablement experience",
+				"Strong analytical abilities"
+			]
+		},
+		{
+			"id": 7,
+			"title": "Email Marketing Specialist",
+			"company": {
+				"name": "Email Marketing Pro",
+				"phone": "(555) 607-6080",
+				"email": "careers@emailmarketingpro.com"
+			},
+			"location": "Miami, FL",
+			"description": "Design and execute email marketing campaigns. Segment audiences, create compelling content, and analyze campaign performance.",
+			"employment_type": "Full-time",
+			"salary": 60000,
+			"bonus": "Email campaign performance bonuses",
+			"benefits_package": [
+				"Health and dental insurance",
+				"401(k) with company match",
+				"Email marketing tools",
+				"Professional development opportunities"
+			],
+			"date_posted": "2024-01-22",
+			"requirements": [
+				"Email marketing experience",
+				"Content creation skills",
+				"Audience segmentation abilities",
+				"Analytics and reporting skills"
+			]
+		},
+		{
+			"id": 8,
+			"title": "SEO/SEM Specialist",
+			"company": {
+				"name": "Search Marketing Studio",
+				"phone": "(555) 608-6090",
+				"email": "jobs@searchmarketingstudio.com"
+			},
+			"location": "Portland, OR",
+			"description": "Optimize website content and manage paid search campaigns. Conduct keyword research, analyze performance, and improve search engine rankings.",
+			"employment_type": "Full-time",
+			"salary": 70000,
+			"bonus": "SEO/SEM performance bonuses",
+			"benefits_package": [
+				"Health insurance with dental",
+				"401(k) retirement plan",
+				"SEO/SEM tools access",
+				"Professional development budget"
+			],
+			"date_posted": "2024-01-21",
+			"requirements": [
+				"SEO/SEM experience",
+				"Keyword research skills",
+				"Paid search campaign management",
+				"Analytics and reporting abilities"
+			]
+		},
+		{
+			"id": 9,
+			"title": "Marketing Data Analyst",
+			"company": {
+				"name": "Marketing Analytics Pro",
+				"phone": "(555) 609-6000",
+				"email": "careers@marketinganalyticspro.com"
+			},
+			"location": "Charlotte, NC",
+			"description": "Analyze marketing data to provide insights and recommendations. Track campaign performance, measure ROI, and support data-driven decision making.",
+			"employment_type": "Full-time",
+			"salary": 75000,
+			"bonus": "Insight-driven bonuses",
+			"benefits_package": [
+				"Health insurance with vision",
+				"401(k) retirement plan",
+				"Analytics software access",
+				"Professional development budget"
+			],
+			"date_posted": "2024-01-20",
+			"requirements": [
+				"Marketing data analysis experience",
+				"Statistical analysis skills",
+				"Data visualization abilities",
+				"Strong communication skills"
+			]
+		},
+		{
+			"id": 10,
+			"title": "Influencer Marketing Manager",
+			"company": {
+				"name": "Influencer Marketing Solutions",
+				"phone": "(555) 600-6010",
+				"email": "jobs@influencermarketingsolutions.com"
+			},
+			"location": "San Diego, CA",
+			"description": "Develop and manage influencer marketing campaigns. Identify influencers, negotiate partnerships, and track campaign performance.",
+			"employment_type": "Full-time",
+			"salary": 80000,
+			"bonus": "Campaign success bonuses",
+			"benefits_package": [
+				"Health and dental insurance",
+				"401(k) with company match",
+				"Influencer marketing tools",
+				"Professional development opportunities"
+			],
+			"date_posted": "2024-01-19",
+			"requirements": [
+				"Influencer marketing experience",
+				"Partnership negotiation skills",
+				"Campaign management abilities",
+				"Analytics and reporting skills"
+			]
+		},
+		{
+			"id": 11,
+			"title": "Event Marketing Coordinator",
+			"company": {
+				"name": "Event Marketing Pro",
+				"phone": "(555) 601-6020",
+				"email": "careers@eventmarketingpro.com"
+			},
+			"location": "Las Vegas, NV",
+			"description": "Plan and execute marketing events and trade shows. Coordinate logistics, manage vendors, and ensure successful event outcomes.",
+			"employment_type": "Full-time",
+			"salary": 65000,
+			"bonus": "Event success bonuses",
+			"benefits_package": [
+				"Health and dental insurance",
+				"401(k) with company match",
+				"Event planning tools",
+				"Professional development opportunities"
+			],
+			"date_posted": "2024-01-18",
+			"requirements": [
+				"Event marketing experience",
+				"Logistics and planning skills",
+				"Vendor management abilities",
+				"Strong organizational skills"
+			]
+		},
+		{
+			"id": 12,
+			"title": "Affiliate Marketing Manager",
+			"company": {
+				"name": "Affiliate Marketing Group",
+				"phone": "(555) 602-6030",
+				"email": "jobs@affiliatemarketinggroup.com"
+			},
+			"location": "Phoenix, AZ",
+			"description": "Develop and manage affiliate marketing programs. Recruit affiliates, track performance, and optimize campaigns for growth.",
+			"employment_type": "Full-time",
+			"salary": 70000,
+			"bonus": "Affiliate program growth bonuses",
+			"benefits_package": [
+				"Health insurance with vision",
+				"401(k) retirement plan",
+				"Affiliate marketing tools",
+				"Professional development budget"
+			],
+			"date_posted": "2024-01-17",
+			"requirements": [
+				"Affiliate marketing experience",
+				"Recruitment and negotiation skills",
+				"Campaign optimization abilities",
+				"Analytics and reporting skills"
+			]
+		},
+		{
+			"id": 13,
+			"title": "Marketing Automation Specialist",
+			"company": {
+				"name": "Automation Marketing Pro",
+				"phone": "(555) 603-6040",
+				"email": "careers@automationmarketingpro.com"
+			},
+			"location": "Charlotte, NC",
+			"description": "Implement and manage marketing automation platforms. Create automated workflows, segment audiences, and improve campaign efficiency.",
+			"employment_type": "Full-time",
+			"salary": 75000,
+			"bonus": "Automation efficiency bonuses",
+			"benefits_package": [
+				"Health and dental coverage",
+				"401(k) with company match",
+				"Automation tools access",
+				"Professional development opportunities"
+			],
+			"date_posted": "2024-01-16",
+			"requirements": [
+				"Marketing automation experience",
+				"Workflow design skills",
+				"Audience segmentation abilities",
+				"Technical and analytical skills"
+			]
+		},
+		{
+			"id": 14,
+			"title": "Growth Marketing Lead",
+			"company": {
+				"name": "Growth Marketing Solutions",
+				"phone": "(555) 604-6050",
+				"email": "jobs@growthmarketingsolutions.com"
+			},
+			"location": "Dallas, TX",
+			"description": "Lead growth marketing initiatives to drive user acquisition and retention. Analyze data, run experiments, and optimize marketing funnels.",
+			"employment_type": "Full-time",
+			"salary": 90000,
+			"bonus": "Growth performance bonuses",
+			"benefits_package": [
+				"Health and dental insurance",
+				"401(k) with company match",
+				"Growth marketing tools",
+				"Professional development budget"
+			],
+			"date_posted": "2024-01-15",
+			"requirements": [
+				"Growth marketing experience",
+				"Data analysis and experimentation",
+				"Funnel optimization skills",
+				"Strong analytical mindset"
+			]
+		},
+		{
+			"id": 15,
+			"title": "Marketing Copywriter",
+			"company": {
+				"name": "Copywriting Studio",
+				"phone": "(555) 605-6060",
+				"email": "careers@copywritingstudio.com"
+			},
+			"location": "Houston, TX",
+			"description": "Write compelling marketing copy for campaigns, websites, and ads. Collaborate with designers and marketers to create persuasive messaging.",
+			"employment_type": "Full-time",
+			"salary": 65000,
+			"bonus": "Copy performance bonuses",
+			"benefits_package": [
+				"Health insurance with dental",
+				"401(k) retirement plan",
+				"Copywriting tools access",
+				"Professional development budget"
+			],
+			"date_posted": "2024-01-14",
+			"requirements": [
+				"Copywriting experience",
+				"Strong writing and editing skills",
+				"Marketing collaboration abilities",
+				"Portfolio of copywriting work"
+			]
+		},
+		{
+			"id": 16,
+			"title": "Paid Media Manager",
+			"company": {
+				"name": "Paid Media Solutions",
+				"phone": "(555) 606-6070",
+				"email": "jobs@paidmediasolutions.com"
+			},
+			"location": "Salt Lake City, UT",
+			"description": "Manage paid advertising campaigns across digital channels. Optimize ad spend, track performance, and maximize ROI.",
+			"employment_type": "Full-time",
+			"salary": 80000,
+			"bonus": "Ad performance bonuses",
+			"benefits_package": [
+				"Health and dental insurance",
+				"401(k) with company match",
+				"Ad management tools",
+				"Professional development opportunities"
+			],
+			"date_posted": "2024-01-13",
+			"requirements": [
+				"Paid media management experience",
+				"Ad optimization skills",
+				"Budget management abilities",
+				"Analytics and reporting skills"
+			]
+		},
+		{
+			"id": 17,
+			"title": "PR & Communications Specialist",
+			"company": {
+				"name": "PR Communications Group",
+				"phone": "(555) 607-6080",
+				"email": "careers@prcommunicationsgroup.com"
+			},
+			"location": "Chicago, IL",
+			"description": "Manage public relations and communications for the company. Write press releases, handle media inquiries, and maintain positive brand image.",
+			"employment_type": "Full-time",
+			"salary": 70000,
+			"bonus": "PR impact bonuses",
+			"benefits_package": [
+				"Health and dental coverage",
+				"401(k) with company match",
+				"PR tools and resources",
+				"Professional development budget"
+			],
+			"date_posted": "2024-01-12",
+			"requirements": [
+				"PR and communications experience",
+				"Media relations skills",
+				"Press release writing abilities",
+				"Strong communication skills"
+			]
+		},
+		{
+			"id": 18,
+			"title": "Field Marketing Representative",
+			"company": {
+				"name": "Field Marketing Pro",
+				"phone": "(555) 608-6090",
+				"email": "jobs@fieldmarketingpro.com"
+			},
+			"location": "Minneapolis, MN",
+			"description": "Represent the company at events, trade shows, and field marketing activities. Engage with prospects, distribute materials, and collect leads.",
+			"employment_type": "Full-time",
+			"salary": 60000,
+			"bonus": "Event lead generation bonuses",
+			"benefits_package": [
+				"Health insurance with vision",
+				"401(k) retirement plan",
+				"Event marketing tools",
+				"Professional development budget"
+			],
+			"date_posted": "2024-01-11",
+			"requirements": [
+				"Field marketing experience",
+				"Event engagement skills",
+				"Lead generation abilities",
+				"Strong interpersonal skills"
+			]
+		},
+		{
+			"id": 19,
+			"title": "Creative Marketing Director",
+			"company": {
+				"name": "Creative Marketing Studio",
+				"phone": "(555) 609-6000",
+				"email": "careers@creativemarketingstudio.com"
+			},
+			"location": "San Diego, CA",
+			"description": "Lead creative direction for marketing campaigns. Oversee creative teams, develop campaign concepts, and ensure brand consistency.",
+			"employment_type": "Full-time",
+			"salary": 95000,
+			"bonus": "Creative campaign bonuses",
+			"benefits_package": [
+				"Health and dental insurance",
+				"401(k) retirement plan",
+				"Creative tools and resources",
+				"Professional development budget"
+			],
+			"date_posted": "2024-01-10",
+			"requirements": [
+				"Creative direction experience",
+				"Team leadership skills",
+				"Campaign concept development",
+				"Portfolio of creative work"
+			]
+		},
+		{
+			"id": 20,
+			"title": "Marketing Research Analyst",
+			"company": {
+				"name": "Marketing Research Group",
+				"phone": "(555) 600-6010",
+				"email": "jobs@marketingresearchgroup.com"
+			},
+			"location": "Nashville, TN",
+			"description": "Conduct market research and analyze data to support marketing strategies. Prepare reports, identify trends, and provide actionable insights.",
+			"employment_type": "Full-time",
+			"salary": 70000,
+			"bonus": "Research insight bonuses",
+			"benefits_package": [
+				"Health and dental insurance",
+				"401(k) with company match",
+				"Research tools and software",
+				"Professional development opportunities"
+			],
+			"date_posted": "2024-01-09",
+			"requirements": [
+				"Market research experience",
+				"Data analysis and reporting skills",
+				"Trend identification abilities",
+				"Strong communication skills"
+			]
+		}
+	]
+}

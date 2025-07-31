@@ -28,22 +28,7 @@ const JobsNavbar = () => {
 					Jobs by Category
 				</NavLink>
 			</nav>
-			{/* Pushing button to the right */}
-			<form action="" className="float-end mr-3 -mt-24 ">
-				<input
-					type="email"
-					name=""
-					id=""
-					placeholder="Email"
-					className="w-72 h-8 rounded-md border-2 border-gray-500"
-				/>
-			</form>
-			<button
-				className="float-end mr-3 -mt-24 md:-mt-10 h-8 w-36 relative"
-				style={{ fontFamily: "Rubik", fontSize: "15px" }}>
-				<FaBell className="absolute mt-[2px] text-lg" />
-				<span className="ml-5 ">Create Job Alert</span>
-			</button>
+			
 		</>
 	);
 };

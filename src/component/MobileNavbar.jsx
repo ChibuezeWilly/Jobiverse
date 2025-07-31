@@ -1,6 +1,6 @@
 import React from "react";
 import { NavLink } from "react-router-dom";
-import { FaHome, FaInfoCircle, FaBriefcase, FaUser } from "react-icons/fa";
+import { FaHome, FaInfoCircle, FaBriefcase } from "react-icons/fa";
 import { PiBuildingApartmentDuotone } from "react-icons/pi";
 const MobileNavbar = () => {
 	const activeLink = ({ isActive }) =>
@@ -25,8 +25,10 @@ const MobileNavbar = () => {
 					<span className="mt-5 text-sm">Find Jobs</span>
 				</NavLink>
 				<NavLink className={activeLink} to={"/employers"}>
-					<PiBuildingApartmentDuotone className="text-base block mb-1 mx-auto" />
-					<span className="relative text-base">Employers</span>
+					<PiBuildingApartmentDuotone
+						className="text-base block mb-1 mx-auto"
+					/>
+					<span className="relative text-base">Candidates</span>
 				</NavLink>
 			</nav>
 		</>

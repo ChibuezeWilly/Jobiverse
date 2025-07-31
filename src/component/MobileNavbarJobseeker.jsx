@@ -1,7 +1,7 @@
 import React from "react";
 import { NavLink } from "react-router-dom";
-import { FaHome, FaInfoCircle, FaBriefcase, FaUser } from "react-icons/fa";
-import { FaUserTie } from "react-icons/fa";
+import { FaHome, FaInfoCircle, FaBriefcase, FaUserTie } from "react-icons/fa";
+
 const MobileNavbarJobseeker = () => {
 
 	const activeLink = ({ isActive }) =>
@@ -27,7 +27,7 @@ const MobileNavbarJobseeker = () => {
 				</NavLink>
 				<NavLink className={activeLink} to={"/candidates"}>
 					<FaUserTie className="text-base block mb-1 mx-auto" />
-					<span className="relative text-base">Candidates</span>
+					<span className="relative text-base">Employers</span>
 				</NavLink>
 			</nav>
 		</>

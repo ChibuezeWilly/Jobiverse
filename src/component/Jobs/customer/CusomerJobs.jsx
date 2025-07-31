@@ -1,27 +1,14 @@
 import React from "react";
 import { useEffect } from "react";
-import { useQuery } from "@tanstack/react-query";
 import Spinner from "../../Spinner";
 import { useClicked, useJobStore } from "../../../Zustand";
 import JobsCard from "../JobsCard";
 import JobsDescription from "../JobsDescription";
+import allJobs from "../../../allJobs.json";
 
 const CusomerJobs = () => {
-	const backendKey = "http://localhost:4000/customer?_limit=30&_start=0";
-	// Fetch jobs from API
-	const fetchJobs = async () => {
-		const res = await fetch(backendKey);
-		if (!res.ok) throw new Error("Error fetching data");
-		return await res.json();
-	};
-
-	// Use React Query to fetch job listings
-	const { data, isLoading } = useQuery({
-		queryFn: fetchJobs,
-		queryKey: ["jobs"],
-		staleTime: 300000,
-		cacheTime: 500000,
-	});
+	// Use customer jobs from allJobs.json
+	const data = allJobs.customer;
 
 	// Get Zustand state and actions
 	const { selectedJob, setSelectedJob } = useJobStore();
@@ -47,7 +34,7 @@ const CusomerJobs = () => {
 		<div className="mt-0 mb-10">
 			<p className="mt-3 ml-3">{}</p>
 			<div className="jobs w-full mt-1">
-				{isLoading ? (
+				{!data ? (
 					<Spinner />
 				) : (
 					<>

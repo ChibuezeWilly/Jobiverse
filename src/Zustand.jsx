@@ -12,12 +12,6 @@ export const useImageStore = create((set) => ({
 	uploadedprofilePicture: null,
 	setUploadedProfilePicture: (value) => set({ profile: value }),
 }));
-
-export const useCountStore = create((set) => ({
-	count: 0,
-	increaseCount: () => set((state) => ({ count: state.count + 1 })),
-}));
-
 export const useClicked = create((set) => ({
 	clicked: null,
 	setClicked: (value) => set({ clicked: !!value }),

@@ -1,14 +1,13 @@
 import { useEffect } from "react";
-import { useQuery } from "@tanstack/react-query";
 import Spinner from "../../Spinner";
 import { useClicked, useJobStore } from "../../../Zustand";
 import JobsCard from "../JobsCard";
 import JobsDescription from "../JobsDescription";
-import Jobs from './sports.json'
+import allJobs from "../../../allJobs.json";
 
 const SportsJob = () => {
 	
-	const data = Jobs.digital
+	const data = allJobs.sports;
 
 	// Get Zustand state and actions
 	const { selectedJob, setSelectedJob } = useJobStore();
@@ -34,7 +33,7 @@ const SportsJob = () => {
 		<div className="mt-0 mb-10">
 			<p className="mt-3 ml-3">{}</p>
 			<div className="jobs w-full mt-1">
-				{isLoading ? (
+				{!data ? (
 					<Spinner />
 				) : (
 					<>

@@ -4,14 +4,11 @@ import ProfileImage from "/assets/images/profile.png";
 
 import { NavLink } from "react-router-dom";
 import { FaHome, FaInfoCircle, FaBriefcase, FaUser } from "react-icons/fa";
-import { FaPlus, FaRightToBracket } from "react-icons/fa6";
-import { PiBuildingApartmentDuotone } from "react-icons/pi";
-import { FaUserTie } from "react-icons/fa";
+import { FaPlus } from "react-icons/fa6";
 import { useState, useEffect } from "react";
 import { logOutButton } from "../GoogleSignIn";
 import { useNavigate } from "react-router-dom";
 import { useImageStore } from "../Zustand";
-import AddJobPage from "./AddJobPage";
 
 const Navbar = () => {
 	const navigate = useNavigate();
@@ -36,7 +33,7 @@ const Navbar = () => {
 		document.addEventListener("click", handleClicked);
 
 		return () => {
-			document.removeEventListener('click', handleClicked);
+			document.removeEventListener("click", handleClicked);
 		};
 	}, []);
 
@@ -47,14 +44,10 @@ const Navbar = () => {
 	return (
 		<>
 			<div
-				className="fixed flex lg:flex-row justify-end items-center bg-white w-full px-1 rounded-b-xl md:rounded-none lg:px-10 gap-5 shadow-2xl"
+				className="fixed flex lg:flex-row justify-between items-center bg-white w-full px-1 rounded-b-xl md:rounded-none lg:px-10 gap-5 shadow-2xl"
 				style={{ height: "11vh", zIndex: 1000 }}>
-				<img
-					src={Logo}
-					alt=""
-					className="h-7 md:h-12 rounded-sm lg:ml-7 mr-auto"
-				/>
-				<nav className="flex-row items-center justify-center md:gap-12 hidden md:flex mt-1">
+				<img src={Logo} alt="" className="h-7 md:h-12 rounded-sm lg:ml-7 " />
+				<nav className="flex-row items-center justify-center md:gap-14 hidden md:flex mt-1">
 					<NavLink className={activeLink} to={"/"}>
 						<FaHome className="text-base block mb-1 mx-auto" />
 						<span className="text-base">Home</span>
@@ -67,28 +60,45 @@ const Navbar = () => {
 						<FaBriefcase className="text-base block mb-1 mx-auto" />
 						<span className="text-base"> Jobs</span>
 					</NavLink>
-
-					
+					<NavLink c className={activeLink} to={"/candidats"}>
+						<FaUser className="text-base block mb-1 mx-auto" />
+						<span className="text-base"> Candidates</span>
+					</NavLink>
 				</nav>
 
-				<div className="flex flex-row gap-3 items-center group">
-					<FaPlus className="text-xl absolute z-50 ml-3 md:ml-4 text-white" />
+				{/* <div className="hidden md:flex flex-row gap-3 items-center group">
+					<FaRightToBracket className="text-blue-700 text-lg md:text-xl ml-5 group-hover:text-white hover:text-white fixed z-50" />
 					<button
-						onClick={toAddJobPage}
 						style={{ fontFamily: "Rubik" }}
 						type="button"
-						className="bg-blue-600 text-white lg:mr-5 w-[110px] lg:w-32 rounded-md h-10 md:h-12 relative text-end pr-3 text-sm md:text-base mr-3 md:mr-5">
-						Add Job
+						className="w-28 lg:w-32 h-12 bg-white shadow-md hover:bg-blue-700 hover:text-white transition duration-300 text-base rounded-lg border border-gray-300 relative text-end pr-5 group-hover:text-white"
+						onClick={toSignIn}>
+						Login
 					</button>
+				</div> */}
+
+				<div className="flex flex-row gap-3 items-center group ">
+					<div className="flex flex-row gap-3 items-center group ">
+						<FaPlus className="text-xl absolute z-50 ml-3 md:ml-6 text-white" />
+						<button
+							onClick={toAddJobPage}
+							style={{ fontFamily: "Rubik" }}
+							type="button"
+							className="bg-blue-600 text-white lg:mr-5 w-[110px] lg:w-32 rounded-md h-10 md:h-12 relative text-end pr-3 text-sm md:text-base mr-3 md:mr-5">
+							Add Job
+						</button>
+					</div>
+					{/* openMore */}
+
+					<div className="openMore mr-5 relative" onClick={openMore}>
+						<img
+							src={ProfileImage}
+							alt=""
+							className="h-10 rounded-full w-10 cursor-pointer"
+						/>
+					</div>
 				</div>
-				{/* openMore */}
-				<div className="openMore mr-5 relative" onClick={openMore}>
-					<img
-						src={ProfileImage}
-						alt=""
-						className="h-10 rounded-full w-10 cursor-pointer"
-					/>
-				</div>
+
 				{openShowMore && (
 					<div className="openMore absolute top-16 bg-gray-200 h-56 w-64 right-2 px-5 py-5 space-y-5 ">
 						<div className="flex flex-row-justify-start center-items gap-5">
@@ -176,7 +186,6 @@ const Navbar = () => {
 									/>
 								</svg>
 							</span>
-						
 						</div>
 
 						{/* log put */}
@@ -216,16 +225,6 @@ const Navbar = () => {
 								Log out of Jobiverse
 							</p>
 						</div>
-						{/* <div className="flex flex-row gap-2 md:gap-3 items-center group">
-							<FaRightToBracket className="text-blue-700 text-lg md:text-xl ml-5 group-hover:text-white hover:text-white fixed z-50" />
-							<button
-								style={{ fontFamily: "Rubik" }}
-								type="button"
-								className="w-16 lg:w-32 h-12 bg-white shadow-md hover:bg-blue-700 hover:text-white transition duration-300 text-base rounded-lg border border-gray-300 relative text-end pr-5 group-hover:text-white"
-								onClick={toSignIn}>
-								Login
-							</button>
-						</div> */}
 					</div>
 				)}
 			</div>

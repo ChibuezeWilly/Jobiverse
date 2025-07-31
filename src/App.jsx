@@ -33,14 +33,18 @@ import FeaturedJobs from "./component/Jobs/FeaturedJobs";
 import ProfilePage from "./Pages/ProfilePage";
 import { useAuthenticatedStore } from "./Zustand";
 import AddJobPage from "./component/AddJobPage";
+import ApplicationPage from "./component/applicationPage/ApplicationPage";
+import { useSetUser, useJobSeeker, useEmployer } from "./Zustand";
 
 const App = () => {
 	const { authenticated } = useAuthenticatedStore();
+	const {candidate} = useJobSeeker()
+	const {employer} = useEmployer()
 
 	const router = createBrowserRouter(
 		createRoutesFromElements(
 			<>
-				{authenticated ? (
+				{authenticated || candidate || employer ? (
 					<Route path="/" element={<MainLayout />}>
 						<Route index element={<HomePage />} />
 						<Route path="about" element={<AboutPage />} />
@@ -72,6 +76,7 @@ const App = () => {
 				)}
 
 				<Route path="/signIn" element={<SignIn />} />
+				<Route path="apply" element={<ApplicationPage />} />
 			</>
 		)
 	);

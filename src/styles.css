@@ -430,3 +430,7 @@ body {
     margin-top: 18px;
     margin-left: 15px;
 }
+
+input:active {
+    background: #709ce2;
+}

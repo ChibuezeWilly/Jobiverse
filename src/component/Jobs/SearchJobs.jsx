@@ -11,32 +11,16 @@ const SearchJobs = () => {
 
 	const { selectedJob, setSelectedJob } = useJobStore();
 	const { clicked } = useClicked();
-
-	useEffect(() => {
-		if (data?.length > 0) {
-			setSelectedJob(data[0]);
-		}
-	}, []);
-
 	// set the first job as the selectedJob
 	useEffect(() => {
-		if (data?.length > 0) {
+		if (data.length > 0) {
 			setSelectedJob(data[0]);
 		}
-	}, [data]);
-
-	// const [workType, workLocation, title] = useJobsStore()
-
-	// const filterJobs = data.filter(
-	// 	(job) =>
-	// 		job.title.toLowerCase().includes(title.toLowerCase()) ||
-	// 		job.workType.toLowerCase().includes(workType.toLowerCase()) ||
-	// 		job.workLocation.toLowerCase().includes(workLocation.toLowerCase())
-	// );
+	}, [data])
+	
 
 	return (
 		<div className="mt-0 mb-10">
-			<p className="mt-3 ml-3">{}</p>
 			<div className="jobs w-full mt-1">
 				<>
 					{/* Jobs List */}

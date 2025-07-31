@@ -1,7 +1,6 @@
 import React from "react";
 import {
 	useJobStore,
-	useCountStore,
 	useClicked,
 	useSavedStore,
 } from "../../Zustand";
@@ -15,19 +14,21 @@ import { useNavigate } from "react-router-dom";
 
 const JobsDescription = ({ data }) => {
 	const { selectedJob } = useJobStore();
-	const { count, increaseCount, reduceCount } = useCountStore();
 	const { setClicked } = useClicked();
+	
 	const { save, setSaved } = useSavedStore();
 
 	const [openReport, setReportOpen] = useState(false);
 
 	const navigate = useNavigate();
 	const toReport = () => navigate("/report");
-	const toApply = () => navigate("/apply");
+	const toApply = () => {
+		navigate("/apply")
+	};
 
 	return (
 		<>
-			<div className="mb-5 md:mb-0 mt-5 md:mt-0 md:hidden">
+			<div className="mb-5 md:mb-0 mt-10 md:mt-0 md:hidden">
 				<FaArrowLeft
 					className="absolute text-blue-600"
 					style={{ marginTop: "5px" }}
@@ -45,7 +46,7 @@ const JobsDescription = ({ data }) => {
 					<p className="text-center text-xl font-bold top-1/2">No Jobs found</p>
 				</div>
 			) : (
-				<div className="pb-20 md:pb-10 pt-14 md:pt-0">
+				<div className="pb-20 md:pb-10 md:pt-0">
 					<div className="flex flex-row items-center">
 						<div className="flex items-center">
 							<p className="font-semibold text-black text-sm">
@@ -81,7 +82,7 @@ const JobsDescription = ({ data }) => {
 								<button
 									className="bg-blue-600 text-white h-9 w-20 md:h-10 md:w-28 rounded-md hover:bg-blue-800 transition-all text-base md:text-lg relative text-start pl-2 md:pl-6"
 									onClick={() => {
-										increaseCount();
+										
 										toApply();
 									}}>
 									Apply
@@ -101,7 +102,7 @@ const JobsDescription = ({ data }) => {
 
 					<div className="flex justify-start items-start space-x-2 mt-1">
 						<p>{selectedJob?.location}</p>.<p>{selectedJob?.date_posted}</p>.
-						<p className="">{count} applicants</p>
+					
 					</div>
 					<div className="flex flex-row justify-start items-start space-x-2">
 						<p className=" mt-2 text-sm bg-blue-600 h-5 w-20 rounded-md text-center text-white">

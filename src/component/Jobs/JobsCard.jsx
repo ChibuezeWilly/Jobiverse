@@ -19,6 +19,7 @@ const JobsCard = ({ job }) => {
 			onClick={() => {
 				setSelectedJob(job);
 				setClicked(true);
+				
 			}}
 			style={{ borderTopWidth: "1px", borderBottomWidth: "1px" }}>
 			<div className="flex flex-row justify-between items-center mb-2">

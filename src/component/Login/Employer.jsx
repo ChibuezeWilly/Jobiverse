@@ -4,11 +4,14 @@ import { useAuthenticatedStore } from "../../Zustand";
 import { signInButton } from "../../GoogleSignIn";
 import { useSetUser, useEmployer } from "../../Zustand";
 import { useNavigate } from "react-router-dom";
+import { useState } from "react";
 
 const Employer = () => {
-	const navigate = useNavigate()
-	const toHome = () => navigate('/')
 	const { setUser } = useSetUser();
+	const navigate = useNavigate();
+	const [color, setColor] = useState("border-blue-700");
+	const [allFields, setAllFields] = useState(true);
+
 	const {
 		email,
 		password,
@@ -19,12 +22,38 @@ const Employer = () => {
 		setEmployer,
 		resetValue,
 	} = useEmployer();
+
+	const signedUser = { email, password, name };
+
+	const toEmployer = () => {
+		setEmployer(true);
+		setUser(signedUser);
+		navigate("/");
+	};
+
+	const handleSubmit = (e) => {
+		e.preventDefault();
+
+		if (email.trim() === "" || password.trim() === "" || name.trim() === "") {
+			setColor("border-red-600");
+			setAllFields(false);
+			setTimeout(() => {
+				setColor("border-blue-700");
+				setAllFields(true);
+			}, 5000);
+			return;
+		}
+
+		setColor("border-green-600");
+		toEmployer();
+	};
+
 	const { setAuthenticated } = useAuthenticatedStore();
 	const signIn = async () => {
 		const signedUser = await signInButton();
 		setUser(signedUser);
 		setAuthenticated(true);
-		toHome()
+		toEmployer();
 		setEmployer(true);
 		resetValue();
 		console.log("employer is true");
@@ -32,75 +61,86 @@ const Employer = () => {
 
 	// set it to true in the POST function
 	return (
-		<div className="flex flex-col mt-5 z-0">
-			<div
-				className="h-auto bg-white rounded-2xl py-5 px-7 border-slate-50"
-				style={{ width: "350px", borderWidth: "1px" }}>
-				<h2
-					className="font-semibold text-2xl text-gray-800"
-					style={{ fontFamily: "Inter" }}>
-					Employer
-				</h2>
-				<p className="text-gray-700 mt-1">
-					Stay updated on your professional world
-				</p>
-				<form action="" className="mt-6">
-					<input
-						type="text"
-						name=""
-						id="name"
-						value={name}
-						onChange={(e) => setName(e.target.value)}
-						className="h-12 md:h-10 w-full mt-1 block bg-slate-200 outline-blue-700 text-black pl-3 rounded-md font-normal placeholder-gray-600"
-						placeholder="Name"
-					/>
-					<input
-						type="text"
-						name=""
-						id="email"
-						value={email}
-						onChange={(e) => setEmail(e.target.value)}
-						className="h-12 md:h-10 w-full mt-4 block bg-slate-200 outline-blue-700 text-black pl-3 rounded-md font-normal placeholder-gray-600"
-						placeholder="E-mail address"
-					/>
-					<input
-						type="password"
-						name=""
-						id="password"
-						value={password}
-						onChange={(e) => setPassword(e.target.value)}
-						className="h-12 md:h-10 w-full mt-4 block bg-slate-200 outline-blue-700 text-black pl-3 rounded-md font-normal placeholder-gray-600"
-						placeholder="Password"
-					/>
-				</form>
+		<>
+			<div className="flex flex-col mt-5 z-0">
+				<div
+					className="h-auto bg-white rounded-2xl py-5 px-7 border-slate-50"
+					style={{ width: "350px", borderWidth: "1px" }}>
+					<h2
+						className="font-semibold text-2xl text-gray-800"
+						style={{ fontFamily: "Inter" }}>
+						Employer
+					</h2>
+					<p className="text-gray-700 mt-1">
+						Stay updated on your professional world
+					</p>
+					<form action="" className="mt-6 space-y-4">
+						<input
+							type="text"
+							name=""
+							id="name"
+							value={name}
+							onChange={(e) => setName(e.target.value)}
+							className={`h-12 md:h-10 w-full mt-1 block bg-slate-200  text-black pl-3 rounded-md font-normal placeholder-gray-600 border ${color}`}
+							placeholder="Name"
+						/>
+						<input
+							type="text"
+							name=""
+							id="email"
+							value={email}
+							onChange={(e) => setEmail(e.target.value)}
+							className={`h-12 md:h-10 w-full mt-1 block bg-slate-200  text-black pl-3 rounded-md font-normal placeholder-gray-600 border ${color}`}
+							placeholder="E-mail address"
+						/>
+						<input
+							type="password"
+							name=""
+							id="password"
+							value={password}
+							onChange={(e) => setPassword(e.target.value)}
+							className={`h-12 md:h-10 w-full mt-1 block bg-slate-200  text-black pl-3 rounded-md font-normal placeholder-gray-600 border ${color}`}
+							placeholder="Password"
+						/>
 
-				<form action="" className="mt-5">
-					<input type="checkbox" name="" id="remember" className="-mt-5" />
-					<label
-						htmlFor="remember"
-						className="ml-3 font-semibold text-base  relative"
-						style={{ fontFamily: "Rubik" }}>
-						Remember me
-					</label>
-				</form>
+						<input type="checkbox" name="" id="remember" className="mt-5" />
+						<label
+							htmlFor="remember"
+							className="ml-3 font-semibold text-base mt-5 relative"
+							style={{ fontFamily: "Rubik" }}>
+							Remember me
+						</label>
 
-				<button
-					className="mt-4 w-full bg-blue-700 text-white h-12 rounded-3xl text-base"
-					style={{ fontFamily: "Rubik" }}>
-					Sign up
-				</button>
+						<button
+							onClick={handleSubmit}
+							type="submit"
+							className="mt-4 w-full bg-blue-700 text-white h-12 rounded-3xl text-base"
+							style={{ fontFamily: "Rubik" }}>
+							Sign up
+						</button>
+					</form>
 
-				<p className="or text-center mt-4 text-lg">or</p>
+					<p className="or text-center mt-4 text-lg">or</p>
 
-				<button
-					onClick={signIn}
-					className="mt-4 w-full text-black h-12 rounded-3xl text-sm border-gray-400 flex flex-row justify-center items-center gap-2"
-					style={{ fontFamily: "Rubik", borderWidth: "1px" }}>
-					<img src={GoogleLogo} alt="" className="h-6 bg-white" />
-					Continue with Google
-				</button>
+					<button
+						onClick={signIn}
+						className="mt-4 w-full text-black h-12 rounded-3xl text-sm border-gray-400 flex flex-row justify-center items-center gap-2"
+						style={{ fontFamily: "Rubik", borderWidth: "1px" }}>
+						<img src={GoogleLogo} alt="" className="h-6 bg-white" />
+						Continue with Google
+					</button>
+				</div>
 			</div>
-		</div>
+
+			{/* for error message */}
+			{!allFields && (
+				<div
+					className="fixed text-white bg-red-700 h-10 w-80 px-5 top-2 left-0 right-0 z-50 mx-auto shadow-xl rounded-md flex justify-center items-center text-base"
+					style={{ fontFamily: "Poppins" }}>
+					Please enter all fields
+				</div>
+			)}
+		</>
 	);
 };
 

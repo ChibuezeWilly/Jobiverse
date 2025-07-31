@@ -8,7 +8,7 @@ import JobData from "../../business.json";
 import { useClicked, useJobStore } from "../../Zustand";
 
 const Business = () => {
-	const { setSelectedJob } = useJobStore();
+	const { selectedJob, setSelectedJob } = useJobStore();
 	const data = JobData.business;
 
 	useEffect(() => {
@@ -16,7 +16,6 @@ const Business = () => {
 			setSelectedJob(data[0]);
 		}
 	}, []);
-
 	const navigate = useNavigate();
 	const backToJobs = () => navigate("/jobs");
 
