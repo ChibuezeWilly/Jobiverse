@@ -39,8 +39,8 @@ const Navbar = () => {
 
 	const activeLink = ({ isActive }) =>
 		isActive
-			? "activeNav px-4 py-1 text- text-decoration-none text-base"
-			: "text-dark text-decoration-none text-base";
+			? "activeNav py-1 px-3 text-blue-600 text-decoration-none text-sm"
+			: "text-dark text-decoration-none text-sm";
 	return (
 		<>
 			<div
@@ -48,19 +48,31 @@ const Navbar = () => {
 				style={{ height: "11vh", zIndex: 1000 }}>
 				<img src={Logo} alt="" className="h-7 md:h-12 rounded-sm lg:ml-7 " />
 				<nav className="flex-row items-center justify-center md:gap-14 hidden md:flex mt-1">
-					<NavLink className={activeLink} to={"/"}>
+					<NavLink
+						className={activeLink}
+						to={"/"}
+						style={{ fontFamily: "Poppins" }}>
 						<FaHome className="text-base block mb-1 mx-auto" />
 						<span className="text-base">Home</span>
 					</NavLink>
-					<NavLink className={activeLink} to={"/about"}>
+					<NavLink
+						className={activeLink}
+						to={"/about"}
+						style={{ fontFamily: "Poppins" }}>
 						<FaInfoCircle className="text-base block mb-1 mx-auto" />
 						<span className="text-base">About</span>
 					</NavLink>
-					<NavLink c className={activeLink} to={"/jobs"}>
+					<NavLink
+						className={activeLink}
+						to={"/jobs"}
+						style={{ fontFamily: "Poppins" }}>
 						<FaBriefcase className="text-base block mb-1 mx-auto" />
-						<span className="text-base"> Jobs</span>
+						<span className="text-base mt-[2px]"> Jobs</span>
 					</NavLink>
-					<NavLink c className={activeLink} to={"/candidats"}>
+					<NavLink
+						className={activeLink}
+						to={"/candidats"}
+						style={{ fontFamily: "Poppins" }}>
 						<FaUser className="text-base block mb-1 mx-auto" />
 						<span className="text-base"> Candidates</span>
 					</NavLink>
@@ -88,16 +100,15 @@ const Navbar = () => {
 							Add Job
 						</button>
 					</div>
-					{/* openMore */}
-
-					<div className="openMore mr-5 relative" onClick={openMore}>
+				
+					{/* <div className="openMore mr-5 relative" onClick={openMore}>
 						<img
 							src={ProfileImage}
 							alt=""
 							className="h-10 rounded-full w-10 cursor-pointer"
 						/>
-					</div>
-				</div>
+					</div> */}
+				</div> 
 
 				{openShowMore && (
 					<div className="openMore absolute top-16 bg-gray-200 h-56 w-64 right-2 px-5 py-5 space-y-5 ">

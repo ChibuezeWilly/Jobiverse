@@ -13,7 +13,7 @@ const BackgroundImage = () => {
 					<img src={Background} alt="" className="object-cover w-full h-full" />
 				</div>
 			</div>
-			<FindJob />
+			{/* <FindJob /> */}
 			<AllCounters />
 		</div>
 	);

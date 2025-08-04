@@ -46,7 +46,7 @@ const JobsDescription = ({ data }) => {
 					<p className="text-center text-xl font-bold top-1/2">No Jobs found</p>
 				</div>
 			) : (
-				<div className="pb-20 md:pb-10 md:pt-0">
+				<div id={selectedJob?.id} className="pb-20 md:pb-10 md:pt-0">
 					<div className="flex flex-row items-center">
 						<div className="flex items-center">
 							<p className="font-semibold text-black text-sm">

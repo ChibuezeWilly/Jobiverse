@@ -1,16 +1,15 @@
-import React from "react";
-import Spinner from "./Spinner";
+import React, {useEffect} from "react";
 import { useNavigate } from "react-router-dom";
 import FeaturedJobList from "./FeaturedJobList";
 import Jobs from "../jobs.json";
-const FeaturedJobs = () => {
-	const data = Jobs.joblistings;
-	console.log(data);
+import { useJobStore } from "../Zustand";
 
+const FeaturedJobs = () => {
+	const {setSelectedJob} = useJobStore()
+	const data = Jobs.joblistings.slice(0, 9)
 	useEffect(() => {
 		if (data?.length > 0) {
 			setSelectedJob(data[0]);
-			console.log(data);
 		}
 	}, []);
 	// button to jobs

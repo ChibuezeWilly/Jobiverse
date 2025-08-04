@@ -22,7 +22,7 @@ const Tech = () => {
 			<h1 className="font-bold text-center text-xl md:text-3xl mt-5">
 				Innovate and Build the Future of Tech
 			</h1>
-			<FindJob />
+			{/* <FindJob /> */}
 			<button
 				className="float-end mt-7 h-8 w-36 relative hover:bg-gray-600 hover:text-white hover:h-10 hover:rounded-md"
 				style={{ fontFamily: "Rubik", fontSize: "15px" }}>

@@ -5,6 +5,7 @@ import JobsCard from "./JobsCard";
 import { useClicked, useJobStore } from "../../Zustand";
 import JobsDescription from "./JobsDescription";
 import JobData from "../../jobs.json";
+import { useSearchParams } from "react-router-dom";
 
 const SearchJobs = () => {
 	const data = JobData.joblistings;
@@ -17,7 +18,9 @@ const SearchJobs = () => {
 			setSelectedJob(data[0]);
 		}
 	}, [data])
-	
+
+	const [searchParams] = useSearchParams()
+	const jobId = searchParams.get("jobId")	
 
 	return (
 		<div className="mt-0 mb-10">

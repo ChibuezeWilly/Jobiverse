@@ -42,31 +42,44 @@ const SecondNavbar = () => {
 
 	const activeLink = ({ isActive }) =>
 		isActive
-			? "activeNav px-4 py-1 text- text-decoration-none text-base"
-			: "text-dark text-decoration-none text-base";
+			? "activeNav py-1 text-blue-600 text-decoration-none text-sm"
+			: "text-dark text-decoration-none text-sm";
 	return (
 		<>
 			<div
 				className="fixed flex lg:flex-row justify-between items-center bg-white w-full px-1 rounded-b-xl md:rounded-none lg:px-10 gap-5 shadow-2xl"
 				style={{ height: "11vh", zIndex: 1000 }}>
-				<img src={Logo} alt="" className="h-12 rounded-sm lg:ml-7 mr-auto" />
-				<nav className="flex-row items-center justify-center md:gap-12 hidden md:flex mt-1">
-					<NavLink className={activeLink} to={"/"}>
+				<img src={Logo} alt="" className="h-7 md:h-12 rounded-sm lg:ml-7 " />
+				<nav className="flex-row items-center justify-center md:gap-14 hidden md:flex mt-1">
+					<NavLink
+						className={activeLink}
+						to={"/"}
+						style={{ fontFamily: "Poppins" }}>
 						<FaHome className="text-base block mb-1 mx-auto" />
 						<span className="text-base">Home</span>
 					</NavLink>
-					<NavLink className={activeLink} to={"/about"}>
+					<NavLink
+						className={activeLink}
+						to={"/about"}
+						style={{ fontFamily: "Poppins" }}>
 						<FaInfoCircle className="text-base block mb-1 mx-auto" />
 						<span className="text-base">About</span>
 					</NavLink>
-					<NavLink c className={activeLink} to={"/jobs"}>
+					<NavLink
+						c
+						className={activeLink}
+						to={"/jobs"}
+						style={{ fontFamily: "Poppins" }}>
 						<FaBriefcase className="text-base block mb-1 mx-auto" />
 						<span className="text-base"> Jobs</span>
 					</NavLink>
 
-					<NavLink className={activeLink} to={"/employers"}>
+					<NavLink
+						className={activeLink}
+						to={"/companies"}
+						style={{ fontFamily: "Poppins" }}>
 						<PiBuildingApartmentDuotone className="text-base block mb-1 mx-auto" />
-						<span className="relative text-base">Employers</span>
+						<span className="relative text-base">Companies</span>
 					</NavLink>
 				</nav>
 				{/* <div className="hidden md:flex flex-row gap-3 items-center group">
@@ -91,15 +104,15 @@ const SecondNavbar = () => {
 							Add Job
 						</button>
 					</div>
-					{/* openMore */}
+					
 
-					<div className="openMore mr-5 relative" onClick={openMore}>
+					{/* <div className="openMore mr-5 relative" onClick={openMore}>
 						<img
 							src={ProfileImage}
 							alt=""
 							className="h-10 rounded-full w-10 cursor-pointer"
 						/>
-					</div>
+					</div> */}
 				</div>
 
 				{/* show more  */}

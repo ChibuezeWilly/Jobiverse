@@ -10,7 +10,7 @@ const JobsCard = ({ job }) => {
 	const { save } = useSavedStore();
 
 	return (
-		<div
+		<div id={`job-${job.id}`}
 			// check if job is true before checking for the id
 			className={`${
 				selectedJob?.id === job?.id ? "bg-gray-200" : "white"

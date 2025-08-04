@@ -175,7 +175,7 @@ const ApplicationPage = () => {
 				<button
 					style={{ fontFamily: "Poppins" }}
 					type="button"
-					className="bg-black rounded-full py-2 text-white text-base px-4 ml-auto mt-4">
+					className="bg-black rounded-full py-2 text-white text-base px-4 mx-auto mt-4">
 					Submit Application
 				</button>
 			</div>

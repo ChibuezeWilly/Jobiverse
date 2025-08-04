@@ -3,6 +3,7 @@ import { FaMapMarker } from "react-icons/fa";
 import { useState } from "react";
 import { useNavigate } from "react-router-dom";
 import AOS from "aos";
+import { useJobStore } from "../Zustand";
 
 const FeaturedJobList = ({ job }) => {
 	AOS.init();
@@ -13,10 +14,12 @@ const FeaturedJobList = ({ job }) => {
 		description = description.substring(0, 117) + "  ..... ";
 	}
 	const navigate = useNavigate();
-	const toJobPage = () => navigate(`/jobs/:id`);
+	const toJobPage = () => navigate(`/jobs`);
+
+	const { selectedJob } = useJobStore();
 	return (
 		<div
-			className="w-full bg-white md:w-96 rounded-md relative px-5"
+			className="w-full bg-white md:w-80 rounded-md relative px-5"
 			data-aos="fade-up"
 			data-aos-delay="100"
 			data-aos-duration="1000"
@@ -24,7 +27,8 @@ const FeaturedJobList = ({ job }) => {
 			data-aos-once="false"
 			style={{ height: "380px" }}>
 			<div className="flex flex-row justify-between items-center pb-3">
-				<p className=" mt-5 text-base bg-blue-600 h-7 w-20 rounded-md text-center text-white">
+				<p
+					className={`mt-5 text-base bg-blue-600 h-7 w-20 rounded-md text-center text-white`}>
 					{job.employment_type}
 				</p>
 				<h1 className="mt-5">{job.date_posted}</h1>

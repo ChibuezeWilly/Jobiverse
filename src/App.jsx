@@ -35,11 +35,13 @@ import { useAuthenticatedStore } from "./Zustand";
 import AddJobPage from "./component/AddJobPage";
 import ApplicationPage from "./component/applicationPage/ApplicationPage";
 import { useSetUser, useJobSeeker, useEmployer } from "./Zustand";
-
+import Companies from "./Pages/Companies";
 const App = () => {
 	const { authenticated } = useAuthenticatedStore();
-	const {candidate} = useJobSeeker()
-	const {employer} = useEmployer()
+	const { candidate } = useJobSeeker();
+	const { employer } = useEmployer();
+
+	// Query client for setting up query client provider
 
 	const router = createBrowserRouter(
 		createRoutesFromElements(
@@ -67,6 +69,7 @@ const App = () => {
 						<Route path="video" element={<Video />} />
 						<Route path="profile" element={<ProfilePage />} />
 						<Route path="addJob" element={<AddJobPage />} />
+						<Route path="companies" element={<Companies />} />
 					</Route>
 				) : (
 					<Route path="/" element={<MainLogin />}>
