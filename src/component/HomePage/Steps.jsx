@@ -9,7 +9,7 @@ const Steps = () => {
 		AOS.init();
 	
 	return (
-		<div className="mt-20 px-5 lg:px-20 flex flex-col lg:flex-row md:justify-start md:items-start lg:between lg:items-center space-x-5">
+		<div className="mt-14 px-5 lg:px-20 flex flex-col lg:flex-row md:justify-start md:items-start lg:between lg:items-center space-x-5">
 			{/* the left part of the steps */}
 			<div className="stepsLeft left w-full lg:w-2/5">
 				<p

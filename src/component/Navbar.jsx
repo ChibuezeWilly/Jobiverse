@@ -44,9 +44,9 @@ const Navbar = () => {
 	return (
 		<>
 			<div
-				className="fixed flex lg:flex-row justify-between items-center bg-white w-full px-1 rounded-b-xl md:rounded-none lg:px-10 gap-5 shadow-2xl"
+				className="fixed flex lg:flex-row justify-between items-center bg-white w-full px-1 rounded-b-md md:rounded-none lg:px-10 gap-5 shadow-2xl"
 				style={{ height: "11vh", zIndex: 1000 }}>
-				<img src={Logo} alt="" className="h-7 md:h-12 rounded-sm lg:ml-7 " />
+				<img src={Logo} alt="" className="h-10 md:h-14 rounded-sm lg:ml-7 " />
 				<nav className="flex-row items-center justify-center md:gap-14 hidden md:flex mt-1">
 					<NavLink
 						className={activeLink}
@@ -69,13 +69,13 @@ const Navbar = () => {
 						<FaBriefcase className="text-base block mb-1 mx-auto" />
 						<span className="text-base mt-[2px]"> Jobs</span>
 					</NavLink>
-					<NavLink
+					{/* <NavLink
 						className={activeLink}
 						to={"/candidats"}
 						style={{ fontFamily: "Poppins" }}>
 						<FaUser className="text-base block mb-1 mx-auto" />
 						<span className="text-base"> Candidates</span>
-					</NavLink>
+					</NavLink> */}
 				</nav>
 
 				{/* <div className="hidden md:flex flex-row gap-3 items-center group">
@@ -91,12 +91,12 @@ const Navbar = () => {
 
 				<div className="flex flex-row gap-3 items-center group ">
 					<div className="flex flex-row gap-3 items-center group ">
-						<FaPlus className="text-xl absolute z-50 ml-3 md:ml-6 text-white" />
+						<FaPlus className="text-xl absolute z-50 ml-3 text-white" />
 						<button
 							onClick={toAddJobPage}
 							style={{ fontFamily: "Rubik" }}
 							type="button"
-							className="bg-blue-600 text-white lg:mr-5 w-[110px] lg:w-32 rounded-md h-10 md:h-12 relative text-end pr-3 text-sm md:text-base mr-3 md:mr-5">
+							className="bg-blue-600 text-white lg:mr-5 w-[110px] lg:w-44=0 rounded-md h-10 md:h-12 relative text-end pr-3 text-sm md:text-base mr-3 md:mr-5">
 							Add Job
 						</button>
 					</div>

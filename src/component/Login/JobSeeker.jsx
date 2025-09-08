@@ -11,6 +11,8 @@ const JobSeeker = () => {
 	const navigate = useNavigate();
 	const [color, setColor] = useState("border-blue-700");
 	const [allFields, setAllFields] = useState(true);
+	const [status, setStatus] = useState("");
+	const [showModal, setShowModal] = useState(false);
 
 	const {
 		email,
@@ -33,20 +35,26 @@ const JobSeeker = () => {
 
 	const handleSubmit = (e) => {
 		e.preventDefault();
-
 		if (email.trim() === "" || password.trim() === "" || name.trim() === "") {
 			setColor("border-red-600");
+			setShowModal(true);
 			setAllFields(false);
+			setStatus("Please enter all fields");
 			setTimeout(() => {
 				setColor("border-blue-700");
-				setAllFields(true);
+				setShowModal(false);
 			}, 5000);
 			return;
+		} else {
+			setShowModal(true);
+			setAllFields(true);
+			setStatus("Profile created successfully.");
+			setColor("border-green-600");
+			setTimeout(() => {
+				toJobSeeker();
+			}, 5000);
+			
 		}
-
-		setColor("border-green-600");
-		setAllFields(true);
-		toJobSeeker();
 	};
 
 	const { setAuthenticated } = useAuthenticatedStore();
@@ -74,7 +82,7 @@ const JobSeeker = () => {
 					<p className="text-gray-700 mt-1">
 						Stay updated on your professional world
 					</p>
-					<form action="" className="mt-6 space-y-4">
+					<form className="mt-6 space-y-4">
 						<input
 							type="text"
 							name=""
@@ -83,7 +91,7 @@ const JobSeeker = () => {
 							onChange={(e) => setName(e.target.value)}
 							className={`h-12 md:h-10 w-full mt-1 block bg-slate-200  text-black pl-3 rounded-md font-normal placeholder-gray-600 border ${color}`}
 							placeholder="Name"
-							required
+							
 						/>
 						<input
 							type="text"
@@ -93,7 +101,7 @@ const JobSeeker = () => {
 							onChange={(e) => setEmail(e.target.value)}
 							className={`h-12 md:h-10 w-full mt-1 block bg-slate-200 text-black pl-3 rounded-md font-normal placeholder-gray-600 border ${color}`}
 							placeholder="E-mail address"
-							required
+							
 						/>
 						<input
 							type="password"
@@ -103,7 +111,7 @@ const JobSeeker = () => {
 							onChange={(e) => setPassword(e.target.value)}
 							className={`h-12 md:h-10 w-full mt-1 block bg-slate-200  text-black pl-3 rounded-md font-normal placeholder-gray-600 border ${color}`}
 							placeholder="Password"
-							required
+							
 						/>
 					</form>
 
@@ -117,13 +125,13 @@ const JobSeeker = () => {
 
 					<button
 						onClick={handleSubmit}
-						type="submit"
+						type="button"
 						className="mt-4 w-full bg-blue-700 text-white h-12 rounded-3xl text-base"
 						style={{ fontFamily: "Rubik" }}>
 						Sign up
 					</button>
 
-					<p className="or text-center mt-4 text-lg">or</p>
+					{/* <p className="or text-center mt-4 text-lg">or</p>
 
 					<button
 						onClick={signIn}
@@ -131,16 +139,18 @@ const JobSeeker = () => {
 						style={{ fontFamily: "Rubik", borderWidth: "1px" }}>
 						<img src={GoogleLogo} alt="" className="h-6 bg-white" />
 						Continue with Google
-					</button>
+					</button> */}
 				</div>
 			</div>
 
 			{/* for error message */}
-			{!allFields && (
+			{showModal && (
 				<div
-					className="fixed text-white bg-red-700 h-10 w-80 px-5 top-2 left-0 right-0 z-50 mx-auto shadow-xl rounded-md flex justify-center items-center text-base"
+					className={`fixed text-white ${
+						allFields ? "bg-green-600" : "bg-red-600"
+					} h-10 w-80 px-5 top-2 left-0 right-0 z-50 mx-auto shadow-xl rounded-md flex justify-center items-center text-base`}
 					style={{ fontFamily: "Poppins" }}>
-					Please enter all fields
+					{status}
 				</div>
 			)}
 		</>

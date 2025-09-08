@@ -6,7 +6,7 @@ import { useJobStore } from "../Zustand";
 
 const FeaturedJobs = () => {
 	const {setSelectedJob} = useJobStore()
-	const data = Jobs.joblistings.slice(0, 9)
+	const data = Jobs.joblistings.slice(0, 6)
 	useEffect(() => {
 		if (data?.length > 0) {
 			setSelectedJob(data[0]);

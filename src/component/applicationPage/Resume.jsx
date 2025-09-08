@@ -16,11 +16,11 @@ const Resume = () => {
 			</label>
 
 			{/* Upload Buttons Container */}
-			<form className="flex flex-col justify-center items-center space-y-3 h-10 w-60 border border-blue-600 rounded-full">
+			<div className="flex flex-col justify-center items-center space-y-3 h-10 w-60 border border-blue-600 rounded-full">
 				{/* Local File Upload Button */}
 				<input type="file" name="resume" id="" className="ml-24" />
 				{/* Dropbox Integration Button */}
-			</form>
+			</div>
 
 			{/* Accepted File Types Information */}
 			<span className="text-xs text-gray-500 mt-2">

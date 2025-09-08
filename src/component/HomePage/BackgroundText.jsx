@@ -5,9 +5,9 @@ import { ReactTyped } from "react-typed";
 const BackgroundText = () => {
 	AOS.init();
 	return (
-		<div className="text-center lg:text-start">
+		<div className="text-center md:text-start">
 			<p
-				className="text-black text-2xl lg:text-4xl font-bold"
+				className="text-black text-2xl lg:text-4xl font-bold text-wrap"
 				style={{ fontFamily: "Poppins" }}>
 				<ReactTyped
 					strings={[`Welcome to Jobiverse where Talent Meet Opportunity`]}
@@ -32,7 +32,7 @@ const BackgroundText = () => {
 				data-aos-once="false"
 				className="text-dark text-base mt-3"
 				style={{ fontFamily: "Heebo" }}>
-				Find Jobs, Employment & Career Opportunities
+				Find Jobs, Employment & Career Opportunities all in one Place.
 			</p>
 		</div>
 	);

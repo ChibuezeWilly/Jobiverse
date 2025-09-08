@@ -14,7 +14,7 @@ const MainLogin = () => {
 					style={{ fontFamily: "Poppins" }}>
 					Welcome to <span className="text-blue-500">Jobiverse</span>
 				</h1>
-				<nav className="mt-5 flex flex-row gap-5">
+				{/* <nav className="mt-5 flex flex-row gap-5">
 					<NavLink
 						to={"/"}
 						className={activeLink}
@@ -27,7 +27,7 @@ const MainLogin = () => {
 						style={{ borderWidth: "1px" }}>
 						<span className="text-sm text-white">Employer</span>
 					</NavLink>
-				</nav>
+				</nav> */}
 				<Outlet />
 			</div>
 		</div>

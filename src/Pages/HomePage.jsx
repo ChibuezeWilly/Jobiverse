@@ -14,7 +14,7 @@ const HomePage = () => {
 			<TopCompanies />
 			<Steps />
 			<JobsCategory />
-			<FeaturedJobs />
+			<FeaturedJobs />s
 			<Testimonial />
 			<Ourblogs />
 			<Email />

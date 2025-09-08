@@ -1,9 +1,5 @@
 import React from "react";
-import {
-	useJobStore,
-	useClicked,
-	useSavedStore,
-} from "../../Zustand";
+import { useJobStore, useClicked, useSavedStore } from "../../Zustand";
 import { CiBookmark } from "react-icons/ci";
 import { FaStar } from "react-icons/fa";
 import { FaArrowRightFromBracket } from "react-icons/fa6";
@@ -15,7 +11,7 @@ import { useNavigate } from "react-router-dom";
 const JobsDescription = ({ data }) => {
 	const { selectedJob } = useJobStore();
 	const { setClicked } = useClicked();
-	
+
 	const { save, setSaved } = useSavedStore();
 
 	const [openReport, setReportOpen] = useState(false);
@@ -23,7 +19,7 @@ const JobsDescription = ({ data }) => {
 	const navigate = useNavigate();
 	const toReport = () => navigate("/report");
 	const toApply = () => {
-		navigate("/apply")
+		navigate("/apply");
 	};
 
 	return (
@@ -82,7 +78,6 @@ const JobsDescription = ({ data }) => {
 								<button
 									className="bg-blue-600 text-white h-9 w-20 md:h-10 md:w-28 rounded-md hover:bg-blue-800 transition-all text-base md:text-lg relative text-start pl-2 md:pl-6"
 									onClick={() => {
-										
 										toApply();
 									}}>
 									Apply
@@ -102,7 +97,6 @@ const JobsDescription = ({ data }) => {
 
 					<div className="flex justify-start items-start space-x-2 mt-1">
 						<p>{selectedJob?.location}</p>.<p>{selectedJob?.date_posted}</p>.
-					
 					</div>
 					<div className="flex flex-row justify-start items-start space-x-2">
 						<p className=" mt-2 text-sm bg-blue-600 h-5 w-20 rounded-md text-center text-white">
@@ -134,13 +128,11 @@ const JobsDescription = ({ data }) => {
 						At {selectedJob?.company.name} we'll give you the tools to feel
 						healthy, happy and secure through
 					</p>
-
 					<ul className="list-disc ml-5 space-y-2 mt-3">
-						<li>{selectedJob?.bonus}</li>
-						<li>{selectedJob?.benefits_package[0]}</li>
-						<li>{selectedJob?.benefits_package[1]}</li>
-						<li>{selectedJob?.benefits_package[2]}</li>
-						<li>{selectedJob?.benefits_package[3]}</li>
+						{selectedJob?.bonus && <li>{selectedJob.bonus}</li>}
+						{selectedJob?.benefits_package?.map((benefits, index) => (
+							<li key={index}>{benefits}</li>
+						))}
 					</ul>
 
 					<p className="font-bold mt-3">Sounds good? Join us now</p>

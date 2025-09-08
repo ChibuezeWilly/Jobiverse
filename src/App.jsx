@@ -74,7 +74,7 @@ const App = () => {
 				) : (
 					<Route path="/" element={<MainLogin />}>
 						<Route index element={<JobSeeker />} />
-						<Route path="/employer" element={<Employer />} />
+						{/* <Route path="/employer" element={<Employer />} /> */}
 					</Route>
 				)}
 
